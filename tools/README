@@ -1,0 +1,1 @@
+Some of these scripts print data to output: e.g. Alexa, and some directly overwrite the list.json files (beware for relative paths)

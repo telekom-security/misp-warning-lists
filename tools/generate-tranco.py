@@ -6,6 +6,8 @@ import zipfile
 import datetime
 import json
 
+SITE_LIMIT = 10000
+
 tranco_url = 'https://tranco-list.eu/top-1m.csv.zip'
 tranco_file = 'top-1m.csv.zip'
 user_agent = {'User-agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0'}
@@ -17,7 +19,7 @@ with zipfile.ZipFile(tranco_file, 'r') as tranco_lists:
     for name in tranco_lists.namelist():
         if name == 'top-1m.csv':
             with tranco_lists.open(name) as tranco:
-                sites = tranco.readlines()
+                sites = tranco.readlines()[:SITE_LIMIT]
         else:
             continue
 
