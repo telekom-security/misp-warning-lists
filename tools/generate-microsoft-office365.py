@@ -15,7 +15,7 @@ for service in service_list:
     for url in service.get('urls', []):
         lurls.append(url.replace('*', ''))
     for ip in service.get('ips', []):
-        lips.append(ip)
+        lips.append(ip.replace('/32', ''))  # Can also cripple large IPv6 network I know..
 
 warninglist = {}
 warninglist['name'] = 'List of known Office 365 URLs address ranges'
