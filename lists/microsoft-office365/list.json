@@ -370,6 +370,8 @@
         "word-edit.officeapps.live.com",
         "word-view.officeapps.live.com",
         "wordcs.officeapps.live.com",
+        "workplaceanalytics.cdn.office.net",
+        "workplaceanalytics.office.com",
         "wus-firstpartyapps.oaspapps.com",
         "wus-www.sway-cdn.com",
         "wus-www.sway-extensions.com",
@@ -395,5 +397,5 @@
     ],
     "name": "List of known Office 365 URLs address ranges",
     "type": "string",
-    "version": 20200120
+    "version": 20200210
 }

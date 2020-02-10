@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20200120,
+  "version": 20200210,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9659,6 +9659,8 @@
     "mcpherson.edu",
     "ccsnh.edu",
     "vaniercollege.qc.ca",
-    "musc.edu"
+    "defiance.edu",
+    "musc.edu",
+    "gulfcoast.edu"
   ]
 }
