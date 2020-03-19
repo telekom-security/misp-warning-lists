@@ -1,0 +1,14 @@
+{
+  "name": "List of CDC custom (possibly wildcarded) domains",
+  "version": 1,
+  "description": "List of domains/subdomains known to be false-positive",
+  "matching_attributes": [
+    "hostname",
+    "domain"
+  ],
+
+  "type": "hostname",
+  "list": [
+    "*live.com"
+  ]
+}
