@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20200625,
+  "version": 20200626,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1899,6 +1899,7 @@
     "ufla.br",
     "ufma.br",
     "ufmg.br",
+    "dcc.ufmg.br",
     "ufms.br",
     "ufmt.br",
     "ufop.br",
