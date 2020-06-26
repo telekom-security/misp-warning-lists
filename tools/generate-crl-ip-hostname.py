@@ -21,7 +21,7 @@ wl['matching_attributes'] = ["hostname", "domain", "ip-dst", "ip-src", "url", "d
 wl['name'] = "CRL Warninglist"
 wl['version'] = int(datetime.date.today().strftime('%Y%m%d'))
 wl['description'] = "CRL Warninglist from threatstop (https://github.com/threatstop/crl-ocsp-whitelist/)"
-wl['list'] = list(set(wl['list']))
+wl['list'] = sorted(set(wl['list']))
 
 # Remove empty string
 wl['list'].remove('')

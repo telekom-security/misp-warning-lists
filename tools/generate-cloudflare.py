@@ -28,6 +28,6 @@ dict['matching_attributes']=["ip-dst","ip-src","domain|ip"]
 dict['name']="List of known Cloudflare IP ranges"
 dict['version']= int(datetime.date.today().strftime('%Y%m%d'))
 dict['description']="List of known Cloudflare IP ranges (https://www.cloudflare.com/ips/)"
-dict['list']=list(set(dict['list']))
+dict['list']=sorted(set(dict['list']))
 
 print(json.dumps(dict))
