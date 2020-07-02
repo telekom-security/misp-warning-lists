@@ -2189,6 +2189,7 @@
         "proxymail.eu",
         "proxyparking.com",
         "prtnx.com",
+        "prtshr.com",
         "prtz.eu",
         "psh.me",
         "psles.com",
@@ -2329,6 +2330,7 @@
         "schafmail.de",
         "schmeissweg.tk",
         "schrott-email.de",
+        "scrsot.com",
         "sd3.in",
         "secmail.pw",
         "secretemail.de",
@@ -2697,6 +2699,7 @@
         "tmail.ws",
         "tmailinator.com",
         "tmails.net",
+        "tmpemails.com",
         "tmpeml.info",
         "tmpjr.me",
         "tmpmail.net",
@@ -3140,5 +3143,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20200702
+    "version": 20200703
 }
