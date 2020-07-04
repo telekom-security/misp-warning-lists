@@ -346,5 +346,5 @@
     ],
     "name": "List of known Office 365 URLs address ranges",
     "type": "string",
-    "version": 20200704
+    "version": 20200705
 }
