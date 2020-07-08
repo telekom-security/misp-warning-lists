@@ -292,7 +292,6 @@
         "static.sharepointonline.com",
         "statics.teams.microsoft.com",
         "storage.live.com",
-        "store.office.com",
         "suite.office.net",
         "support.content.office.net",
         "support.microsoft.com",
@@ -346,5 +345,5 @@
     ],
     "name": "List of known Office 365 URLs address ranges",
     "type": "string",
-    "version": 20200708
+    "version": 20200709
 }
