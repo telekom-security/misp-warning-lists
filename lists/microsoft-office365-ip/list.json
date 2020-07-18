@@ -174,5 +174,5 @@
     ],
     "name": "List of known Office 365 IP address ranges",
     "type": "cidr",
-    "version": 20200718
+    "version": 20200719
 }
