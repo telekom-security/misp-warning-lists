@@ -10,16 +10,10 @@ import requests
 
 servers_url = 'http://public-dns.info/nameservers.csv'
 csv_path = 'nameservers.csv'
-dns4_path = 'list4.json'
-dns6_path = 'list6.json'
+dns4_path = '../lists/public-dns-v4/list.json'
+dns6_path = '../lists/public-dns-v6/list.json'
 
-if os.path.isfile(csv_path):
-    logging.warning('Not erasing local csv file')
-else:
-    req = requests.get(servers_url)
-    with open(csv_path, 'wb') as fd:
-        for chunk in req.iter_content(4096):
-            fd.write(chunk)
+req = requests.get(servers_url)
 
 ip4_list = []
 ip6_list = []
