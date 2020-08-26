@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20200826,
+  "version": 20200827,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9670,6 +9670,8 @@
     "gulfcoast.edu",
     "stu.gcu.edu.cn",
     "stu.xhu.edu.cn",
-    "mail.xhu.edu.cn"
+    "mail.xhu.edu.cn",
+    "academyart.edu",
+    "art.edu"
   ]
 }
