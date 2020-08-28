@@ -24,6 +24,7 @@
     ".flow.microsoft.com",
     ".geotrust.com",
     ".helpshift.com",
+    ".hip.live.com",
     ".hockeyapp.net",
     ".informationprotection.azure.com",
     ".itunes.apple.com",
@@ -39,7 +40,6 @@
     ".microsoftonline-p.com",
     ".microsoftonline.com",
     ".microsoftusercontent.com",
-    ".msappproxy.net",
     ".msauth.net",
     ".msauthimages.net",
     ".msecnd.net",
@@ -144,7 +144,6 @@
     "cdnprod.myanalytics.microsoft.com",
     "cert.int-x3.letsencrypt.org",
     "cl2.apple.com",
-    "client.hip.live.com",
     "clientconfig.microsoftonline-p.net",
     "companymanager.microsoftonline.com",
     "compass-ssl.microsoft.com",
@@ -344,5 +343,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20200828
+  "version": 20200829
 }
