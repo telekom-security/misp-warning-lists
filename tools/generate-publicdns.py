@@ -51,8 +51,7 @@ def generate(data_list, warninglist, dst):
 
 
 def get_lists(file):
-
-    with open(file) as csv_file:
+    with open(file, encoding='utf-8') as csv_file:
         servers_list = csv.reader(csv_file, delimiter=',', quotechar='"')
 
         lipv4 = []
