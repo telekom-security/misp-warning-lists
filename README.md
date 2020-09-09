@@ -1,3 +1,8 @@
+# Introduction
+This is a "manual" fork of the original MISP repository https://github.com/MISP/misp-warninglists/.
+The repo has been forked because we want to provide everyday updates for the lists and fix/maintain the scripts used to generate these lists ourselves.
+The lists (not all of them) in this repository are updated daily through Telekom's TIP platform.
+
 # misp-warninglist
 
 misp-warninglists are lists of well-known indicators that can be associated to potential false positives, errors or mistakes.
