@@ -238,6 +238,10 @@
     "omextemplates.content.office.net",
     "oneclient.sfx.ms",
     "onenote.officeapps.live.com",
+    "osiprod-cus-daffodil-signalr-00.service.signalr.net",
+    "osiprod-neu-daffodil-signalr-00.service.signalr.net",
+    "osiprod-weu-daffodil-signalr-00.service.signalr.net",
+    "osiprod-wus-daffodil-signalr-00.service.signalr.net",
     "outlook.office.com",
     "outlook.office365.com",
     "outlook.uservoice.com",
@@ -342,5 +346,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20200929
+  "version": 20201001
 }
