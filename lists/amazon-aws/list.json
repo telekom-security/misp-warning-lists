@@ -1,6 +1,6 @@
 {
   "name": "List of known Amazon AWS IP address ranges",
-  "version": 20201005,
+  "version": 20201006,
   "description": "Amazon AWS IP address ranges (https://ip-ranges.amazonaws.com/ip-ranges.json)",
   "type": "cidr",
   "list": [
@@ -212,7 +212,6 @@
     "13.57.0.0/16",
     "13.58.0.0/15",
     "13.59.250.0/26",
-    "130.137.180.0/23",
     "130.176.0.0/16",
     "140.179.0.0/16",
     "140.179.1.64/27",
