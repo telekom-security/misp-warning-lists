@@ -88,6 +88,7 @@
     ".users.storage.live.com",
     ".verisign.com",
     ".verisign.net",
+    ".virtualearth.net",
     ".wns.windows.com",
     ".yammer.com",
     ".yammerusercontent.com",
@@ -99,6 +100,7 @@
     "accounts.google.com",
     "acompli.helpshift.com",
     "activation.sls.microsoft.com",
+    "activity.windows.com",
     "ad.atdmt.com",
     "admin.microsoft.com",
     "admin.onedrive.com",
@@ -107,8 +109,8 @@
     "ajax.microsoft.com",
     "aka.ms",
     "amp.azure.net",
-    "amsglob0cdnstream11.azureedge.net",
-    "amsglob0cdnstream12.azureedge.net",
+    "amsglob0cdnstream13.azureedge.net",
+    "amsglob0cdnstream14.azureedge.net",
     "analytics.localytics.com",
     "api.dropboxapi.com",
     "api.localytics.com",
@@ -262,7 +264,6 @@
     "protection.office.com",
     "provisioningapi.microsoftonline.com",
     "publiccdn.sharepointonline.com",
-    "quicktips.skypeforbusiness.com",
     "r.office.microsoft.com",
     "r1.res.office365.com",
     "r3.res.office365.com",
@@ -346,5 +347,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20201028
+  "version": 20201029
 }
