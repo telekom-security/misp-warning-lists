@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20201117,
+  "version": 20201118,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -7657,12 +7657,14 @@
     "ceu.es",
     "deusto.es",
     "ehu.es",
+    "ehu.eus",
     "esic.es",
     "global-business-school.org",
     "ie.edu",
     "iuse.edu.es",
     "lasalleuniversities.net",
     "muni.es",
+    "mundragon.edu",
     "salleurl.edu",
     "schillermadrid.edu",
     "uab.es",
