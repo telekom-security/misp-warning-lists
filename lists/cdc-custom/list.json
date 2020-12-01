@@ -9,6 +9,6 @@
 
   "type": "hostname",
   "list": [
-    "*.live.com"
+    ".live.com"
   ]
 }
