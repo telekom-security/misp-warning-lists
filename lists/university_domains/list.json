@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20201207,
+  "version": 20201208,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -8103,7 +8103,7 @@
     "vu.ac.th",
     "webster.ac.th",
     "wu.ac.th",
-    "yonok.ac.th",
+    "nation.ac.th",
     "univ-lome.tg",
     "usc.edu.tt",
     "utt.edu.tt",
