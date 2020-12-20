@@ -49,5 +49,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "string",
-  "version": 20201219
+  "version": 20201220
 }
