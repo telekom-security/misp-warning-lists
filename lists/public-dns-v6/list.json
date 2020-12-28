@@ -3,7 +3,6 @@
   "list": [
     "2001:148f:ffff::1",
     "2001:19f0:6401:b3d:5400:2ff:fe5a:fb9f",
-    "2001:41d0:203:4b1f:2:2:2:2",
     "2001:428::1",
     "2001:470:1f1a:78e::2",
     "2001:470:20::2",
@@ -50,5 +49,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "string",
-  "version": 20201227
+  "version": 20201228
 }
