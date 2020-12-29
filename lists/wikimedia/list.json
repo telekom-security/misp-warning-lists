@@ -1,6 +1,6 @@
 {
   "name": "List of known Wikimedia address ranges",
-  "version": 20201228,
+  "version": 20201229,
   "description": "Wikimedia address ranges (http://noc.wikimedia.org/conf/reverse-proxy.php.txt)",
   "type": "cidr",
   "list": [
