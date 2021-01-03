@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210102,
+  "version": 20210103,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1098,6 +1098,7 @@
     "ou.edu",
     "uoregon.edu",
     "upenn.edu",
+    "seas.upenn.edu",
     "phoenix.edu",
     "pitt.edu",
     "upj.pitt.edu",
@@ -2296,6 +2297,7 @@
     "bisu.edu.cn",
     "bit.edu.cn",
     "biti.edu.cn",
+    "bjtu.edu.cn",
     "bjaeu.edu.cn",
     "bjfu.edu.cn",
     "bjmu.edu.cn",
