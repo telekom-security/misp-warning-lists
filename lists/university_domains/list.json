@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210103,
+  "version": 20210104,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1847,6 +1847,7 @@
     "furb.rct-sc.br",
     "furg.br",
     "impa.br",
+    "ime.eb.mil.br",
     "ita.br",
     "italo.br",
     "mackenzie.br",
@@ -2118,6 +2119,7 @@
     "kwantlen.bc.ca",
     "lakeheadu.ca",
     "langara.bc.ca",
+    "langara.ca",
     "lansbridge.com",
     "laurentian.ca",
     "macewan.ca",
@@ -9693,6 +9695,10 @@
     "academyart.edu",
     "art.edu",
     "lr.edu",
-    "utfpr.edu.br"
+    "utfpr.edu.br",
+    "nuist.edu.cn",
+    "pointpark.edu",
+    "ontariotechu.ca",
+    "ontariotechu.net"
   ]
 }
