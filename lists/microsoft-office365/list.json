@@ -92,7 +92,6 @@
     ".wns.windows.com",
     ".yammer.com",
     ".yammerusercontent.com",
-    "a.wunderlist.com",
     "account.activedirectory.windowsazure.com",
     "account.live.com",
     "account.office.net",
@@ -337,7 +336,6 @@
     "www.onedrive.com",
     "www.outlook.com",
     "www.sway.com",
-    "www.wunderlist.com",
     "www.youtube.com"
   ],
   "matching_attributes": [
@@ -347,5 +345,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20210104
+  "version": 20210105
 }
