@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210111,
+  "version": 20210112,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -8397,6 +8397,7 @@
     "ex.ac.uk",
     "falmouth.ac.uk",
     "gcal.ac.uk",
+    "gcu.ac.uk",
     "gla.ac.uk",
     "glam.ac.uk",
     "glos.ac.uk",
