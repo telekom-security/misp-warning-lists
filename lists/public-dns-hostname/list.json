@@ -81,7 +81,6 @@
     "70-90-140-130-BusName-shelby.mi.il.hfc.comcastbusiness.net.",
     "70.34.8.217.north.tcell.tj.",
     "75-148-63-125-Knoxville.hfc.comcastbusiness.net.",
-    "75.11.62.202.iconpln.net.id.",
     "78-130-39-189.static.net.nos.pt.",
     "78.126.7.109.rev.sfr.net.",
     "78.130.38.125.rev.optimus.pt.",
@@ -466,5 +465,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210112
+  "version": 20210113
 }
