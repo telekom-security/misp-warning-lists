@@ -6,7 +6,7 @@ import json
 import datetime
 
 url = 'https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf'
-r = requests.get(url, stream=True)
+r = requests.get(url, stream=True, timeout=600)
 domain = []
 for ip in r.iter_lines():
     v = ip.decode('utf-8')

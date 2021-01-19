@@ -22,7 +22,7 @@ for line in decoded.split('\n'):
                 l.append(matched[0])
             except ValueError:
                 pass
-   
+ 
 warninglist = {}
 warninglist['name'] = 'List of known Wikimedia address ranges'
 warninglist['version'] = int(datetime.date.today().strftime('%Y%m%d'))

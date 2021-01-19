@@ -27,14 +27,14 @@ def download_to_file(url, file):
 
 
 def actual_download_to_file(url, file, user_agent):
-    r = requests.get(url, headers=user_agent)
+    r = requests.get(url, headers=user_agent, timeout=600)
     with open(file, 'wb') as fd:
         for chunk in r.iter_content(4096):
             fd.write(chunk)
 
 
 def process_stream(url):
-    r = requests.get(url, stream=True)
+    r = requests.get(url, stream=True, timeout=600)
 
     data_list = []
     for line in r.iter_lines():
@@ -49,7 +49,7 @@ def process_stream(url):
 def download(url):
     user_agent = {
         "User-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0"}
-    return requests.get(url, headers=user_agent)
+    return requests.get(url, headers=user_agent, timeout=600)
 
 
 def get_abspath_list_file(dst):

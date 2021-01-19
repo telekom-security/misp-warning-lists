@@ -16,7 +16,7 @@ json_output['list']=list()
 
 
 url="https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json"
-university_list_file=requests.get(url)
+university_list_file=requests.get(url, timeout=600)
 university_list_json=university_list_file.json()
 
 for university in university_list_json:

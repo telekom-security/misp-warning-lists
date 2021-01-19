@@ -6,8 +6,11 @@ import json
 import datetime
 
 url = 'https://raw.githubusercontent.com/ejrv/VPNs/master/vpn-ipv4.txt'
-r = requests.get(url, stream=True)
+
+r = requests.get(url, stream=True, timeout=600)
+
 ipsv4 = []
+
 for ip in r.iter_lines():
     v = ip.decode('utf-8')
     if not v.startswith("#"):

@@ -16,7 +16,7 @@ CA_known_intermediate_file = 'PublicAllIntermediateCertsWithPEMCSV.csv'
 CA_known_intermediate_dst = 'mozilla-IntermediateCA'
 
 def download(url, file):
-    r = requests.get(url)
+    r = requests.get(url, timeout=600)
     with open(file, 'wb') as fd:
         for chunk in r.iter_content(4096):
             fd.write(chunk)

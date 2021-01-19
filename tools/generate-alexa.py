@@ -9,7 +9,9 @@ import json
 alexa_url = "http://s3.amazonaws.com/alexa-static/top-1m.csv.zip"
 alexa_file = "top-1m.csv.zip"
 user_agent = {"User-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0"}
-r = requests.get(alexa_url, headers=user_agent)
+
+r = requests.get(alexa_url, headers=user_agent, timeout=600)
+
 with open(alexa_file, 'wb') as fd:
     for chunk in r.iter_content(4096):
         fd.write(chunk)

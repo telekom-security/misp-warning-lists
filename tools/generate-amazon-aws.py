@@ -5,11 +5,12 @@ import json
 import datetime
 import urllib.request
 import json
+import requests
 
-res = urllib.request.urlopen('https://ip-ranges.amazonaws.com/ip-ranges.json')
+r = requests.get('https://ip-ranges.amazonaws.com/ip-ranges.json', timeout=600)
 
-res_body = res.read()
-j = json.loads(res_body.decode("utf-8"))
+j = json.loads(r.text)
+
 l = []
 
 for prefix in j['prefixes']:
@@ -17,7 +18,7 @@ for prefix in j['prefixes']:
 
 for prefix in j['ipv6_prefixes']:
    l.append(prefix['ipv6_prefix'])
-   
+
 warninglist = {}
 warninglist['name'] = 'List of known Amazon AWS IP address ranges'
 warninglist['version'] = int(datetime.date.today().strftime('%Y%m%d'))

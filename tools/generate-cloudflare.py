@@ -20,7 +20,7 @@ def source_read_and_add(input_file):
 
 for uri in uri_list:
 	url = base_url + uri
-	r=requests.get(url)
+	r=requests.get(url, timeout=600)
 	dict['list'] += source_read_and_add(r.text)
 
 dict['type'] = "cidr"

@@ -15,7 +15,8 @@ moz_file_domains = "/tmp/top500.domains.csv"
 
 user_agent = {"User-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0"}
 
-rDomains = requests.get(moz_url_domains, headers=user_agent)
+rDomains = requests.get(moz_url_domains, headers=user_agent, timeout=600)
+
 open(moz_file_domains, 'wb').write(rDomains.content)
 
 moz_warninglist = {}

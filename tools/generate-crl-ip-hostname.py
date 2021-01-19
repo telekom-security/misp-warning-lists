@@ -13,7 +13,7 @@ wl['list'] = list()
 
 for uri in uri_list:
     url = base_url + uri
-    r = requests.get(url)
+    r = requests.get(url, timeout=600)
     wl['list'].extend(r.text.split('\n'))
 
 wl['type'] = "string"

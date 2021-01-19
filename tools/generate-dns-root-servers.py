@@ -9,7 +9,7 @@ url = 'https://www.internic.net/domain/named.root'
 
 user_agent = {'User-agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0'}
 
-r = requests.get(url, headers=user_agent)
+r = requests.get(url, headers=user_agent, timeout=600)
 
 rootdns_warninglist = {}
 version = int(datetime.date.today().strftime('%Y%m%d'))
