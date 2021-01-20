@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210119,
+  "version": 20210120,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -8416,6 +8416,7 @@
     "hull.ac.uk",
     "huron.ac.uk",
     "hw.ac.uk",
+    "imperial.ac.uk",
     "ic.ac.uk",
     "ifslearning.ac.uk",
     "ihr.sas.ac.uk",
