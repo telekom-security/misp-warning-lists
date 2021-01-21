@@ -166,7 +166,6 @@
     "dns02.viphone.cz.",
     "dns1.adam.es.",
     "dns1.atlassolutions.net.",
-    "dns1.chevalier.net.",
     "dns1.primary.net.",
     "dns1.safedns.com.",
     "dns2.digitalcourage.de.",
@@ -464,5 +463,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210120
+  "version": 20210121
 }

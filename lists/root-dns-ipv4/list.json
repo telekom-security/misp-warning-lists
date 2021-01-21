@@ -21,5 +21,5 @@
     ],
     "name": "Root DNS servers",
     "type": "ip",
-    "version": 20210120
+    "version": 20210121
 }
