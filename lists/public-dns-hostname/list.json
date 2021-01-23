@@ -463,5 +463,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210122
+  "version": 20210123
 }
