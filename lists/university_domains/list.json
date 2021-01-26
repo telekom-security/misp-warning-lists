@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210125,
+  "version": 20210126,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1009,7 +1009,7 @@
     "uc.edu",
     "colorado.edu",
     "uccs.edu",
-    "cudenver.edu",
+    "ucdenver.edu",
     "hsc.colorado.edu",
     "uconn.edu",
     "udallas.edu",
@@ -6326,6 +6326,7 @@
     "zuyd.nl",
     "ufp.nc",
     "auckland.ac.nz",
+    "aucklanduni.ac.nz",
     "aut.ac.nz",
     "canterbury.ac.nz",
     "cpit.ac.nz",
@@ -9706,6 +9707,7 @@
     "nuist.edu.cn",
     "pointpark.edu",
     "ontariotechu.ca",
-    "ontariotechu.net"
+    "ontariotechu.net",
+    "hsu.edu.hk"
   ]
 }
