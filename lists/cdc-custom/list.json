@@ -9,6 +9,8 @@
 
   "type": "hostname",
   "list": [
-    ".live.com"
+    ".live.com",
+    ".sixt.com",
+    ".telegram.org"
   ]
 }
