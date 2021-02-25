@@ -299,7 +299,6 @@
     "cache0205.ns.eu.uu.net.",
     "cache0206.ns.eu.uu.net.",
     "cache0300.ns.eu.uu.net.",
-    "cache0301.ns.eu.uu.net.",
     "cache0400.ns.eu.uu.net.",
     "cache0600.ns.eu.uu.net.",
     "cache0701.ns.eu.uu.net.",
@@ -404,7 +403,6 @@
     "dns.skydns.ru.",
     "dns.state.wv.us.",
     "dns.tankbar.com.",
-    "dns.technorail.com.",
     "dns.uni-miskolc.hu.",
     "dns.yandex.ru.",
     "dns01.acaps.ma.",
@@ -756,7 +754,6 @@
     "npjpdns01.ubicast.local.",
     "nrcns.area4.il.chicago.comcast.net.",
     "nrcns.s3woodstock.ga.atlanta.comcast.net.",
-    "nrcns.summitpark.pa.pitt.comcast.net.",
     "nrcns.westlandrdc.mi.michigan.comcast.net.",
     "nresolver1.Level3.net.",
     "nresolver2.Level3.net.",
@@ -1287,5 +1284,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210224
+  "version": 20210225
 }
