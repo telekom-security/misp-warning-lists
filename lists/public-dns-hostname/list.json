@@ -469,7 +469,6 @@
     "dns2.roc.gblx.net.",
     "dns2.snv.gblx.net.",
     "dns2.telumasp.net.",
-    "dns2.vak.com.ua.",
     "dns2.van.radiant.net.",
     "dns2.wideopenwest.com.",
     "dns3.bluewin.ch.",
@@ -563,7 +562,6 @@
     "hht181.internetdsl.tpnet.pl.",
     "hk.linkwork.dk.",
     "hntp1.hinet.net.",
-    "home-136.169.11.45.mits.lv.",
     "home1.bellatlantic.net.",
     "home3.bellatlantic.net.",
     "home4.bellatlantic.net.",
@@ -1284,5 +1282,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210225
+  "version": 20210226
 }
