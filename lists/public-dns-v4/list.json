@@ -1883,5 +1883,5 @@
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "string",
-  "version": 20210226
+  "version": 20210227
 }
