@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210302,
+  "version": 20210303,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9709,6 +9709,8 @@
     "pointpark.edu",
     "ontariotechu.ca",
     "ontariotechu.net",
-    "hsu.edu.hk"
+    "hsu.edu.hk",
+    "htl-villach.at",
+    "edu.htl-villach.at"
   ]
 }
