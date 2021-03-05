@@ -1,6 +1,6 @@
 {
   "name": "List of known Amazon AWS IP address ranges",
-  "version": 20210304,
+  "version": 20210305,
   "description": "Amazon AWS IP address ranges (https://ip-ranges.amazonaws.com/ip-ranges.json)",
   "type": "cidr",
   "list": [
@@ -2655,6 +2655,7 @@
     "52.93.127.219/32",
     "52.93.127.220/32",
     "52.93.127.221/32",
+    "52.93.127.232/32",
     "52.93.127.24/32",
     "52.93.127.25/32",
     "52.93.127.26/32",

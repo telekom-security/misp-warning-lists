@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210304,
+  "version": 20210305,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -2226,7 +2226,7 @@
     "univ-ndjamena.org",
     "academia.cl",
     "arquitecturaucv.cl",
-    "puc.cl",
+    "uc.cl",
     "uach.cl",
     "uaconcagua.cl",
     "uahurtado.cl",
