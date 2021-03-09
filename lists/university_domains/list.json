@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210308,
+  "version": 20210309,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -7551,6 +7551,8 @@
     "eu.ac.rs",
     "kg.ac.rs",
     "megatrend-edu.net",
+    "megatrend.edu.rs",
+    "xz.edu.rs",
     "metropolitan.edu.rs",
     "ni.ac.rs",
     "np.ac.rs",
