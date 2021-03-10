@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210309,
+  "version": 20210310,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1631,6 +1631,7 @@
     "cu.ac.bd",
     "cuet.ac.bd",
     "daffodilvarsity.edu.bd",
+    "diu.edu.bd",
     "diu.ac.bd",
     "diu.net.bd",
     "du.ac.bd",
@@ -7309,6 +7310,7 @@
     "nsmu.ru",
     "nstu.ru",
     "nsu.ru",
+    "g.nsu.ru",
     "nwpi.ru",
     "omgau.ru",
     "omgtu.ru",
