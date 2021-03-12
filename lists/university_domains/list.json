@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210311,
+  "version": 20210312,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3354,6 +3354,8 @@
     "univmed.fr",
     "univ-metz.fr",
     "univ-mlv.fr",
+    "u-pem.fr",
+    "etud.u-pem.fr",
     "univ-montp1.fr",
     "univ-montp2.fr",
     "univ-montp3.fr",
