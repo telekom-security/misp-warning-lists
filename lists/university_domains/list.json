@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210315,
+  "version": 20210316,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -7215,6 +7215,8 @@
     "ieeu.udm.ru",
     "iet.ru",
     "ifmo.ru",
+    "itmo.ru",
+    "niuitmo.ru",
     "ime.ru",
     "intstudy.mai.ru",
     "isea.irk.ru",
