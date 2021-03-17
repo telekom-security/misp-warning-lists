@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210316,
+  "version": 20210317,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -5881,6 +5881,9 @@
     "ugd.edu.mk",
     "uist.edu.mk",
     "ukim.edu.mk",
+    "ukim.mk",
+    "finki.ukim.mk",
+    "students.finki.ukim.mk",
     "uklo.edu.mk",
     "unite.edu.mk",
     "univ-antananarivo.mg",
