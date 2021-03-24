@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210323,
+  "version": 20210324,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3833,6 +3833,7 @@
     "unitec.edu",
     "upnfm.edu.hn",
     "usps.edu.hn",
+    "usap.edu",
     "uth.hn",
     "zamorano.edu",
     "chuhai.edu.hk",
