@@ -1,7 +1,6 @@
 {
   "description": "Event contains one or more public IPv6 DNS resolvers as attribute with an IDS flag set",
   "list": [
-    "2001:148f:fffe::1",
     "2001:148f:ffff::1",
     "2001:418:3ff::1:53",
     "2001:418:3ff::53",
@@ -83,5 +82,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "string",
-  "version": 20210405
+  "version": 20210406
 }
