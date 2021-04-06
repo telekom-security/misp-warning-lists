@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210406,
+  "version": 20210407,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1766,6 +1766,7 @@
     "vlerick.be",
     "vub.ac.be",
     "wenk.be",
+    "odisee.be",
     "aucmed.edu",
     "cahsu.edu",
     "giuedu.bz",
@@ -2867,6 +2868,7 @@
     "cuni.cz",
     "cvut.cz",
     "fa.cvut.cz",
+    "fit.cvut.cz",
     "czu.cz",
     "famu.cz",
     "jcu.cz",
@@ -9690,6 +9692,7 @@
     "dhbw-mannheim.de",
     "hs-hannover.de",
     "stud.hs-hannover.de",
+    "ba-bautzen.de",
     "trinitybiblecollege.edu",
     "umflint.edu",
     "torrens.edu.au",
