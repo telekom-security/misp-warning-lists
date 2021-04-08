@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210408,
+  "version": 20210409,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3699,6 +3699,7 @@
     "uni-muenchen.de",
     "uni-muenster.de",
     "wwu.de",
+    "uol.de",
     "uni-oldenburg.de",
     "uni-osnabrueck.de",
     "uni-paderborn.de",
@@ -9736,6 +9737,7 @@
     "lr.edu",
     "utfpr.edu.br",
     "nuist.edu.cn",
+    "lynu.edu.cn",
     "pointpark.edu",
     "ontariotechu.ca",
     "ontariotechu.net",
