@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210415,
+  "version": 20210416,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -4722,6 +4722,7 @@
     "tcd.ie",
     "ucc.ie",
     "ucd.ie",
+    "nuigalway.ie",
     "ucg.ie",
     "ul.ie",
     "warnborough.edu",
