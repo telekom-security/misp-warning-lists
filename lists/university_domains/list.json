@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210416,
+  "version": 20210417,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1749,6 +1749,7 @@
     "kulak.ac.be",
     "kuleuven.ac.be",
     "rma.ac.be",
+    "ugent.be",
     "rug.ac.be",
     "thierryschool.org",
     "ua.ac.be",
@@ -1904,6 +1905,10 @@
     "ufma.br",
     "ufmg.br",
     "dcc.ufmg.br",
+    "ufvjm.edu.br",
+    "unifei.edu.br",
+    "ufsj.edu.br",
+    "uftm.edu.br",
     "ufms.br",
     "ufmt.br",
     "ufop.br",
@@ -9745,6 +9750,9 @@
     "hsu.edu.hk",
     "htl-villach.at",
     "edu.htl-villach.at",
-    "udb.ac.id"
+    "udb.ac.id",
+    "jedlik.eu",
+    "students.jedlik.eu",
+    "northwood.edu"
   ]
 }
