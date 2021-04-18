@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210418,
+  "version": 20210419,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9757,6 +9757,8 @@
     "northwood.edu",
     "infnet.edu.br",
     "al.infnet.edu.br",
-    "prof.infnet.edu.br"
+    "prof.infnet.edu.br",
+    "ssst.edu.ba",
+    "hbc.edu.cn"
   ]
 }
