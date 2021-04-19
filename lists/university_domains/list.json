@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210419,
+  "version": 20210420,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3154,6 +3154,7 @@
     "utu.fi",
     "uwasa.fi",
     "aalto.fi",
+    "metropolia.fi",
     "student.42.fr",
     "aea.asso.fr",
     "agroparistech.fr",
