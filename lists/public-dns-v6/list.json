@@ -60,7 +60,6 @@
     "2a03:4000:6:e5fc::1",
     "2a04:52c0:101:75::75",
     "2a04:92c7:37:91::2",
-    "2a04:bdc7:100:70::70",
     "2a05:dfc7:5353::53",
     "2a05:dfc7:5::5353",
     "2a09::",
@@ -81,5 +80,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "string",
-  "version": 20210425
+  "version": 20210426
 }
