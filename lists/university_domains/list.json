@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210426,
+  "version": 20210427,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1102,6 +1102,7 @@
     "phoenix.edu",
     "pitt.edu",
     "upj.pitt.edu",
+    "upb.pitt.edu",
     "up.edu",
     "upr.edu",
     "ups.edu",
