@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210503,
+  "version": 20210504,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9743,6 +9743,7 @@
     "ieec.cust.edu.cn",
     "polk.edu",
     "mohawkcollege.ca",
+    "bdeb.qc.ca",
     "brescia.edu",
     "rsu.edu",
     "neumann.edu",
