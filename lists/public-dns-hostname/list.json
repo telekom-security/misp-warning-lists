@@ -6,7 +6,6 @@
     "059148250034.ctinets.com.",
     "061093221046.ctinets.com.",
     "100.red-194-179-1.static.ccgg.telefonica.net.",
-    "101-100-147-13.myrepublic.co.nz.",
     "103-23-22-143.isi.cloud.id.",
     "106.151.broadband16.iol.cz.",
     "107-155-83-188.static.maxkvm.net.",
@@ -154,7 +153,6 @@
     "bbdns1.on-nets.com.",
     "bbdns2.on-nets.com.",
     "bd37c1ad.static.virtua.com.br.",
-    "bloodyhawks.ru.",
     "bns2.hananet.net.",
     "brabant.deepdns.cryptostorm.net.",
     "buscache1.service.virginmedia.net.",
@@ -290,7 +288,6 @@
     "elgin.student.ssc.edu.",
     "ep09.kernel.sk.",
     "eu-res1.dns.cogentco.com.",
-    "ext-rec-01.omniaccess.com.",
     "ext01.travelexplorer.com.br.",
     "ext02.travelexplorer.com.br.",
     "extdns2.eseti.ru.",
@@ -727,5 +724,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210627
+  "version": 20210628
 }
