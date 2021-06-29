@@ -235,7 +235,6 @@
     "platform.linkedin.com",
     "play.google.com",
     "policykeyservice.dc.ad.msft.net",
-    "portal.microsoftonline.com",
     "privatecdn.sharepointonline.com",
     "prod.firstpartyapps.oaspapps.com.akadns.net",
     "prod.msocdn.com",
@@ -245,7 +244,6 @@
     "r.office.microsoft.com",
     "r1.res.office365.com",
     "r3.res.office365.com",
-    "r3.res.outlook.com",
     "r4.res.office365.com",
     "rink.hockeyapp.net",
     "roaming.officeapps.live.com",
@@ -313,5 +311,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20210629
+  "version": 20210630
 }
