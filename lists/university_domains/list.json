@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210725,
+  "version": 20210726,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1492,7 +1492,7 @@
     "deakin.edu.au",
     "ecu.edu.au",
     "flinders.edu.au",
-    "gu.edu.au",
+    "griffith.edu.au",
     "holmes.edu.au",
     "hotelschool.com.au",
     "icthm.edu.au",
