@@ -1,6 +1,7 @@
 {
   "description": "Office 365 URLs and IP address ranges",
   "list": [
+    "-admin.sharepoint.com",
     "-files.sharepoint.com",
     "-myfiles.sharepoint.com",
     ".aadrm.com",
@@ -311,5 +312,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20210729
+  "version": 20210730
 }
