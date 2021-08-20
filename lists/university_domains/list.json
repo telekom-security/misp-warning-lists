@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210820,
+  "version": 20210821,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -6627,6 +6627,8 @@
     "mul.edu.pk",
     "nca.edu.pk",
     "neduet.edu.pk",
+    "dsu.edu.pk",
+    "smiu.edu.pk",
     "newports.edu.pk",
     "niab.org.pk",
     "nu.edu.pk",
