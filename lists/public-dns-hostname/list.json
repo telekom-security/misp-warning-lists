@@ -164,7 +164,6 @@
     "d228125.lcnet.jp.",
     "d51531cce.static.telenet.be.",
     "damia.altanet.org.",
-    "dc1.itcentrum.com.pl.",
     "deic-lgb.anycast.censurfridns.dk.",
     "deic-ore.anycast.censurfridns.dk.",
     "devil.thcnet.cz.",
@@ -184,7 +183,6 @@
     "dns.adguard.com.",
     "dns.as250.net.",
     "dns.atl.cbeyond.com.",
-    "dns.case.com.tw.",
     "dns.cetic.dz.",
     "dns.cheazey.net.",
     "dns.comss.one.",
@@ -596,5 +594,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210825
+  "version": 20210826
 }
