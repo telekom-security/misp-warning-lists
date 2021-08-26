@@ -44,7 +44,6 @@
     "197.150.48.116.static.netvigator.com.",
     "197.68.198.203.static.netvigator.com.",
     "202-39-210-77.HINET-IP.hinet.net.",
-    "202-39-47-200.HINET-IP.hinet.net.",
     "203186061066.static.ctinets.com.",
     "203186217188.ctinets.com.",
     "209-252-188-103.ip.mcleodusa.net.",
@@ -116,7 +115,6 @@
     "NS2.Multacom.COM.",
     "a.ns.distribuidoranacional.com.br.",
     "a.resolvers.level3.net.",
-    "a6128-0241757074.pck.nerim.net.",
     "adsl-184-35.tricom.net.",
     "adsl-caumont-sur-durance-95-208-wan.bluegix.net.",
     "adv.chkg.com.",
@@ -594,5 +592,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210826
+  "version": 20210827
 }
