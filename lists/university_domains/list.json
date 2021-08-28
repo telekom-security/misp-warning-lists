@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210828,
+  "version": 20210829,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -6145,6 +6145,7 @@
     "uabjo.mx",
     "uacam.mx",
     "uach.mx",
+    "itsncg.edu.mx",
     "uacj.mx",
     "uacm.edu.mx",
     "uadec.mx",
