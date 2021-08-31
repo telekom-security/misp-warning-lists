@@ -144,7 +144,6 @@
     "cachens2.mcleodusa.net.",
     "cachens2.paetec.net.",
     "cerberus.firebreather.net.",
-    "cerf.iriseden.eu.",
     "chic-cns.area4.il.chicago.comcast.net.",
     "cloudserver004096.home.pl.",
     "cluster-1.atentus.com.",
@@ -592,5 +591,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210831
+  "version": 20210901
 }
