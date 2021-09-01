@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210901,
+  "version": 20210902,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1150,6 +1150,7 @@
     "swmed.edu",
     "utsouthwestern.edu",
     "utpb.edu",
+    "arts.ac.uk",
     "udc.edu",
     "uiw.edu",
     "uiwtx.edu",
