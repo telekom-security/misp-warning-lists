@@ -321,7 +321,6 @@
     "isr27.internetdsl.tpnet.pl.",
     "july.river.sun-inet.or.jp.",
     "kns2.kornet.net.",
-    "l3.80-248-157-26.lsi.ru.",
     "la.ahadns.net.",
     "lanaya.bios-it.co.id.",
     "lanka-com1.lankacom.net.",
@@ -630,5 +629,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210910
+  "version": 20210911
 }
