@@ -836,5 +836,5 @@
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "string",
-  "version": 20210913
+  "version": 20210914
 }
