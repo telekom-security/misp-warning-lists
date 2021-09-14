@@ -79,7 +79,6 @@
     "46.20.67.50.svttk.ru.",
     "50-194-130-97-static.hfc.comcastbusiness.net.",
     "50-204-174-58-static.hfc.comcastbusiness.net.",
-    "50-205-171-65-static.hfc.comcastbusiness.net.",
     "50-239-7-17-static.hfc.comcastbusiness.net.",
     "50-241-117-197-static.hfc.comcastbusiness.net.",
     "50-247-100-49-static.hfc.comcastbusiness.net.",
@@ -629,5 +628,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210914
+  "version": 20210915
 }
