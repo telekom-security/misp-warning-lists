@@ -203,7 +203,6 @@
     "dns.adguard.com.",
     "dns.as250.net.",
     "dns.atl.cbeyond.com.",
-    "dns.case.com.tw.",
     "dns.cetic.dz.",
     "dns.cheazey.net.",
     "dns.comss.one.",
@@ -385,7 +384,6 @@
     "ns.harkadir.am.",
     "ns.imbc.com.",
     "ns.iristel.ro.",
-    "ns.kneipp.de.",
     "ns.marcatel.com.mx.",
     "ns.maxnet.ru.",
     "ns.morritan.co.jp.",
@@ -479,7 +477,6 @@
     "nsphil.bellatlantic.net.",
     "nspitt.bellatlantic.net.",
     "nssec03.spxs.net.",
-    "nsv6w1.internetia.pl.",
     "nsvip05.windstream.net.",
     "nx1.jagran.com.",
     "ny.ahadns.net.",
@@ -568,7 +565,6 @@
     "shackmocha.com.",
     "smtp.ateksbg.com.",
     "southerncontrols.com.",
-    "spin.idiom.com.",
     "srv-01-zmbombas-fw01.zmbombas.com.br.",
     "srv5.it-df.net.",
     "static-71-246-241-149.washdc.fios.verizon.net.",
@@ -628,5 +624,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210915
+  "version": 20210916
 }
