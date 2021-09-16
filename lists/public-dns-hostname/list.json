@@ -145,11 +145,8 @@
     "brabant.deepdns.cryptostorm.net.",
     "buscache1.service.virginmedia.net.",
     "business-176-094-020-004.static.arcor-ip.net.",
-    "c-73-111-101-34.hsd1.il.comcast.net.",
     "c-73-77-45-195.hsd1.tx.comcast.net.",
     "c-98-208-56-152.hsd1.ca.comcast.net.",
-    "c-98-212-26-37.hsd1.il.comcast.net.",
-    "c-98-213-194-66.hsd1.il.comcast.net.",
     "c-98-255-2-112.hsd1.ca.comcast.net.",
     "c.resolvers.level3.net.",
     "cache0000.ns.eu.uu.net.",
@@ -276,7 +273,6 @@
     "fw2.parvazsys.ir.",
     "gatekeeper.poly.edu.",
     "gns.paltel.net.",
-    "gw5209.nubenet.com.ar.",
     "gwsrv1.granday.net.br.",
     "h127-ipv4-93-91-140.mynet.it.",
     "h205-203-73-77.meicer.com.tw.",
@@ -624,5 +620,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210916
+  "version": 20210917
 }
