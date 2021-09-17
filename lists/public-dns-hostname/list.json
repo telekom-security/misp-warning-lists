@@ -2,7 +2,6 @@
   "description": "Event contains one or more public DNS resolvers (expressed as hostname) as attribute with an IDS flag set",
   "list": [
     "059148213230.ctinets.com.",
-    "059148249214.ctinets.com.",
     "059148250034.ctinets.com.",
     "061093221046.ctinets.com.",
     "100.red-194-179-1.static.ccgg.telefonica.net.",
@@ -31,7 +30,6 @@
     "176-103-130-131.dns.adguard.com.",
     "176-103-130-136.dns.adguard.com.",
     "176-103-130-137.dns.adguard.com.",
-    "177.43.35.247.static.gvt.net.br.",
     "178.88.30.213.rev.vodafone.pt.",
     "185.51.200.10.shahrad.net.",
     "186-211-1-191-host.portalsat.net.br.",
@@ -187,7 +185,6 @@
     "di50.alma-di-2.online.kz.",
     "dim.meiho.edu.tw.",
     "dmzdc02.dip-alicante.es.",
-    "dns-2.space.at.",
     "dns-cache-1.rdsnet.ro.",
     "dns-cache-gdl.alestra.net.mx.",
     "dns-delight.idiom.com.",
@@ -255,7 +252,6 @@
     "eu-res1.dns.cogentco.com.",
     "ext01.travelexplorer.com.br.",
     "ext02.travelexplorer.com.br.",
-    "extdns2.eseti.ru.",
     "f.resolvers.level3.net.",
     "fall.helpingheroesusa.com.",
     "famae.cl.",
@@ -403,7 +399,6 @@
     "ns1.dnshome.de.",
     "ns1.domainmaster.co.uk.",
     "ns1.farzaneganpars.ir.",
-    "ns1.fdn.fr.",
     "ns1.fdn.org.",
     "ns1.gns.se.",
     "ns1.haninternet.net.",
@@ -620,5 +615,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20210917
+  "version": 20210918
 }
