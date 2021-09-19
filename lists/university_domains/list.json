@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20210919,
+  "version": 20210920,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3674,6 +3674,7 @@
     "tu-ilmenau.de",
     "tum.de",
     "tum.edu",
+    "mytum.de",
     "uni-augsburg.de",
     "uni-bamberg.de",
     "uni-bayreuth.de",
