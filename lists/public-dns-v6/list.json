@@ -131,5 +131,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "string",
-  "version": 20211016
+  "version": 20211017
 }
