@@ -118,12 +118,14 @@
     "2a0d:2a00:1::2",
     "2a0d:2a00:2::2",
     "2a0d:5600:33:3::3",
+    "2a0e:2000::2000",
     "2a0f:4a80:0:5::6734",
     "2a10:50c0::1:ff",
     "2a10:50c0::2:ff",
     "2a10:50c0::ad1:ff",
     "2a10:50c0::ad2:ff",
     "2a11::",
+    "2a11:b244::244",
     "2c0f:fda8:5::2ed1:d2ec"
   ],
   "matching_attributes": [
@@ -133,5 +135,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "string",
-  "version": 20211024
+  "version": 20211025
 }
