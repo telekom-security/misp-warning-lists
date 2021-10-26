@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20211026,
+  "version": 20211027,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9815,6 +9815,7 @@
     "hbc.edu.cn",
     "fom-net.de",
     "thm.de",
-    "hwg-lu.de"
+    "hwg-lu.de",
+    "leuphana.de"
   ]
 }
