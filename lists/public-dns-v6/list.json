@@ -88,7 +88,6 @@
     "2620:fe::fe:11",
     "2620:fe::fe:9",
     "2804:10:10::10",
-    "2804:10:10::20",
     "2a00:5a60::1:ff",
     "2a00:5a60::ad2:ff",
     "2a00:f48:1003:1::759d:c751",
@@ -146,5 +145,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "string",
-  "version": 20211201
+  "version": 20211202
 }
