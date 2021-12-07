@@ -1175,6 +1175,7 @@
         "getnowtoday.cf",
         "getonemail.com",
         "getonemail.net",
+        "getover.de",
         "getsimpleemail.com",
         "gett.icu",
         "ghosttexter.de",
@@ -2700,6 +2701,7 @@
         "tarzanmail.cf",
         "tastrg.com",
         "tb-on-line.net",
+        "tdtda.com",
         "tech69.com",
         "techemail.com",
         "techgroup.me",
@@ -2960,6 +2962,7 @@
         "utiket.us",
         "uu.gl",
         "uu2.ovh",
+        "uuf.me",
         "uwork4.us",
         "uyhip.com",
         "vaasfc4.tk",
@@ -3277,5 +3280,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20211206
+    "version": 20211207
 }

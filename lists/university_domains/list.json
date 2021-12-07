@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20211206,
+  "version": 20211207,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3861,6 +3861,8 @@
     "zamorano.edu",
     "chuhai.edu.hk",
     "cityu.edu.hk",
+    "um.cityu.edu.hk",
+    "my.cityu.edu.hk",
     "cuhk.hk",
     "hkapa.edu",
     "hkbu.edu.hk",
@@ -3870,7 +3872,10 @@
     "ln.edu.hk",
     "ouhk.edu.hk",
     "polyu.edu.hk",
+    "connect.polyu.hk",
     "ust.hk",
+    "s.eduhk.hk",
+    "eduhk.hk",
     "agr.unideb.hu",
     "andrassyuni.hu",
     "arts7.hu",
