@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20211207,
+  "version": 20211208,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -8347,7 +8347,7 @@
     "ksmu.kharkov.ua",
     "kstuca.kharkov.ua",
     "ksu.edu.ua",
-    "kture.kharkov.ua",
+    "nure.ua",
     "lgpu.lg.ua",
     "lp.edu.ua",
     "lsmu.edu.ua",
