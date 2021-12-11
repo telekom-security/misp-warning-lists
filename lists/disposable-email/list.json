@@ -384,6 +384,7 @@
         "axiz.org",
         "axon7zte.com",
         "axsup.net",
+        "ayakamail.cf",
         "azazazatashkent.tk",
         "azcomputerworks.com",
         "azmeil.tk",
@@ -3280,5 +3281,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20211210
+    "version": 20211211
 }
