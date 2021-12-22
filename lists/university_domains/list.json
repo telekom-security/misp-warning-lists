@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20211221,
+  "version": 20211222,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3320,6 +3320,10 @@
     "ismra.fr",
     "itech.fr",
     "jussieu.fr",
+    "etu.upmc.fr",
+    "upmc.fr",
+    "etu.sorbonne-universite.fr",
+    "sorbonne-universite.fr",
     "mines.u-nancy.fr",
     "montaigne.u-bordeaux.fr",
     "montesquieu.u-bordeaux.fr",
@@ -9823,6 +9827,7 @@
     "hwg-lu.de",
     "leuphana.de",
     "oth-aw.de",
-    "fatecie.edu.br"
+    "fatecie.edu.br",
+    "hamk.fi"
   ]
 }
