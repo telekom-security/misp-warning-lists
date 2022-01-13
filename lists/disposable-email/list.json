@@ -1677,6 +1677,7 @@
         "lroid.com",
         "lru.me",
         "ls-server.ru",
+        "lsyx24.com",
         "luckymail.org",
         "lukecarriere.com",
         "lukemail.info",
@@ -1917,6 +1918,7 @@
         "misterpinball.de",
         "miucce.com",
         "mji.ro",
+        "mjj.edu.ge",
         "mjukglass.nu",
         "mkpfilm.com",
         "ml8.ca",
@@ -3283,5 +3285,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20220112
+    "version": 20220113
 }
