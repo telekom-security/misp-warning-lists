@@ -21,5 +21,5 @@
     ],
     "name": "Root DNS servers",
     "type": "hostname",
-    "version": 20220116
+    "version": 20220117
 }

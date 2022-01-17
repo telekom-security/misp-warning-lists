@@ -681,6 +681,7 @@
         "delayload.com",
         "delayload.net",
         "delikkt.de",
+        "delivrmail.com",
         "demen.ml",
         "dengekibunko.ga",
         "dengekibunko.gq",
@@ -1102,6 +1103,7 @@
         "freundin.ru",
         "friendlymail.co.uk",
         "front14.org",
+        "frwdmail.com",
         "ftp.sh",
         "ftpinc.ca",
         "fuckedupload.com",
@@ -1431,6 +1433,7 @@
         "ineec.net",
         "infocom.zp.ua",
         "inggo.org",
+        "inkomail.com",
         "inmynetwork.tk",
         "inoutmail.de",
         "inoutmail.eu",
@@ -2185,6 +2188,7 @@
         "ourpreviewdomain.com",
         "outlawspam.com",
         "outmail.win",
+        "ovomail.co",
         "ovpn.to",
         "owleyes.ch",
         "owlpic.com",
@@ -3285,5 +3289,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20220116
+    "version": 20220117
 }
