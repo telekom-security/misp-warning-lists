@@ -2483,7 +2483,6 @@
         "shitmail.de",
         "shitmail.me",
         "shitmail.org",
-        "shitware.nl",
         "shmeriously.com",
         "shortmail.net",
         "shotmail.ru",
@@ -3289,5 +3288,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20220118
+    "version": 20220119
 }
