@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20220125,
+  "version": 20220126,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9830,6 +9830,7 @@
     "oth-aw.de",
     "fatecie.edu.br",
     "hamk.fi",
-    "ktun.edu.tr"
+    "ktun.edu.tr",
+    "uet.vnu.edu.vn"
   ]
 }
