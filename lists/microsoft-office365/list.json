@@ -25,9 +25,9 @@
     ".events.data.microsoft.com",
     ".flow.microsoft.com",
     ".geotrust.com",
+    ".gr.global.aa-rt.sharepoint.com",
     ".helpshift.com",
     ".hip.live.com",
-    ".hockeyapp.net",
     ".informationprotection.azure.com",
     ".itunes.apple.com",
     ".keydelivery.mediaservices.windows.net",
@@ -123,7 +123,6 @@
     "becws.microsoftonline.com",
     "bit.ly",
     "broadcast.skype.com",
-    "by.uservoice.com",
     "c.bing.com",
     "c.bing.net",
     "c.live.com",
@@ -211,7 +210,6 @@
     "oneclient.sfx.ms",
     "outlook.office.com",
     "outlook.office365.com",
-    "outlook.uservoice.com",
     "partnerservices.getmicrosoftkey.com",
     "passwordreset.microsoftonline.com",
     "peoplegraph.firstpartyapps.oaspapps.com",
@@ -237,7 +235,6 @@
     "spoprod-a.akamaihd.net",
     "ssw.live.com",
     "staffhub.ms",
-    "staffhub.uservoice.com",
     "storage.live.com",
     "suite.office.net",
     "support.content.office.net",
@@ -275,5 +272,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20220128
+  "version": 20220129
 }
