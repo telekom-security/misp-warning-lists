@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20220205,
+  "version": 20220206,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
