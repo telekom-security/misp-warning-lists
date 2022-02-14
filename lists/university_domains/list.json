@@ -7,10 +7,11 @@
     "url",
     "domain|ip"
   ],
-  "version": 20220213,
+  "version": 20220214,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
+    "upes.ac.in",
     "cstj.qc.ca",
     "lindenwood.edu",
     "davietjal.org",
@@ -2914,6 +2915,7 @@
     "vslib.cz",
     "vsp.cz",
     "vutbr.cz",
+    "vut.cz",
     "zcu.cz",
     "a-aarhus.dk",
     "ah.dk",
@@ -4073,6 +4075,7 @@
     "iitk.ac.in",
     "iitkgp.ernet.in",
     "iitm.ac.in",
+    "itu.edu.pk",
     "mitindia.edu",
     "iitr.ac.in",
     "iitp.ac.in",
