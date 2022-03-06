@@ -387,6 +387,6 @@
     "domain|ip"
   ],
   "name": "CRL Warninglist",
-  "version": 20220305,
+  "version": 20220306,
   "description": "CRL Warninglist from threatstop (https://github.com/threatstop/crl-ocsp-whitelist/)"
 }
