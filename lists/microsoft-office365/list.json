@@ -27,11 +27,9 @@
     ".flow.microsoft.com",
     ".geotrust.com",
     ".gr.global.aa-rt.sharepoint.com",
-    ".helpshift.com",
     ".hip.live.com",
     ".informationprotection.azure.com",
     ".keydelivery.mediaservices.windows.net",
-    ".log.optimizely.com",
     ".lync.com",
     ".mail.protection.outlook.com",
     ".manage.microsoft.com",
@@ -84,7 +82,6 @@
     ".symcb.com",
     ".symcd.com",
     ".teams.microsoft.com",
-    ".tenor.com",
     ".users.storage.live.com",
     ".verisign.com",
     ".verisign.net",
@@ -106,7 +103,6 @@
     "amp.azure.net",
     "api.passwordreset.microsoftonline.com",
     "apis.live.net",
-    "app.adjust.com",
     "apps.identrust.com",
     "appsforoffice.microsoft.com",
     "assets.onestore.ms",
@@ -114,7 +110,6 @@
     "auth.gfx.ms",
     "autologon.microsoftazuread-sso.com",
     "becws.microsoftonline.com",
-    "bit.ly",
     "broadcast.skype.com",
     "c.bing.com",
     "c.bing.net",
@@ -123,7 +118,6 @@
     "cacerts.digicert.com",
     "cdn.odc.officeapps.live.com",
     "cdn.onenote.net",
-    "cdn.optimizely.com",
     "cdn.uci.officeapps.live.com",
     "cdnprod.myanalytics.microsoft.com",
     "cert.int-x3.letsencrypt.org",
@@ -131,7 +125,6 @@
     "companymanager.microsoftonline.com",
     "compass-ssl.microsoft.com",
     "compliance.microsoft.com",
-    "connect.facebook.net",
     "contentstorage.osi.office.net",
     "crl.globalsign.com",
     "crl.globalsign.net",
@@ -211,7 +204,6 @@
     "r1.res.office365.com",
     "r3.res.office365.com",
     "r4.res.office365.com",
-    "s.ytimg.com",
     "secure.globalsign.com",
     "security.microsoft.com",
     "shellprod.msocdn.com",
@@ -242,8 +234,7 @@
     "www.microsoft.com",
     "www.onedrive.com",
     "www.outlook.com",
-    "www.sway.com",
-    "www.youtube.com"
+    "www.sway.com"
   ],
   "matching_attributes": [
     "domain",
@@ -252,5 +243,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20220329
+  "version": 20220330
 }
