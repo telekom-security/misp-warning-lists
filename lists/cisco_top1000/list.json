@@ -1,6 +1,6 @@
 {
   "description": "Event contains one or more entries from the top 1000 of the most used website (Cisco Umbrella).",
-  "version": 20220413,
+  "version": 20220414,
   "name": "Top 1000 website from Cisco Umbrella",
   "type": "hostname",
   "matching_attributes": [
