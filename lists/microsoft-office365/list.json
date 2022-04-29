@@ -12,6 +12,7 @@
     ".appex.bing.com",
     ".aria.microsoft.com",
     ".assets-yammer.com",
+    ".auth.microsoft.com",
     ".azure-apim.net",
     ".azureedge.net",
     ".azurerms.com",
@@ -116,6 +117,7 @@
     "c.live.com",
     "c1.microsoft.com",
     "cacerts.digicert.com",
+    "ccs.login.microsoftonline.com",
     "cdn.odc.officeapps.live.com",
     "cdn.onenote.net",
     "cdn.uci.officeapps.live.com",
@@ -134,6 +136,7 @@
     "crl4.digicert.com",
     "d.docs.live.net",
     "dc.services.visualstudio.com",
+    "defender.microsoft.com",
     "device.login.microsoftonline.com",
     "dgps.support.microsoft.com",
     "directory.services.live.com",
@@ -243,5 +246,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20220429
+  "version": 20220430
 }
