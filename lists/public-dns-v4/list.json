@@ -5643,5 +5643,5 @@
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "string",
-  "version": 20220614
+  "version": 20220615
 }
