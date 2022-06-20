@@ -30,6 +30,6 @@
     "domain|ip"
   ],
   "name": "List of known Cloudflare IP ranges",
-  "version": 20220620,
+  "version": 20220621,
   "description": "List of known Cloudflare IP ranges (https://www.cloudflare.com/ips/)"
 }
