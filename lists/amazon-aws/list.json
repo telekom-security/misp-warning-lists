@@ -1,6 +1,6 @@
 {
   "name": "List of known Amazon AWS IP address ranges",
-  "version": 20220703,
+  "version": 20220704,
   "description": "Amazon AWS IP address ranges (https://ip-ranges.amazonaws.com/ip-ranges.json)",
   "type": "cidr",
   "list": [
@@ -3088,6 +3088,7 @@
     "2600:f000::/48",
     "2600:f00c:8000::/48",
     "2600:f00c::/48",
+    "2600:f0f0:1000::/44",
     "2600:f0f0:4000::/44",
     "2606:f40:1001::/48",
     "2606:f40:1::/48",
