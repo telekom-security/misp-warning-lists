@@ -1,6 +1,6 @@
 {
   "name": "List of known Amazon AWS IP address ranges",
-  "version": 20220714,
+  "version": 20220715,
   "description": "Amazon AWS IP address ranges (https://ip-ranges.amazonaws.com/ip-ranges.json)",
   "type": "cidr",
   "list": [
@@ -1388,6 +1388,7 @@
     "15.230.190.128/25",
     "15.230.192.0/24",
     "15.230.193.0/24",
+    "15.230.194.0/24",
     "15.230.195.0/24",
     "15.230.196.0/24",
     "15.230.197.0/24",
