@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20220804,
+  "version": 20220805,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3781,6 +3781,7 @@
     "pacuc.edu.gh",
     "presbyuniversity.edu.gh",
     "regentghana.net",
+    "stu.edu.gh",
     "ttu.edu.gh",
     "trinity.edu.gh",
     "ucc.edu.gh",
@@ -7841,6 +7842,7 @@
     "upsa.es",
     "upv.es",
     "urjc.es",
+    "gsyc.es",
     "url.es",
     "urv.es",
     "usal.es",
