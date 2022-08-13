@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20220813,
+  "version": 20220814,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -4831,6 +4831,7 @@
     "pio.urbe.it",
     "poliba.it",
     "polimi.it",
+    "mail.polimi.it",
     "polito.it",
     "pusc.it",
     "sacrocuore.org",
@@ -9867,6 +9868,7 @@
     "uet.vnu.edu.vn",
     "uni-corvinus.hu",
     "uni-obuda.hu",
-    "uni-bge.hu"
+    "uni-bge.hu",
+    "ufn.edu.br"
   ]
 }
