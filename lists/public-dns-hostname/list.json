@@ -6418,5 +6418,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20220909
+  "version": 20220910
 }
