@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20220913,
+  "version": 20220914,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9869,6 +9869,7 @@
     "uni-corvinus.hu",
     "uni-obuda.hu",
     "uni-bge.hu",
-    "ufn.edu.br"
+    "ufn.edu.br",
+    "iitbbs.ac.in"
   ]
 }
