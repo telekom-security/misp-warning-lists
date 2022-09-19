@@ -1,6 +1,6 @@
 {
   "description": "Event contains one or more entries from the top 1,000,000 most-used sites (Tranco).",
-  "version": 20220919,
+  "version": 20220920,
   "name": "Top 1,000,000 most-used sites from Tranco",
   "type": "hostname",
   "list": [
