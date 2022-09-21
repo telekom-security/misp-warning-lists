@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20220921,
+  "version": 20220922,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -8254,7 +8254,8 @@
     "bahcesehir.edu.tr",
     "balikesir.edu.tr",
     "baskent.edu.tr",
-    "bayar.edu.tr",
+    "mcbu.edu.tr",
+    "cbu.edu.tr",
     "beykent.edu.tr",
     "bilecik.edu.tr",
     "bilgi.edu.tr",
