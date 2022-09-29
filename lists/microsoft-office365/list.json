@@ -18,6 +18,7 @@
     ".cloudapp.net",
     ".compliance.microsoft.com",
     ".cortana.ai",
+    ".ecdn.microsoft.com",
     ".entrust.net",
     ".events.data.microsoft.com",
     ".flow.microsoft.com",
@@ -37,7 +38,6 @@
     ".msauth.net",
     ".msauthimages.net",
     ".msecnd.net",
-    ".msedge.net",
     ".msftauth.net",
     ".msftauthimages.net",
     ".msftidentity.com",
@@ -229,5 +229,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20220929
+  "version": 20220930
 }
