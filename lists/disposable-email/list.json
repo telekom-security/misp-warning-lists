@@ -1822,6 +1822,7 @@
         "mailcatch.com",
         "mailchop.com",
         "mailcker.com",
+        "maildax.me",
         "mailde.de",
         "mailde.info",
         "maildrop.cc",
@@ -3458,5 +3459,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20221013
+    "version": 20221014
 }
