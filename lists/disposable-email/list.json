@@ -554,6 +554,7 @@
         "cbes.net",
         "cc.liamria",
         "ccmail.uk",
+        "cdfaq.com",
         "cdpa.cc",
         "ceed.se",
         "cek.pm",
@@ -2160,6 +2161,7 @@
         "nextmail.info",
         "nextstopvalhalla.com",
         "nezdiro.org",
+        "nezid.com",
         "nezumi.be",
         "nezzart.com",
         "nfast.net",
@@ -3463,5 +3465,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20221026
+    "version": 20221027
 }
