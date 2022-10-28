@@ -213,6 +213,7 @@
         "adobeccepdm.com",
         "adoniswe.us",
         "adpugh.org",
+        "adroh.com",
         "adsd.org",
         "adubiz.info",
         "advantagewe.us",
@@ -1534,6 +1535,7 @@
         "irssi.tv",
         "is.af",
         "isdaq.com",
+        "ishop2k.com",
         "isosq.com",
         "istii.ro",
         "isukrainestillacountry.com",
@@ -3465,5 +3467,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20221028
+    "version": 20221029
 }
