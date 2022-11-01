@@ -218,6 +218,7 @@
     "www.bing.com",
     "www.digicert.com",
     "www.microsoft.com",
+    "www.microsoft365.com",
     "www.onedrive.com",
     "www.outlook.com",
     "www.sway.com"
@@ -229,5 +230,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20221031
+  "version": 20221101
 }
