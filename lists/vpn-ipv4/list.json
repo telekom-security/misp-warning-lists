@@ -10,5 +10,5 @@
     ],
     "name": "Specialized list of IPv4 addresses belonging to common VPN providers and datacenters",
     "type": "cidr",
-    "version": 20221103
+    "version": 20221104
 }
