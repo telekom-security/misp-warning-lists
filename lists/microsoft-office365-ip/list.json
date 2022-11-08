@@ -132,5 +132,5 @@
   ],
   "name": "List of known Office 365 IP address ranges",
   "type": "cidr",
-  "version": 20221107
+  "version": 20221108
 }
