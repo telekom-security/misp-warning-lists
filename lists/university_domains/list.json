@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20221116,
+  "version": 20221117,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9434,6 +9434,14 @@
     "kbcc.cuny.edu",
     "lagcc.cuny.edu",
     "qcc.cuny.edu",
+    "baruch.cuny.edu",
+    "qc.cuny.edu",
+    "citytech.cuny.edu",
+    "ccny.cuny.edu",
+    "brooklyn.cuny.edu",
+    "mec.cuny.edu",
+    "csi.cuny.edu",
+    "macauly.cuny.edu",
     "sunydutchess.edu",
     "flcc.edu",
     "fmcc.edu",
@@ -9872,6 +9880,8 @@
     "uni-bge.hu",
     "ufn.edu.br",
     "iitbbs.ac.in",
-    "sciencespo-rennes.fr"
+    "sciencespo-rennes.fr",
+    "cau.edu",
+    "morehouse.edu"
   ]
 }
