@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20221205,
+  "version": 20221206,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9882,6 +9882,8 @@
     "iitbbs.ac.in",
     "sciencespo-rennes.fr",
     "cau.edu",
-    "morehouse.edu"
+    "morehouse.edu",
+    "audencia.com",
+    "ufromail.cl"
   ]
 }
