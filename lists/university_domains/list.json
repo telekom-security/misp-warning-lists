@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20221211,
+  "version": 20221212,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -2287,6 +2287,7 @@
     "udp.cl",
     "ufinis.cl",
     "ufro.cl",
+    "ufromail.cl",
     "ugm.cl",
     "uisek.cl",
     "ujso.cl",
@@ -5879,6 +5880,7 @@
     "lama.lv",
     "lka.edu.lv",
     "llu.lv",
+    "lbtu.lv",
     "lma.lv",
     "lmuza.lv",
     "lspa.lanet.lv",
@@ -9883,7 +9885,6 @@
     "sciencespo-rennes.fr",
     "cau.edu",
     "morehouse.edu",
-    "audencia.com",
-    "ufromail.cl"
+    "audencia.com"
   ]
 }
