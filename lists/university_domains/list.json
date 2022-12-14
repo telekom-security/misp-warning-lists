@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20221213,
+  "version": 20221214,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -8295,7 +8295,6 @@
     "iticu.edu.tr",
     "itu.edu.tr",
     "iyte.edu.tr",
-    "izmirekonomi.edu.tr",
     "kafkas.edu.tr",
     "karaelmas.edu.tr",
     "khas.edu.tr",
@@ -8827,6 +8826,7 @@
     "medeniyet.edu.tr",
     "istanbul.edu.tr",
     "ikc.edu.tr",
+    "ikcu.edu.tr",
     "karabuk.edu.tr",
     "kmu.edu.tr",
     "kastamonu.edu.tr",
@@ -8862,6 +8862,7 @@
     "rumeli.edu.tr",
     "iszu.edu.tr",
     "ieu.edu.tr",
+    "izmirekonomi.edu.tr",
     "karatay.edu.tr",
     "gidatarim.edu.tr",
     "mef.edu.tr",
@@ -9885,6 +9886,9 @@
     "sciencespo-rennes.fr",
     "cau.edu",
     "morehouse.edu",
-    "audencia.com"
+    "audencia.com",
+    "bakircay.edu.tr",
+    "idu.edu.tr",
+    "tinaztepe.edu.tr"
   ]
 }
