@@ -9,7 +9,7 @@ git checkout redesign
 cd misp-warninglists || exit
 git pull origin
 )
-./.venv_submodule/bin/pip3 install -r misp-warninglists/requirements.txt
+#./.venv_submodule/bin/pip3 install -r misp-warninglists/requirements.txt
 
 
 # generate updated warning lists
