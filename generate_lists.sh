@@ -1,7 +1,6 @@
 #!/bin/bash
 # generate all warning lists in misp-warninglists_submodule and tsec-warninglists
-# export WARNINGLISTS_LOG_FILE="/var/log/misp-warning-lists.log"
-export WARNINGLISTS_LOG_FILE="/home/cenek/dev/misp-warning-lists_github/misp-warning-lists.log"
+export WARNINGLISTS_LOG_FILE="/var/log/misp-warning-lists.log"
 
 source ./tools/log_tools.sh # load function log_command
 
