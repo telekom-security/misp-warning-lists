@@ -15,14 +15,17 @@ The generated warning lists comes from the official [MISP warning list repositor
   - It is expected to be automatically updated very frequently and therefore do not make any changes in there (otherwise automatic updates will be more difficult).
 
 # Operations
-- The script `create_venv.sh` creates two python virtual environments (expect pyenv installed):
+- The project contains submodule and it is not automatically downloaded if you just `$ git clone <url>`
+  - you can either `$ git clone --recurse-submodules <url>`
+  - or
+    - `$ git clone <url>`
+    - `$ git submodule update --init --recursive`
+- The script `create_venv.sh` creates two python virtual environments and install modules from the related requirements.txt:
   - .venv_submodule: for running scripts in the misp-warninglist submodule
   - .venv: for running rest of the application
-- 
+
 
 # Updating warninglists
 - $ bash ./generate_lists.sh
 - $ .venv/bin/python3 merge_lists.py --warninglists misp
 - $ .venv/bin/python3 merge_lists.py --warninglists tsec
-
-

@@ -1,34 +1,15 @@
 #!/bin/bash
 
-################# CONFIG #########################
-
-submodule_python_version='3.10.8'
-submodule_requirements_txt='./misp-warninglists_submodule/requirements.txt'
-
-main_python_version='3.9.15'
+### CONFIG:
+submodule_requirements_txt='./misp-warninglists/requirements.txt'
 main_requirements_txt='./requirements.txt'
 
-###################################################
+##############################
+python3 -m venv .venv_submodule
+.venv_submodule/bin/python3 -m pip install -r $submodule_requirements_txt
+.venv_submodule/bin/python3 -m pip install --upgrade pip
+.venv_submodule/bin/python3 -m pip install pyOpenSSL --upgrade
 
-if ! (pyenv versions | grep $submodule_python_version) ; then
-  pyenv install $submodule_python_version
-fi
-pyenv local $submodule_python_version
-python -m venv .venv_submodule
-.venv_submodule/bin/python -m pip install -r $submodule_requirements_txt
-
-
-if ! pyenv versions | grep $main_python_version; then
-  pyenv install $main_python_version
-fi
-pyenv local $main_python_version
-python -m venv .venv
-.venv/bin/python -m pip install -r $main_requirements_txt
-
-
-########
-# mv .venv_submodule/bin/python .venv_submodule/bin/python_original
-# ln -s "$PWD"/python_wrapper.sh "$PWD"/.venv_submodule/bin/python
-
-
-
+python3 -m venv .venv
+.venv/bin/python3 -m pip install -r $main_requirements_txt
+.venv/bin/python3 -m pip install --upgrade pip
