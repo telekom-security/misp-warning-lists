@@ -18,7 +18,7 @@ ln -s "$PWD"/tools/python_wrapper.sh "$PWD"/.venv_submodule/bin/python
 source .venv_submodule/bin/activate
 start_time=$(date "+%Y-%m-%d %H:%M:%S")
   (
-  cd misp-warninglists_submodule || exit
+  cd misp-warninglists || exit
   # here you can add the scripts for lists.json generation
   log_command bash ./generate_all.sh
   )
@@ -28,7 +28,7 @@ deactivate
 mv .venv_submodule/bin/python_original .venv_submodule/bin/python
 
 # logging of all the lists modified during the misp-warninglist generation
-modified_lists=$(find misp-warninglists_submodule/lists/ -name "list.json" -newermt "$start_time" | paste -sd ";";)
+modified_lists=$(find misp-warninglists/lists/ -name "list.json" -newermt "$start_time" | paste -sd ";";)
 msg="warninglists {'name':'misp-warninglists', 'modified_lists': '${modified_lists}'}"
 log_msg "generator" "INFO" "$msg"
 

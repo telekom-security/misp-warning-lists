@@ -147,7 +147,7 @@ if __name__ == "__main__":
     lists_dir_target = "./lists/"
 
     if args.warninglists == "misp":
-        lists_dir_source = "./misp-warninglists_submodule/lists/"
+        lists_dir_source = "./misp-warninglists/lists/"
         merge_categories = [c.strip() for c in config["MISP-WARNINGLISTS"]["merge_categories"].split(",")]
         warning_categories = [c.strip() for c in config["MISP-WARNINGLISTS"]["warning_categories"].split(",")]
     elif args.warninglists == "tsec":

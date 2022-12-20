@@ -2,11 +2,15 @@
 #$ git pull origin; bash run.sh
 #$ git pull origin && bash run.sh
 
+git checkout redesign
+
 # update submodule repo
 (
-cd misp-warninglists_submodule || exit
+cd misp-warninglists || exit
 git pull origin
 )
+./.venv_submodule/bin/pip3 install -r misp-warninglists/requirements.txt
+
 
 # generate updated warning lists
 bash generate_lists.sh
