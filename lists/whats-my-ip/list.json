@@ -5,6 +5,7 @@
     "2ip.tools",
     "aboutmyip.com",
     "api.ipify.org",
+    "api.myip.com",
     "api.wipmania.com",
     "bearsmyip.com",
     "bot.whatismyipaddress.com",
@@ -33,6 +34,7 @@
     "formyip.com",
     "freegeoip.app",
     "freegeoip.live",
+    "geodatatool.com",
     "geoip.co.uk",
     "geoip.vmn.net",
     "geoiptool.com",
@@ -91,6 +93,7 @@
     "ipinfodb.com",
     "ipleak.net",
     "iplocation.net",
+    "iplogger.org",
     "iplogger.ru",
     "ipmonkey.com",
     "iptrackeronline.com",
@@ -195,6 +198,7 @@
     "tracemyip.com",
     "tracemyip.org",
     "trackip.net",
+    "tunnelbear.com",
     "ultratools.com",
     "utrace.de",
     "v4.ident.me",
@@ -239,5 +243,5 @@
   ],
   "name": "List of known domains to know external IP",
   "type": "hostname",
-  "version": 7
+  "version": 8
 }

@@ -1,0 +1,12 @@
+{
+  "description": "List of IP addresses for known SMTP servers.",
+  "list": [],
+  "matching_attributes": [
+    "ip-src",
+    "ip-dst",
+    "domain|ip"
+  ],
+  "name": "List of known SMTP receiving IP addresses",
+  "type": "cidr",
+  "version": 20221219
+}

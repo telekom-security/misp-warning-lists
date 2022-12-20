@@ -1,0 +1,12 @@
+{
+  "description": "IP addresses that belongs to CRL or OCSP",
+  "list": [],
+  "matching_attributes": [
+    "ip-src",
+    "ip-dst",
+    "domain|ip"
+  ],
+  "name": "CRL and OCSP IP addresses",
+  "type": "cidr",
+  "version": 20221219
+}
