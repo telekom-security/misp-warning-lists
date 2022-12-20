@@ -254,5 +254,5 @@
   ],
   "name": "List of known Stackpath CDN IP ranges",
   "type": "cidr",
-  "version": 20221219
+  "version": 20221220
 }
