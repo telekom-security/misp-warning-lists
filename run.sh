@@ -1,7 +1,7 @@
 #!/bin/bash
 # command to be run by cron: "git pull origin; bash run.sh"
 
-git checkout redesign # just development branch - should be removed in production
+git checkout redesign # just development branch - should be removed in production (similarly "git push" at the end of this script!)
 
 # update submodule sourcecode
 (
@@ -29,4 +29,4 @@ bash generate_lists.sh
 # save lists back to repo
 git add lists/*
 git commit -m"automatic warning-list update"
-git push origin
+git push origin redesign

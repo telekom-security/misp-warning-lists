@@ -519,5 +519,9 @@
   ],
   "name": "Fingerprint of trusted CA certificates",
   "type": "string",
+<<<<<<< HEAD
   "version": 20221221
+=======
+  "version": 20221222
+>>>>>>> refs/remotes/origin/redesign
 }

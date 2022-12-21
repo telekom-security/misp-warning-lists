@@ -7,6 +7,7 @@
     "0.datadog.pool.ntp.org",
     "0.gravatar.com",
     "0.pool.ntp.org",
+    "0272ac85-5199-4024-a555-397c3d825d95.edge.permutive.app",
     "0cf.io",
     "0cf17917-395b-4f25-91cc-db3bdd6044b0.edge.permutive.app",
     "1-courier.push.apple.com",
@@ -207,7 +208,6 @@
     "982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com",
     "a-0001.a-msedge.net",
     "a-0003.a-msedge.net",
-    "a-0003.dc-msedge.net",
     "a-0016.a-msedge.net",
     "a-iad.1rx.io",
     "a-mo.net",
@@ -250,15 +250,16 @@
     "a.tribalfusion.com",
     "a.usbrowserspeed.com",
     "a.vidoomy.com",
+    "a1.adform.net",
     "a1.api.bbc.co.uk",
     "a1.b0e8.com",
     "a1.espncdn.com",
     "a1.nyt.com",
     "a1051.dscw154.akamai.net",
     "a1091.dscw154.akamai.net",
+    "a1158.g.akamai.net",
     "a116.z.akamai.net",
     "a1168.z.akamai.net",
-    "a122.dscd.akamai.net",
     "a122.dscg3.akamai.net",
     "a1241.dsct.akamai.net",
     "a125375509.cdn.optimizely.com",
@@ -267,6 +268,7 @@
     "a13lrv2jf2efa0-ats.iot.us-west-2.amazonaws.com",
     "a1449.dscg2.akamai.net",
     "a158.b.akamai.net",
+    "a1726.g2.akamai.net",
     "a1736.z.akamai.net",
     "a1744.dscw154.akamai.net",
     "a1802.dscw154.akamai.net",
@@ -299,6 +301,7 @@
     "a1rabvci4qcikc.us-east-1.prod.service.minerva.devices.a2z.com",
     "a2.adform.net",
     "a2.espncdn.com",
+    "a202215-context-frontend-prod-2143063850.us-east-1.elb.amazonaws.com",
     "a2047.dscapi9.akamai.net",
     "a2047.mm2.akamai.net",
     "a2047.mm3.akamai.net",
@@ -362,7 +365,10 @@
     "ab3d5pygdag9.na.api.amazonvideo.com",
     "ab9hgnqkqtwh.na.api.amazonvideo.com",
     "aba.gumgum.com",
+<<<<<<< HEAD
     "abcheck.proper.io",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "abcya.com",
     "abebooks.com",
     "ably.io",
@@ -377,6 +383,7 @@
     "accdn.lpsnmedia.net",
     "account-public-service-prod03.ol.epicgames.com",
     "account.activedirectory.windowsazure.com",
+    "account.docusign.com",
     "account.xiaomi.com",
     "accountcapabilities-pa.googleapis.com",
     "accounts.doubleclick.net",
@@ -401,7 +408,6 @@
     "achm-main-ha-a-nlb-1d0e22049c746ef1.elb.us-east-2.amazonaws.com",
     "acp-ss-ue1.adobe.io",
     "acp-ss-va6c2.adobe.io",
-    "acp-ss.adobe.io",
     "acquire.unity3dusercontent.com",
     "acrobat.adobe.com",
     "acrobat.com",
@@ -426,6 +432,7 @@
     "ad-cdn.technoratimedia.com",
     "ad-delivery.net",
     "ad-events.flashtalking.com",
+    "ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com",
     "ad-m.asia",
     "ad-score.com",
     "ad-stir.com",
@@ -686,6 +693,7 @@
     "aliyuncs.com",
     "allawnos.com",
     "alldcs.outbrain.org",
+    "allegro.pl",
     "ally.ac",
     "alocdn.com",
     "aloha46.viber.com",
@@ -728,6 +736,10 @@
     "amazonvideo.com",
     "amcdn.msftauth.net",
     "amcdnmsftuswe.afd.azureedge.net",
+<<<<<<< HEAD
+=======
+    "amcdnmsftuswe.azureedge.net",
+>>>>>>> refs/remotes/origin/redesign
     "amcs-tachyon.com",
     "amd-infra.itunes.apple.com",
     "amd.cdn.turner.com",
@@ -736,6 +748,10 @@
     "americanexpress.com",
     "amp-api-edge-lb.itunes-apple.com.akadns.net",
     "amp-api-edge.apps.apple.com",
+<<<<<<< HEAD
+=======
+    "amp-api-music-lb.itunes-apple.com.akadns.net",
+>>>>>>> refs/remotes/origin/redesign
     "amp-api.apps.apple.com",
     "amp-api.media.apple.com",
     "amp-api.music.apple.com",
@@ -919,7 +935,6 @@
     "api.bazaarvoice.com",
     "api.bbc.co.uk",
     "api.bbci.co.uk",
-    "api.bliink.io",
     "api.bluecore.app",
     "api.bluecore.com",
     "api.boomtrain.com",
@@ -990,6 +1005,7 @@
     "api.login.yahoo.com",
     "api.lunamedia.io",
     "api.mapbox.com",
+    "api.media.atlassian.com",
     "api.mediago.io",
     "api.mi-img.com",
     "api.micloud.xiaomi.net",
@@ -1044,6 +1060,10 @@
     "api.tappx.com",
     "api.target.com",
     "api.teams.skype.com",
+<<<<<<< HEAD
+=======
+    "api.tiles.virtualearth.net",
+>>>>>>> refs/remotes/origin/redesign
     "api.traversedlp.com",
     "api.twitter.com",
     "api.us-east-1.aiv-delivery.net",
@@ -1060,6 +1080,7 @@
     "api0.weather.com",
     "api1.akamaiedge.net",
     "api1.origin.com",
+    "api1.weather.com",
     "api16-access-gcp.pangle-b.io",
     "api16-access-gcp.pangle.io",
     "api16-access-sg.pangle-b.io",
@@ -1075,6 +1096,7 @@
     "api19-normal-c-useast1a.tiktokv.com",
     "api2.amplitude.com",
     "api2.branch.io",
+    "api2.weather.com",
     "api22-core-c-useast1a.tiktokv.com",
     "api22-core-c-useast2a.tiktokv.com",
     "api22-core.tiktokv.com",
@@ -1083,6 +1105,7 @@
     "api3-cc-skype.trafficmanager.net",
     "api3.cc.skype.com",
     "api3.siftscience.com",
+    "api3.weather.com",
     "api31-core-useast1a.tiktokv.com",
     "api31-normal-useast1a.tiktokv.com",
     "api39-va.gts.byteoversea.net",
@@ -1104,6 +1127,7 @@
     "app-measurement.com",
     "app-site-association.cdn-apple.com",
     "app-site-association.g.aaplimg.com",
+    "app-snaps.ring.com",
     "app-us1.com",
     "app.adjust.com",
     "app.adjust.net.in",
@@ -1121,7 +1145,10 @@
     "app.smartsheet.com",
     "app.snapchat.com",
     "app.ssp.yahoo.com",
+<<<<<<< HEAD
     "app.whiteboard.microsoft.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "appboot.netflix.com",
     "appboy.com",
     "appboycdn.com",
@@ -1271,9 +1298,13 @@
     "as.criteo.net",
     "as.jivox.com",
     "ase.autodesk.com",
+<<<<<<< HEAD
     "ash.creativecdn.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "asia.pool.ntp.org",
     "asimov.events.data.trafficmanager.net",
+    "ask.com",
     "asm-api-golocal-geo-am-teams.trafficmanager.net",
     "asm-api-prod-geo-am-skype.trafficmanager.net",
     "asm.skype.com",
@@ -1320,8 +1351,8 @@
     "atdmt.com",
     "atemda.com",
     "atl-paas.net",
-    "atlanticmedia.map.fastly.net",
     "atlas.samsung.com",
+    "atlasobscura.com",
     "atlassian.com",
     "atlassian.net",
     "atm-fp-direct.office.com",
@@ -1502,7 +1533,10 @@
     "bbb.org",
     "bbc.co.uk",
     "bbc.com",
+<<<<<<< HEAD
     "bbc.map.fastly.net",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "bbci.co.uk",
     "bc0a.com",
     "bcbolt446c5271-a.akamaihd.net",
@@ -1542,6 +1576,7 @@
     "behave.com",
     "beintoo.com",
     "bentley.com",
+    "bereal.com",
     "bereal.network",
     "bestbuy.com",
     "beta.clever.com",
@@ -1556,6 +1591,7 @@
     "bg.apr-52dd2-0503.edgecastdns.net",
     "bh-xandr.contextweb.com",
     "bh.contextweb.com",
+    "bhphotovideo.com",
     "bid.contextweb.com",
     "bid.g.doubleclick.net",
     "bidder.criteo.com",
@@ -1599,11 +1635,10 @@
     "bktr2-06hdl.ads.tremorhub.com",
     "bl1-us.dyntrk.com",
     "blackbox.dropbox-dns.com",
-    "blackcrow.ai",
     "blackspider.com",
     "bldrdoc.gov",
     "bleacherreport.com",
-    "bliink.io",
+    "blind-magazine.com",
     "blinkforhome.com",
     "blismedia.com",
     "blisspointmedia.com",
@@ -1627,6 +1662,7 @@
     "bluekai.com.edgekey.net",
     "bnmla.com",
     "board-a.wbx2.com",
+    "bob.dmpxs.com",
     "bobdi-exter-1vqeilnw5zym1-5134ab8e5a874149.elb.us-east-1.amazonaws.com",
     "bofa.demdex.net",
     "boldchat.com",
@@ -1670,7 +1706,10 @@
     "brightcombid.marphezis.com",
     "brightcove.com",
     "brightcove.net",
+<<<<<<< HEAD
     "brightline.tv",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "brightspotcdn.com",
     "brilliantcollector.com",
     "broadband.espn.com",
@@ -1706,7 +1745,10 @@
     "buy.itunes-apple.com.akadns.net",
     "buy.itunes.apple.com",
     "buy.tinypass.com",
+<<<<<<< HEAD
     "buzzfeed.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "by2.uservoice.com",
     "byoip.nt.meraki.com",
     "bytedance.com",
@@ -1738,6 +1780,7 @@
     "c.betrad.com",
     "c.bing.com",
     "c.bytetcdn.com",
+    "c.cintnetworks.com",
     "c.clarity.ms",
     "c.clicktale.net",
     "c.contentsquare.net",
@@ -1803,6 +1846,7 @@
     "c6.paypal.com",
     "c6.rbxcdn.com",
     "c7.rbxcdn.com",
+    "ca.gov",
     "ca.iadsdk.apple.com",
     "ca.slack-edge.com",
     "ca4-bid.adsrvr.org",
@@ -1827,7 +1871,6 @@
     "calliope-anycast.prod.infra.webex.com",
     "callrail.com",
     "cameraddns.net",
-    "campaign.adobe.com",
     "canva.com",
     "canvas-user-content.com",
     "canvas.apps.chrome",
@@ -1848,7 +1891,6 @@
     "captive.roku.com",
     "capture.trackjs.com",
     "carbonblack.io",
-    "cardcritics.com",
     "carddav.address.yahoo.com",
     "cardlytics.com",
     "carrierbundle-cdn.itunes-apple.com.akadns.net",
@@ -1873,13 +1915,19 @@
     "cc-api-storage.adobe.io",
     "cc.adingo.jp",
     "cc.skype.com",
+<<<<<<< HEAD
     "ccext-cdn.adobecces.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "ccext-static.adobecces.com",
     "ccext.adobecces.com",
     "ccgateway.net",
     "cchome.adobe.io",
     "cclibraries-defaults-cdn.adobe.com",
+<<<<<<< HEAD
     "ccmdls.adobe.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "cctypekit.adobe.io",
     "cd.connatix.com",
     "cdc.carbonblack.io",
@@ -1897,6 +1945,7 @@
     "cdn-ffc.oobesaas.adobe.com",
     "cdn-gl.imrworldwide.com",
     "cdn-icloud-content.g.aaplimg.com",
+    "cdn-ima.33across.com",
     "cdn-images.mailchimp.com",
     "cdn-lb.vungle.com",
     "cdn-magiclinks.trackonomics.net",
@@ -2018,7 +2067,10 @@
     "cdn.pendo.io",
     "cdn.permutive.com",
     "cdn.piano.io",
+<<<<<<< HEAD
     "cdn.playwire.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "cdn.polyfill.io",
     "cdn.privacy-mgmt.com",
     "cdn.prod.uidapi.com",
@@ -2039,16 +2091,22 @@
     "cdn.smoot.g.aaplimg.com",
     "cdn.solvvy.com",
     "cdn.speedcurve.com",
+<<<<<<< HEAD
     "cdn.spotxcdn.com",
     "cdn.sstatic.net",
     "cdn.stackadapt.com",
     "cdn.statically.io",
+=======
+    "cdn.sstatic.net",
+    "cdn.stackadapt.com",
+>>>>>>> refs/remotes/origin/redesign
     "cdn.stickyadstv.com",
     "cdn.syndication.twimg.com",
     "cdn.taboola.com",
     "cdn.tinypass.com",
     "cdn.tt.omtrdc.net",
     "cdn.turner.com",
+    "cdn.ultipro.com",
     "cdn.undertone.com",
     "cdn.userway.org",
     "cdn.viber.com",
@@ -2155,7 +2213,10 @@
     "checkip.dyndns.org",
     "checkout.stripe.com",
     "cheqzone.com",
+<<<<<<< HEAD
     "chicagomag.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "chifsr.lenovomm.com",
     "chimpstatic.com",
     "chipmunk.grammarly.com",
@@ -2172,6 +2233,7 @@
     "ci4.googleusercontent.com",
     "ci5.googleusercontent.com",
     "ci6.googleusercontent.com",
+    "cintnetworks.com",
     "cisco-my.sharepoint.com",
     "cisco.com",
     "cisco.com.akadns.net",
@@ -2212,6 +2274,7 @@
     "clearbit.com",
     "clever-partner-images.s3.amazonaws.com",
     "clever.com",
+    "clevertap-prod.com",
     "clickagy.com",
     "clickcease.com",
     "clickcertain.com",
@@ -2286,7 +2349,6 @@
     "clump.dprodmgd105.aa-rt.sharepoint.com",
     "clump.prod.aa-rt.sharepoint.com",
     "cluster.b.redcloak.secureworks.com",
-    "cluster90-elbwpeel-1wkrq6ta3otxb-502717442.us-east-1.elb.amazonaws.com",
     "clusters.pluto.tv",
     "cm-exchange.toast.com",
     "cm-supply-web.gammaplatform.com",
@@ -2329,7 +2391,6 @@
     "cnv.event.prod.bidr.io",
     "co1.qualtrics.com",
     "cobaltgroup.com",
-    "codastory.com",
     "code.createjs.com",
     "code.jquery.com",
     "code.visualstudio.com",
@@ -2430,7 +2491,6 @@
     "config.edge.skype.com.trafficmanager.net",
     "config.emb-api.com",
     "config.fp.measure.office.com",
-    "config.gorgias.chat",
     "config.inmobi.com",
     "config.mobile.yahoo.com",
     "config.office.akadns.net",
@@ -2443,7 +2503,10 @@
     "config.uca.cloud.unity3d.com",
     "config.unityads.unity3d.com",
     "config2.mparticle.com",
+<<<<<<< HEAD
     "configcat.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "configsvc.cs.roku.com",
     "configsvc1.live.com.akadns.net",
     "configuration.apple.com",
@@ -2509,6 +2572,7 @@
     "contentsquare.net",
     "contentstack.io",
     "contentsync.onenote.com",
+    "context.news",
     "contextual-analytics.wunderkind.co",
     "contextual.media.net",
     "contextweb.com",
@@ -2530,7 +2594,6 @@
     "cookieless-data.com",
     "cookiepro.com",
     "cookies.nextmillmedia.com",
-    "cookiesync.api.bliink.io",
     "cookiesyncing-1395500543.us-east-1.elb.amazonaws.com",
     "cooladata.kampyle.com",
     "coolmathgames.com",
@@ -2577,6 +2640,7 @@
     "crazyegg.com",
     "crb.kargo.com",
     "crcdn01.adnxs-simple.com",
+    "crcdn01.adnxs.com",
     "createjs.com",
     "createpdf.acrobat.com",
     "creative-serving.com",
@@ -2643,6 +2707,10 @@
     "cs1404.wpc.epsiloncdn.net",
     "cs2-wac.apr-8315.edgecastdns.net",
     "cs22.wpc.v0cdn.net",
+<<<<<<< HEAD
+=======
+    "cs45.wac.edgecastcdn.net",
+>>>>>>> refs/remotes/origin/redesign
     "cs9.wac.phicdn.net",
     "cs9.wpc.v0cdn.net",
     "csc3-2004-crl.verisign.com",
@@ -2777,6 +2845,7 @@
     "datarouter.ol.epicgames.com",
     "dataservice.protection.outlook.com",
     "dataservices.hp.com",
+    "datasteam.io",
     "datastream.stylitics.com",
     "datatables.net",
     "datto.com",
@@ -2889,7 +2958,12 @@
     "dianomi.com",
     "diffuser-cdn.app-us1.com",
     "dig.us.tiktokv.com",
+    "digbearings.com",
     "digicert.com",
+<<<<<<< HEAD
+=======
+    "digikey.com",
+>>>>>>> refs/remotes/origin/redesign
     "digital-cloud-gov.medallia.com",
     "digital-cloud-ibm.medallia.eu",
     "digital-cloud-west.medallia.com",
@@ -2959,6 +3033,7 @@
     "dmp.truoptik.com",
     "dmplite.profiles.tagger.opecloud.com",
     "dmplite.tagger.opecloud.com",
+    "dmpxs.com",
     "dms-akam.licdn.com",
     "dms-mcdn-report.wc.yahoodns.net",
     "dms.licdn.com",
@@ -2983,6 +3058,10 @@
     "do.dsp.mp.microsoft.com.edgekey.net",
     "do.dsp.trafficmanager.net",
     "doceree.com",
+<<<<<<< HEAD
+=======
+    "docker.com",
+>>>>>>> refs/remotes/origin/redesign
     "docs.google.com",
     "docs.live.net",
     "docucdn-a.akamaihd.net",
@@ -3002,11 +3081,13 @@
     "dotomi.weighted.com.akadns.net",
     "doubleclick.net",
     "doubleverify.com",
+<<<<<<< HEAD
     "download-installer.cdn.mozilla.net",
     "download.gfe.nvidia.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "download.lenovo.com",
     "download.microsoft.com",
-    "download.mozilla.org",
     "download.windowsupdate.com",
     "download.windowsupdate.com.c.footprint.net",
     "download.windowsupdate.com.edgesuite.net",
@@ -3107,6 +3188,10 @@
     "dual.dotomi.weighted.com.akadns.net",
     "dualstack.com.imgix.map.fastly.net",
     "dualstack.eu-west-1.amazonaws.com",
+<<<<<<< HEAD
+=======
+    "dualstack.f6.shared.global.fastly.net",
+>>>>>>> refs/remotes/origin/redesign
     "dualstack.guardian.map.fastly.net",
     "dualstack.pinterest.map.fastly.net",
     "dualstack.polyfill.map.fastly.net",
@@ -3269,6 +3354,7 @@
     "e40491.dscg.akamaiedge.net",
     "e40491.g.akamaiedge.net",
     "e4113.dscd.akamaiedge.net",
+    "e4437.dscf.akamaiedge.net",
     "e4478.dscb.akamaiedge.net",
     "e4518.dscapi7.akamaiedge.net",
     "e4518.dscx.akamaiedge.net",
@@ -3309,6 +3395,7 @@
     "e8960.e2.akamaiedge.net",
     "e9.whatsapp.net",
     "e9126.x.akamaiedge.net",
+    "e9631.j.akamaiedge.net",
     "e9659.dspg.akamaiedge.net",
     "e9957.b.akamaiedge.net",
     "e9957.d.akamaiedge.net",
@@ -3325,7 +3412,6 @@
     "eb2.3lift.com",
     "ebay.com",
     "ebayadservices.com",
-    "ebaydesc.com",
     "ebayimg.com",
     "ebayrtm.com",
     "ebaystatic.com",
@@ -3336,6 +3422,7 @@
     "ecdinterface.philips.com",
     "ecdns.net",
     "ecn-us.dev.virtualearth.net",
+    "ecn.api.tiles.virtualearth.net",
     "ecn.dev.virtualearth.net",
     "economy.roblox.com",
     "ecp.yusercontent.com",
@@ -3407,7 +3494,6 @@
     "eligibility.wootric.com",
     "eloqua.com",
     "email.aboutamazon.com",
-    "emarsys.net",
     "emb-api.com",
     "embed-ssl.wistia.com",
     "embed.tawk.to",
@@ -3509,6 +3595,10 @@
     "eu.criteo.net",
     "eu.freshpops.net",
     "eu.pendo.io",
+<<<<<<< HEAD
+=======
+    "eu.pushmeup.bar",
+>>>>>>> refs/remotes/origin/redesign
     "eu01.nr-data.net",
     "eu1.dyntrk.com",
     "euaz.relay.teams.microsoft.com",
@@ -3555,6 +3645,7 @@
     "events.release.narrativ.com",
     "events.split.io",
     "events.tremorhub.com",
+    "events.xg4ken.com",
     "events3.adcolony.com",
     "events3alt.adcolony.com",
     "eventsinkgw.us-east-1.gws.ring.com",
@@ -3574,6 +3665,7 @@
     "evt-us.ds.corp.zoom.us",
     "evt.undertone.com",
     "ewr-rtb1.rfihub.com",
+    "ex.co",
     "ex.ingage.tech",
     "exactag.com",
     "example.org",
@@ -3624,6 +3716,7 @@
     "f.media-amazon.com",
     "f.monetate.net",
     "f.vimeocdn.com",
+    "f.wishabi.net",
     "f6.shared.global.fastly.net",
     "f7y3z2w8.hwcdn.net",
     "fa000000002.resources.office.net",
@@ -3638,7 +3731,10 @@
     "fa000000070.resources.office.net",
     "fa000000074.resources.office.net",
     "fa000000085.resources.office.net",
+<<<<<<< HEAD
     "fa000000096.resources.office.net",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "fa000000105.resources.office.net",
     "fa000000110.resources.office.net",
     "fa000000111.resources.office.net",
@@ -3650,7 +3746,10 @@
     "fallback.c10r.facebook.com",
     "familyshield.opendns.com",
     "fan.api.espn.com",
+<<<<<<< HEAD
     "fandom.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "farm.dprodmgd105.aa-rt.sharepoint.com",
     "farm.dprodmgd105.sharepointonline.com.akadns.net",
     "farm.plista.com",
@@ -3671,7 +3770,10 @@
     "fastly-insights.com",
     "fastly-masque.net",
     "fastly.net",
+<<<<<<< HEAD
     "fave.api.cnn.io",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "faves.grow.me",
     "favicon.yandex.net",
     "fb.blooket.com",
@@ -3761,6 +3863,7 @@
     "firebaseremoteconfig.googleapis.com",
     "firebasestorage.googleapis.com",
     "fireeye.com",
+    "firefox-settings-attachments.cdn.mozilla.net",
     "firefox.com",
     "firefox.settings.services.mozilla.com",
     "firehose.us-east-1.amazonaws.com",
@@ -3776,7 +3879,6 @@
     "flask.nextdoor.com",
     "flask.us.nextdoor.com",
     "fledge-usa.creativecdn.com",
-    "flickr.com",
     "flightproxy.teams.microsoft.com",
     "flightproxy.teams.trafficmanager.net",
     "flint.defybrick.com",
@@ -3796,7 +3898,6 @@
     "fmipalservice.fe.apple-dns.net",
     "fmipalservice.icloud.com",
     "fmipmobile.fe.apple-dns.net",
-    "fmipmobile.icloud.com",
     "fn-pz.com",
     "fna.fbcdn.net",
     "fna.whatsapp.net",
@@ -3875,6 +3976,8 @@
     "fs.microsoft.com.akadns.net",
     "fs1.hubspotusercontent-na1.net",
     "fsc.fitbit.com",
+    "ft.device9.com",
+    "ftadsrv.com",
     "ftl.netflix.com",
     "ftl.nflxvideo.net",
     "ftp.ext.hp.com",
@@ -3882,6 +3985,10 @@
     "fullstory.com",
     "functional.events.data.microsoft.com",
     "fundingchoicesmessages.google.com",
+<<<<<<< HEAD
+=======
+    "futureelectronics.com",
+>>>>>>> refs/remotes/origin/redesign
     "fw.adsafeprotected.com",
     "fw.ring.com",
     "fwgtm.akadns.net",
@@ -3959,7 +4066,6 @@
     "gcp.lineate-33x.net",
     "gcpsg.byteoversea.net",
     "gcs-eu-00002.content-storage-upload.googleapis.com",
-    "gcs-us-00003.content-storage-download.googleapis.com",
     "gcs-us-00003.content-storage-upload.googleapis.com",
     "gcs.sc-cdn.net",
     "gdmf.apple.com",
@@ -3997,7 +4103,6 @@
     "geoar.googleapis.com",
     "geoedge.be",
     "geogslb.com",
-    "geolocation-recommendations.shopifyapps.com",
     "geolocation.onetrust.com",
     "geomobileservices-pa.googleapis.com",
     "geotrust.com",
@@ -4102,6 +4207,7 @@
     "goguardian.com",
     "goo.gl",
     "goodreads.com",
+    "goofy-cdn.com",
     "googl.com",
     "google-analytics.com",
     "google-bidout-d.openx.net",
@@ -4260,7 +4366,10 @@
     "h.online-metrix.net",
     "h.parrable.com",
     "h.w55c.net",
+<<<<<<< HEAD
     "h2.condenast.map.fastly.net",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "h2.shared.global.fastly.net",
     "h20572.www2.hp.com",
     "ha-a-locus.wbx2.com",
@@ -4288,6 +4397,7 @@
     "hbo.com",
     "hbopenbid.pubmatic.com",
     "hbprebid-v3.pubmnet.com",
+    "hbr.org",
     "hbrc.pubnative.net",
     "hbrcv.adobe.com",
     "hbrt.adobe.com",
@@ -4313,7 +4423,6 @@
     "herokudns.com",
     "hex01.helix.apps.fireeye.com",
     "hexagon-analytics.com",
-    "hextom.com",
     "heytapdl.com",
     "heytapmobi.com",
     "heytapmobile.com",
@@ -4349,6 +4458,7 @@
     "hotmail.com",
     "hp.com",
     "hpanalytics.net",
+    "hpcloud.hp.com",
     "hpconnected.com",
     "hpdaas.com",
     "hpeprint.com",
@@ -4399,6 +4509,7 @@
     "i.e-planning.net",
     "i.ebayimg.com",
     "i.etsystatic.com",
+    "i.geistm.com",
     "i.imgur.com",
     "i.instagram.com",
     "i.l.inmobicdn.net",
@@ -4492,7 +4603,6 @@
     "identrust.com",
     "idm.iot.mi.com",
     "idms-apple.com.akadns.net",
-    "idp.classlink.com",
     "idp.liveperson.net",
     "idpix.media6degrees.com",
     "idr.cdnwidget.com",
@@ -4794,7 +4904,10 @@
     "ixl.com",
     "izatcloud.net",
     "j.6sc.co",
+<<<<<<< HEAD
     "j.adlooxtracking.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "j.akamaiedge.net",
     "j.clarity.ms",
     "j.mrpdata.net",
@@ -4810,12 +4923,15 @@
     "japaneast.cloudapp.azure.com",
     "japanwest.cloudapp.azure.com",
     "javadl-esd-secure.oracle.com",
+<<<<<<< HEAD
+=======
+    "jelly.mdhv.io",
+>>>>>>> refs/remotes/origin/redesign
     "jetbrains.com",
     "jill.fc.yahoo.com",
     "jimapinternal-aol.imap.mail.g03.yahoodns.net",
     "jimapinternal.imap.mail.g03.yahoodns.net",
     "jivox.com",
-    "jixie.io",
     "jnn-pa.googleapis.com",
     "joinhoney.com",
     "journey.pcms.apple.com",
@@ -4925,7 +5041,6 @@
     "kt-prod.ess.apple.com",
     "kt-prod.v.aaplimg.com",
     "ktpx.amazon.com",
-    "kustomerapp.com",
     "kv501.prod.do.dsp.mp.microsoft.com",
     "kv601.prod.do.dsp.mp.microsoft.com",
     "kv801.prod.do.dsp.mp.microsoft.com",
@@ -4954,6 +5069,7 @@
     "la-vid-events.taboola.com",
     "la-wf.taboola.com",
     "lab.amplitude.com",
+    "lacounty-my.sharepoint.com",
     "ladsp.com",
     "lakesidesoftware.com",
     "lamssettings-pa.googleapis.com",
@@ -4997,6 +5113,10 @@
     "lf16-geckocdn-sg.tiktokcdn.com",
     "lf16-geckocdn.bytegecko-i18n.com",
     "lf16-geckocdn.tiktokcdn-us.com",
+<<<<<<< HEAD
+=======
+    "lf16-oversea.goofy-cdn.com",
+>>>>>>> refs/remotes/origin/redesign
     "lf16-tiktok-common.ttwstatic.com",
     "lf16-tiktok-web.tiktokcdn-us.com",
     "lf16-tiktok-web.ttwstatic.com",
@@ -5029,13 +5149,11 @@
     "libra16-normal-useast1a.tiktokv.com",
     "libra16-platform-useast5.us.tiktokv.com",
     "libra22-normal-useast1a.tiktokv.com",
-    "libraries.adobe.io",
     "libs.outbrain.com",
     "licasd.com",
     "licdn.com",
     "licenses.adobe.com",
     "licensing-prod-frontdoor-geomap.trafficmanager.net",
-    "licensing.bitmovin.com",
     "licensing.commerce.microsoft.com",
     "licensing.mp.microsoft.com",
     "life360.com",
@@ -5107,6 +5225,10 @@
     "locketcamera.com",
     "locus-a.wbx2.com",
     "locus-b.wbx2.com",
+<<<<<<< HEAD
+=======
+    "log-ingestion.samsungacr.com",
+>>>>>>> refs/remotes/origin/redesign
     "log.go.com",
     "log.outbrain.com",
     "log.outbrainimg.com",
@@ -5121,7 +5243,6 @@
     "logfiles.zoom.us",
     "logger.adthrive.com",
     "logging-service-prod.getepic.com",
-    "loggly.com",
     "login-ds.dotomi.com",
     "login.aol.com",
     "login.dotomi.com",
@@ -5228,17 +5349,20 @@
     "malwarebytes.com",
     "mamservice.manage.microsoft.com",
     "mamwelsprodsharedtm.trafficmanager.net",
+<<<<<<< HEAD
     "manage-beta.microsoft.com",
     "manage-dogfood.microsoft.com",
     "manage-pe.trafficmanager.net",
     "manage-ppe.microsoft.us",
     "manage-selfhost.microsoft.com",
+=======
+    "manage-pe.trafficmanager.net",
+>>>>>>> refs/remotes/origin/redesign
     "manage.agent-cluster1.prod.us001-prod.arcticwolf.net",
     "manage.agent-cluster2.prod.us001-prod.arcticwolf.net",
     "manage.agent-cluster3.prod.us001-prod.arcticwolf.net",
     "manage.devcenter.microsoft.com",
     "manage.microsoft.com",
-    "manage.microsoft.us",
     "manage.office.com",
     "manage.trellix.com",
     "manageengine.com",
@@ -5251,7 +5375,6 @@
     "maps.google.com",
     "maps.googleapis.com",
     "maps.windows.com",
-    "market-global.smrtb.com",
     "market-trk.com",
     "market.viber.com",
     "market.xiaomi.com",
@@ -5294,7 +5417,6 @@
     "mc.yandex.com",
     "mc.yandex.ru",
     "mcc310.pub.3gppnetwork.org",
-    "mcdonalds.com",
     "mcdp-chidc2.outbrain.com",
     "mcdp-nydc1.outbrain.com",
     "mcdp-sadc1.outbrain.com",
@@ -5331,9 +5453,11 @@
     "media-private.canva.com",
     "media-public.canva.com",
     "media-us1.digital.nuance.com",
+    "media.admob.com",
     "media.akamai.odsp.cdn.office.net",
     "media.amazon.map.fastly.net",
     "media.apple.com",
+    "media.atlassian.com",
     "media.bidr.io",
     "media.bleacherreport.com",
     "media.blooket.com",
@@ -5480,6 +5604,7 @@
     "mobile-webview.gmail.com",
     "mobile.adsafeprotected.com",
     "mobile.att.net",
+    "mobile.bereal.com",
     "mobile.crashtracking.prod.ring.com",
     "mobile.eum-appdynamics.com",
     "mobile.events.data.microsoft.com",
@@ -5651,7 +5776,10 @@
     "n-able.com",
     "n.clarity.ms",
     "n.sni.global.fastly.net",
+<<<<<<< HEAD
     "na-eu.atlanticmedia.map.fastly.net",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "na-ice.360yield.com",
     "na-library.klarnaservices.com",
     "na-migration.gateway.devices.a2z.com",
@@ -5718,6 +5846,7 @@
     "nest.com",
     "net-c.edgesuite.net.globalredir.akadns.net",
     "net.akadns.net",
+    "net.akamaized.net",
     "net.anydesk.com",
     "net.b-0016.b-dc-msedge.net.b-0016.b-msedge.net",
     "net.b-0016.b-msedge.net",
@@ -5740,6 +5869,7 @@
     "network.bazaarvoice.com",
     "networking.aws.dev",
     "networksdk.ssacdn.com",
+    "neutral.ttwstatic.com",
     "new-fp-shed.wg1.b.yahoo.com",
     "newrelic.com",
     "newrelic.com.cdn.cloudflare.net",
@@ -5791,6 +5921,10 @@
     "nleditor.osi.office.net",
     "nmcsync.imrworldwide.com",
     "noam.events.data.microsoft.com",
+<<<<<<< HEAD
+=======
+    "noam.presence.services.sfb.trafficmanager.net",
+>>>>>>> refs/remotes/origin/redesign
     "noam.presence.teams.microsoft.com",
     "nocookie.net",
     "node.e2ro.com",
@@ -5843,7 +5977,10 @@
     "ntp-g7g.amazon.com",
     "ntp.msn.com",
     "ntp.org",
+<<<<<<< HEAD
     "ntp.org.cn",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "ntv.io",
     "ntvcld-a.akamaihd.net",
     "nuance.com",
@@ -5862,6 +5999,7 @@
     "nytimes.map.fastly.net",
     "nytrng.com",
     "o.aolcdn.com",
+    "o.cmp.advertising.com",
     "o.lencr.edgesuite.net",
     "o.lencr.org",
     "o.ss2.us",
@@ -6008,6 +6146,10 @@
     "onedriveclubprodbn20024.blob.core.windows.net",
     "onedriveclubprodbn20025.blob.core.windows.net",
     "onedriveclubprodbn20026.blob.core.windows.net",
+<<<<<<< HEAD
+=======
+    "onedriveclubprodbn20027.blob.core.windows.net",
+>>>>>>> refs/remotes/origin/redesign
     "onedriveclubprodbn20028.blob.core.windows.net",
     "onedriveclubprodbn20029.blob.core.windows.net",
     "onedriveclubprodbn20032.blob.core.windows.net",
@@ -6062,6 +6204,10 @@
     "onedriveclubproddm20035.blob.core.windows.net",
     "onedriveclubproddm20036.blob.core.windows.net",
     "onedriveclubproddm20037.blob.core.windows.net",
+<<<<<<< HEAD
+=======
+    "onedriveclubproddm20038.blob.core.windows.net",
+>>>>>>> refs/remotes/origin/redesign
     "onedriveclubproddm20039.blob.core.windows.net",
     "onedriveclubproddm20040.blob.core.windows.net",
     "onedriveclubproddm20041.blob.core.windows.net",
@@ -6234,6 +6380,7 @@
     "outcome-cdn.supersonicads.com",
     "outcome-ssp.supersonicads.com",
     "outlook-1.cdn.office.net",
+    "outlook-g.trafficmanager.net",
     "outlook.com",
     "outlook.ha.office365.com",
     "outlook.live.com",
@@ -6284,7 +6431,6 @@
     "p13n.adobe.io",
     "p13nlog-1106815646.us-east-1.elb.amazonaws.com",
     "p16-amd-va.tiktokcdn.com",
-    "p16-oec-va.ibyteimg.com",
     "p16-sg.tiktokcdn.com",
     "p16-sign-sg.tiktokcdn.com",
     "p16-sign-va.tiktokcdn.com",
@@ -6505,8 +6651,6 @@
     "pixel.wp.com",
     "pixel.yabidos.com",
     "pixels.ad.gt",
-    "pixlee.co",
-    "pixlee.com",
     "pki-goog.l.google.com",
     "pki.goog",
     "pki.strln.net",
@@ -6558,6 +6702,10 @@
     "playerserver.walkme.com",
     "playfabapi.com",
     "playground.xyz",
+<<<<<<< HEAD
+=======
+    "playstation.com",
+>>>>>>> refs/remotes/origin/redesign
     "playstation.net",
     "playtime.tubemogul.com",
     "playwire.com",
@@ -6593,12 +6741,15 @@
     "pool.ntp.org",
     "popin.cc",
     "portal.fb.com",
+<<<<<<< HEAD
     "portal.manage-beta.microsoft.com",
     "portal.manage-dogfood.microsoft.com",
     "portal.manage-ppe.microsoft.us",
     "portal.manage-selfhost.microsoft.com",
     "portal.manage.microsoft.com",
     "portal.manage.microsoft.us",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "portal.office.com",
     "post.update.rubiconproject.com",
     "postnav-edge.smartscreen.microsoft.com",
@@ -6610,13 +6761,13 @@
     "powerreviews.com",
     "powerschool.com",
     "pp-m.ns1p.net",
-    "ppo.glb.paypal.com",
     "pps.whatsapp.net",
     "pptservicescast.officeapps.live.com",
     "pptsgs.officeapps.live.com",
     "pr-bh.ybp.yahoo.com",
     "pr.comet.yahoo.com",
     "pr.ybp.yahoo.com",
+    "prd-api-us.prd.rings.solutions",
     "prd.aadg.akadns.net",
     "prd.aadg.trafficmanager.net",
     "prd.ags.akadns.net",
@@ -6702,6 +6853,10 @@
     "prod-m-node-1213.ssp.yahoo.com",
     "prod-ms.applovin.com",
     "prod-na.naturallanguageeditorservice.osi.office.net.akadns.net",
+<<<<<<< HEAD
+=======
+    "prod-na.turntable.sonic.advertising.amazon.dev",
+>>>>>>> refs/remotes/origin/redesign
     "prod-news-edge.v.aaplimg.com",
     "prod-rel-ffc-ccm.oobesaas.adobe.com",
     "prod-scout-reg.rootsoc.com",
@@ -7041,18 +7196,20 @@
     "push-rtmp-l16-va01.tiktokcdn.com.atomile.com",
     "push-rtmp-l77-va01.tiktokcdn.com",
     "push.apple.com",
-    "push.hicloud.com",
     "push.prod.dradis.netflix.com",
     "push.prod.netflix.com",
     "push.samsungosp.com",
     "push.services.mozilla.com",
     "pushclk.com",
     "pusher.com",
-    "pusher.uber.com",
     "pusherapp.com",
     "pushimg.com",
     "pushlycdn.com",
     "pushmessage.samsung.com",
+<<<<<<< HEAD
+=======
+    "pushmeup.bar",
+>>>>>>> refs/remotes/origin/redesign
     "pushnami.com",
     "pushnetwork.com",
     "pushnp.svc.ms",
@@ -7123,8 +7280,13 @@
     "queryly.com",
     "queue-it.net",
     "quic-core-sg-proxy-gcp.gcpsg.byteoversea.net",
+    "quicksilver.scdn.co",
     "quiddity.goguardian.com",
+<<<<<<< HEAD
     "quizizz.com",
+=======
+    "quilvem.com",
+>>>>>>> refs/remotes/origin/redesign
     "quizlet.com",
     "quora.com",
     "quoracdn.net",
@@ -7211,7 +7373,6 @@
     "redditmedia.com",
     "redditstatic.com",
     "redinuid.imrworldwide.com",
-    "redirect.frontend.weborama.fr",
     "redirector.googlevideo.com",
     "redirector.gvt1.com",
     "redoak.target.com",
@@ -7403,6 +7564,10 @@
     "rum.browser-intake-datadoghq.com",
     "rum14.perf.linkedin.com",
     "rum15.perf.linkedin.com",
+<<<<<<< HEAD
+=======
+    "rum20.perf.linkedin.com",
+>>>>>>> refs/remotes/origin/redesign
     "rumcdn.geoedge.be",
     "rundsp.com",
     "rupload.facebook.com",
@@ -7452,6 +7617,7 @@
     "s.ns1p.net",
     "s.ntv.io",
     "s.pinimg.com",
+    "s.quilvem.com",
     "s.seedtag.com",
     "s.skimresources.com",
     "s.spotim.market",
@@ -7577,6 +7743,10 @@
     "sc-static.net",
     "sc.iasds01.com",
     "sc.omtrdc.net",
+<<<<<<< HEAD
+=======
+    "sc.zoom.us",
+>>>>>>> refs/remotes/origin/redesign
     "sca1b.amazontrust.com",
     "scanvig.com",
     "scarabresearch.com",
@@ -7640,6 +7810,7 @@
     "screenconnect.com",
     "screenshots.goguardian.com",
     "scribe.logs.roku.com",
+    "scripps.demdex.net",
     "script.4dex.io",
     "script.crazyegg.com",
     "script.hotjar.com",
@@ -7692,7 +7863,6 @@
     "search31-normal-useast1a.tiktokv.com",
     "searchhighlights-bing-com.b-0005.b-msedge.net",
     "searchhighlights.bing.com",
-    "sears.com",
     "sec.intl.miui.com",
     "sec.miui.com",
     "secomtrust.net",
@@ -7799,7 +7969,6 @@
     "services.atlassian.com",
     "services.bingapis.com",
     "services.box.net",
-    "services.brightline.tv",
     "services.disqus.com",
     "services.gfe.nvidia.com",
     "services.mozaws.net",
@@ -7851,6 +8020,7 @@
     "sf16-sg.tiktokcdn.com",
     "sf16-short-va.bytedapm.com",
     "sf16-static.i18n-pglstatp.com",
+    "sf16-website-login.neutral.ttwstatic.com",
     "sf16.tiktokcdn-us.com",
     "sfb.trafficmanager.net",
     "sfchecker.goskope.com",
@@ -7972,6 +8142,7 @@
     "smetrics.foxnews.com",
     "smetrics.ups.com",
     "smilewanted.com",
+    "smithsonianmag.com",
     "smoot-feedback.v.aaplimg.com",
     "smoot-searchv2-ause1a.v.aaplimg.com",
     "smoot-searchv2-ause1b.v.aaplimg.com",
@@ -7992,6 +8163,10 @@
     "snap.licdn.com",
     "snapchat.com",
     "snapkit.com",
+<<<<<<< HEAD
+=======
+    "snaptube.app",
+>>>>>>> refs/remotes/origin/redesign
     "snat.goguardian.com",
     "sndcdn.com",
     "sng.link",
@@ -8062,7 +8237,10 @@
     "sportradarserving.com",
     "sports.yahoo.com",
     "sportscenter.api.espn.com",
+<<<<<<< HEAD
     "spot-im-d.openx.net",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "spot.im",
     "spotify.com",
     "spotify.map.fastly.net",
@@ -8134,6 +8312,10 @@
     "st.pubmatic.com",
     "st.sg1.dailymotion.com",
     "st.sv4.dailymotion.com",
+<<<<<<< HEAD
+=======
+    "st001vw.instabug.com",
+>>>>>>> refs/remotes/origin/redesign
     "st01vw.instabug.com",
     "st1.zoom.us",
     "st2-v3-dc.splashtop.com",
@@ -8147,7 +8329,6 @@
     "stage-ms.applovin.com",
     "stags.bluekai.com",
     "stamped.io",
-    "star-azureedge-prod.trafficmanager.net",
     "star-azurefd-prod.trafficmanager.net",
     "star-mini.c10r.facebook.com",
     "star.c10r.facebook.com",
@@ -8244,7 +8425,6 @@
     "steamstatic.com",
     "steamstore-a.akamaihd.net",
     "steelhousemedia.com",
-    "stereogum.com",
     "stickyadstv.com",
     "stickyadstv.com.akadns.net",
     "stinger-ad.bidr.io",
@@ -8254,6 +8434,7 @@
     "stocks-data-service.apple.com.edgesuite.net",
     "stocks-data-service.lb-apple.com.akadns.net",
     "stocks-edge.apple.com",
+    "stocks-edge.news.apple-dns.net",
     "stocks-sparkline-lb.apple.com.akadns.net",
     "stocks-sparkline.apple.com",
     "stocks-sparkline.apple.com.edgekey.net",
@@ -8386,6 +8567,7 @@
     "sync.extend.tv",
     "sync.go.sonobi.com",
     "sync.graph.bluecava.com",
+    "sync.im-apps.net",
     "sync.inmobi.com",
     "sync.intentiq.com",
     "sync.ipredictive.com",
@@ -8464,6 +8646,10 @@
     "t.wayfair.com",
     "t0.rbxcdn.com",
     "t1.rbxcdn.com",
+<<<<<<< HEAD
+=======
+    "t1.sophosupd.com",
+>>>>>>> refs/remotes/origin/redesign
     "t13.io",
     "t2.rbxcdn.com",
     "t3.rbxcdn.com",
@@ -8590,13 +8776,17 @@
     "thawte.com",
     "thdstatic.com",
     "the-ozone-project.com",
-    "theatlantic.com",
     "thebrighttag.com",
+<<<<<<< HEAD
     "theguardian.com",
+=======
+    "theconversation.com",
+    "theguardian.com",
+    "thehustle.co",
+>>>>>>> refs/remotes/origin/redesign
     "thepennyhoarder.com",
     "thepennyhoarder.com.cdn.cloudflare.net",
     "theplatform.com",
-    "thespruce.com",
     "thetradedeskinnovidmaster582779829774.s.moatpixel.com",
     "thetradedeskv275874568748.s.moatpixel.com",
     "theverge.com",
@@ -8731,6 +8921,7 @@
     "track.securedvisit.com",
     "track.smaato.net",
     "track1.aniview.com",
+    "track1.avplayer.com",
     "track2.securedvisit.com",
     "trackcmp.net",
     "trackedevt.1rx.io",
@@ -8739,7 +8930,10 @@
     "tracking-1611167402.us-east-1.elb.amazonaws.com",
     "tracking.crazyegg.com",
     "tracking.g2crowd.com",
+<<<<<<< HEAD
     "tracking.m6r.eu",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "trackjs.com",
     "trackonomics.net",
     "tradingview.com",
@@ -9091,6 +9285,7 @@
     "us001-prod.arcticwolf.net",
     "us02web.zoom.us",
     "us04logfiles.zoom.us",
+    "us04web.zoom.us",
     "us06web.zoom.us",
     "us06www3.zoom.us",
     "us1.dyntrk.com",
@@ -9107,13 +9302,20 @@
     "us3.api.endpoint.ingress.rapid7.com",
     "us3.endpoint.ingress.rapid7.com",
     "us4-dms.zoho.com",
+<<<<<<< HEAD
+=======
+    "us4-v20.events.data.microsoft.com",
+>>>>>>> refs/remotes/origin/redesign
     "us4b-excel-collab.officeapps.live.com",
     "usabilla.com",
     "usablenet.com",
     "usadmm-ds.dotomi.com",
     "usadmm.dotomi.com",
     "usage.trackjs.com",
+<<<<<<< HEAD
     "usatoday.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "usaz.relay.teams.microsoft.com",
     "usbank.com",
     "usbrowserspeed.com",
@@ -9150,7 +9352,6 @@
     "usersub-a.wbx2.com",
     "usersync-geo-global.usersync-prod-sas.akadns.net",
     "usersync-prod-sas.akadns.net",
-    "usersync.adpone.com",
     "usersync.getpublica.com",
     "usersync.gumgum.com",
     "usersync.samplicio.us",
@@ -9213,6 +9414,10 @@
     "v5prebid.datablocks.net",
     "v6ncsi.msedge.net",
     "v77.tiktokcdn.com",
+<<<<<<< HEAD
+=======
+    "v7event.stats.avast.com",
+>>>>>>> refs/remotes/origin/redesign
     "va-g2.gumgum.com",
     "va.idp.liveperson.net",
     "va.tawk.to",
@@ -9231,6 +9436,9 @@
     "valid.apple.com",
     "valid.origin-apple.com.akadns.net",
     "vap.lijit.com",
+    "vap5ewr1.lijit.com",
+    "vap6ewr1.lijit.com",
+    "vap7ewr1.lijit.com",
     "vapixel.adsafeprotected.com",
     "variations.brave.com",
     "vars.hotjar.com",
@@ -9367,15 +9575,18 @@
     "wamsm-a-3.prod.infra.webex.com",
     "wamsm-a-6.prod.infra.webex.com",
     "wan.measure.office.com",
-    "warnermedia.com",
     "warnermediacdn.com",
     "warnermediagroup-com.videoplayerhub.com",
     "warp.media.net",
     "washingtonpost.com",
     "watson.telemetry.microsoft.com",
     "wayfair.com",
+    "wayfinding-prod.cdn.ultipro.com",
     "waze.com",
+<<<<<<< HEAD
     "wbd.ms",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "wbomm-a-2.prod.infra.webex.com",
     "wbx2.com",
     "wc.yahoodns.net",
@@ -9487,7 +9698,6 @@
     "whatsapp.com",
     "whatsapp.net",
     "whiteboard.microsoft.com",
-    "whiteboard.ms",
     "whoami.akamai.net",
     "wholefoodsmarket.com",
     "widget-api.stylitics.com",
@@ -9532,7 +9742,6 @@
     "windowsupdate.com.edgesuite.net",
     "windowsupdatebg.s.llnwi.net",
     "wins.isprog.com",
-    "wired.com",
     "wise.public.cdn.office.net",
     "wishabi.net",
     "wistia.com",
@@ -9572,7 +9781,10 @@
     "workblaze-us.lakesidesoftware.com",
     "workforcenow.adp.com",
     "workplace.com",
+<<<<<<< HEAD
     "workspace.google.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "world-gen.g.aaplimg.com",
     "world.rw.yieldmo.com",
     "worldaz.relay.teams.microsoft.com",
@@ -9637,6 +9849,7 @@
     "www.abebooks.com",
     "www.aboutamazon.com",
     "www.academy.com",
+    "www.accuweather.com",
     "www.actionablemessage.olk",
     "www.acx.com",
     "www.adobe.com",
@@ -9663,13 +9876,16 @@
     "www.apple.com.edgekey.net",
     "www.apple.com.edgekey.net.globalredir.akadns.net",
     "www.appleiphonecell.com",
+    "www.atlasobscura.com",
     "www.audible.com",
     "www.awxcdn.com",
     "www.baidu.com",
     "www.bbc.com",
     "www.bestbuy.com",
+    "www.bhphotovideo.com",
     "www.bing.com",
     "www.bingapis.com",
+    "www.blind-magazine.com",
     "www.blogger.com",
     "www.blooket.com",
     "www.bloomberg.com",
@@ -9678,7 +9894,6 @@
     "www.boxofficemojo.com",
     "www.canva.com",
     "www.chase.com",
-    "www.chicagomag.com",
     "www.cisco.com",
     "www.cisco.com.akadns.net",
     "www.citrix.com",
@@ -9687,8 +9902,8 @@
     "www.clickcease.com",
     "www.cloudflare.com",
     "www.cnn.com",
-    "www.codastory.com",
     "www.comixology.com",
+    "www.context.news",
     "www.coolmathgames.com",
     "www.cvs.com",
     "www.dailymail.co.uk",
@@ -9717,6 +9932,10 @@
     "www.foxnews.com",
     "www.foxsports.com",
     "www.foxweather.com",
+<<<<<<< HEAD
+=======
+    "www.futureelectronics.com",
+>>>>>>> refs/remotes/origin/redesign
     "www.gannett-cdn.com",
     "www.getepic.com",
     "www.glancecdn.net",
@@ -9753,9 +9972,12 @@
     "www.indeed.com",
     "www.instagram.com",
     "www.ixl.com",
+<<<<<<< HEAD
+=======
+    "www.knotch-cdn.com",
+>>>>>>> refs/remotes/origin/redesign
     "www.lightboxcdn.com",
     "www.linkedin.com",
-    "www.loom.com",
     "www.lowes.com",
     "www.lowescdn.com",
     "www.macys.com",
@@ -9776,6 +9998,10 @@
     "www.newyorker.com",
     "www.nike.com",
     "www.noemamag.com",
+<<<<<<< HEAD
+=======
+    "www.npr.org",
+>>>>>>> refs/remotes/origin/redesign
     "www.npttech.com",
     "www.nytimes.com",
     "www.odwebp.svc.ms",
@@ -9793,6 +10019,7 @@
     "www.pullcf.com",
     "www.pullcm.com",
     "www.qq.com",
+    "www.queryly.com",
     "www.quora.com",
     "www.recaptcha.net",
     "www.reddit.com",
@@ -9804,19 +10031,26 @@
     "www.saksfifthavenue.com",
     "www.samsung.com",
     "www.samsungknox.com",
+<<<<<<< HEAD
     "www.sears.com",
+=======
+>>>>>>> refs/remotes/origin/redesign
     "www.shopbop.com",
     "www.sjwoe.com",
+    "www.smithsonianmag.com",
     "www.spotify.com",
-    "www.stereogum.com",
     "www.storygize.net",
     "www.summerhamster.com",
     "www.tamgrt.com",
     "www.target.com",
     "www.telecommandsvc.microsoft.com",
+<<<<<<< HEAD
     "www.theatlantic.com",
     "www.theguardian.com",
     "www.thespruce.com",
+=======
+    "www.theguardian.com",
+>>>>>>> refs/remotes/origin/redesign
     "www.theverge.com",
     "www.thirdparty.com",
     "www.ticketmaster.com",
@@ -9840,10 +10074,10 @@
     "www.ups.com",
     "www.usps.com",
     "www.walmart.com",
+    "www.washingtonpost.com",
     "www.wayfair.com",
     "www.wholefoodsmarket.com",
     "www.wikipedia.org",
-    "www.wired.com",
     "www.woot.com",
     "www.xboxab.com",
     "www.yahoo.com",
@@ -9980,6 +10214,7 @@
     "zeotap.com",
     "zergnet.com",
     "zeronaught.com",
+    "zerossl.crt.sectigo.com",
     "zerossl.ocsp.sectigo.com",
     "zeta-ssp-385516103.us-east-1.elb.amazonaws.com",
     "zetaglobal.net",
@@ -9987,6 +10222,10 @@
     "zg-api.com",
     "zillow.com",
     "zillowstatic.com",
+<<<<<<< HEAD
+=======
+    "zinfandel-monitoring.centrastage.net",
+>>>>>>> refs/remotes/origin/redesign
     "zing.vn",
     "zn1gqrxzvrld7vjwm-upscx.siteintercept.qualtrics.com",
     "zoho.com",
@@ -10010,5 +10249,9 @@
   ],
   "name": "Top 10 000 websites from Cisco Umbrella",
   "type": "string",
+<<<<<<< HEAD
   "version": 20221221
+=======
+  "version": 20221222
+>>>>>>> refs/remotes/origin/redesign
 }

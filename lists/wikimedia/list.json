@@ -73,5 +73,9 @@
   ],
   "name": "List of known Wikimedia address ranges",
   "type": "cidr",
+<<<<<<< HEAD
   "version": 20221221
+=======
+  "version": 20221222
+>>>>>>> refs/remotes/origin/redesign
 }

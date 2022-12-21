@@ -222,5 +222,9 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
+<<<<<<< HEAD
   "version": 20221221
+=======
+  "version": 20221222
+>>>>>>> refs/remotes/origin/redesign
 }

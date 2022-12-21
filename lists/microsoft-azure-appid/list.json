@@ -98,5 +98,9 @@
   ],
   "name": "List of Azure Applicaiton IDs",
   "type": "string",
+<<<<<<< HEAD
   "version": 20221221
+=======
+  "version": 20221222
+>>>>>>> refs/remotes/origin/redesign
 }

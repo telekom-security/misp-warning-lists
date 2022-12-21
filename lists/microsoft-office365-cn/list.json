@@ -115,5 +115,9 @@
   ],
   "name": "List of known Office 365 IP address ranges in China",
   "type": "cidr",
+<<<<<<< HEAD
   "version": 20221221
+=======
+  "version": 20221222
+>>>>>>> refs/remotes/origin/redesign
 }

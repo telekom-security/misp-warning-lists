@@ -3468,5 +3468,9 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
+<<<<<<< HEAD
   "version": 20221221
+=======
+  "version": 20221222
+>>>>>>> refs/remotes/origin/redesign
 }
