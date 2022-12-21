@@ -1,7 +1,8 @@
 #!/bin/bash
 # generate all warning lists in misp-warninglists_submodule and tsec-warninglists
-# export WARNINGLISTS_LOG_FILE="/var/log/misp-warning-lists.log"
-export WARNINGLISTS_LOG_FILE="/home/cenek/dev/misp-warning-lists_github/misp-warning-lists.log"
+
+# export WARNINGLISTS_RUN_ID=date$(date "%Y%m%d%H%M%S%3N")
+# export WARNINGLISTS_LOG_FILE="./misp-warning-lists.log"
 
 source ./tools/log_tools.sh # load function log_command
 
@@ -24,7 +25,8 @@ start_time=$(date "+%Y-%m-%d %H:%M:%S")
   (
   cd ./misp-warninglists || exit
   # here you can add the scripts for lists.json generation
-  log_command bash ./generate_all.sh
+  #log_command bash ./generate_all.sh
+  log_command bash ./test_generate_all.sh
   )
 deactivate
 

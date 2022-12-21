@@ -6,9 +6,6 @@ submodule_dir='./misp-warninglists/'
 submodule_requirements_txt='./misp-warninglists/requirements.txt'
 
 # ------ MAIN ENV ------
-# git pull origin
-git checkout redesign # just development branch - should be removed in production
-
 if [ ! -d "$main_venv_dir" ]; then
   python3 -m venv "$main_venv_dir"
 fi
@@ -17,17 +14,6 @@ fi
 
 
 # ------ SUBMODULE ENV ------
-
-# git repo update
-(
-  cd $submodule_dir || exit
-  if [ -f .git ]; then
-    git pull origin
-  else
-    git submodule update --init --recursive
-  fi
-)
-
 # create venv
 if [ ! -d "$submodule_venv_dir" ]; then
   python3 -m venv "$submodule_venv_dir"
@@ -47,5 +33,5 @@ done < $submodule_requirements_txt
 
 # other requirements in submodule: sponge
 if ! [ -x "$(command -v sponge)" ]; then
-   echo "sudo apt install moreutils" # the atp command should be executed but I am not sure about the sudo rights
+   echo "sudo apt install moreutils" # the atp command should be directly executed but I am not sure about the sudo rights
 fi

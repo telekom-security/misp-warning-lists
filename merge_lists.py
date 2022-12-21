@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# (this script is probably overcomplicated and should be simplified once we get more information/requirements for merging lists)
+# (this script is probably overcomplicated and should be simplified once we get more experiences/requirements for merging lists)
 
 import os
 import sys
@@ -12,11 +12,13 @@ from pathlib import Path
 
 import tools.validate_values as validator
 
-logger = logging.getLogger("merger")
+logger_name = "merger"
+logger_name += f"[run_id:{os.environ['WARNINGLISTS_RUN_ID']}]" if "WARNINGLISTS_RUN_ID" in os.environ else ""
+logger = logging.getLogger(logger_name)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename="/var/log/misp-warning-lists.log"
+    filename=os.environ.get('WARNINGLISTS_LOG_FILE', "") # if $WARNINGLISTS_LOG_FILE does not exists then it logs to stdout
 )
 
 

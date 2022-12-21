@@ -1,6 +1,7 @@
-# runs and logs usage and its return code
+# logging to the file in variable $WARNINGLISTS_LOG_FILE and if variable $WARNINGLISTS_RUN_ID exists it adds it to the log
 
 log_command(){
+  # runs whatever the function gets as a parameter and logs its return code
   timestamp_start=$(date +"%s")
 
   $@ # this runs whatever the function gets as a parameter
@@ -21,5 +22,17 @@ log_command(){
 
 log_msg(){
   log_time=$(date "+%Y-%m-%d %H:%M:%S,%3N")
-  echo "${log_time} - $1 - $2 - $3" >> $WARNINGLISTS_LOG_FILE
+
+  if [ -z "$WARNINGLISTS_RUN_ID" ]; then
+    logger=$1;
+  else
+    logger="${1}[run_id:${WARNINGLISTS_RUN_ID}]"
+  fi
+
+  log_line="${log_time} - ${logger} - $2 - $3"
+  if [ -z "$WARNINGLISTS_LOG_FILE" ]; then
+    echo "$log_line"
+  else
+    echo "$log_line" >> "$WARNINGLISTS_LOG_FILE"
+  fi
 }

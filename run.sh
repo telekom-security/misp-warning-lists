@@ -1,18 +1,24 @@
 #!/bin/bash
-# command to be run by cron: $ git pull origin; bash run.sh
+# command to be run by cron: "git pull origin; bash run.sh"
 
-# just development branch - should be removed in production
-git checkout redesign
+git checkout redesign # just development branch - should be removed in production
 
-# update submodule repo
+# update submodule sourcecode
 (
   cd misp-warninglists || exit
-  git pull origin
+  if [ -f .git ]; then
+    git pull origin
+  else
+    git submodule update --init --recursive
+  fi
 )
-./.venv_submodule/bin/python3 -m pip install -r misp-warninglists/requirements.txt
-# requirements.txt currently contains "broken" version of pyOpenSSL (19.1.0) and therefore we upgrade it all the time
-./.venv_submodule/bin/python3 -m pip install pyOpenSSL --upgrade
 
+
+# update all source codes and venvs
+bash ./create_or_update_env.sh
+
+export WARNINGLISTS_RUN_ID=$(date "%Y%m%d%H%M%S%3N")
+export WARNINGLISTS_LOG_FILE="/home/cenek/dev/misp-warning-lists_github/misp-warning-lists_tmp.log"
 
 # generate updated warning lists
 bash generate_lists.sh
