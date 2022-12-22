@@ -18,7 +18,7 @@ log_command(){
     log_level="ERROR"
   fi
 
-  msg="command {'command': '${command}', 'exit_code': ${exit_code}, 'pwd': '${PWD}', 'timestamp_start': ${timestamp_start}, 'exec_time': ${exec_time}, 'stderr': '$(echo $stderr)'}"
+  msg="command {'command': '${command}', 'exit_code': ${exit_code}, 'pwd': '${PWD}', 'timestamp_start': ${timestamp_start}, 'exec_time': ${exec_time}, 'stderr': '$(echo $stderr | tr "'" "*")'}"
   log_msg "$logger" "$log_level" "$msg"
 }
 
