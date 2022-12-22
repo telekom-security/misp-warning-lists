@@ -17,8 +17,8 @@ git checkout redesign # just development branch - should be removed in productio
 # update all source codes and venvs
 bash ./create_or_update_env.sh
 
-export WARNINGLISTS_RUN_ID=$(date "%Y%m%d%H%M%S%3N")
-export WARNINGLISTS_LOG_FILE="/var/log/misp-warning-lists/misp-warning-lists.log"
+export WARNINGLISTS_RUN_ID=$(date "+%Y%m%d%H%M%S%3N")
+export WARNINGLISTS_LOG_FILE="/var/log/misp-warning-lists.log"
 
 # generate updated warning lists
 bash generate_lists.sh
