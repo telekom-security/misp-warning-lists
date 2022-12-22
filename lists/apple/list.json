@@ -1,5 +1,5 @@
 {
-  "description": "IP ranges assigned to Apple",
+  "description": "IP ranges assigned to Apple.",
   "list": [
     "17.0.0.0/8"
   ],
