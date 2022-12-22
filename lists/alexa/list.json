@@ -1,12 +1,8 @@
 {
   "description": "Event contains one or more entries from the top 1000 of the most used website (Alexa).",
   "list": [
-<<<<<<< HEAD
     "11467.com",
     "11st.co.kr",
-=======
-    "115.com",
->>>>>>> refs/remotes/origin/redesign
     "123pan.com",
     "126.com",
     "1337x.to",
@@ -19,18 +15,11 @@
     "18comic.vip",
     "2345.com",
     "2ch-c.net",
-    "2chblog.jp",
     "360.cn",
     "360.com",
     "360doc.com",
-<<<<<<< HEAD
     "36kr.com",
     "3d66.com",
-=======
-    "360kuai.com",
-    "36kr.com",
-    "39.net",
->>>>>>> refs/remotes/origin/redesign
     "3dmgame.com",
     "423down.com",
     "4399.com",
@@ -40,19 +29,12 @@
     "51cto.com",
     "51job.com",
     "52pojie.cn",
-<<<<<<< HEAD
     "58pic.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "5ch.net",
     "66law.cn",
-<<<<<<< HEAD
     "699pic.com",
     "7mmtv.sx",
     "91duba.com",
-=======
-    "7mmtv.sx",
->>>>>>> refs/remotes/origin/redesign
     "91porn.com",
     "9anime.to",
     "9anime.vc",
@@ -60,7 +42,6 @@
     "9game.cn",
     "academia.edu",
     "accuweather.com",
-    "acesso.gov.br",
     "acfun.cn",
     "acs.org",
     "adobe.com",
@@ -71,11 +52,8 @@
     "agoda.com",
     "ahrefs.com",
     "airbnb.com",
-<<<<<<< HEAD
     "airtable.com",
     "akamaized.net",
-=======
->>>>>>> refs/remotes/origin/redesign
     "ali213.net",
     "alibaba-inc.com",
     "alibaba.com",
@@ -93,7 +71,6 @@
     "amazon.co.uk",
     "amazon.com",
     "amazon.com.au",
-    "amazon.com.br",
     "amazon.com.mx",
     "amazon.com.tr",
     "amazon.de",
@@ -105,13 +82,8 @@
     "amazon.sa",
     "amazonaws.com",
     "ameblo.jp",
-    "americanas.com.br",
     "americanexpress.com",
-<<<<<<< HEAD
     "ampproject.org",
-=======
-    "anige-sokuhouvip.com",
->>>>>>> refs/remotes/origin/redesign
     "animeflv.net",
     "animixplay.to",
     "anxia.com",
@@ -123,6 +95,7 @@
     "arca.live",
     "archive.org",
     "archiveofourown.org",
+    "artstation.com",
     "arxiv.org",
     "as.com",
     "asana.com",
@@ -132,15 +105,12 @@
     "atlassian.com",
     "atlassian.net",
     "att.com",
-<<<<<<< HEAD
-=======
-    "atthewon.buzz",
->>>>>>> refs/remotes/origin/redesign
     "auth0.com",
     "autodesk.com",
     "autohome.com.cn",
     "avgle.com",
     "avito.ru",
+    "awaliwa.com",
     "aznude.com",
     "azure.com",
     "b2clogin.com",
@@ -148,33 +118,21 @@
     "bale.ai",
     "bankmellat.ir",
     "bankofamerica.com",
-    "basecamp.com",
     "battle.net",
     "bbc.co.uk",
     "bbc.com",
     "bbsmax.com",
     "bdimg.com",
     "behance.net",
-<<<<<<< HEAD
     "bendibao.com",
     "bestbuy.com",
     "bet365.com",
     "bhphotovideo.com",
-=======
-    "beijing.gov.cn",
-    "bendibao.com",
-    "bestbuy.com",
-    "bet365.com",
-    "biancheng.net",
->>>>>>> refs/remotes/origin/redesign
     "bild.de",
     "bilibili.com",
     "bilibili.tv",
     "biligame.com",
-<<<<<<< HEAD
     "billdesk.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "binance.com",
     "bing.com",
     "bitbucket.org",
@@ -184,12 +142,8 @@
     "blogger.com",
     "blogimg.jp",
     "bloomberg.com",
-<<<<<<< HEAD
     "bluehost.com",
     "bongacams.com",
-=======
-    "bmi.ir",
->>>>>>> refs/remotes/origin/redesign
     "book118.com",
     "booking.com",
     "box.com",
@@ -197,7 +151,6 @@
     "britannica.com",
     "btnull.org",
     "bunkr.ru",
-    "business.site",
     "businessinsider.com",
     "buzzfeed.com",
     "byjus.com",
@@ -205,10 +158,7 @@
     "ca.gov",
     "caixa.gov.br",
     "calendly.com",
-<<<<<<< HEAD
     "caliente.mx",
-=======
->>>>>>> refs/remotes/origin/redesign
     "cambridge.org",
     "camwhores.tv",
     "canada.ca",
@@ -216,12 +166,7 @@
     "capitalone.com",
     "cbssports.com",
     "cctv.com",
-<<<<<<< HEAD
     "cdninstagram.com",
-=======
-    "cdc.gov",
-    "chaoxing.com",
->>>>>>> refs/remotes/origin/redesign
     "chapmanganato.com",
     "chase.com",
     "chaturbate.com",
@@ -232,11 +177,8 @@
     "chinatax.gov.cn",
     "chinaz.com",
     "chsi.com.cn",
-<<<<<<< HEAD
     "ciar-kep.com",
     "cisco.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "citi.com",
     "cityheaven.net",
     "clarin.com",
@@ -251,25 +193,18 @@
     "cnn.com",
     "cocomanga.com",
     "codepen.io",
-    "coinbase.com",
     "coinmarketcap.com",
     "concursolutions.com",
     "consultant.ru",
     "convertio.co",
-<<<<<<< HEAD
     "correios.com.br",
-=======
-    "copy.ai",
-    "correios.com.br",
-    "corriere.it",
->>>>>>> refs/remotes/origin/redesign
     "costco.com",
     "coupang.com",
-    "coursehero.com",
     "coursera.org",
+    "cpta.com.cn",
     "craigslist.org",
-    "crazygames.com",
     "cricbuzz.com",
+    "criteo.com",
     "crjpgate.com",
     "crunchyroll.com",
     "csdn.net",
@@ -277,15 +212,9 @@
     "ctrip.com",
     "cuevana3.ai",
     "cupfox.app",
-<<<<<<< HEAD
     "dailymail.co.uk",
     "dailymotion.com",
     "dandanzan10.top",
-=======
-    "czspp.com",
-    "dailymail.co.uk",
-    "dailymotion.com",
->>>>>>> refs/remotes/origin/redesign
     "daraz.pk",
     "daum.net",
     "dcinside.com",
@@ -296,10 +225,7 @@
     "deviantart.com",
     "dhl.com",
     "dhl.de",
-<<<<<<< HEAD
     "dianping.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "dianxiaomi.com",
     "digikala.com",
     "digitalocean.com",
@@ -324,6 +250,7 @@
     "docusign.com",
     "docusign.net",
     "dongchedi.com",
+    "dongqiudi.com",
     "donmai.us",
     "dood.re",
     "doorblog.jp",
@@ -332,18 +259,11 @@
     "doubleclick.net",
     "douyin.com",
     "douyu.com",
-<<<<<<< HEAD
     "dreamstime.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "dribbble.com",
     "dropbox.com",
     "duckduckgo.com",
     "duolingo.com",
-<<<<<<< HEAD
-=======
-    "dy2018.com",
->>>>>>> refs/remotes/origin/redesign
     "dytt8.net",
     "dzen.ru",
     "e-hentai.org",
@@ -354,15 +274,12 @@
     "ebay-kleinanzeigen.de",
     "ebay.co.uk",
     "ebay.com",
+    "ebay.com.au",
     "ebay.de",
-<<<<<<< HEAD
     "editorialmanager.com",
     "eksisozluk.com",
     "eleme.cn",
     "elmundo.es",
-=======
-    "eksisozluk.com",
->>>>>>> refs/remotes/origin/redesign
     "elpais.com",
     "elsevier.com",
     "emofid.com",
@@ -375,16 +292,9 @@
     "errors.net",
     "espn.com",
     "espncricinfo.com",
-    "etherscan.io",
     "etsy.com",
-<<<<<<< HEAD
     "europa.eu",
     "evernote.com",
-=======
-    "ettoday.net",
-    "evernote.com",
-    "exness.com",
->>>>>>> refs/remotes/origin/redesign
     "expedia.com",
     "ezgif.com",
     "facebook.com",
@@ -401,13 +311,9 @@
     "fifa.com",
     "figma.com",
     "fiverr.com",
-<<<<<<< HEAD
-=======
-    "flash.cn",
-    "flashscore.com",
->>>>>>> refs/remotes/origin/redesign
     "flaticon.com",
     "flickr.com",
+    "flightradar24.com",
     "flipkart.com",
     "fmkorea.com",
     "fmovies.to",
@@ -417,41 +323,24 @@
     "forms.gle",
     "foxnews.com",
     "freecodecamp.org",
-<<<<<<< HEAD
     "freepik.com",
     "freepikcompany.com",
     "fuliba2023.net",
     "fuq.com",
     "furaffinity.net",
     "futbin.com",
-=======
-    "freeok.vip",
-    "freepik.com",
-    "freepik.es",
-    "freepikcompany.com",
-    "freshdesk.com",
-    "frontiersin.org",
-    "fuliba2023.net",
-    "furaffinity.net",
->>>>>>> refs/remotes/origin/redesign
     "game8.jp",
     "gamer.com.tw",
+    "gamerant.com",
     "gamersky.com",
     "gamespot.com",
     "gamewith.jp",
-<<<<<<< HEAD
     "gd.gov.cn",
     "geeksforgeeks.org",
     "genius.com",
     "getbootstrap.com",
-=======
-    "gdz.ru",
-    "geeksforgeeks.org",
-    "genius.com",
-    "getbootstrap.com",
-    "getintopc.com",
->>>>>>> refs/remotes/origin/redesign
     "ghxi.com",
+    "gimy.app",
     "gismeteo.ru",
     "gitee.com",
     "gitee.io",
@@ -464,7 +353,6 @@
     "godaddy.com",
     "gofile.io",
     "gogoanime.bid",
-    "goo.gl",
     "goo.ne.jp",
     "goodreads.com",
     "google.az",
@@ -483,10 +371,6 @@
     "google.com.eg",
     "google.com.hk",
     "google.com.mx",
-<<<<<<< HEAD
-=======
-    "google.com.pk",
->>>>>>> refs/remotes/origin/redesign
     "google.com.sa",
     "google.com.sg",
     "google.com.tr",
@@ -502,7 +386,6 @@
     "googlevideo.com",
     "gosuslugi.ru",
     "grammarly.com",
-    "greasyfork.org",
     "gsmarena.com",
     "gst.gov.in",
     "gstatic.com",
@@ -512,19 +395,13 @@
     "hanime1.me",
     "hao123.com",
     "hao6v.cc",
-    "hao6v.tv",
     "harvard.edu",
     "hatenablog.com",
     "hbomax.com",
     "hclips.com",
     "hdfcbank.com",
-<<<<<<< HEAD
     "hdslb.com",
-=======
-    "hdmoli.com",
->>>>>>> refs/remotes/origin/redesign
     "hdtoday.tv",
-    "hdzog.com",
     "healthline.com",
     "hepsiburada.com",
     "hh.ru",
@@ -545,30 +422,24 @@
     "huijiwiki.com",
     "hulu.com",
     "hupu.com",
+    "hurricaneadvantagecomplication.com",
     "huya.com",
     "ibb.co",
     "ibm.com",
     "icicibank.com",
     "icloud.com",
-    "iconfont.cn",
     "icourse163.org",
     "idnes.cz",
     "ieee.org",
     "ifeng.com",
     "ign.com",
-<<<<<<< HEAD
     "igram.io",
-=======
->>>>>>> refs/remotes/origin/redesign
     "ikea.com",
+    "ilbe.com",
     "ilive.cn",
     "iloveimg.com",
     "ilovepdf.com",
-<<<<<<< HEAD
     "imagetwist.com",
-=======
-    "imagefap.com",
->>>>>>> refs/remotes/origin/redesign
     "imdb.com",
     "imgur.com",
     "indeed.com",
@@ -585,10 +456,7 @@
     "inven.co.kr",
     "investing.com",
     "investopedia.com",
-<<<<<<< HEAD
     "iqbroker.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "iqiyi.com",
     "irctc.co.in",
     "issuu.com",
@@ -600,53 +468,36 @@
     "ixxx.com",
     "jaavnacsdw.com",
     "jable.tv",
-    "japanpost.jp",
     "jav.guru",
     "javatpoint.com",
     "javdb.com",
     "javhdporn.net",
+    "javmix.tv",
     "jb51.net",
     "jd.com",
-<<<<<<< HEAD
-=======
-    "jd.hk",
-    "jdpay.com",
->>>>>>> refs/remotes/origin/redesign
     "jetbrains.com",
     "jfdaily.com",
     "jianshu.com",
-<<<<<<< HEAD
     "jkanime.net",
     "jotform.com",
     "json.cn",
-=======
-    "jinritemai.com",
->>>>>>> refs/remotes/origin/redesign
     "juejin.cn",
     "justdial.com",
     "justwatch.com",
     "jut.su",
-<<<<<<< HEAD
     "kahoot.it",
-=======
->>>>>>> refs/remotes/origin/redesign
     "kakaku.com",
     "kakao.com",
     "kdocs.cn",
     "kinopoisk.ru",
     "kinripen.com",
-    "klaviyo.com",
+    "kissjav.li",
     "kohls.com",
     "kuaishou.com",
     "kugou.com",
-<<<<<<< HEAD
     "labsliver.com",
     "lanhuapp.com",
     "lanzoug.com",
-=======
-    "kundelik.kz",
-    "lanhuapp.com",
->>>>>>> refs/remotes/origin/redesign
     "lanzoui.com",
     "lanzoux.com",
     "lazada.co.th",
@@ -655,10 +506,7 @@
     "lazada.sg",
     "lectortmo.com",
     "leetcode.cn",
-<<<<<<< HEAD
     "leetcode.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "lenovo.com",
     "lenovo.com.cn",
     "lenta.ru",
@@ -670,10 +518,7 @@
     "list-manage.com",
     "live.com",
     "livedoor.biz",
-<<<<<<< HEAD
     "livedoor.blog",
-=======
->>>>>>> refs/remotes/origin/redesign
     "livedoor.com",
     "livedoor.jp",
     "livejasmin.com",
@@ -682,46 +527,29 @@
     "lowes.com",
     "macys.com",
     "made-in-china.com",
-<<<<<<< HEAD
     "mail.ru",
     "mailchimp.com",
     "makemytrip.com",
     "makeuseof.com",
-=======
-    "madrasati.sa",
-    "magazineluiza.com.br",
-    "maigoo.com",
-    "mail.ru",
-    "mailchimp.com",
-    "makemytrip.com",
->>>>>>> refs/remotes/origin/redesign
     "manage.wix.com",
     "manatoki167.net",
+    "mangadex.org",
+    "mangakakalot.com",
     "manganato.com",
     "mangaraw.to",
     "marca.com",
-    "marketwatch.com",
-    "marriott.com",
     "mat6tube.com",
     "mayoclinic.org",
-<<<<<<< HEAD
     "meatinerhitles.xyz",
-=======
-    "mcmod.cn",
-    "mdpi.com",
->>>>>>> refs/remotes/origin/redesign
     "media-amazon.com",
     "mediafire.com",
     "medium.com",
     "mega.nz",
     "meijutt.tv",
+    "meituan.com",
     "mercadolibre.com.ar",
     "mercadolibre.com.mx",
-<<<<<<< HEAD
     "mercadolibre.com.ve",
-=======
-    "mercadolivre.com.br",
->>>>>>> refs/remotes/origin/redesign
     "mercari.com",
     "merriam-webster.com",
     "messenger.com",
@@ -729,14 +557,7 @@
     "mi.com",
     "microsoft.com",
     "microsoftonline.com",
-<<<<<<< HEAD
     "miguvideo.com",
-=======
-    "midjourney.com",
-    "miguvideo.com",
-    "mihoyo.com",
-    "minecraft.net",
->>>>>>> refs/remotes/origin/redesign
     "miro.com",
     "mirror.co.uk",
     "missav.com",
@@ -753,32 +574,25 @@
     "myanimelist.net",
     "mydramalist.com",
     "mydrivers.com",
+    "myfreecams.com",
     "myntra.com",
+    "myshopify.com",
     "myworkday.com",
     "myworkdayjobs.com",
+    "mywowspot.com",
+    "myzaker.com",
     "namecheap.com",
     "namu.wiki",
-    "nate.com",
     "nature.com",
     "naukri.com",
     "naver.com",
     "nba.com",
     "ndtv.com",
-<<<<<<< HEAD
     "netease.com",
     "netflix.com",
     "newegg.com",
     "news.com.au",
     "nextdoor.com",
-=======
-    "neexulro.net",
-    "netflix.com",
-    "newegg.com",
-    "news.com.au",
-    "newtoki167.com",
-    "nextdoor.com",
-    "nfl.com",
->>>>>>> refs/remotes/origin/redesign
     "nga.cn",
     "nhentai.net",
     "nicovideo.jp",
@@ -787,32 +601,19 @@
     "nintendo.com",
     "noodlemagazine.com",
     "noonoo21.tv",
+    "note.com",
     "notion.site",
     "notion.so",
     "novinky.cz",
-<<<<<<< HEAD
     "nowcoder.com",
-=======
-    "novipnoad.com",
->>>>>>> refs/remotes/origin/redesign
     "npmjs.com",
     "nunuyy5.org",
     "nvidia.cn",
-<<<<<<< HEAD
     "nvidia.com",
     "nyaa.si",
     "nypost.com",
     "nytimes.com",
     "oceanengine.com",
-=======
-    "nyaa.si",
-    "nyahentai.re",
-    "nypost.com",
-    "nytimes.com",
-    "o8tv.com",
-    "oceanengine.com",
-    "odcoc.com",
->>>>>>> refs/remotes/origin/redesign
     "office.com",
     "office.net",
     "office365.com",
@@ -822,6 +623,7 @@
     "olx.com.br",
     "ondemand.com",
     "onet.pl",
+    "online-convert.com",
     "onlinedown.net",
     "onlinesbi.sbi",
     "onlyfans.com",
@@ -831,20 +633,12 @@
     "optnx.com",
     "oracle.com",
     "oraclecloud.com",
-<<<<<<< HEAD
-=======
-    "oray.com",
->>>>>>> refs/remotes/origin/redesign
     "oschina.net",
     "ouo.io",
     "outbrain.com",
     "overleaf.com",
     "ozon.ru",
-<<<<<<< HEAD
     "parivahan.gov.in",
-=======
-    "parrecleftne.xyz",
->>>>>>> refs/remotes/origin/redesign
     "patreon.com",
     "patria.org.ve",
     "payoneer.com",
@@ -853,13 +647,9 @@
     "pchome.com.tw",
     "pconline.com.cn",
     "pdfdrive.com",
-<<<<<<< HEAD
-=======
-    "peacocktv.com",
->>>>>>> refs/remotes/origin/redesign
     "pexels.com",
-    "php.cn",
     "pikabu.ru",
+    "pinduoduo.com",
     "pinimg.com",
     "pinterest.com",
     "pixabay.com",
@@ -880,10 +670,7 @@
     "preoccupycommittee.com",
     "primevideo.com",
     "processon.com",
-<<<<<<< HEAD
     "proton.me",
-=======
->>>>>>> refs/remotes/origin/redesign
     "ptt.cc",
     "pursuingconjunction.com",
     "python.org",
@@ -911,27 +698,15 @@
     "remove.bg",
     "renrendoc.com",
     "repentbits.com",
-<<<<<<< HEAD
-=======
-    "report.az",
->>>>>>> refs/remotes/origin/redesign
     "researchgate.net",
     "reuters.com",
     "reverso.net",
     "rezka.ag",
     "ria.ru",
-<<<<<<< HEAD
     "rightmove.co.uk",
     "roblox.com",
     "rottentomatoes.com",
     "roudoduor.com",
-=======
-    "right.com.cn",
-    "roblox.com",
-    "rottentomatoes.com",
-    "roudoduor.com",
-    "royalbank.com",
->>>>>>> refs/remotes/origin/redesign
     "royalmail.com",
     "rt.com",
     "rubika.ir",
@@ -941,34 +716,22 @@
     "rumble.com",
     "runoob.com",
     "rutracker.org",
-    "sagepub.com",
     "sahibinden.com",
     "salesforce.com",
     "samsung.com",
-<<<<<<< HEAD
     "saraba1st.com",
     "sarkariresult.com",
-=======
-    "sap.com",
-    "sarkariresult.com",
-    "sat.gob.mx",
->>>>>>> refs/remotes/origin/redesign
     "savefrom.net",
     "sberbank.ru",
     "sci-hub.se",
     "sciencedirect.com",
     "scribd.com",
-<<<<<<< HEAD
     "scs.gov.cn",
     "segmentfault.com",
-=======
-    "sdo.com",
-    "segmentfault.com",
-    "semanticscholar.org",
->>>>>>> refs/remotes/origin/redesign
     "semrush.com",
     "service-now.com",
     "sex.com",
+    "sextb.net",
     "seznam.cz",
     "sf-express.com",
     "shaparak.ir",
@@ -983,17 +746,13 @@
     "shopee.vn",
     "shopify.com",
     "shutterstock.com",
-    "shuzhiduo.com",
     "similarweb.com",
     "simpcity.su",
     "sina.cn",
     "sina.com.cn",
     "sinaimg.cn",
     "sjtu.edu.cn",
-<<<<<<< HEAD
     "skidrowreloaded.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "skype.com",
     "slack.com",
     "slickdeals.net",
@@ -1005,6 +764,7 @@
     "snapchat.com",
     "so.com",
     "soap2day.to",
+    "socialmediagirls.com",
     "softonic.com",
     "sogou.com",
     "sohu.com",
@@ -1023,16 +783,13 @@
     "spotify.com",
     "springer.com",
     "squarespace.com",
-<<<<<<< HEAD
     "srvtrck.com",
-=======
-    "srchdale.com",
->>>>>>> refs/remotes/origin/redesign
     "ssyoutube.com",
     "stackexchange.com",
     "stackoverflow.com",
     "state.gov",
     "steamcommunity.com",
+    "steamdb.info",
     "steampowered.com",
     "storage.googleapis.com",
     "streamtape.com",
@@ -1043,13 +800,13 @@
     "successfactors.eu",
     "superioritydiningroom.com",
     "supjav.com",
-    "surveymonkey.com",
     "sxyprn.com",
+    "sxyprn.net",
     "syosetu.com",
-    "sz.gov.cn",
     "t.co",
     "t.me",
     "t66y.com",
+    "tabelog.com",
     "taboola.com",
     "tamin.ir",
     "tampermonkey.net",
@@ -1062,39 +819,29 @@
     "telewebion.com",
     "temperrunnersdale.com",
     "tencent.com",
-<<<<<<< HEAD
-=======
-    "tgju.org",
->>>>>>> refs/remotes/origin/redesign
     "theguardian.com",
     "themeforest.net",
     "thepaper.cn",
     "thepiratebay.org",
     "theporndude.com",
     "thesaurus.com",
+    "thesun.co.uk",
     "thisvid.com",
-<<<<<<< HEAD
     "tianyancha.com",
     "ticketmaster.com",
-=======
-    "tianya.cn",
-    "tianyancha.com",
->>>>>>> refs/remotes/origin/redesign
     "tiktok.com",
     "timeanddate.com",
     "tistory.com",
     "tktube.com",
     "tmall.com",
     "tnaflix.com",
-<<<<<<< HEAD
     "todesk.com",
     "togetter.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "tokopedia.com",
     "tokyomotion.net",
     "torob.com",
     "toutiao.com",
+    "toxitabellaeatrebates306.com",
     "tradingview.com",
     "trello.com",
     "trendyol.com",
@@ -1102,21 +849,15 @@
     "trustpilot.com",
     "tsinghua.edu.cn",
     "tumblr.com",
-    "turbo.az",
     "turkiye.gov.tr",
     "tutorialspoint.com",
     "twimg.com",
-<<<<<<< HEAD
     "twinrdsrv.com",
-=======
-    "twinrdsyn.com",
->>>>>>> refs/remotes/origin/redesign
     "twinstanglebroken.com",
     "twitch.tv",
     "twitter.com",
     "txxx.com",
     "typeform.com",
-<<<<<<< HEAD
     "uber.com",
     "ubereats.com",
     "uchi.ru",
@@ -1124,14 +865,9 @@
     "udn.com",
     "uestc.edu.cn",
     "uidai.gov.in",
-=======
-    "uchi.ru",
-    "udemy.com",
-    "udn.com",
->>>>>>> refs/remotes/origin/redesign
     "ultimate-guitar.com",
     "unipus.cn",
-    "unity.com",
+    "uniqlo.com",
     "unsplash.com",
     "uol.com.br",
     "updateenow.com",
@@ -1147,37 +883,25 @@
     "vcg.com",
     "vecteezy.com",
     "verizon.com",
-<<<<<<< HEAD
     "vg.no",
-=======
->>>>>>> refs/remotes/origin/redesign
     "videocampaign.co",
     "vimeo.com",
     "visualstudio.com",
     "vk.com",
     "vmware.com",
     "vnexpress.net",
-    "vuejs.org",
     "w3schools.com",
     "walgreens.com",
     "wallhaven.cc",
     "walmart.com",
     "wanfangdata.com.cn",
-<<<<<<< HEAD
     "warcraftlogs.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "washingtonpost.com",
     "wattpad.com",
     "wayfair.com",
     "weather.com",
-<<<<<<< HEAD
-=======
-    "weather.gov",
->>>>>>> refs/remotes/origin/redesign
     "webex.com",
     "webmd.com",
-    "webofscience.com",
     "webtoons.com",
     "weebly.com",
     "weibo.cn",
@@ -1189,6 +913,7 @@
     "wikihow.com",
     "wikimedia.org",
     "wikipedia.org",
+    "wikiwiki.jp",
     "wiktionary.org",
     "wildberries.ru",
     "wiley.com",
@@ -1204,15 +929,10 @@
     "wordpress.org",
     "wordreference.com",
     "workplace.com",
-<<<<<<< HEAD
     "wp.com",
-=======
-    "wowhead.com",
->>>>>>> refs/remotes/origin/redesign
     "wp.pl",
     "wps.cn",
     "wsj.com",
-    "www.gov.br",
     "www.gov.cn",
     "www.gov.uk",
     "wykop.pl",
@@ -1228,10 +948,6 @@
     "xiaoman.cn",
     "xiaomi.com",
     "ximalaya.com",
-<<<<<<< HEAD
-=======
-    "xiumi.us",
->>>>>>> refs/remotes/origin/redesign
     "xlivrdr.com",
     "xnxx.com",
     "xnxx.tv",
@@ -1239,12 +955,10 @@
     "xuexi.cn",
     "xuexila.com",
     "xunlei.com",
+    "xvideos-cdn.com",
     "xvideos.com",
     "xvideos.red",
-<<<<<<< HEAD
     "xxxhdvideo.mobi",
-=======
->>>>>>> refs/remotes/origin/redesign
     "xxxxx520.com",
     "y2mate.com",
     "y2mate.is",
@@ -1254,17 +968,13 @@
     "yandex.com",
     "yandex.ru",
     "yelp.com",
-<<<<<<< HEAD
     "yhdmp.cc",
-=======
->>>>>>> refs/remotes/origin/redesign
     "yiyouliao.com",
     "yjbys.com",
     "ylwt33.com",
     "youdao.com",
     "youjizz.com",
     "youku.com",
-    "youlai.cn",
     "youporn.com",
     "youtube.com",
     "ytimg.com",
@@ -1276,7 +986,6 @@
     "zcool.com.cn",
     "zendesk.com",
     "zerodha.com",
-    "zhelper.net",
     "zhibo8.cc",
     "zhihu.com",
     "zhihuishu.com",
@@ -1301,9 +1010,5 @@
   ],
   "name": "Top 1000 website from Alexa",
   "type": "hostname",
-<<<<<<< HEAD
   "version": 20221221
-=======
-  "version": 20221222
->>>>>>> refs/remotes/origin/redesign
 }

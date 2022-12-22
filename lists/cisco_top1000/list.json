@@ -85,7 +85,6 @@
     "api.iris.microsoft.com",
     "api.msn.com",
     "api.rlcdn.com",
-    "api.segment.io",
     "api.smoot.apple.com",
     "api.snapchat.com",
     "api.userstore.skype.com",
@@ -94,10 +93,7 @@
     "apis.google.com",
     "app-analytics-v2.snapchat.com",
     "app-measurement.com",
-<<<<<<< HEAD
     "app.launchdarkly.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "appcenter.ms",
     "apple-dns.net",
     "apple.com",
@@ -175,18 +171,11 @@
     "cdn.cloudflare.net",
     "cdn.cookielaw.org",
     "cdn.doubleverify.com",
-<<<<<<< HEAD
-=======
-    "cdn.flashtalking.com",
->>>>>>> refs/remotes/origin/redesign
     "cdn.id5-sync.com",
     "cdn.js7k.com",
     "cdn.jsdelivr.net",
     "cdn.linkedin.oribi.io",
-<<<<<<< HEAD
     "cdn.mozilla.net",
-=======
->>>>>>> refs/remotes/origin/redesign
     "cdn.office.net",
     "cdn.optimizely.com",
     "cdn.pendo.io",
@@ -212,10 +201,7 @@
     "cl2.apple.com",
     "cl3.apple.com",
     "cl4.apple.com",
-<<<<<<< HEAD
     "classroom.google.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "clients.config.office.net",
     "clients.google.com",
     "clients1.google.com",
@@ -229,10 +215,6 @@
     "cloudapp.azure.com",
     "cloudflare.com",
     "cloudflare.net",
-<<<<<<< HEAD
-=======
-    "cloudsink.net",
->>>>>>> refs/remotes/origin/redesign
     "cm.everesttech.net",
     "cm.g.doubleclick.net",
     "cms.analytics.yahoo.com",
@@ -267,6 +249,7 @@
     "creativecdn.com",
     "criteo.com",
     "criteo.net",
+    "crl.verisign.com",
     "crl3.digicert.com",
     "crwdcntrl.net",
     "cs.admanmedia.com",
@@ -524,11 +507,7 @@
     "lb-apple.com.akadns.net",
     "lcdn-locator.apple.com",
     "lencr.org",
-<<<<<<< HEAD
     "lh3.google.com",
-=======
-    "lfodown01-b.cloudsink.net",
->>>>>>> refs/remotes/origin/redesign
     "lh3.googleusercontent.com",
     "lh4.googleusercontent.com",
     "lh5.googleusercontent.com",
@@ -576,10 +555,6 @@
     "messaging.engagement.office.com",
     "mesu-cdn.origin-apple.com.akadns.net",
     "mesu.apple.com",
-<<<<<<< HEAD
-=======
-    "mesu.g.aaplimg.com",
->>>>>>> refs/remotes/origin/redesign
     "metadata.google.internal",
     "metaservices.microsoft.com",
     "metrics.icloud.com",
@@ -691,7 +666,6 @@
     "people-pa.clients6.google.com",
     "people-pa.googleapis.com",
     "peoplestack-pa.clients6.google.com",
-    "peoplestack-pa.googleapis.com",
     "peoplestackwebexperiments-pa.clients6.google.com",
     "ping-edge.smartscreen.microsoft.com",
     "pinimg.com",
@@ -711,6 +685,7 @@
     "play.google.com",
     "play.googleapis.com",
     "play.itunes.apple.com",
+    "playatoms-pa.googleapis.com",
     "pm.w55c.net",
     "pool.ntp.org",
     "portal.fb.com",
@@ -732,11 +707,6 @@
     "pubads.g.doubleclick.net",
     "pubgw.yahoo.com",
     "pubmatic.com",
-<<<<<<< HEAD
-=======
-    "pull-f5-va01.tiktokcdn.com",
-    "pull-w5-sg01.tiktokcdn.com",
->>>>>>> refs/remotes/origin/redesign
     "push.apple.com",
     "push.prod.netflix.com",
     "px.ads.linkedin.com",
@@ -802,10 +772,7 @@
     "securepubads.g.doubleclick.net",
     "segment.io",
     "self.events.data.microsoft.com",
-<<<<<<< HEAD
     "semasio.net",
-=======
->>>>>>> refs/remotes/origin/redesign
     "sentry.io",
     "servedby.flashtalking.com",
     "service.idsync.analytics.yahoo.com",
@@ -864,6 +831,7 @@
     "stats.g.doubleclick.net",
     "stickyadstv.com",
     "stocks-data-service.apple.com",
+    "stocks-data-service.lb-apple.com.akadns.net",
     "stocks-sparkline.apple.com",
     "storage.googleapis.com",
     "storage.live.com",
@@ -972,10 +940,7 @@
     "v20.events.data.microsoft.com",
     "valid.apple.com",
     "vars.hotjar.com",
-<<<<<<< HEAD
     "verisign.com",
-=======
->>>>>>> refs/remotes/origin/redesign
     "virtualearth.net",
     "visitor.omnitagjs.com",
     "visualstudio.com",
@@ -1045,9 +1010,5 @@
   ],
   "name": "Top 1000 websites from Cisco Umbrella",
   "type": "string",
-<<<<<<< HEAD
   "version": 20221221
-=======
-  "version": 20221222
->>>>>>> refs/remotes/origin/redesign
 }

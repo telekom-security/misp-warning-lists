@@ -510,9 +510,5 @@
   ],
   "name": "Top 500 domains and pages from https://moz.com/top500",
   "type": "string",
-<<<<<<< HEAD
   "version": 20221221
-=======
-  "version": 20221222
->>>>>>> refs/remotes/origin/redesign
 }

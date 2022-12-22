@@ -8,9 +8,5 @@
   ],
   "name": "List of known Gmail sending IP ranges",
   "type": "cidr",
-<<<<<<< HEAD
   "version": 20221221
-=======
-  "version": 20221222
->>>>>>> refs/remotes/origin/redesign
 }

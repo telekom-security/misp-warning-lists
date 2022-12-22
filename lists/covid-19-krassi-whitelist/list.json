@@ -108,9 +108,5 @@
   ],
   "name": "Covid-19 Krassi's Whitelist",
   "type": "hostname",
-<<<<<<< HEAD
   "version": 20221221
-=======
-  "version": 20221222
->>>>>>> refs/remotes/origin/redesign
 }
