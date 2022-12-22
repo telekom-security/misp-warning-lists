@@ -35,3 +35,7 @@ done < $submodule_requirements_txt
 if ! [ -x "$(command -v sponge)" ]; then
    echo "sudo apt install moreutils" # the atp command should be directly executed but I am not sure about the sudo rights
 fi
+
+
+# --- Check if we can write to log file ---
+# if exist $WARNINGLISTS_LOG_FILE ...

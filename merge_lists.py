@@ -6,6 +6,7 @@ import sys
 import json
 import shutil
 import logging
+import traceback
 import argparse
 import configparser
 from pathlib import Path
@@ -128,10 +129,7 @@ def print_merge_info(list_category):
         print()
 
 
-if __name__ == "__main__":
-    log_msg = {"sys_argv": sys.argv, "python": sys.version}
-    logger.info(f"start {log_msg}")
-
+def main():
     arg_parser = argparse.ArgumentParser(description="Merge")
     arg_parser.add_argument("--info",
                             action="store_true",
@@ -184,7 +182,18 @@ if __name__ == "__main__":
         else:
             log_proper_level(f"List not merged {log_msg}")  # logging
 
-        # if category in warning_categories:
-        #    save differences to same file for humans
-        #    print_list_diff(source["path"], target_path.joinpath("list.json"))
+
+if __name__ == "__main__":
+    log_msg = {"sys_argv": sys.argv, "python": sys.version}
+    logger.info(f"start {log_msg}")
+
+    try:
+        main()
+    except Exception as e:
+        print(traceback.print_exc())
+        error_msg = {'exception': repr(e), 'traceback': traceback.format_exc()}
+        logger.critical(f"finished with error {error_msg}")
+    else:
+        logger.info(f"finished successfully")
+
 

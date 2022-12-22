@@ -4,11 +4,13 @@ log_command(){
   # runs whatever the function gets as a parameter and logs its return code
   timestamp_start=$(date +"%s")
 
-  $@ # this runs whatever the function gets as a parameter
+  # this runs whatever the function gets as a parameter and saves the stderr
+  { stderr=$("$@" 2>&1 1>&$tmp_fd); } {tmp_fd}>&1
+
   exit_code=$?
 
   exec_time=$(($(date +"%s")-timestamp_start))
-  logger="generator"
+  logger="shell"
   command=$*
   if [ $exit_code -eq 0 ]; then
     log_level="INFO"
@@ -16,11 +18,13 @@ log_command(){
     log_level="ERROR"
   fi
 
-  msg="command {'command': '${command}', 'exit_code': ${exit_code}, 'pwd': '${PWD}', 'timestamp_start': ${timestamp_start}, 'exec_time': ${exec_time}}"
+  msg="command {'command': '${command}', 'exit_code': ${exit_code}, 'pwd': '${PWD}', 'timestamp_start': ${timestamp_start}, 'exec_time': ${exec_time}, 'stderr': '$(echo $stderr)'}"
   log_msg "$logger" "$log_level" "$msg"
 }
 
 log_msg(){
+  # format: $ log_msg "logger_name" "log_level" "message"
+
   log_time=$(date "+%Y-%m-%d %H:%M:%S,%3N")
 
   if [ -z "$WARNINGLISTS_RUN_ID" ]; then
