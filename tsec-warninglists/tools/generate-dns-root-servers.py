@@ -41,12 +41,12 @@ rootdns_warninglist['type'] = 'ip'
 rootdns_warninglist['list'] = ips
 rootdns_warninglist['matching_attributes'] = ['ip-src', 'ip-dst']
 
-with open('./lists/root-dns-ipv4/list.json', 'w') as data_file:
+with open('../lists/root-dns-ipv4/list.json', 'w') as data_file:
     json.dump(rootdns_warninglist, data_file, indent=4, sort_keys=True)
 
 rootdns_warninglist['type'] = 'hostname'
 rootdns_warninglist['list'] = domains
 rootdns_warninglist['matching_attributes'] = ['domain', 'hostname']
 
-with open('./lists/root-dns-hostname/list.json', 'w') as data_file:
+with open('../lists/root-dns-hostname/list.json', 'w') as data_file:
     json.dump(rootdns_warninglist, data_file, indent=4, sort_keys=True)

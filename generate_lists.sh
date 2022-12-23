@@ -45,9 +45,10 @@ log_msg "generator" "INFO" "$msg"
 source ./.venv/bin/activate
 start_time=$(date "+%Y-%m-%d %H:%M:%S")
   (
-  cd ./tsec-warninglists || exit
+  cd ./tsec-warninglists/tools || exit
   # here you can add the scripts for lists.json:
   log_command python3 generate-dns-root-servers.py
+  log_command python3 generate-googlebot.py
   )
 deactivate
 
