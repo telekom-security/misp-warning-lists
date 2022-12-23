@@ -4,6 +4,7 @@
     "2001:148f:fffe::1",
     "2001:148f:ffff::1",
     "2001:1608:10:25::9249:d69b",
+    "2001:19f0:5001:cbb:5400:3ff:fe07:f70d",
     "2001:19f0:7402:1574:5400:2ff:fe66:2cff",
     "2001:1a68::d911:2244",
     "2001:1bc0::ffff:aaaa:2",
@@ -186,5 +187,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "cidr",
-  "version": 20221223
+  "version": 20221224
 }
