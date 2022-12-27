@@ -2778,6 +2778,7 @@
         "spritzzone.de",
         "spruzme.com",
         "spybox.de",
+        "spymail.com",
         "squizzy.de",
         "squizzy.net",
         "sroff.com",
@@ -3468,5 +3469,5 @@
     ],
     "name": "List of disposable email domains",
     "type": "substring",
-    "version": 20221226
+    "version": 20221227
 }
