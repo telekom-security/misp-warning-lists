@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20221228,
+  "version": 20221229,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9933,6 +9933,7 @@
     "ojaiusd.org",
     "bismarckstate.edu",
     "quadratacademy.com",
-    "una.edu"
+    "una.edu",
+    "kiet.edu"
   ]
 }
