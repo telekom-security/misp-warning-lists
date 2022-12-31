@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20221230,
+  "version": 20221231,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9934,6 +9934,17 @@
     "bismarckstate.edu",
     "quadratacademy.com",
     "una.edu",
-    "kiet.edu"
+    "kiet.edu",
+    "wakefield.ac.uk",
+    "student.uliege.be",
+    "helpnet.uliege.be",
+    "ddi.uliege.be",
+    "uliege.be",
+    "student.spsmb.cz",
+    "spsmb.cz",
+    "dnui.edu.cn",
+    "neusoft.edu.cn",
+    "mymail.mapua.edu.ph",
+    "mapua.edu.ph"
   ]
 }
