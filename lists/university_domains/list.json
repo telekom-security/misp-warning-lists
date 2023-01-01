@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20221231,
+  "version": 20230101,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -4253,6 +4253,7 @@
     "sambalpuruniversitypgc.in",
     "sanskrit.nic.in",
     "sastra.edu",
+    "sastra.ac.in",
     "sathyabamauniv.ac.in",
     "saurashtrauniversity.edu",
     "sce.ac.in",
@@ -9945,6 +9946,7 @@
     "dnui.edu.cn",
     "neusoft.edu.cn",
     "mymail.mapua.edu.ph",
-    "mapua.edu.ph"
+    "mapua.edu.ph",
+    "faculdadedombosco.edu.br"
   ]
 }
