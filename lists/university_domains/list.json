@@ -3698,6 +3698,7 @@
     "kdu.md",
     "kduniv.ac.kr",
     "kean.edu",
+    "kec.edu.np",
     "kee.hu",
     "keele.ac.uk",
     "keene.edu",
@@ -9451,6 +9452,7 @@
     "vit.ac.in",
     "vitbhopal.ac.in",
     "viu.edu.pa",
+    "viu.es",
     "vjc.edu",
     "vkgu.kz",
     "vksu-ara.org",
@@ -9950,5 +9952,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230102
+  "version": 20230103
 }
