@@ -8246,6 +8246,7 @@
     "uni.torun.pl",
     "uni.udm.ru",
     "uni.wroc.pl",
+    "uni9.edu.br",
     "unia.ao",
     "uniaam.uia.es",
     "uniacc.cl",
@@ -8418,6 +8419,7 @@
     "uninorte.edu.co",
     "uninorte.edu.py",
     "uninova.sk",
+    "uninove.br",
     "uninp.edu.rs",
     "uninsubria.it",
     "uninus.ac.id",
@@ -9952,5 +9954,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230103
+  "version": 20230104
 }
