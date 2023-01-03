@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20230102,
+  "version": 20230103,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9809,6 +9809,7 @@
     "ui1.es",
     "alumnos.ui1.es",
     "enae.es",
+    "viu.es",
     "dhbw.de",
     "heidenheim.dhbw.de",
     "cas.dhbw.de",
@@ -9947,6 +9948,9 @@
     "neusoft.edu.cn",
     "mymail.mapua.edu.ph",
     "mapua.edu.ph",
-    "faculdadedombosco.edu.br"
+    "faculdadedombosco.edu.br",
+    "mnsuet.edu.pk",
+    "bellevuecollege.edu",
+    "kec.edu.np"
   ]
 }
