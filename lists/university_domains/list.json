@@ -820,6 +820,7 @@
     "bridgewater.edu",
     "brijnet.org",
     "bris.ac.uk",
+    "bristol.ac.uk",
     "bristolcc.edu",
     "brockport.edu",
     "brocku.ca",
@@ -9956,5 +9957,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230105
+  "version": 20230106
 }
