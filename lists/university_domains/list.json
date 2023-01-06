@@ -1790,6 +1790,7 @@
     "ecnu.edu.cn",
     "ecok.edu",
     "ecoles-idrac.com",
+    "ecomp.poli.br",
     "ecpi.edu",
     "ecr.edu.co",
     "ecsc.edu.et",
@@ -5593,6 +5594,7 @@
     "pol.lublin.pl",
     "polak.edu.lv",
     "polban.ac.id",
+    "poli.br",
     "poliba.it",
     "police.ac.kr",
     "poligran.edu.co",
@@ -8953,6 +8955,7 @@
     "upds.edu.bo",
     "upe.br",
     "upe.edu.py",
+    "upe.poli.br",
     "upeace.org",
     "upei.ca",
     "upel.edu.ve",
@@ -9957,5 +9960,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230106
+  "version": 20230107
 }
