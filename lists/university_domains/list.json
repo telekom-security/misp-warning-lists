@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20230106,
+  "version": 20230107,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9956,6 +9956,9 @@
     "bellevuecollege.edu",
     "kec.edu.np",
     "uninove.br",
-    "uni9.edu.br"
+    "uni9.edu.br",
+    "upe.poli.br",
+    "ecomp.poli.br",
+    "poli.br"
   ]
 }
