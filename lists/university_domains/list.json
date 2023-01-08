@@ -1006,6 +1006,7 @@
     "cau.edu.cn",
     "cau.org.in",
     "cauc.edu",
+    "cauc.edu.gh",
     "cavc.ac.uk",
     "cavendishza.org",
     "cavern.nmsu.edu",
@@ -2384,6 +2385,7 @@
     "gbpuat.ac.in",
     "gbrownc.on.ca",
     "gbs-ge.ch",
+    "gbuc.edu.gh",
     "gc.edu",
     "gcal.ac.uk",
     "gcc.mass.edu",
@@ -3681,6 +3683,7 @@
     "kbu.ac.jp",
     "kbu.ac.th",
     "kbu.edu.my",
+    "kc.edu.gh",
     "kca.ac.ke",
     "kcc.edu",
     "kckcc.edu",
@@ -4081,6 +4084,7 @@
     "lamolina.edu.pe",
     "lamp.ac.uk",
     "lampangvc.ac.th",
+    "lancaster.edu.gh",
     "lancs.ac.uk",
     "lander.edu",
     "lanecc.edu",
@@ -9946,6 +9950,7 @@
     "zu.edu.eg",
     "zu.edu.ly",
     "zu.edu.pk",
+    "zucghana.org",
     "zums.ac.ir",
     "zut.edu.pl",
     "zuyd.nl",
@@ -9960,5 +9965,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230108
+  "version": 20230109
 }
