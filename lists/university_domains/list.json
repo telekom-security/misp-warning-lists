@@ -7891,7 +7891,6 @@
     "ulbu.bi",
     "uleam.edu.ec",
     "uleth.ca",
-    "ulg.ac.be",
     "ulicori.ac.cr",
     "uliege.be",
     "ulim.md",
@@ -9965,5 +9964,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230109
+  "version": 20230110
 }
