@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20230109,
+  "version": 20230110,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -1783,7 +1783,7 @@
     "uhasselt.be",
     "ukc.ac.uk",
     "ulb.ac.be",
-    "ulg.ac.be",
+    "uliege.be",
     "umh.ac.be",
     "vesalius.edu",
     "vlekho.be",
@@ -9949,7 +9949,6 @@
     "student.uliege.be",
     "helpnet.uliege.be",
     "ddi.uliege.be",
-    "uliege.be",
     "student.spsmb.cz",
     "spsmb.cz",
     "dnui.edu.cn",
