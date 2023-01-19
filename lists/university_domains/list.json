@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20230118,
+  "version": 20230119,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -9963,6 +9963,22 @@
     "uni9.edu.br",
     "upe.poli.br",
     "ecomp.poli.br",
-    "poli.br"
+    "poli.br",
+    "mh-luebeck.de",
+    "musikhochschule-muenchen.de",
+    "hmtm.de",
+    "udk-berlin.de",
+    "hfmt-koeln.de",
+    "hfmdd.de",
+    "hmdk-stuttgart.de",
+    "hfk-bremen.de",
+    "hfk2020.de",
+    "hmt-leipzig.de",
+    "hmtm-hannover.de",
+    "hfm-detmold.de",
+    "ac-orleans-tours.fr",
+    "uni-speyer.de",
+    "europa-uni.de",
+    "ac-besancon.fr"
   ]
 }
