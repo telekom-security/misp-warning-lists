@@ -12758,5 +12758,5 @@
   ],
   "name": "List of known public DNS resolvers expressed as hostname",
   "type": "hostname",
-  "version": 20230123
+  "version": 20230124
 }
