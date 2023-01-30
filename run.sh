@@ -13,6 +13,7 @@ log_msg "run.sh" "INFO" "start"
 (
   cd misp-warninglists || exit
   if [ -f .git ]; then
+    git reset --hard HEAD
     git pull origin main
   else
     git submodule update --init --recursive
@@ -29,7 +30,7 @@ bash generate_lists.sh
 .venv/bin/python3 merge_lists.py --warninglists tsec
 
 # save lists back to repo
-log_command git add lists/*
+log_command git add misp-warninglists lists/*
 log_command git commit -m "automatic warning-list update"
 log_command git push origin redesign
 

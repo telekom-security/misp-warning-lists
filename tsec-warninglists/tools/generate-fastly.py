@@ -20,7 +20,7 @@ def process(file, dst):
     for ip in ips_json.get("addresses", []):
         warninglist['list'].append(ip.strip())
     for ip in ips_json.get("ipv6_addresses", []):
-            warninglist['list'].append(ip.strip())
+        warninglist['list'].append(ip.strip())
 
     write_to_file(warninglist, dst)
     return warninglist
