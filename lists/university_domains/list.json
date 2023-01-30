@@ -7,7 +7,7 @@
     "url",
     "domain|ip"
   ],
-  "version": 20230129,
+  "version": 20230130,
   "description": "List of University domains from https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
   "list": [
     "marywood.edu",
@@ -3603,6 +3603,7 @@
     "fh-weingarten.de",
     "fh-westkueste.de",
     "fh-wiesbaden.de",
+    "ostfalia.de",
     "fh-wolfenbuettel.de",
     "fh-worms.de",
     "fhwt.de",
@@ -3696,6 +3697,7 @@
     "thh-friedensau.de",
     "tiho-hannover.de",
     "tu-berlin.de",
+    "tu-braunschweig.de",
     "tu-bs.de",
     "tu-chemnitz.de",
     "tu-clausthal.de",
