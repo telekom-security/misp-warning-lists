@@ -1,0 +1,35 @@
+{
+  "description": "Hostnames used by different desktop and mobile device operating systems for captive portal detection as documented by the Wireless Broadband Alliance.",
+  "list": [
+    "android.clients.google.com",
+    "apple.com",
+    "captive.apple.com",
+    "clients3.google.com",
+    "clients4.google.com",
+    "connectivitycheck.android.com",
+    "connectivitycheck.gstatic.com",
+    "d2uzsrnmmf6tds.cloudfront.net",
+    "detectportal.firefox.com",
+    "msftncsi.com",
+    "spectrum.s3.amazonaws.com",
+    "www.airport.us",
+    "www.androidbak.net",
+    "www.apple.com",
+    "www.appleiphonecell.com",
+    "www.google.com",
+    "www.gstatic.com",
+    "www.ibook.info",
+    "www.itools.info",
+    "www.msftconnecttest.com",
+    "www.thinkdifferent.us"
+  ],
+  "matching_attributes": [
+    "hostname",
+    "domain",
+    "url",
+    "domain|ip"
+  ],
+  "name": "Captive Portal Detection Hostnames",
+  "type": "string",
+  "version": 20230130
+}
