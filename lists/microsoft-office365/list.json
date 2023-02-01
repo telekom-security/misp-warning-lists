@@ -15,6 +15,7 @@
     ".azurerms.com",
     ".blob.core.windows.net",
     ".broadcast.skype.com",
+    ".cloud.microsoft",
     ".cloudapp.net",
     ".compliance.microsoft.com",
     ".cortana.ai",
@@ -28,7 +29,6 @@
     ".keydelivery.mediaservices.windows.net",
     ".lync.com",
     ".mail.protection.outlook.com",
-    ".manage.microsoft.com",
     ".media.azure.net",
     ".microsoft.com",
     ".microsoftonline-p.com",
@@ -230,5 +230,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20230131
+  "version": 20230201
 }
