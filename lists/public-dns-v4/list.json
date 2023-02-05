@@ -23259,5 +23259,5 @@
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "cidr",
-  "version": 20230205
+  "version": 20230206
 }
