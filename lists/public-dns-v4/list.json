@@ -23179,5 +23179,5 @@
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "string",
-  "version": 20230204
+  "version": 20230205
 }
