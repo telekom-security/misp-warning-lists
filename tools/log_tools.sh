@@ -14,11 +14,13 @@ log_command(){
   command=$*
   if [ $exit_code -eq 0 ]; then
     log_level="INFO"
+    stderr_json_param=""
   else
     log_level="ERROR"
+    stderr_json_param=", 'stderr': '$(echo $stderr | tr "'" "*")"
   fi
 
-  msg="command {'command': '${command}', 'exit_code': ${exit_code}, 'pwd': '${PWD}', 'timestamp_start': ${timestamp_start}, 'exec_time': ${exec_time}, 'stderr': '$(echo $stderr | tr "'" "*")'}"
+  msg="command {'command': '${command}', 'exit_code': ${exit_code}, 'pwd': '${PWD}', 'timestamp_start': ${timestamp_start}, 'exec_time': ${exec_time}${stderr_json_param}"
   log_msg "$logger" "$log_level" "$msg"
 }
 
