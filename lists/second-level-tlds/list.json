@@ -3881,6 +3881,7 @@
     "isumi.chiba.jp",
     "it",
     "it.ao",
+    "it.com",
     "it.eu.org",
     "it1.eur.aruba.jenv-aruba.cloud",
     "it1.jenv-aruba.cloud",
@@ -9491,5 +9492,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230209
+  "version": 20230210
 }

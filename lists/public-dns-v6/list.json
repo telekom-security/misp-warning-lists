@@ -171,7 +171,9 @@
     "2a0e:2000::2000",
     "2a0f:4a80:0:5::6734",
     "2a0f:fc80::",
+    "2a0f:fc80::9",
     "2a0f:fc81::",
+    "2a0f:fc81::9",
     "2a10:50c0::1:ff",
     "2a10:50c0::2:ff",
     "2a10:50c0::ad1:ff",
@@ -187,5 +189,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "cidr",
-  "version": 20230209
+  "version": 20230210
 }
