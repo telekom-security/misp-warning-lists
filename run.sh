@@ -4,7 +4,6 @@ export WARNINGLISTS_RUN_ID=$(date "+%Y%m%d%H%M%S%3N")
 export WARNINGLISTS_LOG_FILE="/var/log/misp-warning-lists.log"
 printf "\nrun_id:$WARNINGLISTS_RUN_ID\n\n"
 
-git checkout redesign # just development branch - should be removed in production (similarly "git push" at the end of this script!)
 
 source ./tools/log_tools.sh # load function log_command
 log_msg "run.sh" "INFO" "start"
@@ -32,7 +31,7 @@ bash generate_lists.sh
 # save lists back to repo
 log_command git add misp-warninglists lists/*
 log_command git commit -m "automatic warning-list update"
-log_command git push origin redesign
+log_command git push origin master
 
 log_msg "run.sh" "INFO" "finish"
 
