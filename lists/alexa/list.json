@@ -1,6 +1,6 @@
 {
   "description": "Event contains one or more entries from the top 1000 of the most used website (Alexa).",
-  "version": 20230209,
+  "version": 20230210,
   "name": "Top 1000 website from Alexa",
   "type": "hostname",
   "list": [
