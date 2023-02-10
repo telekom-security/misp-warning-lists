@@ -54,17 +54,30 @@ def validate(values: List[str], func) -> Iterator[Tuple[str, ValueError]]:
 def validate_file(p: Path) -> Iterator[InvalidListValue]:
     invalid_values = []
     with p.open() as f:
-        warninglist = json.load(f, encoding="utf-8")
+        warninglist = json.load(f)
         if warninglist["type"] == "cidr":
             invalid_values = validate(warninglist["list"], lambda value: ip_network(value, strict=True))
         elif warninglist["type"] == "regexp":
             invalid_values = validate(warninglist["list"], lambda value: is_valid_regexp(value))
-    # Disabled, because current lists contains invalid domains
-    #    elif warninglist["type"] == "hostname":
-    #        invalid_values = validate_hostnames(warninglist["list"])
+        # Disabled, because current lists contains invalid domains
+        elif warninglist["type"] == "hostname":
+            invalid_values = validate(warninglist["list"], lambda value: is_valid_hostname(value))
 
     for (value, exception) in invalid_values:
         yield InvalidListValue(p, value, str(exception))
+
+
+def validate_json(warninglist) -> Iterator[InvalidListValue]:
+    invalid_values = []
+    if warninglist["type"] == "cidr":
+        invalid_values = validate(warninglist["list"], lambda value: ip_network(value, strict=True))
+    elif warninglist["type"] == "regexp":
+        invalid_values = validate(warninglist["list"], lambda value: is_valid_regexp(value))
+    # Disabled, because current lists contains invalid domains
+    # elif warninglist["type"] == "hostname":
+    #    invalid_values = validate_hostnames(warninglist["list"])
+
+    return not bool(list(invalid_values))
 
 
 if __name__ == "__main__":

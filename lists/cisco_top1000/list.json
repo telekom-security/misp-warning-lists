@@ -1,12 +1,5 @@
 {
-  "description": "Event contains one or more entries from the top 1000 of the most used website (Cisco Umbrella).",
-  "version": 20230210,
-  "name": "Top 1000 website from Cisco Umbrella",
-  "type": "hostname",
-  "matching_attributes": [
-    "hostname",
-    "domain"
-  ],
+  "description": "Event contains one or more entries from the top 1000 of the most used websites (Cisco Umbrella).",
   "list": [
     "1-courier.push.apple.com",
     "1.nflxso.net",
@@ -1008,5 +1001,14 @@
     "z.moatads.com",
     "zemanta.com",
     "zoom.us"
-  ]
+  ],
+  "matching_attributes": [
+    "hostname",
+    "domain",
+    "url",
+    "domain|ip"
+  ],
+  "name": "Top 1000 websites from Cisco Umbrella",
+  "type": "string",
+  "version": 20230210
 }

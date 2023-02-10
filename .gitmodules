@@ -1,0 +1,6 @@
+[submodule "misp-warninglists_submodule"]
+	path = misp-warninglists_submodule
+	url = https://github.com/MISP/misp-warninglists.git
+[submodule "misp-warninglists"]
+	path = misp-warninglists
+	url = https://github.com/MISP/misp-warninglists.git
