@@ -184,7 +184,6 @@
     "pki-ldap.atos.net",
     "pki-ocsp.atos.net",
     "pki-ocsp.symauth.com",
-    "pki-ocsp.verisign.com",
     "pki.intranet.eon.com",
     "pki.intranet.uniper.energy",
     "pki.telesec.de",
@@ -255,5 +254,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230213
+  "version": 20230214
 }
