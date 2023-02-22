@@ -6896,6 +6896,7 @@
     "taoistcollege.org.sg",
     "tarc.edu.my",
     "tarleton.edu",
+    "tarsus.edu.tr",
     "tart.spb.ru",
     "tashgiv.uz",
     "tasued.edu.ng",
@@ -9992,5 +9993,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230222
+  "version": 20230223
 }
