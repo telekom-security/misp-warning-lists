@@ -26,5 +26,5 @@
   ],
   "name": "List of known Tenable Cloud Sensors IPv6",
   "type": "cidr",
-  "version": 20230226
+  "version": 20230227
 }
