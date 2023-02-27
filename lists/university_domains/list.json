@@ -7449,6 +7449,7 @@
     "uca.edu.ni",
     "uca.edu.sv",
     "uca.es",
+    "uca.fr",
     "ucaat.com",
     "ucaazo.edu.ec",
     "ucab.edu.ve",
@@ -9993,5 +9994,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230227
+  "version": 20230228
 }
