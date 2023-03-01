@@ -139,6 +139,7 @@
     "2a01:9e00::54",
     "2a02:200:1:11::100",
     "2a02:200:1:12::100",
+    "2a02:2970:1002::18",
     "2a02:6b8:0:1::feed:a11",
     "2a02:6b8:0:1::feed:bad",
     "2a02:6b8:0:1::feed:ff",
@@ -202,5 +203,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "cidr",
-  "version": 20230301
+  "version": 20230302
 }
