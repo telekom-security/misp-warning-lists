@@ -204,5 +204,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "cidr",
-  "version": 20230304
+  "version": 20230305
 }
