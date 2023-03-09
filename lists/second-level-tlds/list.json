@@ -4866,7 +4866,6 @@
     "maceio.br",
     "macerata.it",
     "machida.tokyo.jp",
-    "macys",
     "mad.museum",
     "madrid",
     "madrid.museum",
@@ -9568,5 +9567,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230309
+  "version": 20230310
 }
