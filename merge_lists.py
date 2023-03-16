@@ -174,7 +174,7 @@ def main():
 
         log_proper_level = logger.warning if category in warning_categories else logger.info
 
-        if category in merge_categories:
+        if category in merge_categories and len(source["content"]) > 0:
             if not target_path.exists():
                 os.makedirs(target_path)
             shutil.copy2(source["path"], target_path.joinpath("list.json"))
