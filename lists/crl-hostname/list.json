@@ -224,8 +224,6 @@
     "service.globaltrust.eu",
     "sslcom.crl.certum.pl",
     "sslcom.ocsp-certum.com",
-    "ssp-crl.symauth.com",
-    "ssp-ocsp.symauth.com",
     "subca.crl.certum.pl",
     "subca.ocsp-certum.com",
     "trustidcaas.ocsp.identrust.com",
@@ -252,5 +250,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230319
+  "version": 20230320
 }
