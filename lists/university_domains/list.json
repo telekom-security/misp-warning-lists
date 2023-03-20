@@ -2854,6 +2854,7 @@
     "hneu.edu.ua",
     "hnfjxy.cn",
     "hnluraipur.com",
+    "hnu.edu.cn",
     "hochschule-bonn-rhein-sieg.de",
     "hocking.edu",
     "hoduniv.net.ye",
@@ -9877,6 +9878,7 @@
     "wwu.de",
     "wwu.edu",
     "www-ecpm.u-strasbg.fr",
+    "www-en.hnu.edu.cn",
     "www-engees.u-strasbg.fr",
     "www-ensais.u-strasbg.fr",
     "www-ensps.u-strasbg.fr",
@@ -10063,5 +10065,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230320
+  "version": 20230321
 }
