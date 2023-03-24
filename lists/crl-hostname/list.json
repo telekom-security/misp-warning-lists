@@ -211,7 +211,6 @@
     "rootca2017-ocsp2.e-szigno.hu",
     "rootca2017-ocsp3.e-szigno.hu",
     "rootcar2-ocsp.disig.sk",
-    "rootocsp-g3.pkioverheid.nl",
     "rootocsp.twca.com.tw",
     "rootocsp2009.e-szigno.hu",
     "s.ss2.us",
@@ -250,5 +249,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230324
+  "version": 20230325
 }
