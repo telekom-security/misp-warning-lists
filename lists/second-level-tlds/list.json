@@ -4571,6 +4571,7 @@
     "labor.museum",
     "labour.museum",
     "lacaixa",
+    "ladesk.com",
     "lahppi.no",
     "lajolla.museum",
     "lakas.hu",
@@ -9566,5 +9567,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230403
+  "version": 20230404
 }

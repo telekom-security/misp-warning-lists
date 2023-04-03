@@ -28,7 +28,6 @@
     "crl.certsign.ro",
     "crl.certum.pl",
     "crl.cfca.com.cn",
-    "crl.chambersign.org",
     "crl.comodo.net",
     "crl.comodoca.com",
     "crl.d-trust.net",
@@ -249,5 +248,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230403
+  "version": 20230404
 }
