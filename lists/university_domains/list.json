@@ -7044,6 +7044,7 @@
     "tgsha.ru",
     "th-brandenburg.de",
     "th-deg.de",
+    "th-koeln.de",
     "theatrins-yar.ru",
     "thenewcollege.org",
     "thenicc.edu",
@@ -10070,5 +10071,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230413
+  "version": 20230414
 }
