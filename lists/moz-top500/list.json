@@ -66,6 +66,7 @@
     "bp.blogspot.com",
     "bp0.blogger.com",
     "bp2.blogger.com",
+    "bp3.blogger.com",
     "brandbucket.com",
     "britannica.com",
     "business.google.com",
@@ -310,7 +311,6 @@
     "oup.com",
     "outlook.com",
     "ovh.com",
-    "ovh.net",
     "ovhcloud.com",
     "paypal.com",
     "pbs.org",
@@ -439,7 +439,6 @@
     "unsplash.com",
     "uol.com.br",
     "upenn.edu",
-    "urbandictionary.com",
     "usatoday.com",
     "usda.gov",
     "usgs.gov",
@@ -485,6 +484,7 @@
     "www.yahoo.com",
     "xbox.com",
     "xing.com",
+    "xinhuanet.com",
     "yadi.sk",
     "yahoo.co.jp",
     "yale.edu",
@@ -510,5 +510,5 @@
   ],
   "name": "Top 500 domains and pages from https://moz.com/top500",
   "type": "string",
-  "version": 20230414
+  "version": 20230415
 }
