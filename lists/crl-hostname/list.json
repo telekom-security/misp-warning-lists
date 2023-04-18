@@ -217,7 +217,6 @@
     "s.symcb.com",
     "s.symcd.com",
     "sceccrootca1.ocsp.secomtrust.net",
-    "scrootca1.ocsp.secomtrust.net",
     "scrootca2.ocsp.secomtrust.net",
     "scrootca3.ocsp.secomtrust.net",
     "service.globaltrust.eu",
@@ -249,5 +248,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230418
+  "version": 20230419
 }

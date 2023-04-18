@@ -3112,6 +3112,7 @@
     "iep.u-bordeaux.fr",
     "iese.edu",
     "iese.edu.ar",
+    "ieseg.fr",
     "iet.ru",
     "ieu.edu.tr",
     "ifdtung.if.ua",
@@ -6484,6 +6485,7 @@
     "ska.khio.no",
     "skagit.edu",
     "skc.edu",
+    "skema.edu",
     "skhu.ac.kr",
     "skidmore.edu",
     "skku.ac.kr",
@@ -10071,5 +10073,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230418
+  "version": 20230419
 }
