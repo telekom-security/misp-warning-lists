@@ -2324,6 +2324,8 @@
     "friends.edu",
     "frontrange.edu",
     "frostburg.edu",
+    "fs-students.de",
+    "fs.de",
     "fsagx.ac.be",
     "fsc.edu",
     "fscj.edu",
@@ -3147,6 +3149,7 @@
     "iiitvadodara.ac.in",
     "iimtrichy.ac.in",
     "iipsindia.org",
+    "iisc.ac.in",
     "iisc.ernet.in",
     "iit.com.na",
     "iit.edu",
@@ -3892,6 +3895,7 @@
     "knoxvillecollege.edu",
     "knsu.ac.kr",
     "kntu.ac.ir",
+    "knu.ua",
     "knua.ac.kr",
     "knuba.edu.ua",
     "knue.ac.kr",
@@ -10074,5 +10078,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230424
+  "version": 20230425
 }
