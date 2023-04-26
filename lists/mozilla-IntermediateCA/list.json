@@ -2117,7 +2117,6 @@
     "59aa42a6316f57f8ff2dc0cd40f2060ad61c4725",
     "59aff570be61fe671ba021827d4dc60fdc144b66",
     "59b244f3ff278c039d71ce7334b9d4d0241ec62b",
-    "59b447bcdf56d4ac8b5267bd39ad052d5f672c0e",
     "59b46ca31131cc5a43e1435c7a5ad184",
     "59d78c1fa2ccf4156afbb3f31aec407b",
     "59d9a60bf5638a8757d4c6c65ea38a96",
@@ -4592,7 +4591,6 @@
     "beb51c8f452426b2b9e672f7dd1eea4b33d6c38f4ca2a96956ce24bd05b0c38d",
     "beb8efe9b1a73c841b375a90e5fff8048848e3a2af66f6c4dd7b938d6fe8c5d8",
     "becfde124cedd344d925cb55edda662d9a9c0688fa9a0870ce3dbb6da4313e4e",
-    "bee3483da035855d894a2595e481aacb",
     "bee49a10fda4abdd9c8b477d2d3df836eb7bd707",
     "bee8fb99d7b9ec0caef1b1a6acffeabd777e31cbac2d0e1846bdaec4d5b18be8",
     "beeeb6adb930d477361ec282cb34ce73",
@@ -4652,7 +4650,6 @@
     "c15bbd2e3536dd281fc589e87478818f",
     "c165ecfb396608ed4efbbb4ed2ef85fe4b0a9ba4",
     "c1671382f156a7bd6ac59fb93641868030a6992a",
-    "c1685683f3c8590e88580197f219cab99e5482a1568635f596d09867b2f405bd",
     "c169d69dd3d26d36cb82df135c57fe336ecff7e7ea401e99e3ce1917a8fb8180",
     "c18c5714e486189dd2c3e6f563c5a97434d0ce0a539330f23f58213eb8568ab2",
     "c18c8de10a7b02ab2a700f3e95ee53501dc015012faac197b2d64bf2ee6dfe77",
@@ -6111,5 +6108,5 @@
   ],
   "name": "Fingerprint of known intermediate of trusted certificates",
   "type": "string",
-  "version": 20230426
+  "version": 20230427
 }
