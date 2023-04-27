@@ -4,6 +4,7 @@
     "br-root-ca1-2020.ocsp.d-trust.net",
     "cdp-ldap.intranet.eon.com",
     "cdp-ldap.intranet.uniper.energy",
+    "cdp.disig.sk",
     "cdp.elektronicznypodpis.pl",
     "cdp1.disig.sk",
     "cdp1.pca.dfn.de",
@@ -248,5 +249,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230427
+  "version": 20230428
 }
