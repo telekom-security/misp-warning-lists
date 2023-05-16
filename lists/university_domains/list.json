@@ -2995,7 +2995,6 @@
     "huntingdon.edu",
     "huntington.edu",
     "huntingtonjuniorcollege.edu",
-    "hunu.edu.cn",
     "hupe.hu",
     "huron.ac.uk",
     "huronuc.on.ca",
@@ -3163,6 +3162,7 @@
     "iipsindia.org",
     "iisc.ac.in",
     "iisc.ernet.in",
+    "iit.ac.lk",
     "iit.com.na",
     "iit.edu",
     "iitb.ac.in",
@@ -10105,5 +10105,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230516
+  "version": 20230517
 }
