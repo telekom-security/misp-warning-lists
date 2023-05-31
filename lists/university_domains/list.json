@@ -4336,6 +4336,7 @@
     "ltcc.edu",
     "ltu.bg",
     "ltu.edu",
+    "ltu.edu.tw",
     "lu.ac.ir",
     "lu.lv",
     "lu.se",
@@ -8815,6 +8816,7 @@
     "university.kherson.ua",
     "university.tversu.ru",
     "universitycanadawest.ca",
+    "universitycollege.ac.in",
     "universityliberia.org",
     "universityofbohol.com",
     "universityofcebu.edu.ph",
@@ -10103,5 +10105,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230531
+  "version": 20230601
 }
