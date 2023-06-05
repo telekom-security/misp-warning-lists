@@ -334,6 +334,7 @@
     "ap.edu.pl",
     "ap.siedlce.pl",
     "apiit.edu.my",
+    "apiu.edu",
     "appstate.edu",
     "apsu.edu",
     "apsurewa.nic.in",
@@ -3427,6 +3428,7 @@
     "iti.is",
     "iticu.edu.tr",
     "itismalta.com",
+    "itla.edu.do",
     "itleon.edu.mx",
     "itm.edu.co",
     "itmina.edu.mx",
@@ -9285,6 +9287,7 @@
     "usla.ru",
     "usls.edu",
     "usm.ac.id",
+    "usm.cl",
     "usm.edu",
     "usm.edu.ec",
     "usm.edu.ph",
@@ -10105,5 +10108,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230605
+  "version": 20230606
 }
