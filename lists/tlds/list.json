@@ -3,7 +3,6 @@
   "list": [
     "AAA",
     "AARP",
-    "ABARTH",
     "ABB",
     "ABBOTT",
     "ABBVIE",
@@ -38,7 +37,6 @@
     "AIRTEL",
     "AKDN",
     "AL",
-    "ALFAROMEO",
     "ALIBABA",
     "ALIPAY",
     "ALLFINANZ",
@@ -412,7 +410,6 @@
     "FERRARI",
     "FERRERO",
     "FI",
-    "FIAT",
     "FIDELITY",
     "FIDO",
     "FILM",
@@ -679,7 +676,6 @@
     "LAMBORGHINI",
     "LAMER",
     "LANCASTER",
-    "LANCIA",
     "LAND",
     "LANDROVER",
     "LANXESS",
@@ -753,7 +749,6 @@
     "MARKETS",
     "MARRIOTT",
     "MARSHALLS",
-    "MASERATI",
     "MATTEL",
     "MBA",
     "MC",
@@ -1488,5 +1483,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20230606
+  "version": 20230607
 }
