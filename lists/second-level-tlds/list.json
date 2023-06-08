@@ -67,7 +67,6 @@
     "aarborte.no",
     "aarp",
     "ab.ca",
-    "abarth",
     "abashiri.hokkaido.jp",
     "abb",
     "abbott",
@@ -271,7 +270,6 @@
     "alces.network",
     "alessandria.it",
     "alesund.no",
-    "alfaromeo",
     "algard.no",
     "alibaba",
     "alipay",
@@ -2286,7 +2284,6 @@
     "fi.cr",
     "fi.eu.org",
     "fi.it",
-    "fiat",
     "fidelity",
     "fido",
     "fie.ee",
@@ -4301,7 +4298,6 @@
     "lamer",
     "lanbib.se",
     "lancaster",
-    "lancia",
     "land",
     "land-4-sale.us",
     "landing.myjino.ru",
@@ -4620,7 +4616,6 @@
     "marugame.kagawa.jp",
     "marumori.miyagi.jp",
     "masaki.ehime.jp",
-    "maserati",
     "masfjorden.no",
     "mashike.hokkaido.jp",
     "mashiki.kumamoto.jp",
@@ -9030,5 +9025,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230608
+  "version": 20230609
 }
