@@ -71,7 +71,6 @@
     "crl.trustwave.com",
     "crl.tuntrust.tn",
     "crl.usertrust.com",
-    "crl.verisign.com",
     "crl.vikingcloud.com",
     "crl.ws.symantec.com",
     "crl05.actalis.it",
@@ -251,5 +250,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230610
+  "version": 20230611
 }

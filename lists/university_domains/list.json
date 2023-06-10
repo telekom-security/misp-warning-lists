@@ -3706,6 +3706,7 @@
     "karatay.edu.tr",
     "karatekin.edu.tr",
     "karatinauniversity.ac.ke",
+    "karazin.ua",
     "karch.dk",
     "kardan.edu.af",
     "karelia.ru",
@@ -6780,6 +6781,7 @@
     "student.ccm.edu",
     "student.gsa.ac.uk",
     "student.hs-anhalt.de",
+    "student.karazin.ua",
     "student.lamk.fi",
     "student.laurea.fi",
     "student.lboro.ac.uk",
@@ -10108,5 +10110,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230610
+  "version": 20230611
 }
