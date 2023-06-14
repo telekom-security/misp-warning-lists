@@ -202,6 +202,7 @@
     "ah.no",
     "ai",
     "ai.in",
+    "ai.vn",
     "aibetsu.hokkaido.jp",
     "aichi.jp",
     "aid.pl",
@@ -3339,6 +3340,7 @@
     "id.ly",
     "id.repl.co",
     "id.us",
+    "id.vn",
     "ide.kyoto.jp",
     "idf.il",
     "idrett.no",
@@ -3532,6 +3534,7 @@
     "io",
     "io.in",
     "io.kg",
+    "io.vn",
     "iobb.net",
     "iopsys.se",
     "ip.linodeusercontent.com",
@@ -9025,5 +9028,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230614
+  "version": 20230615
 }
