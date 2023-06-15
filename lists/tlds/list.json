@@ -278,7 +278,6 @@
     "CONTACT",
     "CONTRACTORS",
     "COOKING",
-    "COOKINGCHANNEL",
     "COOL",
     "COOP",
     "CORSICA",
@@ -435,7 +434,6 @@
     "FO",
     "FOO",
     "FOOD",
-    "FOODNETWORK",
     "FOOTBALL",
     "FORD",
     "FOREX",
@@ -541,7 +539,6 @@
     "HELSINKI",
     "HERE",
     "HERMES",
-    "HGTV",
     "HIPHOP",
     "HISAMITSU",
     "HITACHI",
@@ -1197,7 +1194,6 @@
     "TRADING",
     "TRAINING",
     "TRAVEL",
-    "TRAVELCHANNEL",
     "TRAVELERS",
     "TRAVELERSINSURANCE",
     "TRUST",
@@ -1483,5 +1479,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20230615
+  "version": 20230616
 }

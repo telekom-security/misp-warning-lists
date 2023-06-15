@@ -8342,6 +8342,7 @@
     "uni-muenchen.de",
     "uni-muenster.de",
     "uni-mysore.ac.in",
+    "uni-nke.hu",
     "uni-obuda.hu",
     "uni-oldenburg.de",
     "uni-osnabrueck.de",
@@ -10110,5 +10111,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230615
+  "version": 20230616
 }
