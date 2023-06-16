@@ -1561,7 +1561,6 @@
     "contractors",
     "control.aero",
     "cooking",
-    "cookingchannel",
     "cool",
     "coolblog.jp",
     "coop",
@@ -2373,7 +2372,6 @@
     "folldal.no",
     "foo",
     "food",
-    "foodnetwork",
     "fool.jp",
     "football",
     "for-better.biz",
@@ -3103,7 +3101,6 @@
     "heroy.more-og-romsdal.no",
     "heroy.nordland.no",
     "heteml.net",
-    "hgtv",
     "hi.cn",
     "hi.us",
     "hicam.net",
@@ -7753,7 +7750,6 @@
     "travel.in",
     "travel.pl",
     "travel.tt",
-    "travelchannel",
     "travelers",
     "travelersinsurance",
     "trd.br",
@@ -9028,5 +9024,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230616
+  "version": 20230617
 }
