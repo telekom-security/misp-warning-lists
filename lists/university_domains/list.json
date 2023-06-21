@@ -6824,6 +6824,7 @@
     "student.maastrichtuniversity.nl",
     "student.murdoch.edu.au",
     "student.scad.edu",
+    "student.sdccd.edu",
     "student.spsmb.cz",
     "student.tudelft.nl",
     "student.uliege.be",
@@ -10147,5 +10148,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230621
+  "version": 20230622
 }
