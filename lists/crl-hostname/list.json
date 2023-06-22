@@ -249,5 +249,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230622
+  "version": 20230623
 }
