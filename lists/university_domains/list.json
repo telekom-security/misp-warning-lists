@@ -7416,6 +7416,7 @@
     "u-air.ac.jp",
     "u-aizu.ac.jp",
     "u-bordeaux2.fr",
+    "u-bourgogne.fr",
     "u-bunkyo.ac.jp",
     "u-cergy.fr",
     "u-clermont1.fr",
@@ -10180,5 +10181,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230705
+  "version": 20230706
 }

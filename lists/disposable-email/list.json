@@ -1042,6 +1042,7 @@
     "ezehe.com",
     "ezfill.com",
     "ezstest.com",
+    "ezztt.com",
     "f4k.es",
     "f5.si",
     "facebook-email.cf",
@@ -1472,6 +1473,7 @@
     "ichigo.me",
     "icx.in",
     "icx.ro",
+    "icznn.com",
     "idx4.com",
     "idxue.com",
     "ieatspam.eu",
@@ -3530,5 +3532,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20230705
+  "version": 20230706
 }
