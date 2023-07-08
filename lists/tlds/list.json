@@ -560,7 +560,6 @@
     "HOST",
     "HOSTING",
     "HOT",
-    "HOTELES",
     "HOTELS",
     "HOTMAIL",
     "HOUSE",
@@ -892,7 +891,6 @@
     "PARTNERS",
     "PARTS",
     "PARTY",
-    "PASSAGENS",
     "PAY",
     "PCCW",
     "PE",
@@ -1255,7 +1253,6 @@
     "VOTO",
     "VOYAGE",
     "VU",
-    "VUELOS",
     "WALES",
     "WALMART",
     "WALTER",
@@ -1479,5 +1476,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20230708
+  "version": 20230709
 }
