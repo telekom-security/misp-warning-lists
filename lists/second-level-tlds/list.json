@@ -3299,7 +3299,6 @@
     "hotel.hu",
     "hotel.lk",
     "hotel.tz",
-    "hoteles",
     "hotels",
     "hotelwithflight.com",
     "hotmail",
@@ -6187,7 +6186,6 @@
     "partners",
     "parts",
     "party",
-    "passagens",
     "passenger-association.aero",
     "patria.bo",
     "pavia.it",
@@ -8263,7 +8261,6 @@
     "vt.it",
     "vt.us",
     "vu",
-    "vuelos",
     "vultrobjects.com",
     "vv.it",
     "vxl.sh",
@@ -9113,5 +9110,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230709
+  "version": 20230710
 }
