@@ -67960,5 +67960,5 @@
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "cidr",
-  "version": 20230713
+  "version": 20230714
 }
