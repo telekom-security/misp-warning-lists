@@ -1260,7 +1260,6 @@
     "clerkstage.app",
     "cleverapps.io",
     "click",
-    "clicketcloud.com",
     "clickrising.net",
     "clinic",
     "clinique",
@@ -3143,7 +3142,6 @@
     "hidaka.kochi.jp",
     "hidaka.saitama.jp",
     "hidaka.wakayama.jp",
-    "hidora.com",
     "higashi.fukuoka.jp",
     "higashi.fukushima.jp",
     "higashi.okinawa.jp",
@@ -7364,6 +7362,7 @@
     "store.ve",
     "storebase.store",
     "storfjord.no",
+    "storipress.app",
     "storj.farm",
     "strand.no",
     "stranda.no",
@@ -8062,7 +8061,6 @@
     "user.webaccel.jp",
     "usercontent.goog",
     "usercontent.jp",
-    "users.scale.virtualcloud.com.br",
     "ushiku.ibaraki.jp",
     "usr.cloud.muni.cz",
     "ustka.pl",
@@ -9110,5 +9108,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230717
+  "version": 20230718
 }
