@@ -1034,6 +1034,7 @@
     "evopo.com",
     "evyush.com",
     "exdonuts.com",
+    "exelica.com",
     "existiert.net",
     "exitstageleft.net",
     "explodemail.com",
@@ -1666,6 +1667,8 @@
     "killmail.com",
     "killmail.net",
     "kimsdisk.com",
+    "kinda.email",
+    "kindamail.com",
     "kingsq.ga",
     "kino-100.ru",
     "kiois.com",
@@ -1683,6 +1686,7 @@
     "kludgemush.com",
     "klzlk.com",
     "kmail.li",
+    "kmail.live",
     "kmhow.com",
     "knol-power.nl",
     "kobrandly.com",
@@ -2152,6 +2156,7 @@
     "mymail-in.net",
     "mymail90.com",
     "mymailoasis.com",
+    "mymaily.lol",
     "mynetstore.de",
     "myopang.com",
     "mypacks.net",
@@ -3541,5 +3546,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20230718
+  "version": 20230719
 }
