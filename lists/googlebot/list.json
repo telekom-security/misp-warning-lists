@@ -240,5 +240,5 @@
   ],
   "name": "List of the official Googlebot IP ranges",
   "type": "cidr",
-  "version": "20230725"
+  "version": "20230801"
 }
