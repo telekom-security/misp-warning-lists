@@ -37,7 +37,6 @@
     "crl.digicert-validation.com",
     "crl.digicert.cn",
     "crl.e-szigno.hu",
-    "crl.e-tugra.com",
     "crl.emsign.com",
     "crl.ensuredca.com",
     "crl.entrust.net",
@@ -173,7 +172,6 @@
     "ocspfnmtssr.cert.fnmt.es",
     "ocsps.ssl.com",
     "ocspsslkoks1.kamusm.gov.tr",
-    "ocspv3s.e-tugra.com",
     "oneocsp.microsoft.com",
     "onsitecrl.trustwise.com",
     "pki-crl.atos.net",
@@ -248,5 +246,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230802
+  "version": 20230803
 }
