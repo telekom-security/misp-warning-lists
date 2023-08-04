@@ -67,7 +67,6 @@
     "crl.trust-provider.com",
     "crl.trustcor.ca",
     "crl.trustwave.com",
-    "crl.tuntrust.tn",
     "crl.usertrust.com",
     "crl.vikingcloud.com",
     "crl.ws.symantec.com",
@@ -225,7 +224,6 @@
     "trustidcaas.ocsp.identrust.com",
     "uniper-group-ca-2-2015.ocsp.d-trust.net",
     "uniper-group-ca-3-2020.ocsp.d-trust.net",
-    "va.tuntrust.tn",
     "validation.identrust.com",
     "wtca-cafiles.itrus.com.cn",
     "wtocsp-cdn.itrus.com.cn",
@@ -246,5 +244,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230804
+  "version": 20230805
 }
