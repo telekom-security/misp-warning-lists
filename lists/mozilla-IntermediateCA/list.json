@@ -6372,5 +6372,5 @@
   ],
   "name": "Fingerprint of known intermediate of trusted certificates",
   "type": "string",
-  "version": 20230805
+  "version": 20230806
 }
