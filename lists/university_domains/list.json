@@ -4111,6 +4111,7 @@
     "kustar.ac.ae",
     "kustwudil.edu.ng",
     "kusw.ac.jp",
+    "kut.ac.ir",
     "kutztown.edu",
     "kuva.fi",
     "kuvempu.ac.in",
@@ -5583,7 +5584,6 @@
     "pamlicocc.edu",
     "pamukkale.edu.tr",
     "panam.edu",
-    "panasia.org.sg",
     "pancabudi.ac.id",
     "panimalar.ac.in",
     "panimalarengineeringcollegechennai.ac.in",
@@ -5947,6 +5947,7 @@
     "qub.ac.uk",
     "queensu.ca",
     "queensuniversity.edu.bd",
+    "quest.edu.pk",
     "questu.ca",
     "quincy.edu",
     "quincycollege.edu",
@@ -10182,5 +10183,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20230807
+  "version": 20230808
 }
