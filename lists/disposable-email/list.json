@@ -264,6 +264,7 @@
     "aliaswe.us",
     "alienware13.com",
     "aligamel.com",
+    "alina-schiesser.ch",
     "alisongamel.com",
     "alivance.com",
     "alivewe.us",
@@ -865,6 +866,7 @@
     "dropmail.me",
     "dropsin.net",
     "dsgvo.ru",
+    "dshfjdafd.cloud",
     "dsiay.com",
     "dspwebservices.com",
     "duam.net",
@@ -3064,6 +3066,7 @@
     "tkitc.de",
     "tlpn.org",
     "tmail.com",
+    "tmail.io",
     "tmail.ws",
     "tmailinator.com",
     "tmails.net",
@@ -3570,5 +3573,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20230808
+  "version": 20230809
 }

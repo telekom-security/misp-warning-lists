@@ -59,6 +59,7 @@
     "crl.rootca4.amazontrust.com",
     "crl.rootg2.amazontrust.com",
     "crl.sbca.telesec.de",
+    "crl.sectigo.com",
     "crl.securetrust.com",
     "crl.starfieldtech.com",
     "crl.swisssign.ch",
@@ -139,6 +140,7 @@
     "ocsp.rootca3.amazontrust.com",
     "ocsp.rootca4.amazontrust.com",
     "ocsp.rootg2.amazontrust.com",
+    "ocsp.sectigo.com",
     "ocsp.securetrust.com",
     "ocsp.siemens.com",
     "ocsp.starfieldtech.com",
@@ -244,5 +246,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20230808
+  "version": 20230809
 }
