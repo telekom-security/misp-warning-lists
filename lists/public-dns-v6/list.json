@@ -242,5 +242,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "cidr",
-  "version": 20230911
+  "version": 20230912
 }
