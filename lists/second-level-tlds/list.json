@@ -8411,7 +8411,9 @@
     "withgoogle.com",
     "withyoutube.com",
     "wiw.gov.pl",
+    "wix.run",
     "wixsite.com",
+    "wixstudio.io",
     "wkz.gov.pl",
     "wlocl.pl",
     "wloclawek.pl",
@@ -9105,5 +9107,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230918
+  "version": 20230919
 }
