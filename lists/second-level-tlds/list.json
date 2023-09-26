@@ -2657,7 +2657,6 @@
     "genting",
     "gentlentapis.com",
     "geo.br",
-    "geometre-expert.fr",
     "george",
     "georgia.su",
     "getmyip.com",
@@ -9106,5 +9105,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20230926
+  "version": 20230927
 }
