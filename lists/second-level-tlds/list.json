@@ -4578,6 +4578,7 @@
     "lug.org.uk",
     "lugansk.ua",
     "lugs.org.uk",
+    "luhansk.ua",
     "lukow.pl",
     "lund.no",
     "lundbeck",
@@ -8077,6 +8078,7 @@
     "uz",
     "uz.ua",
     "uzhgorod.ua",
+    "uzhhorod.ua",
     "uzs.gov.pl",
     "v-info.info",
     "v.bg",
@@ -9067,6 +9069,7 @@
     "za.org",
     "zachpomor.pl",
     "zagan.pl",
+    "zakarpattia.ua",
     "zakopane.pl",
     "zama.kanagawa.jp",
     "zamami.okinawa.jp",
@@ -9105,5 +9108,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20231001
+  "version": 20231002
 }
