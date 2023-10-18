@@ -5803,6 +5803,7 @@
     "pratt.edu",
     "prattcc.edu",
     "prcc.edu",
+    "pref.shiga.lg.jp",
     "presby.edu",
     "presbyuniversity.edu.gh",
     "prescott.edu",
@@ -10195,5 +10196,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20231018
+  "version": 20231019
 }
