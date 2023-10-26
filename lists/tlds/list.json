@@ -215,7 +215,6 @@
     "CBA",
     "CBN",
     "CBRE",
-    "CBS",
     "CC",
     "CD",
     "CENTER",
@@ -1060,7 +1059,6 @@
     "SHOPPING",
     "SHOUJI",
     "SHOW",
-    "SHOWTIME",
     "SI",
     "SILK",
     "SINA",
@@ -1471,5 +1469,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20231026
+  "version": 20231027
 }
