@@ -1126,7 +1126,6 @@
     "cbg.ru",
     "cbn",
     "cbre",
-    "cbs",
     "cc",
     "cc.ak.us",
     "cc.al.us",
@@ -7572,7 +7571,6 @@
     "showa.fukushima.jp",
     "showa.gunma.jp",
     "showa.yamanashi.jp",
-    "showtime",
     "shunan.yamaguchi.jp",
     "shw.io",
     "si",
@@ -9572,5 +9570,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20231027
+  "version": 20231028
 }
