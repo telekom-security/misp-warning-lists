@@ -1809,7 +1809,6 @@
     "deporte.bo",
     "des.br",
     "desa.id",
-    "desi",
     "design",
     "design.aero",
     "det.br",
@@ -9570,5 +9569,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20231029
+  "version": 20231030
 }
