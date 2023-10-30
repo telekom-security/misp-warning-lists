@@ -8895,6 +8895,7 @@
     "universidadsanjosecr.com",
     "universitas-trilogi.ac.id",
     "universitateamaritima.ro",
+    "universite-paris-saclay.fr",
     "universite-yde2.org",
     "universiteitleiden.nl",
     "universitekongo.org",
@@ -10196,5 +10197,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20231030
+  "version": 20231031
 }
