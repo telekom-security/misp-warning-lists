@@ -33,6 +33,7 @@
     "20.158.192.0/18",
     "20.159.0.0/18",
     "20.159.128.0/18",
+    "20.159.192.0/19",
     "20.159.64.0/20",
     "20.159.96.0/19",
     "20.34.32.0/20",
@@ -170,5 +171,5 @@
   ],
   "name": "List of known Microsoft Azure US Government Cloud Datacenter IP Ranges",
   "type": "cidr",
-  "version": 20231101
+  "version": 20231102
 }
