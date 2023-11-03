@@ -8192,6 +8192,7 @@
     "torino.it",
     "torproject.net",
     "torsken.no",
+    "torun.pl",
     "tos.it",
     "tosa.kochi.jp",
     "tosashimizu.kochi.jp",
@@ -9569,5 +9570,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20231103
+  "version": 20231104
 }
