@@ -4256,7 +4256,6 @@
     "kimitsu.chiba.jp",
     "kimobetsu.hokkaido.jp",
     "kin.okinawa.jp",
-    "kinder",
     "kindle",
     "kinghost.net",
     "kinko.kagoshima.jp",
@@ -6833,7 +6832,6 @@
     "ro.it",
     "ro.leg.br",
     "roan.no",
-    "rocher",
     "rocks",
     "rocky.page",
     "rodeo",
@@ -9570,5 +9568,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20231104
+  "version": 20231105
 }
