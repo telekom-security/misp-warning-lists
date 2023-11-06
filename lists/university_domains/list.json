@@ -4093,8 +4093,8 @@
     "kuk.edu.ng",
     "kukinfo.com",
     "kul.lublin.pl",
-    "kulak.ac.be",
-    "kuleuven.ac.be",
+    "kulak.kuleuven.be",
+    "kuleuven.be",
     "kumagaku.ac.jp",
     "kumamoto-u.ac.jp",
     "kumaununiversity.org",
@@ -10197,5 +10197,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20231106
+  "version": 20231107
 }
