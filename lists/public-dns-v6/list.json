@@ -215,7 +215,6 @@
     "2a0c:8fc3:6402::1:984",
     "2a0c:8fc3:8002::2216",
     "2a0c:a9c7:8::1",
-    "2a0c:b9c0:f:451d::1",
     "2a0d:2a00:1::2",
     "2a0d:2a00:2::2",
     "2a0d:5600:33:3::3",
@@ -249,5 +248,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "cidr",
-  "version": 20231110
+  "version": 20231111
 }
