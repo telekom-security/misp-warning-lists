@@ -879,6 +879,7 @@
     "bs.naist.jp",
     "bsa.edu.lv",
     "bsaa.ru",
+    "bsaoe.de",
     "bsauniv.ac.in",
     "bsc.edu",
     "bscc.edu",
@@ -7709,6 +7710,7 @@
     "ucla.edu.ve",
     "uclah.edu.mx",
     "uclan.ac.uk",
+    "uclive.ac.nz",
     "uclm.es",
     "uclouvain.be",
     "uclv.edu.cu",
@@ -10197,5 +10199,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20231116
+  "version": 20231117
 }
