@@ -2332,7 +2332,6 @@
     "etajima.hiroshima.jp",
     "etc.br",
     "eti.br",
-    "etisalat",
     "etne.no",
     "etnedal.no",
     "eu",
@@ -9182,7 +9181,6 @@
     "xn--mgba3a4fra",
     "xn--mgba3a4fra.ir",
     "xn--mgba7c0bbn0a",
-    "xn--mgbaakc7dvf",
     "xn--mgbaam7a8h",
     "xn--mgbab2bd",
     "xn--mgbah1a3hjkrd",
@@ -9568,5 +9566,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20231119
+  "version": 20231120
 }
