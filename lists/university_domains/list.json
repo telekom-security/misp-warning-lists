@@ -2678,6 +2678,7 @@
     "halifaxcc.edu",
     "halifaxuni.ac",
     "halla.ac.kr",
+    "hallco.org",
     "hallmarkuniversity.edu",
     "hallym.ac.kr",
     "hama-med.ac.jp",
@@ -10199,5 +10200,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20231121
+  "version": 20231122
 }
