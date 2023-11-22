@@ -1236,7 +1236,6 @@
     "VLAANDEREN",
     "VN",
     "VODKA",
-    "VOLKSWAGEN",
     "VOLVO",
     "VOTE",
     "VOTING",
@@ -1465,5 +1464,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20231121
+  "version": 20231122
 }
