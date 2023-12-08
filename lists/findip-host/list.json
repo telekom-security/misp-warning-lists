@@ -2,6 +2,8 @@
   "description": "Event contains one or more entries of known hostname querying your source IP.",
   "list": [
     "api.extralargecoffee.com",
+    "api.ipify.org",
+    "ip.circl.lu",
     "ip.dyn.bortzmeyer.fr",
     "ip.parrotdns.com",
     "ns.rydgames.com",
@@ -10,6 +12,7 @@
     "resolver.00f.net",
     "resolver.dnscrypt.info",
     "rr-mirror.research.nawrocki.berlin",
+    "uplo.ad",
     "whoami.akamai.net",
     "whoami.nisl-research.com",
     "whoami.v4.powerdns.org"
@@ -21,5 +24,5 @@
   ],
   "name": "List of known hostname used for querying your source IP. This can be used as exclusion for your Passive DNS lookup.",
   "type": "hostname",
-  "version": 4
+  "version": 6
 }
