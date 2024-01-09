@@ -1335,6 +1335,7 @@
     "coe.edu",
     "coeikere.edu.ng",
     "coeoju.com",
+    "coeptech.ac.in",
     "cofc.edu",
     "coffeyville.edu",
     "coker.edu",
@@ -5572,6 +5573,7 @@
     "otsuma.ac.jp",
     "otterbein.edu",
     "ou.ac.lk",
+    "ou.ac.uk",
     "ou.dk",
     "ou.edu",
     "ou.edu.vn",
@@ -10232,5 +10234,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240108
+  "version": 20240109
 }

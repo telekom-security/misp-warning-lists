@@ -3423,7 +3423,6 @@
     "homelinux.com",
     "homelinux.net",
     "homelinux.org",
-    "homeoffice.gov.uk",
     "homes",
     "homesecuritymac.com",
     "homesecuritypc.com",
@@ -9566,5 +9565,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240108
+  "version": 20240109
 }
