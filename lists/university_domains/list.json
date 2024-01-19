@@ -6427,6 +6427,7 @@
     "semnan.ac.ir",
     "semnaniau.ac.ir",
     "semo.edu",
+    "sempreceub.com",
     "semyung.ac.kr",
     "sendaidaigaku.jp",
     "senecacollege.ca",
@@ -8564,6 +8565,7 @@
     "unicen.edu.ar",
     "unicen.edu.bo",
     "unicesar.edu.co",
+    "uniceub.br",
     "unich.it",
     "unicid.br",
     "unicit.cl",
@@ -10236,5 +10238,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240119
+  "version": 20240120
 }
