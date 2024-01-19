@@ -451,6 +451,7 @@
     "asu.ac.jp",
     "asu.edu",
     "asu.edu.bh",
+    "asu.edu.eg",
     "asu.edu.et",
     "asu.edu.jo",
     "asu.ru",
@@ -1984,6 +1985,7 @@
     "enderuncolleges.com",
     "endicott.edu",
     "enes.unam.mx",
+    "eng.asu.edu.eg",
     "engec.ru",
     "english.web.ncku.edu.tw",
     "enic.fr",
@@ -10234,5 +10236,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240118
+  "version": 20240119
 }
