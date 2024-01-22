@@ -2600,6 +2600,7 @@
     "greenleaf.edu",
     "greenriver.edu",
     "greensboro.edu",
+    "greenville.edu",
     "grenoble-em.com",
     "grenoble-inp.fr",
     "gretsauniversity.ac.ke",
@@ -10238,5 +10239,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240121
+  "version": 20240122
 }
