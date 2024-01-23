@@ -639,7 +639,6 @@
     "bambina.jp",
     "bamble.no",
     "banamex",
-    "bananarepublic",
     "band",
     "bandai.fukushima.jp",
     "bando.ibaraki.jp",
@@ -6010,7 +6009,6 @@
     "olayangroup",
     "olbia-tempio.it",
     "olbiatempio.it",
-    "oldnavy",
     "olecko.pl",
     "olkusz.pl",
     "ollo",
@@ -9565,5 +9563,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240123
+  "version": 20240124
 }
