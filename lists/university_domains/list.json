@@ -4554,6 +4554,7 @@
     "mbs.ac.uk",
     "mbstu.ac.bd",
     "mbu.ac.th",
+    "mbzuai.ac.ae",
     "mc.edu",
     "mc3.edu",
     "mcad.edu",
@@ -5254,6 +5255,7 @@
     "nlu.edu",
     "nma.bg",
     "nmaa.edu.af",
+    "nmc.edu",
     "nmcc.edu",
     "nmetau.edu.ua",
     "nmh.no",
@@ -6958,6 +6960,7 @@
     "sunmoon.ac.kr",
     "suno.edu",
     "sunway.edu.my",
+    "suny.oneonta.edu",
     "sunycentral.edu",
     "sunycgcc.edu",
     "sunydutchess.edu",
@@ -10239,5 +10242,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240130
+  "version": 20240131
 }
