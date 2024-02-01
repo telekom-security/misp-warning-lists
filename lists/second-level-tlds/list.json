@@ -711,7 +711,6 @@
     "bbt",
     "bbva",
     "bc.ca",
-    "bc.platform.sh",
     "bcg",
     "bci.dnstrace.pro",
     "bcn",
@@ -6362,6 +6361,7 @@
     "page",
     "pagefrontapp.com",
     "pages.dev",
+    "pages.gay",
     "pages.it.hs-heilbronn.de",
     "pages.torproject.net",
     "pages.wiardweb.com",
@@ -8468,6 +8468,8 @@
     "upper.jp",
     "uppo.gov.pl",
     "ups",
+    "upsun.app",
+    "upsunapp.com",
     "urakawa.hokkaido.jp",
     "urasoe.okinawa.jp",
     "urausu.hokkaido.jp",
@@ -9567,5 +9569,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240131
+  "version": 20240201
 }
