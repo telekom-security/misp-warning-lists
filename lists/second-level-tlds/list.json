@@ -68,6 +68,7 @@
     "a.prod.fastly.net",
     "a.se",
     "a.ssl.fastly.net",
+    "a2hosted.com",
     "aa.no",
     "aaa",
     "aaa.pro",
@@ -1661,6 +1662,7 @@
     "coz.br",
     "cpa",
     "cpa.pro",
+    "cpserver.com",
     "cq.cn",
     "cr",
     "cr.it",
@@ -9603,5 +9605,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240203
+  "version": 20240204
 }
