@@ -1452,6 +1452,9 @@
     "co.zm",
     "co.zw",
     "coach",
+    "cockpit.fr-par.scw.cloud",
+    "cockpit.nl-ams.scw.cloud",
+    "cockpit.pl-waw.scw.cloud",
     "cocotte.jp",
     "code.run",
     "codeberg.page",
@@ -9605,5 +9608,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240204
+  "version": 20240205
 }
