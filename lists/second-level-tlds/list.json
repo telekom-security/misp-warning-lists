@@ -1720,6 +1720,10 @@
     "cy",
     "cy.eu.org",
     "cya.gg",
+    "cyclic-app.com",
+    "cyclic.app",
+    "cyclic.cloud",
+    "cyclic.co.in",
     "cymru",
     "cyon.link",
     "cyon.site",
@@ -9608,5 +9612,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240206
+  "version": 20240207
 }
