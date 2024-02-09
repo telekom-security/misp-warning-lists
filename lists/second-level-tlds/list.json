@@ -1608,7 +1608,6 @@
     "com.ws",
     "com.ye",
     "com.zm",
-    "comcast",
     "commbank",
     "commune.am",
     "community",
@@ -8968,7 +8967,6 @@
     "xbox",
     "xen.prgmr.com",
     "xerox",
-    "xfinity",
     "xihuan",
     "xii.jp",
     "xin",
@@ -9612,5 +9610,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240209
+  "version": 20240210
 }
