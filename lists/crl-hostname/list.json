@@ -181,6 +181,7 @@
     "portal.actalis.it",
     "public.ocsp.identrust.com",
     "public.wisekey.com",
+    "qventca3g3.ocsp.quovadisglobal.com",
     "rca.navercorp.com",
     "repo.bjca.cn",
     "repository.secomtrust.net",
@@ -242,5 +243,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20240210
+  "version": 20240211
 }
