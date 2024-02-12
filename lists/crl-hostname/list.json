@@ -143,7 +143,6 @@
     "ocsp.starfieldtech.com",
     "ocsp.swisssign.net",
     "ocsp.telekom.de",
-    "ocsp.telesec.de",
     "ocsp.trust-provider.com",
     "ocsp.trust.telia.com",
     "ocsp.trust.teliasonera.com",
@@ -176,7 +175,6 @@
     "pki-ldap.atos.net",
     "pki-ocsp.atos.net",
     "pki.intranet.eon.com",
-    "pki.telesec.de",
     "pki0336.telesec.de",
     "portal.actalis.it",
     "public.ocsp.identrust.com",
@@ -243,5 +241,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20240211
+  "version": 20240212
 }
