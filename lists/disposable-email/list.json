@@ -26,6 +26,7 @@
     "10mail.com",
     "10mail.org",
     "10mail.tk",
+    "10mail.xyz",
     "10minmail.de",
     "10minut.com.pl",
     "10minut.xyz",
@@ -1782,6 +1783,7 @@
     "larisia.com",
     "larland.com",
     "last-chance.pro",
+    "laste.ml",
     "lastmail.co",
     "lastmail.com",
     "lawlita.com",
@@ -3643,5 +3645,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20240213
+  "version": 20240214
 }
