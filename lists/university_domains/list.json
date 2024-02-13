@@ -5,12 +5,12 @@
     "4cd.edu",
     "a-aarhus.dk",
     "a2.keio.jp",
-    "aabfs.org",
     "aabu.edu.jo",
     "aacc.edu",
     "aada.edu",
     "aaidu.org",
     "aalto.fi",
+    "aambfs.edu.eg",
     "aamu.edu",
     "aasa.ac.jp",
     "aast.edu",
@@ -10255,5 +10255,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240212
+  "version": 20240213
 }
