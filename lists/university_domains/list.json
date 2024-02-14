@@ -2838,6 +2838,7 @@
     "herzen.edu.ru",
     "herzen.spb.ru",
     "hes-so.ch",
+    "hesperides.edu.es",
     "hesston.edu",
     "heuet.edu.cn",
     "heythrop.ac.uk",
@@ -7929,6 +7930,7 @@
     "uevora.pt",
     "uew.edu.gh",
     "uexternado.edu.co",
+    "uf3ceu.es",
     "ufabc.edu.br",
     "ufac.br",
     "ufal.br",
@@ -8385,6 +8387,7 @@
     "une.edu.pe",
     "une.edu.py",
     "une.edu.ve",
+    "uneatlantico.es",
     "uneb.br",
     "unec.edu.az",
     "uned.ac.cr",
@@ -9420,6 +9423,7 @@
     "usiu.edu",
     "usj.edu.lb",
     "usj.edu.mo",
+    "usj.es",
     "usjc.uwaterloo.ca",
     "usjr.edu.ph",
     "uskudar.edu.tr",
@@ -10255,5 +10259,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240214
+  "version": 20240215
 }
