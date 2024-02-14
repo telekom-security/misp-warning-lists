@@ -1664,6 +1664,7 @@
     "coz.br",
     "cpa",
     "cpa.pro",
+    "cprapid.com",
     "cpserver.com",
     "cq.cn",
     "cr",
@@ -9610,5 +9611,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240213
+  "version": 20240214
 }
