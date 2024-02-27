@@ -3550,9 +3550,6 @@
     "xrap.de",
     "xrho.com",
     "xvx.us",
-    "xwaretech.com",
-    "xwaretech.info",
-    "xwaretech.net",
     "xww.ro",
     "xxhamsterxx.ga",
     "xxi2.com",
@@ -3672,5 +3669,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20240226
+  "version": 20240227
 }
