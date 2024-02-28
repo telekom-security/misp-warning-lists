@@ -1259,6 +1259,7 @@
     "cityu.edu.hk",
     "cityu.gr",
     "cityuniversity.edu.bd",
+    "cityuniversity.edu.pk",
     "ciu.edu.tr",
     "cje.ac.kr",
     "cju.ac.kr",
@@ -1543,6 +1544,7 @@
     "cup.ac.kr",
     "cup.edu",
     "cup.edu.kh",
+    "cup.edu.pk",
     "cupl.edu.cn",
     "curry.edu",
     "curtin.edu.au",
@@ -1550,6 +1552,7 @@
     "cus.ca",
     "cus.edu.kh",
     "cusat.ac.in",
+    "cusit.edu.pk",
     "cuslm.ca",
     "cust.edu.cn",
     "cust.edu.pk",
@@ -10275,5 +10278,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240227
+  "version": 20240228
 }
