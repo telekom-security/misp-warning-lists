@@ -7244,6 +7244,7 @@
     "tiho-hannover.de",
     "tiim.uz",
     "tijmu.edu.cn",
+    "tilburguniversity.edu",
     "tilburguniversity.nl",
     "timacad.ru",
     "timis.ac.jp",
@@ -9496,6 +9497,7 @@
     "ustb.edu.pk",
     "ustboniface.mb.ca",
     "ustc.ac.bd",
+    "ustc.edu",
     "ustc.edu.cn",
     "usthb.dz",
     "ustmb.ac.ir",
@@ -10278,5 +10280,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240301
+  "version": 20240302
 }
