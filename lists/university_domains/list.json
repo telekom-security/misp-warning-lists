@@ -6514,6 +6514,7 @@
     "shahryariau.ac.ir",
     "shakaijigyo.ac.jp",
     "shams.edu.eg",
+    "shanghaitech.edu.cn",
     "shannoncollege.com",
     "sharif.ac.ir",
     "sharjah.ac.ae",
@@ -10280,5 +10281,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240303
+  "version": 20240304
 }
