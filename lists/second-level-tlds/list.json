@@ -5323,6 +5323,8 @@
     "my-router.de",
     "my-vigor.de",
     "my-wan.de",
+    "my.canva.site",
+    "my.canvasite.cn",
     "my.eu.org",
     "my.id",
     "myactivedirectory.com",
@@ -9670,5 +9672,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240304
+  "version": 20240305
 }
