@@ -902,6 +902,9 @@
     "2406:dafc:6000::/40",
     "2406:dafc:7000::/40",
     "2406:dafc:8000::/40",
+    "2406:dafc:840::/51",
+    "2406:dafc:880::/51",
+    "2406:dafc:8c0::/51",
     "2406:dafc:9000::/40",
     "2406:dafc:a000::/40",
     "2406:dafc:b000::/40",
@@ -2288,5 +2291,5 @@
   ],
   "name": "List of known Amazon AWS IP address ranges",
   "type": "cidr",
-  "version": 20240305
+  "version": 20240306
 }
