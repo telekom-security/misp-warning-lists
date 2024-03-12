@@ -3192,7 +3192,6 @@
     "gu",
     "gu.us",
     "guam.gu",
-    "guardian",
     "gub.uy",
     "gucci",
     "guge",
@@ -9672,5 +9671,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240311
+  "version": 20240312
 }
