@@ -1067,7 +1067,6 @@
     "ezstest.com",
     "ezztt.com",
     "f4k.es",
-    "f5.si",
     "facebook-email.cf",
     "facebook-email.ga",
     "facebook-email.ml",
@@ -3669,5 +3668,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20240321
+  "version": 20240322
 }
