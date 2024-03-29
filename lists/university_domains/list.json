@@ -2780,6 +2780,7 @@
     "hau.edu.vn",
     "hau.ernet.in",
     "haverford.edu",
+    "haw-hamburg.de",
     "hawaii.edu",
     "hawaii.hawaii.edu",
     "hawkeyecollege.edu",
@@ -3145,6 +3146,7 @@
     "iau-shahrood.ac.ir",
     "iau-shirvan.ac.ir",
     "iau-tnb.ac.ir",
+    "iau.edu.sa",
     "iauardabil.ac.ir",
     "iauba.ac.ir",
     "iaubos.ac.ir",
@@ -3350,6 +3352,7 @@
     "insa-rennes.fr",
     "insa-rouen.fr",
     "insa-tlse.fr",
+    "insa-toulouse.fr",
     "insead.edu",
     "inseec.fr",
     "insel.ch",
@@ -10309,5 +10312,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240328
+  "version": 20240329
 }
