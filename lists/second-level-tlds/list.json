@@ -583,7 +583,6 @@
     "av.tr",
     "avellino.it",
     "averoy.no",
-    "avianca",
     "avocat.fr",
     "avocat.pro",
     "avocats.bj",
@@ -9674,5 +9673,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240403
+  "version": 20240404
 }
