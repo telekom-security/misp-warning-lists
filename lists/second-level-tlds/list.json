@@ -1724,6 +1724,7 @@
     "cupcake.is",
     "curitiba.br",
     "curv.dev",
+    "cust.cloudscale.ch",
     "cust.dev.thingdust.io",
     "cust.disrec.thingdust.io",
     "cust.prod.thingdust.io",
@@ -6014,6 +6015,8 @@
     "obi",
     "obihiro.hokkaido.jp",
     "obira.hokkaido.jp",
+    "objects.lpg.cloudscale.ch",
+    "objects.rma.cloudscale.ch",
     "obninsk.su",
     "observer",
     "obu.aichi.jp",
@@ -6975,6 +6978,7 @@
     "rsc.contentproxy9.cz",
     "rss.my.id",
     "rsvp",
+    "rt.ht",
     "ru",
     "ru.com",
     "ru.eu.org",
@@ -9727,5 +9731,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240412
+  "version": 20240413
 }
