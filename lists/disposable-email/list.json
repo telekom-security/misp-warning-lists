@@ -628,7 +628,6 @@
     "clixser.com",
     "clonemoi.tk",
     "cloud-mail.top",
-    "cloudns.cx",
     "clout.wiki",
     "clrmail.com",
     "cmail.club",
@@ -3671,5 +3670,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20240419
+  "version": 20240420
 }
