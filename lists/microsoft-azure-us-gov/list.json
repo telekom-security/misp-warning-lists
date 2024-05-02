@@ -189,5 +189,5 @@
   ],
   "name": "List of known Microsoft Azure US Government Cloud Datacenter IP Ranges",
   "type": "cidr",
-  "version": 20240501
+  "version": 20240502
 }

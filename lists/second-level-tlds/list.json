@@ -7653,6 +7653,7 @@
     "shonai.yamagata.jp",
     "shoo.okayama.jp",
     "shop",
+    "shop.brendly.hr",
     "shop.brendly.rs",
     "shop.ht",
     "shop.hu",
@@ -9694,5 +9695,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240501
+  "version": 20240502
 }
