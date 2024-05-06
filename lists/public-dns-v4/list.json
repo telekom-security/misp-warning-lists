@@ -62747,5 +62747,5 @@
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "cidr",
-  "version": 20240505
+  "version": 20240506
 }
