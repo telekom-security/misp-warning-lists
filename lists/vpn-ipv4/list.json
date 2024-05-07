@@ -29820,5 +29820,5 @@
   ],
   "name": "Specialized list of vpn-ipv4 addresses belonging to common VPN providers and datacenters",
   "type": "cidr",
-  "version": 20240506
+  "version": 20240507
 }
