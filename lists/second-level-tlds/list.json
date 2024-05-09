@@ -7600,6 +7600,7 @@
     "shari.hokkaido.jp",
     "sharp",
     "shaw",
+    "sheezy.games",
     "shell",
     "shia",
     "shibata.miyagi.jp",
@@ -9740,5 +9741,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240508
+  "version": 20240509
 }
