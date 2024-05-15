@@ -2467,6 +2467,7 @@
     "exnet.su",
     "expert",
     "experts-comptables.fr",
+    "expo.app",
     "exposed",
     "express",
     "express.aero",
@@ -3522,6 +3523,7 @@
     "hosp.uk",
     "hospital",
     "host",
+    "hosted.app",
     "hostedpi.com",
     "hosting",
     "hosting-cluster.nl",
@@ -7899,6 +7901,7 @@
     "stackit.zone",
     "stada",
     "stage.nodeart.io",
+    "staging.expo.app",
     "staging.onred.one",
     "staging.replit.dev",
     "stalowa-wola.pl",
@@ -9750,5 +9753,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240514
+  "version": 20240515
 }
