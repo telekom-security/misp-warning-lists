@@ -281,5 +281,5 @@
   ],
   "name": "List of known IPv6 public DNS resolvers",
   "type": "cidr",
-  "version": 20240525
+  "version": 20240526
 }
