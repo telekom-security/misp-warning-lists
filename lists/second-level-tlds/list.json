@@ -3564,6 +3564,7 @@
     "hyatt",
     "hyllestad.no",
     "hyogo.jp",
+    "hypernode.io",
     "hyuga.miyazaki.jp",
     "hyundai",
     "hzc.io",
@@ -9056,6 +9057,7 @@
     "wiw.gov.pl",
     "wix.run",
     "wixsite.com",
+    "wixstudio.com",
     "wixstudio.io",
     "wjg.jp",
     "wkz.gov.pl",
@@ -9753,5 +9755,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240528
+  "version": 20240529
 }

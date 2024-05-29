@@ -492,6 +492,7 @@
     ".cboktulsa.com",
     ".cbonline.co.uk",
     ".cbq.com.qa",
+    ".cbq.qa",
     ".cbr.ru",
     ".cbt.net",
     ".cbtks.com",
@@ -1980,5 +1981,5 @@
   ],
   "name": "List of known bank domains",
   "type": "hostname",
-  "version": 5
+  "version": 6
 }
