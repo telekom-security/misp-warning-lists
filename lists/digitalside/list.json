@@ -38,6 +38,7 @@
     "trello.com",
     "vimeo.com",
     "vk.com",
+    "www.autohotkey.com",
     "www.dl.dropboxusercontent.com",
     "www.zipshare.com",
     "zipshare.com"
@@ -48,5 +49,5 @@
   ],
   "name": "OSINT.DigitalSide.IT Warning List",
   "type": "hostname",
-  "version": 20240530
+  "version": 20240531
 }
