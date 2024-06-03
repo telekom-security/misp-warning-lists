@@ -24,6 +24,7 @@
     "i.ibb.co",
     "i.imgur.com",
     "icloud.com",
+    "ipfs.io",
     "link.storjshare.io",
     "media.discordapp.net",
     "pastebin.com",
@@ -49,5 +50,5 @@
   ],
   "name": "OSINT.DigitalSide.IT Warning List",
   "type": "hostname",
-  "version": 20240602
+  "version": 20240603
 }
