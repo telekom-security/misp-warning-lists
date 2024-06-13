@@ -4887,6 +4887,7 @@
     "maceio.br",
     "macerata.it",
     "machida.tokyo.jp",
+    "madethis.site",
     "madrid",
     "maebashi.gunma.jp",
     "magazine.aero",
@@ -9772,5 +9773,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240612
+  "version": 20240613
 }
