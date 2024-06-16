@@ -5592,7 +5592,6 @@
     "nat.tn",
     "natal.br",
     "natori.miyagi.jp",
-    "natura",
     "natural.bo",
     "naturbruksgymn.se",
     "naustdal.no",
@@ -9773,5 +9772,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240615
+  "version": 20240616
 }

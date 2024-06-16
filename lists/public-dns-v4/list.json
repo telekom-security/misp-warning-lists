@@ -60818,7 +60818,6 @@
     "95.177.177.225",
     "95.178.112.46",
     "95.178.112.47",
-    "95.179.131.82",
     "95.179.143.35",
     "95.179.149.159",
     "95.179.159.117",
@@ -62751,9 +62750,11 @@
   "matching_attributes": [
     "ip-src",
     "ip-dst",
-    "domain|ip"
+    "domain|ip",
+    "ip-src|port",
+    "ip-dst|port"
   ],
   "name": "List of known IPv4 public DNS resolvers",
   "type": "cidr",
-  "version": 20240528
+  "version": 20240615
 }
