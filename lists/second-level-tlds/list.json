@@ -464,6 +464,7 @@
     "arts.ve",
     "arvo.network",
     "as",
+    "as.sh.cn",
     "as.us",
     "asago.hyogo.jp",
     "asahi.chiba.jp",
@@ -9772,5 +9773,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240616
+  "version": 20240617
 }
