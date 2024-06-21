@@ -1397,7 +1397,6 @@
     "cn.in",
     "cn.it",
     "cn.ua",
-    "cn.vu",
     "cng.br",
     "cnpy.gdn",
     "cns.joyent.com",
@@ -6981,7 +6980,6 @@
     "ro",
     "ro.eu.org",
     "ro.gov.br",
-    "ro.im",
     "ro.it",
     "ro.leg.br",
     "roan.no",
@@ -9773,5 +9771,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240620
+  "version": 20240621
 }
