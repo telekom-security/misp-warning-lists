@@ -5443,6 +5443,7 @@
     "myqnapcloud.cn",
     "myqnapcloud.com",
     "myradweb.net",
+    "myrdbx.io",
     "mysecuritycamera.com",
     "mysecuritycamera.net",
     "mysecuritycamera.org",
@@ -7768,6 +7769,7 @@
     "sirdal.no",
     "sisko.replit.dev",
     "site",
+    "site.rb-hosting.io",
     "site.tb-hosting.com",
     "site.transip.me",
     "siteleaf.net",
@@ -9783,5 +9785,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240625
+  "version": 20240626
 }
