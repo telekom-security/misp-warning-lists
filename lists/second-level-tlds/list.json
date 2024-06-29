@@ -3781,7 +3781,6 @@
     "ino.kochi.jp",
     "instance.datadetect.com",
     "instances.spawn.cc",
-    "instantcloud.cn",
     "institute",
     "insurance",
     "insurance.aero",
@@ -9785,5 +9784,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240628
+  "version": 20240629
 }
