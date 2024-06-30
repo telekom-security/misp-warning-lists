@@ -1986,6 +1986,7 @@
     "dunlop",
     "dupont",
     "durban",
+    "durumis.com",
     "dvag",
     "dvr",
     "dvrcam.info",
@@ -9784,5 +9785,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240629
+  "version": 20240630
 }
