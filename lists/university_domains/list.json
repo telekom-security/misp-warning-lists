@@ -668,7 +668,6 @@
     "bc3.edu",
     "bca.bw",
     "bcc.cuny.edu",
-    "bcc.edu",
     "bccc.edu",
     "bcit.ca",
     "bckv.edu.in",
@@ -1275,6 +1274,7 @@
     "clackamas.edu",
     "claeh.edu.uy",
     "claflin.edu",
+    "claremont.edu",
     "claremontmckenna.edu",
     "clarendoncollege.edu",
     "claretiano.edu.br",
@@ -2892,6 +2892,7 @@
     "hhs.dk",
     "hhs.se",
     "hhstu.edu.cn",
+    "hhu.de",
     "hhu.edu.cn",
     "hhuc.edu.cn",
     "hi-tech.ac.jp",
@@ -5334,6 +5335,7 @@
     "nny.edu.tr",
     "noc.edu",
     "nodai.ac.jp",
+    "nodak.edu",
     "nommensen.org",
     "nooruse.ee",
     "nordakademie.de",
@@ -6101,6 +6103,7 @@
     "rbc.edu",
     "rbni.technion.ac.il",
     "rca.ac.uk",
+    "rcbc.edu",
     "rcc.edu",
     "rcc.mass.edu",
     "rccc.edu",
@@ -10331,5 +10334,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240701
+  "version": 20240702
 }
