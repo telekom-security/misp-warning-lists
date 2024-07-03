@@ -704,6 +704,7 @@
     "cuoly.com",
     "cupbest.com",
     "curlhph.tk",
+    "currentmail.com",
     "curryworld.de",
     "cust.in",
     "cutout.club",
@@ -3766,5 +3767,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20240702
+  "version": 20240703
 }

@@ -1237,6 +1237,7 @@
     "cf-ipfs.com",
     "cfa",
     "cfd",
+    "cfolks.pl",
     "cg",
     "ch",
     "ch.eu.org",
@@ -1700,6 +1701,7 @@
     "cr",
     "cr.it",
     "cr.ua",
+    "craft.me",
     "crafting.xyz",
     "cranky.jp",
     "crap.jp",
@@ -2846,7 +2848,6 @@
     "fyresdal.no",
     "g.bg",
     "g.se",
-    "g.vbrplsbx.io",
     "g12.br",
     "ga",
     "ga.us",
@@ -3340,6 +3341,12 @@
     "hasura-app.io",
     "hasura.app",
     "hasvik.no",
+    "hateblo.jp",
+    "hatenablog.com",
+    "hatenablog.jp",
+    "hatenadiary.com",
+    "hatenadiary.jp",
+    "hatenadiary.org",
     "hatinh.vn",
     "hatogaya.saitama.jp",
     "hatoyama.saitama.jp",
@@ -9785,5 +9792,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240702
+  "version": 20240703
 }
