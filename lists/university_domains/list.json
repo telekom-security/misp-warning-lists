@@ -1914,7 +1914,6 @@
     "education.ivanovo.ru",
     "edufr.ch",
     "eduhk.hk",
-    "eecg.toronto.edu",
     "eelouniversity.org",
     "eerie.fr",
     "efau.org",
@@ -7363,6 +7362,7 @@
     "toledo.br",
     "tongji.edu.cn",
     "tonichi-kokusai-u.ac.jp",
+    "toronto.edu",
     "torontomu.ca",
     "toros.edu.tr",
     "torrens.edu.au",
@@ -9106,6 +9106,7 @@
     "uno-r.edu.ph",
     "uno.edu",
     "uno.mx",
+    "unochapeco.edu.br",
     "unoesc.edu.br",
     "unoeste.br",
     "unom.ac.in",
@@ -10334,5 +10335,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240711
+  "version": 20240712
 }
