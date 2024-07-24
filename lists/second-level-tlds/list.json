@@ -1069,7 +1069,6 @@
     "bzz.dapps.earth",
     "c.bg",
     "c.cdn77.org",
-    "c.la",
     "c.se",
     "c.ts.net",
     "c66.me",
@@ -6507,6 +6506,8 @@
     "ozu.kumamoto.jp",
     "p.bg",
     "p.se",
+    "p.tawk.email",
+    "p.tawkto.email",
     "pa",
     "pa.gov.br",
     "pa.gov.pl",
@@ -7601,6 +7602,7 @@
     "servebbs.org",
     "servebeer.com",
     "serveblog.net",
+    "servebolt.cloud",
     "servecounterstrike.com",
     "serveexchange.com",
     "serveftp.com",
@@ -9807,5 +9809,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240723
+  "version": 20240724
 }
