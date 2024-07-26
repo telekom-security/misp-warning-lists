@@ -644,7 +644,6 @@
     "bacgiang.vn",
     "backan.vn",
     "backdrop.jp",
-    "backplaneapp.io",
     "backyards.banzaicloud.io",
     "baclieu.vn",
     "bacninh.vn",
@@ -5194,7 +5193,6 @@
     "minokamo.gifu.jp",
     "minowa.nagano.jp",
     "mint",
-    "mintere.site",
     "mints.ne.jp",
     "mircloud.host",
     "mircloud.ru",
@@ -5337,7 +5335,6 @@
     "mov",
     "movie",
     "movimiento.bo",
-    "mozilla-iot.org",
     "mp",
     "mp.br",
     "mq",
@@ -6547,7 +6544,6 @@
     "pc.it",
     "pc.pl",
     "pccw",
-    "pcloud.host",
     "pd.it",
     "pdns.page",
     "pe",
@@ -7648,8 +7644,6 @@
     "shibuya.tokyo.jp",
     "shichikashuku.miyagi.jp",
     "shichinohe.aomori.jp",
-    "shiftcrypto.dev",
-    "shiftcrypto.io",
     "shiftedit.io",
     "shiga.jp",
     "shiiba.miyazaki.jp",
@@ -9794,5 +9788,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240725
+  "version": 20240726
 }
