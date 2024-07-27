@@ -3189,7 +3189,6 @@
     "granvin.no",
     "graphic.design",
     "graphics",
-    "graphox.us",
     "gratangen.no",
     "gratis",
     "grayjayleagues.com",
@@ -6503,7 +6502,6 @@
     "padova.it",
     "padua.it",
     "page",
-    "pagefrontapp.com",
     "pages.dev",
     "pages.gay",
     "pages.it.hs-heilbronn.de",
@@ -9788,5 +9786,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240726
+  "version": 20240727
 }
