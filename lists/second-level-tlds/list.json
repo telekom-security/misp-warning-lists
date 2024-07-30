@@ -1734,7 +1734,6 @@
     "cuiaba.br",
     "cuisinella",
     "cuneo.it",
-    "cupcake.is",
     "curitiba.br",
     "curv.dev",
     "cust.cloudscale.ch",
@@ -2623,7 +2622,6 @@
     "flutterflow.app",
     "fly",
     "fly.dev",
-    "flynnhosting.net",
     "fm",
     "fm.br",
     "fm.it",
@@ -9784,5 +9782,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240729
+  "version": 20240730
 }
