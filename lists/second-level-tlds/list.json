@@ -608,7 +608,6 @@
     "awsapprunner.com",
     "awsapps.com",
     "awsglobalaccelerator.com",
-    "awsmppl.com",
     "ax",
     "axa",
     "aya.miyazaki.jp",
@@ -9782,5 +9781,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240730
+  "version": 20240731
 }
