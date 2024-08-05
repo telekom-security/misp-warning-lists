@@ -126,6 +126,7 @@
     "ac.ni",
     "ac.nz",
     "ac.pa",
+    "ac.pk",
     "ac.pr",
     "ac.rs",
     "ac.ru",
@@ -2938,6 +2939,7 @@
     "gjerstad.no",
     "gjesdal.no",
     "gjovik.no",
+    "gkp.pk",
     "gl",
     "gl.srv.us",
     "glass",
@@ -2996,6 +2998,7 @@
     "gobo.wakayama.jp",
     "godaddy",
     "godo.gifu.jp",
+    "gog.pk",
     "goiania.br",
     "goip.de",
     "gojome.akita.jp",
@@ -3762,7 +3765,6 @@
     "info.nf",
     "info.ni",
     "info.nr",
-    "info.pk",
     "info.pl",
     "info.pr",
     "info.ro",
@@ -9781,5 +9783,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240804
+  "version": 20240805
 }
