@@ -3853,6 +3853,7 @@
     "is-a-designer.com",
     "is-a-doctor.com",
     "is-a-financialadvisor.com",
+    "is-a-fullstack.dev",
     "is-a-geek.com",
     "is-a-geek.net",
     "is-a-geek.org",
@@ -6715,7 +6716,6 @@
     "presse.km",
     "presse.ml",
     "preview.csb.app",
-    "preview.wdh.app",
     "pri.ee",
     "prime",
     "primetel.cloud",
@@ -9785,5 +9785,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240812
+  "version": 20240813
 }
