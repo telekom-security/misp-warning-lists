@@ -3857,6 +3857,7 @@
     "is-a-geek.com",
     "is-a-geek.net",
     "is-a-geek.org",
+    "is-a-good.dev",
     "is-a-green.com",
     "is-a-guru.com",
     "is-a-hard-worker.com",
@@ -9785,5 +9786,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240813
+  "version": 20240814
 }
