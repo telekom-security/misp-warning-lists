@@ -4792,7 +4792,6 @@
     "localhost.daplie.me",
     "localhostcert.net",
     "localplayer.dev",
-    "localzone.xyz",
     "locker",
     "locus",
     "lodi.it",
@@ -9786,5 +9785,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240814
+  "version": 20240815
 }
