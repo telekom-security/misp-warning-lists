@@ -814,7 +814,6 @@
     "binhthuan.vn",
     "bio",
     "bio.br",
-    "bip.sh",
     "bir.ru",
     "biratori.hokkaido.jp",
     "birkenes.no",
@@ -9790,5 +9789,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240822
+  "version": 20240823
 }
