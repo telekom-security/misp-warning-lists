@@ -479,6 +479,7 @@
     "ateneo.edu",
     "atgu.kz",
     "athabascau.ca",
+    "atharvacoe.ac.in",
     "athens.edu",
     "athenstech.edu",
     "ati.osu.edu",
@@ -10401,5 +10402,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240828
+  "version": 20240829
 }
