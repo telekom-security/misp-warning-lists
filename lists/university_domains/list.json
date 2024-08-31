@@ -7038,6 +7038,7 @@
     "student.unisg.ch",
     "student.upt.ro",
     "student.uts.edu.au",
+    "student.wab.edu.pl",
     "student.westherts.ac.uk",
     "students.finki.ukim.mk",
     "students.jedlik.eu",
@@ -9956,6 +9957,7 @@
     "vvu.edu.gh",
     "vwc.edu",
     "vxu.se",
+    "wab.edu.pl",
     "wabash.edu",
     "waco.tstc.edu",
     "wageningenuniversity.nl",
@@ -10402,5 +10404,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240830
+  "version": 20240831
 }
