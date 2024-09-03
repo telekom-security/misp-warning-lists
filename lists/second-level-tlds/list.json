@@ -6718,6 +6718,7 @@
     "presse.km",
     "presse.ml",
     "preview.csb.app",
+    "preview.wdh.app",
     "pri.ee",
     "prime",
     "primetel.cloud",
@@ -8105,6 +8106,7 @@
     "szex.hu",
     "szkola.pl",
     "t.bg",
+    "t.hrsn.net",
     "t.se",
     "ta.it",
     "taa.it",
@@ -9789,5 +9791,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240902
+  "version": 20240903
 }
