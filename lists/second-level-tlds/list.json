@@ -2575,7 +2575,6 @@
     "firewall-gateway.de",
     "firewall-gateway.net",
     "firewalledreplit.co",
-    "fireweb.app",
     "firm.co",
     "firm.dk",
     "firm.ht",
@@ -9791,5 +9790,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240904
+  "version": 20240905
 }
