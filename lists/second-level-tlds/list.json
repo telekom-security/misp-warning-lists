@@ -6042,6 +6042,7 @@
     "ny-2.paas.massivegrid.net",
     "ny.us",
     "nyanta.jp",
+    "nyat.app",
     "nyc",
     "nyc.mn",
     "nysa.pl",
@@ -6779,7 +6780,6 @@
     "pub.sa",
     "publ.pt",
     "public-inquiry.uk",
-    "publishproxy.com",
     "pubtls.org",
     "pueblo.bo",
     "pug.it",
@@ -9790,5 +9790,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240905
+  "version": 20240906
 }
