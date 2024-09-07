@@ -6180,6 +6180,7 @@
     "reedleycollege.edu",
     "regent-college.edu",
     "regent.edu",
+    "regent.edu.gh",
     "regentghana.net",
     "regis.edu",
     "reitaku-u.ac.jp",
@@ -10405,5 +10406,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240906
+  "version": 20240907
 }
