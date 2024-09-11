@@ -1700,7 +1700,6 @@
     "cr.it",
     "cr.ua",
     "craft.me",
-    "crafting.xyz",
     "cranky.jp",
     "crap.jp",
     "crd.co",
@@ -1809,7 +1808,6 @@
     "ddnsfree.com",
     "ddnsgeek.com",
     "ddnsking.com",
-    "ddnslive.com",
     "ddnss.de",
     "ddnss.org",
     "dds",
@@ -9748,7 +9746,6 @@
     "zaporizhzhia.ua",
     "zappos",
     "zapto.org",
-    "zapto.xyz",
     "zara",
     "zarow.pl",
     "zeabur.app",
@@ -9779,5 +9776,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240910
+  "version": 20240911
 }
