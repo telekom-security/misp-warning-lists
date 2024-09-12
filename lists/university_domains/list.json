@@ -8609,7 +8609,6 @@
     "uni-pannon.hu",
     "uni-passau.de",
     "uni-plovdiv.bg",
-    "uni-polsdam.de",
     "uni-potsdam.de",
     "uni-pr.edu",
     "uni-prizren.com",
@@ -10406,5 +10405,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240911
+  "version": 20240912
 }
