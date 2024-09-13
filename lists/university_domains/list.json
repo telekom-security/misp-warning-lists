@@ -3744,6 +3744,7 @@
     "jj.ac.kr",
     "jjay.cuny.edu",
     "jjc.edu",
+    "jjtu.ac.in",
     "jju.edu.et",
     "jkkniu.edu.bd",
     "jku.at",
@@ -6700,6 +6701,7 @@
     "simt.edu.la",
     "sinclair.edu",
     "singaporetech.edu.sg",
+    "singhaniauniversity.ac.in",
     "singidunum.edu.rs",
     "sinnaruniv.edu.sd",
     "sinop.edu.tr",
@@ -10405,5 +10407,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240912
+  "version": 20240913
 }

@@ -8733,6 +8733,7 @@
     "v-info.info",
     "v.bg",
     "v.ua",
+    "v0.build",
     "va",
     "va.it",
     "va.no",
@@ -8907,6 +8908,7 @@
     "vt.us",
     "vu",
     "vultrobjects.com",
+    "vusercontent.net",
     "vv.it",
     "w-corp-staticblitz.com",
     "w-credentialless-staticblitz.com",
@@ -9776,5 +9778,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240912
+  "version": 20240913
 }
