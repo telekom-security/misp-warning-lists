@@ -6692,6 +6692,7 @@
     "siirt.edu.tr",
     "sil.edu.pe",
     "silla.ac.kr",
+    "silpakorn.edu",
     "sim.edu.sg",
     "simhapuriuniv.ac.in",
     "simmons.edu",
@@ -10407,5 +10408,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240913
+  "version": 20240914
 }
