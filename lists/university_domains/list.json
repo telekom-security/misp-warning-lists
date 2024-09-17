@@ -7320,6 +7320,7 @@
     "th-brandenburg.de",
     "th-deg.de",
     "th-koeln.de",
+    "th-rosenheim.de",
     "theatrins-yar.ru",
     "thenewcollege.edu.in",
     "thenicc.edu",
@@ -10408,5 +10409,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240916
+  "version": 20240917
 }
