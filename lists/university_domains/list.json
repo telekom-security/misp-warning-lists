@@ -4270,6 +4270,7 @@
     "kyoto-u.ac.jp",
     "kyoto-wu.ac.jp",
     "kyotogakuen-u.ac.jp",
+    "kyrenia.edu.tr",
     "kysu.edu",
     "kyu-dent.ac.jp",
     "kyu.ac.ug",
@@ -6964,6 +6965,7 @@
     "stclairconnect.ca",
     "stclements.edu.nu",
     "stcloudstate.edu",
+    "std.kyrenia.edu.tr",
     "stedwards.edu",
     "stenden.com",
     "stephens.edu",
@@ -10409,5 +10411,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240918
+  "version": 20240919
 }
