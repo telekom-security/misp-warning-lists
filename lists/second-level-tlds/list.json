@@ -3554,6 +3554,7 @@
     "hr",
     "hr.eu.org",
     "hra.health",
+    "hrsn.dev",
     "hs.kr",
     "hs.run",
     "hs.zone",
@@ -4493,7 +4494,6 @@
     "krym.ua",
     "ks.ua",
     "ks.us",
-    "ktistory.com",
     "kuchinotsu.nagasaki.jp",
     "kudamatsu.yamaguchi.jp",
     "kudoyama.wakayama.jp",
@@ -5399,7 +5399,6 @@
     "myactivedirectory.com",
     "myamaze.net",
     "myasustor.com",
-    "mycd.eu",
     "mycloudnas.com",
     "mydatto.com",
     "mydatto.net",
@@ -7344,7 +7343,6 @@
     "s3.us-gov-west-1.amazonaws.com",
     "s3.us-west-1.amazonaws.com",
     "s3.us-west-2.amazonaws.com",
-    "s5y.io",
     "sa",
     "sa-east-1.airflow.amazonaws.com",
     "sa-east-1.elasticbeanstalk.com",
@@ -7571,7 +7569,6 @@
     "sener",
     "sennan.osaka.jp",
     "senseering.net",
-    "sensiosite.cloud",
     "seoul.kr",
     "sera.hiroshima.jp",
     "seranishi.hiroshima.jp",
@@ -9780,5 +9777,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240919
+  "version": 20240920
 }
