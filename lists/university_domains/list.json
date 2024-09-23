@@ -5041,6 +5041,7 @@
     "must.ac.ug",
     "must.edu.eg",
     "must.edu.mn",
+    "must.edu.mo",
     "must.edu.my",
     "must.edu.sy",
     "mut.ac.th",
@@ -10411,5 +10412,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240922
+  "version": 20240923
 }
