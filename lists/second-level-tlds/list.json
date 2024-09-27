@@ -3380,6 +3380,7 @@
     "heroy.more-og-romsdal.no",
     "heroy.nordland.no",
     "heteml.net",
+    "hf.space",
     "hi.cn",
     "hi.us",
     "hicam.net",
@@ -7732,6 +7733,7 @@
     "shopitsite.com",
     "shopping",
     "shopselect.net",
+    "shopware.shop",
     "shopware.store",
     "shouji",
     "show",
@@ -7933,6 +7935,7 @@
     "statefarm",
     "stathelle.no",
     "static-access.net",
+    "static.hf.space",
     "static.observableusercontent.com",
     "statics.cloud",
     "stavanger.no",
@@ -9777,5 +9780,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20240926
+  "version": 20240927
 }

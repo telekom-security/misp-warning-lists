@@ -2837,8 +2837,8 @@
     "hcmuaf.edu.vn",
     "hcmuarc.edu.vn",
     "hcmulaw.edu.vn",
-    "hcmuns.edu.vn",
     "hcmupeda.edu.vn",
+    "hcmus.edu.vn",
     "hcmussh.edu.vn",
     "hcmut.edu.vn",
     "hcmute.edu.vn",
@@ -10412,5 +10412,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20240926
+  "version": 20240927
 }
