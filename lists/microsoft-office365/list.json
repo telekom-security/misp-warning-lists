@@ -178,6 +178,7 @@
     "sway.com",
     "symcb.com",
     "symcd.com",
+    "teams.cloud.microsoft",
     "teams.microsoft.com",
     "technet.microsoft.com",
     "telemetryservice.firstpartyapps.oaspapps.com",
@@ -209,5 +210,5 @@
   ],
   "name": "List of known Office 365 URLs",
   "type": "string",
-  "version": 20240930
+  "version": 20241001
 }
