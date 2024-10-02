@@ -1396,7 +1396,6 @@
     "cn.it",
     "cn.ua",
     "cng.br",
-    "cnpy.gdn",
     "cns.joyent.com",
     "cnt.br",
     "co",
@@ -9782,5 +9781,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241001
+  "version": 20241002
 }
