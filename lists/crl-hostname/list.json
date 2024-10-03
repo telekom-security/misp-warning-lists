@@ -236,7 +236,6 @@
     "www.d-trust.net",
     "www.gdca.com.cn",
     "www.microsoft.com",
-    "www2.public-trust.com",
     "x1.c.lencr.org",
     "x2.c.lencr.org"
   ],
@@ -247,5 +246,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20241002
+  "version": 20241003
 }

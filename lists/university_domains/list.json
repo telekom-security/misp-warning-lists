@@ -8621,6 +8621,7 @@
     "uni-prizren.com",
     "uni-regensburg.de",
     "uni-rostock.de",
+    "uni-ruse.bg",
     "uni-saarland.de",
     "uni-siegen.de",
     "uni-sofia.bg",
@@ -10412,5 +10413,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241002
+  "version": 20241003
 }

@@ -298,7 +298,6 @@
     "ally",
     "alp1.ae.flow.ch",
     "alpha-myqnapcloud.com",
-    "alpha.bounty-full.com",
     "alsace",
     "alstahaug.no",
     "alstom",
@@ -773,7 +772,6 @@
     "bet",
     "bet.ar",
     "bet.br",
-    "beta.bounty-full.com",
     "beta.tailscale.net",
     "betainabox.com",
     "better-than.tv",
@@ -988,7 +986,6 @@
     "boston",
     "bot",
     "bounceme.net",
-    "bounty-full.com",
     "boutique",
     "boutir.com",
     "box",
@@ -1396,6 +1393,7 @@
     "cn.it",
     "cn.ua",
     "cng.br",
+    "cnpy.gdn",
     "cns.joyent.com",
     "cnt.br",
     "co",
@@ -9781,5 +9779,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241002
+  "version": 20241003
 }
