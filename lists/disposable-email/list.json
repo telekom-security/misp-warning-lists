@@ -934,6 +934,7 @@
     "ecolo-online.fr",
     "edgex.ru",
     "edinburgh-airporthotels.com",
+    "edupolska.edu.pl",
     "edv.to",
     "ee1.pl",
     "ee2.pl",
@@ -2905,6 +2906,7 @@
     "smapfree24.eu",
     "smapfree24.info",
     "smapfree24.org",
+    "smartemailbox.co",
     "smartnator.com",
     "smarttalent.pw",
     "smashmail.de",
@@ -3804,5 +3806,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241004
+  "version": 20241005
 }

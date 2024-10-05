@@ -4128,6 +4128,7 @@
     "kpu.ac.kr",
     "krirk.ac.th",
     "krishnauniversity.ac.in",
+    "kristiania.no",
     "krok.edu.ua",
     "krsu.edu.kg",
     "ks.ac.kr",
@@ -10413,5 +10414,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241004
+  "version": 20241005
 }
