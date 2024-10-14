@@ -2071,6 +2071,7 @@
     "mailnator.com",
     "mailnesia.com",
     "mailnull.com",
+    "mailnuo.com",
     "mailonaut.com",
     "mailorc.com",
     "mailorg.org",
@@ -3806,5 +3807,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241013
+  "version": 20241014
 }
