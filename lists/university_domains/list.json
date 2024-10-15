@@ -5520,6 +5520,7 @@
     "nus.edu",
     "nus.edu.sg",
     "nus.edu.ws",
+    "nusaputra.ac.id",
     "nust.ac.zw",
     "nust.edu.pk",
     "nuu.edu.tw",
@@ -10416,5 +10417,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241014
+  "version": 20241015
 }
