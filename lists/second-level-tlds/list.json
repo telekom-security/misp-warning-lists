@@ -771,7 +771,6 @@
     "bet",
     "bet.ar",
     "bet.br",
-    "beta.tailscale.net",
     "betainabox.com",
     "better-than.tv",
     "bf",
@@ -1795,7 +1794,6 @@
     "dd-dns.de",
     "ddns.me",
     "ddns.net",
-    "ddns5.com",
     "ddnsfree.com",
     "ddnsgeek.com",
     "ddnsking.com",
@@ -9771,5 +9769,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241016
+  "version": 20241017
 }
