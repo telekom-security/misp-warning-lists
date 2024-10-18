@@ -1798,6 +1798,7 @@
     "dowling.edu",
     "downstate.edu",
     "dpc.edu",
+    "dpt-info.u-strasbg.fr",
     "dpu.ac.th",
     "dpu.dk",
     "dpu.edu.tr",
@@ -10417,5 +10418,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241017
+  "version": 20241018
 }
