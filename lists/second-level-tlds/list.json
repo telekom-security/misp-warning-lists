@@ -1335,6 +1335,7 @@
     "clinique",
     "clothing",
     "cloud",
+    "cloud-ip.biz",
     "cloud.fedoraproject.org",
     "cloud.goog",
     "cloud.interhostsolutions.be",
@@ -3546,8 +3547,6 @@
     "hra.health",
     "hrsn.dev",
     "hs.kr",
-    "hs.run",
-    "hs.zone",
     "hsbc",
     "ht",
     "httpbin.org",
@@ -3802,6 +3801,7 @@
     "io.vn",
     "iobb.net",
     "iopsys.se",
+    "ip-dynamic.org",
     "ip.linodeusercontent.com",
     "ip6.arpa",
     "ipfs.nftstorage.link",
@@ -9772,5 +9772,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241022
+  "version": 20241023
 }
