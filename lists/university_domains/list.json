@@ -2042,6 +2042,7 @@
     "ens-cachan.fr",
     "ens-fcl.fr",
     "ens-lyon.fr",
+    "ens-paris-saclay.fr",
     "ens.fr",
     "ens2m.fr",
     "ensae.fr",
@@ -10418,5 +10419,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241023
+  "version": 20241024
 }
