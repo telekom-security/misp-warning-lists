@@ -976,6 +976,7 @@
     "emaildrop.io",
     "emailfake.com",
     "emailfake.ml",
+    "emailfoxi.pro",
     "emailfreedom.ml",
     "emailgenerator.de",
     "emailgo.de",
@@ -3807,5 +3808,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241024
+  "version": 20241025
 }

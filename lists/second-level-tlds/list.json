@@ -3049,7 +3049,6 @@
     "gov.cm",
     "gov.cn",
     "gov.co",
-    "gov.cu",
     "gov.cx",
     "gov.cy",
     "gov.dm",
@@ -9772,5 +9771,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241024
+  "version": 20241025
 }
