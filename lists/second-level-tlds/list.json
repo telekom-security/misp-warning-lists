@@ -3166,6 +3166,7 @@
     "gr.eu.org",
     "gr.it",
     "gr.jp",
+    "grafana-dev.net",
     "grainger",
     "grajewo.pl",
     "gran.no",
@@ -9776,5 +9777,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241029
+  "version": 20241030
 }
