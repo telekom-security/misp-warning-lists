@@ -1530,6 +1530,7 @@
     "hpc.tw",
     "hs.vc",
     "ht.cx",
+    "hthlm.com",
     "huangniu8.com",
     "huizk.com",
     "hukkmu.tk",
@@ -3808,5 +3809,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241030
+  "version": 20241031
 }
