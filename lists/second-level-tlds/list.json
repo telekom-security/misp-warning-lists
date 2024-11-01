@@ -1794,6 +1794,7 @@
     "dc.us",
     "dclk",
     "dd-dns.de",
+    "ddns-ip.net",
     "ddns.me",
     "ddns.net",
     "ddnsfree.com",
@@ -3489,6 +3490,7 @@
     "holtalen.no",
     "holy.jp",
     "home-webserver.de",
+    "home.arpa",
     "home.dyndns.org",
     "homebuilt.aero",
     "homedepot",
@@ -3804,6 +3806,7 @@
     "io.vn",
     "iobb.net",
     "iopsys.se",
+    "ip-ddns.com",
     "ip-dynamic.org",
     "ip.linodeusercontent.com",
     "ip6.arpa",
@@ -8207,6 +8210,7 @@
     "tatsuno.hyogo.jp",
     "tatsuno.nagano.jp",
     "tattoo",
+    "taveusercontent.com",
     "tawaramoto.nara.jp",
     "tax",
     "taxi",
@@ -9777,5 +9781,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241031
+  "version": 20241101
 }
