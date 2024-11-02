@@ -5603,6 +5603,7 @@
     "ohtani-w.ac.jp",
     "ohu-u.ac.jp",
     "ohu.edu.tr",
+    "oist.jp",
     "oit.ac.jp",
     "oit.edu",
     "oita-med.ac.jp",
@@ -10428,5 +10429,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241101
+  "version": 20241102
 }
