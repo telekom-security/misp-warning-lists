@@ -10061,6 +10061,7 @@
     "westcoastuniversity.edu",
     "western.edu",
     "western.edu.kh",
+    "westernsydney.edu.au",
     "westerntc.edu",
     "westernu.edu",
     "westfield.mass.edu",
@@ -10429,5 +10430,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241105
+  "version": 20241106
 }
