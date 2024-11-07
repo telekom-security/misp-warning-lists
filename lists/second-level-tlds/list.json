@@ -736,7 +736,6 @@
     "bbva",
     "bc.ca",
     "bcg",
-    "bci.dnstrace.pro",
     "bcn",
     "bd",
     "bd.se",
@@ -6192,7 +6191,6 @@
     "onojo.fukuoka.jp",
     "onomichi.hiroshima.jp",
     "onporter.run",
-    "onred.one",
     "onrender.com",
     "onthewifi.com",
     "onza.mythic-beasts.com",
@@ -7929,7 +7927,6 @@
     "stada",
     "stage.nodeart.io",
     "staging.expo.app",
-    "staging.onred.one",
     "staging.replit.dev",
     "stalowa-wola.pl",
     "stange.no",
@@ -9781,5 +9778,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241106
+  "version": 20241107
 }
