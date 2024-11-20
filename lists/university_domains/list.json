@@ -3413,6 +3413,7 @@
     "international.fh-aalen.de",
     "internationaluniversity-schoolofmedicine.org",
     "intstudy.mai.ru",
+    "inu.ac.kr",
     "inu.edu.jo",
     "inuaf-studia.pt",
     "inun.edu.ar",
@@ -10430,5 +10431,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241119
+  "version": 20241120
 }
