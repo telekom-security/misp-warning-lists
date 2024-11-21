@@ -213,7 +213,6 @@
     "s.ss2.us",
     "sceccrootca1.ocsp.secomtrust.net",
     "scrootca2.ocsp.secomtrust.net",
-    "scrootca3.ocsp.secomtrust.net",
     "service.globaltrust.eu",
     "subca.crl.certum.pl",
     "subca.ocsp-certum.com",
@@ -245,5 +244,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20241120
+  "version": 20241121
 }
