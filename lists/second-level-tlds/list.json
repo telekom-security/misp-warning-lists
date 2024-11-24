@@ -5083,7 +5083,6 @@
     "mil.ec",
     "mil.eg",
     "mil.fj",
-    "mil.ge",
     "mil.gh",
     "mil.gt",
     "mil.hn",
@@ -7498,6 +7497,7 @@
     "schokokeks.net",
     "scholarships",
     "school",
+    "school.ge",
     "school.nz",
     "school.za",
     "schoolbus.jp",
@@ -9770,5 +9770,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241123
+  "version": 20241124
 }
