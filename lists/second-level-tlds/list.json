@@ -3602,6 +3602,7 @@
     "icurus.jp",
     "id",
     "id.au",
+    "id.cv",
     "id.firewalledreplit.co",
     "id.forgerock.io",
     "id.ir",
@@ -5634,6 +5635,7 @@
     "net.cn",
     "net.co",
     "net.cu",
+    "net.cv",
     "net.cw",
     "net.cy",
     "net.dm",
@@ -6752,6 +6754,7 @@
     "pub",
     "pub.instances.scw.cloud",
     "pub.sa",
+    "publ.cv",
     "publ.pt",
     "public-inquiry.uk",
     "pubtls.org",
@@ -9770,5 +9773,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241126
+  "version": 20241127
 }
