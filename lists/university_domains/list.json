@@ -5075,6 +5075,7 @@
     "my.ipleiria.pt",
     "myara.ara.ac.nz",
     "mybrcc.edu",
+    "mycambrian.ca",
     "mylambton.ca",
     "mylaurier.ca",
     "mylcp.net",
@@ -6397,6 +6398,7 @@
     "samsmu.ru",
     "sanaaguniversity.com",
     "sanbeda.edu.ph",
+    "sancarlos.edu.py",
     "sandau.edu.cn",
     "sandburg.edu",
     "sandhills.edu",
@@ -10433,5 +10435,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241128
+  "version": 20241129
 }

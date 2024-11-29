@@ -3463,7 +3463,6 @@
     "veryrealemail.com",
     "vesa.pw",
     "vevs.de",
-    "vfemail.net",
     "via.tokyo.jp",
     "vickaentb.tk",
     "victime.ninja",
@@ -3809,5 +3808,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241128
+  "version": 20241129
 }

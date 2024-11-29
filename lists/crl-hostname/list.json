@@ -102,6 +102,7 @@
     "ldap2.sheca.com",
     "ldapfnmt.cert.fnmt.es",
     "o.ss2.us",
+    "ocsp-cpki.telekom.de",
     "ocsp-rca.navercorp.com",
     "ocsp.accv.es",
     "ocsp.affirmtrust.com",
@@ -244,5 +245,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20241128
+  "version": 20241129
 }
