@@ -463,6 +463,7 @@
     "bestsoundeffects.com",
     "besttempmail.com",
     "betr.co",
+    "bflcafe.com",
     "bgtmail.com",
     "bgx.ro",
     "bheps.com",
@@ -576,6 +577,7 @@
     "camping-grill.info",
     "candymail.de",
     "cane.pw",
+    "cantozil.com",
     "capitalistdilemma.com",
     "car101.pro",
     "carbtc.net",
@@ -672,6 +674,7 @@
     "completegolfswing.com",
     "comwest.de",
     "conf.work",
+    "confmin.com",
     "consumerriot.com",
     "contbay.com",
     "cooh-2.site",
@@ -3738,6 +3741,7 @@
     "youxiang.dev",
     "yroid.com",
     "yspend.com",
+    "ytnhy.com",
     "ytpayy.com",
     "yugasandrika.com",
     "yui.it",
@@ -3808,5 +3812,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241202
+  "version": 20241203
 }
