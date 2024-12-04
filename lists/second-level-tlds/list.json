@@ -6027,6 +6027,7 @@
     "o.bg",
     "o.se",
     "o0o0.jp",
+    "o365.cloud.nospamproxy.com",
     "oamishirasato.chiba.jp",
     "oarai.ibaraki.jp",
     "obama.fukui.jp",
@@ -8660,7 +8661,6 @@
     "uonuma.niigata.jp",
     "uozu.toyama.jp",
     "up.in",
-    "upli.io",
     "upow.gov.pl",
     "upper.jp",
     "uppo.gov.pl",
@@ -9777,5 +9777,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241203
+  "version": 20241204
 }
