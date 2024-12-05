@@ -1864,7 +1864,6 @@
     "lellno.gq",
     "lenovog4.com",
     "lerbhe.com",
-    "letmeinonthis.com",
     "letthemeatspam.com",
     "lez.se",
     "lgxscreen.com",
@@ -3812,5 +3811,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241204
+  "version": 20241205
 }
