@@ -413,7 +413,6 @@
     "go.microsoft.com",
     "go.sonobi.com",
     "go.trouter.teams.microsoft.com",
-    "godaddy.com",
     "goguardian.com",
     "google-analytics.com",
     "google-ohttp-relay-safebrowsing.fastly-edge.com",
@@ -780,6 +779,7 @@
     "sfx.ms",
     "sharepoint.com",
     "sharethrough.com",
+    "shell.cdn.office.net",
     "signaler-pa.clients6.google.com",
     "simage2.pubmatic.com",
     "simpli.fi",
@@ -842,7 +842,6 @@
     "sync.crwdcntrl.net",
     "sync.go.sonobi.com",
     "sync.ipredictive.com",
-    "sync.mathtag.com",
     "sync.outbrain.com",
     "sync.srv.stackadapt.com",
     "t.adx.opera.com",
@@ -985,6 +984,7 @@
     "x1.c.lencr.org",
     "x2.c.lencr.org",
     "xp.apple.com",
+    "xpaywalletcdn.azureedge.net",
     "xx.fbcdn.net",
     "xy.fbcdn.net",
     "xz.fbcdn.net",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1000 websites from Cisco Umbrella",
   "type": "string",
-  "version": 20241213
+  "version": 20241214
 }
