@@ -7463,7 +7463,6 @@
     "seat",
     "sebastopol.ua",
     "sec.ps",
-    "secaas.hk",
     "secret.jp",
     "secure",
     "security",
@@ -9701,5 +9700,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241216
+  "version": 20241217
 }
