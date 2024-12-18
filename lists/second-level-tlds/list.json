@@ -3,7 +3,6 @@
   "list": [
     "0.bg",
     "001.test.code-builder-stg.platform.salesforce.com",
-    "001www.com",
     "0am.jp",
     "0e.vc",
     "0emm.com",
@@ -4493,7 +4492,6 @@
     "la-spezia.it",
     "la.us",
     "laakesvuemie.no",
-    "lab.ms",
     "labeling.ap-northeast-1.sagemaker.aws",
     "labeling.ap-northeast-2.sagemaker.aws",
     "labeling.ap-south-1.sagemaker.aws",
@@ -5386,7 +5384,6 @@
     "mz",
     "n.bg",
     "n.se",
-    "n4t.co",
     "na",
     "na.it",
     "na4u.ru",
@@ -5908,7 +5905,6 @@
     "now",
     "now-dns.net",
     "now-dns.org",
-    "now-dns.top",
     "now.sh",
     "nowaruda.pl",
     "nowruz",
@@ -9700,5 +9696,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241217
+  "version": 20241218
 }
