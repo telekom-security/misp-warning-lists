@@ -6389,6 +6389,7 @@
     "salleurl.edu",
     "salu.edu.pk",
     "salvador.edu.ar",
+    "samara.university",
     "sambalpuruniversitypgc.in",
     "samchok.ac.kr",
     "samdu.uz",
@@ -10437,5 +10438,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20241218
+  "version": 20241219
 }
