@@ -2917,7 +2917,6 @@
     "goldpoint",
     "golf",
     "golffan.us",
-    "gon.pk",
     "gonna.jp",
     "gonohe.aomori.jp",
     "goo",
@@ -9695,5 +9694,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20241225
+  "version": 20241226
 }
