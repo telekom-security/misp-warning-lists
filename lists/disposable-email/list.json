@@ -2341,6 +2341,7 @@
     "navalcadets.com",
     "nawmin.info",
     "naymedia.com",
+    "nbmbb.com",
     "nbzmr.com",
     "negated.com",
     "neghtlefi.com",
@@ -3833,5 +3834,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20241230
+  "version": 20241231
 }
