@@ -1004,7 +1004,6 @@
     "ca.reclaim.cloud",
     "ca.us",
     "caa.aero",
-    "caa.li",
     "cab",
     "cable-modem.org",
     "cafe",
@@ -1579,7 +1578,6 @@
     "condos",
     "conf.au",
     "conf.lv",
-    "conf.se",
     "conference.aero",
     "conn.uk",
     "construction",
@@ -2471,7 +2469,6 @@
     "filegear.me",
     "film",
     "film.hu",
-    "fin.ci",
     "fin.ec",
     "fin.tn",
     "final",
@@ -2587,7 +2584,6 @@
     "frana.no",
     "fredrikstad.no",
     "free",
-    "free.hr",
     "freebox-os.com",
     "freebox-os.fr",
     "freeboxos.com",
@@ -8511,7 +8507,6 @@
     "u2-local.xnbay.com",
     "u2.xnbay.com",
     "ua",
-    "ua.rs",
     "ubank",
     "ube.yamaguchi.jp",
     "uber.space",
@@ -9694,5 +9689,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250106
+  "version": 20250107
 }

@@ -62,6 +62,7 @@
     "147.cl",
     "14n.co.uk",
     "15qm.com",
+    "189.email",
     "1blackmoon.com",
     "1ce.us",
     "1chuan.com",
@@ -443,6 +444,7 @@
     "bcast.ws",
     "bcb.ro",
     "bccto.me",
+    "bcooq.com",
     "bdmuzic.pw",
     "beaconmessenger.com",
     "bearsarefuzzy.com",
@@ -2177,6 +2179,7 @@
     "mechanicalresumes.com",
     "medkabinet-uzi.ru",
     "meepsheep.eu",
+    "megasend.org",
     "mehr-bitcoin.de",
     "meidecn.com",
     "meinspamschutz.de",
@@ -2309,6 +2312,7 @@
     "mydemo.equipment",
     "myecho.es",
     "myemailboxy.com",
+    "myfxspot.com",
     "mygeoweb.info",
     "myindohome.services",
     "myinfoinc.com",
@@ -3862,5 +3866,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250106
+  "version": 20250107
 }
