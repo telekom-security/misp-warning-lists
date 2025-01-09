@@ -3735,6 +3735,7 @@
     "iq",
     "ir",
     "ir.md",
+    "iran.liara.run",
     "iris.arpa",
     "irish",
     "iruma.saitama.jp",
@@ -4583,6 +4584,7 @@
     "lgbt",
     "li",
     "li.it",
+    "liara.run",
     "lib.ak.us",
     "lib.al.us",
     "lib.ar.us",
@@ -9693,5 +9695,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250108
+  "version": 20250109
 }
