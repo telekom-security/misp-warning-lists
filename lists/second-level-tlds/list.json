@@ -2113,6 +2113,7 @@
     "edu.uy",
     "edu.vc",
     "edu.ve",
+    "edu.vg",
     "edu.vn",
     "edu.vu",
     "edu.ws",
@@ -9705,5 +9706,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250111
+  "version": 20250112
 }
