@@ -2154,7 +2154,6 @@
     "essex.edu",
     "esstin.u-nancy.fr",
     "esstu.ru",
-    "esta.ac.ma",
     "estacio.br",
     "estp.fr",
     "estrellamountain.edu",
@@ -8243,6 +8242,7 @@
     "uiuc.edu",
     "uiw.edu",
     "uiwtx.edu",
+    "uiz.ac.ma",
     "uj.ac.za",
     "uj.edu",
     "uj.edu.pl",
@@ -9431,6 +9431,7 @@
     "upla.edu.pe",
     "uplb.edu.ph",
     "uplearnbusinessschool.com",
+    "upm.ac.ma",
     "upm.edu.my",
     "upm.edu.ph",
     "upm.es",
@@ -10449,5 +10450,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250113
+  "version": 20250114
 }
