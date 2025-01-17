@@ -7950,6 +7950,8 @@
     "sub.jp",
     "sub.psl.hrsn.dev",
     "sub.wc.psl.hrsn.dev",
+    "subsc-pay.com",
+    "subsc-pay.net",
     "sucks",
     "sue.fukuoka.jp",
     "suedtirol.it",
@@ -9706,5 +9708,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250116
+  "version": 20250117
 }
