@@ -2113,6 +2113,7 @@
     "edu.tt",
     "edu.tw",
     "edu.ua",
+    "edu.ug",
     "edu.uy",
     "edu.vc",
     "edu.ve",
@@ -3073,6 +3074,7 @@
     "gov.tt",
     "gov.tw",
     "gov.ua",
+    "gov.ug",
     "gov.uk",
     "gov.vc",
     "gov.ve",
@@ -5052,6 +5054,7 @@
     "mil.tt",
     "mil.tw",
     "mil.tz",
+    "mil.ug",
     "mil.uy",
     "mil.vc",
     "mil.ve",
@@ -8643,6 +8646,7 @@
     "us.org",
     "us.platform.sh",
     "us.reclaim.cloud",
+    "us.ug",
     "usa.oita.jp",
     "user.aseinet.ne.jp",
     "user.fm",
@@ -9714,5 +9718,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250123
+  "version": 20250127
 }
