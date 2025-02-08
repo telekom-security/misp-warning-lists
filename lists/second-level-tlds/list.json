@@ -295,6 +295,7 @@
     "algard.no",
     "aliases121.com",
     "alibaba",
+    "alibabacloudcs.com",
     "alipay",
     "allfinanz",
     "allstate",
@@ -9724,5 +9725,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250207
+  "version": 20250208
 }
