@@ -4534,6 +4534,7 @@
     "laocai.vn",
     "lapy.pl",
     "laquila.it",
+    "laravel.cloud",
     "lardal.no",
     "larvik.no",
     "lasalle",
@@ -9725,5 +9726,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250210
+  "version": 20250211
 }
