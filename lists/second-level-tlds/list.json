@@ -962,6 +962,7 @@
     "bt",
     "bt.it",
     "bu.no",
+    "bubbleapps.io",
     "budejju.no",
     "build",
     "build.run",
@@ -1144,6 +1145,7 @@
     "cd",
     "cd.eu.org",
     "cdn-edges.net",
+    "cdn.bubble.io",
     "cdn.cloudflare.net",
     "cdn.cloudflareanycast.net",
     "cdn.cloudflarecn.net",
@@ -9726,5 +9728,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250212
+  "version": 20250213
 }

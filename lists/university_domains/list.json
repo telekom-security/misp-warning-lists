@@ -9696,6 +9696,7 @@
     "utadeo.edu.co",
     "utah.edu",
     "utahtech.edu",
+    "utaipei.edu.tw",
     "utalca.cl",
     "utanga.co.ao",
     "utar.edu.my",
@@ -10458,5 +10459,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250212
+  "version": 20250213
 }
