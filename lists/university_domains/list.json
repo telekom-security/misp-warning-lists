@@ -3326,6 +3326,7 @@
     "iiti.ac.in",
     "iitj.ac.in",
     "iitk.ac.in",
+    "iitkgp.ac.in",
     "iitkgp.ernet.in",
     "iitm.ac.in",
     "iitp.ac.in",
@@ -10459,5 +10460,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250217
+  "version": 20250218
 }
