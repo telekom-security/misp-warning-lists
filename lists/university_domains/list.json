@@ -3342,8 +3342,8 @@
     "iku.edu.tr",
     "ikw.ac.kr",
     "ilam.ac.ir",
+    "ili.ac.in",
     "iliauni.edu.ge",
-    "ilidelhi.org",
     "ilisagvik.edu",
     "ilisimatusarfik.gl",
     "illinois.edu",
@@ -7323,6 +7323,7 @@
     "technet.com.br",
     "technikum-wien.at",
     "technion.ac.il",
+    "techniqueedu.com",
     "tecmilenio.mx",
     "tedu.edu.tr",
     "tees.ac.uk",
@@ -10460,5 +10461,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250218
+  "version": 20250219
 }

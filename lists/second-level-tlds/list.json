@@ -4745,6 +4745,8 @@
     "loten.no",
     "lotte",
     "lotto",
+    "lovable.app",
+    "lovableproject.com",
     "love",
     "lovepop.jp",
     "lovesick.jp",
@@ -9728,5 +9730,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250218
+  "version": 20250219
 }
