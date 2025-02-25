@@ -2166,6 +2166,7 @@
     "emilia-romagna.it",
     "emiliaromagna.it",
     "emp.br",
+    "emprende.ve",
     "empresa.bo",
     "emr.it",
     "emrappui-prod.af-south-1.amazonaws.com",
@@ -7845,6 +7846,7 @@
     "sport.hu",
     "spot",
     "spydeberg.no",
+    "square.site",
     "square7.ch",
     "square7.de",
     "square7.net",
@@ -9730,5 +9732,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250224
+  "version": 20250225
 }
