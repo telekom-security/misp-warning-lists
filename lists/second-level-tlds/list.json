@@ -9706,6 +9706,7 @@
     "zeabur.app",
     "zentsuji.kagawa.jp",
     "zero",
+    "zerops.app",
     "zgierz.pl",
     "zgora.pl",
     "zgorzelec.pl",
@@ -9732,5 +9733,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250226
+  "version": 20250227
 }
