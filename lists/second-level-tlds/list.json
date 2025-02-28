@@ -9718,6 +9718,7 @@
     "zm",
     "zombie.jp",
     "zone",
+    "zone.id",
     "zp.gov.pl",
     "zp.ua",
     "zpisdn.gov.pl",
@@ -9733,5 +9734,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250227
+  "version": 20250228
 }
