@@ -9894,6 +9894,7 @@
     "vdu.lt",
     "velammal.edu.in",
     "velammalitech.edu.in",
+    "venta.lv",
     "venturacollege.edu",
     "ver.ucc.mx",
     "veritas.edu.ng",
@@ -10461,5 +10462,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250228
+  "version": 20250301
 }
