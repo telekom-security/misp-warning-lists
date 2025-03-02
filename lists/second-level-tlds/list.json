@@ -1625,6 +1625,7 @@
     "coz.br",
     "cpa",
     "cpa.pro",
+    "cpanel.site",
     "cprapid.com",
     "cpserver.com",
     "cq.cn",
@@ -4231,7 +4232,6 @@
     "kep.tr",
     "kepno.pl",
     "kerryhotels",
-    "kerrylogistics",
     "kerryproperties",
     "ketrzyn.pl",
     "keymachine.de",
@@ -4686,7 +4686,6 @@
     "linkyard-cloud.ch",
     "linkyard.cloud",
     "linodeobjects.com",
-    "lipsy",
     "littlestar.jp",
     "live",
     "live-on.net",
@@ -9734,5 +9733,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250301
+  "version": 20250302
 }
