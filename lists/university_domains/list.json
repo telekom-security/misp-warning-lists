@@ -9735,6 +9735,7 @@
     "utfsm.cl",
     "utg.edu.gm",
     "utgjiu.ro",
+    "uth.edu.pl",
     "uth.gr",
     "uth.hn",
     "uthm.edu.my",
@@ -10462,5 +10463,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250303
+  "version": 20250304
 }
