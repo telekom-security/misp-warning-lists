@@ -9079,6 +9079,7 @@
     "univ-tln.fr",
     "univ-tlse1.fr",
     "univ-tlse2.fr",
+    "univ-tlse3.fr",
     "univ-toamasina.mg",
     "univ-toliara.mg",
     "univ-toulouse.fr",
@@ -9738,6 +9739,7 @@
     "uth.edu.pl",
     "uth.gr",
     "uth.hn",
+    "uth.pl",
     "uthm.edu.my",
     "utibet.edu.cn",
     "utica.edu",
@@ -10463,5 +10465,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250305
+  "version": 20250306
 }
