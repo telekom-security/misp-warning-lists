@@ -1010,6 +1010,7 @@
     "eeedv.de",
     "eelmail.com",
     "efxs.ca",
+    "egvoo.com",
     "egzones.com",
     "einmalmail.de",
     "einrot.com",
@@ -4062,5 +4063,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250306
+  "version": 20250307
 }

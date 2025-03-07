@@ -1775,6 +1775,7 @@
     "demon.nl",
     "deno-staging.dev",
     "deno.dev",
+    "deno.net",
     "dental",
     "dentist",
     "dep.no",
@@ -9733,5 +9734,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250306
+  "version": 20250307
 }
