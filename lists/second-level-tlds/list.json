@@ -1788,6 +1788,7 @@
     "det.br",
     "deta.app",
     "deta.dev",
+    "deus-canvas.com",
     "dev",
     "dev-builder.code.com",
     "dev-myqnapcloud.com",
@@ -6119,6 +6120,7 @@
     "ong",
     "ong.br",
     "onga.fukuoka.jp",
+    "oninferno.net",
     "onion",
     "onjuku.chiba.jp",
     "onl",
@@ -9734,5 +9736,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250307
+  "version": 20250308
 }
