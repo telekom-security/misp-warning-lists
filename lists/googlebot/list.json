@@ -80,5 +80,5 @@
   ],
   "name": "List of known Googlebot IP ranges (https://developers.google.com/search/apis/ipranges/googlebot.json)",
   "type": "cidr",
-  "version": 20250310
+  "version": 20250311
 }

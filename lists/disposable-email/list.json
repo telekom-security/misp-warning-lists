@@ -2335,6 +2335,7 @@
     "mjj.edu.ge",
     "mjukglass.nu",
     "mkpfilm.com",
+    "mkzaso.com",
     "ml8.ca",
     "mliok.com",
     "mm.my",
@@ -4063,5 +4064,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250310
+  "version": 20250311
 }

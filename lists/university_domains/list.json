@@ -7054,6 +7054,7 @@
     "stu.xhu.edu.cn",
     "stuba.sk",
     "stud.hs-hannover.de",
+    "stud.vilniustech.lt",
     "student.42.fr",
     "student.42.us.org",
     "student.aau.dk",
@@ -10465,5 +10466,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250310
+  "version": 20250311
 }
