@@ -1001,6 +1001,7 @@
     "c.cdn77.org",
     "c.se",
     "c.ts.net",
+    "c01.kr",
     "c66.me",
     "ca",
     "ca-central-1.airflow.amazonaws.com",
@@ -2159,6 +2160,7 @@
     "elblag.pl",
     "elementor.cloud",
     "elementor.cool",
+    "eliv-dns.kr",
     "elk.pl",
     "elverum.no",
     "email",
@@ -9740,5 +9742,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250314
+  "version": 20250315
 }
