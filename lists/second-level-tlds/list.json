@@ -3642,6 +3642,8 @@
     "inatsuki.fukuoka.jp",
     "inawashiro.fukushima.jp",
     "inazawa.aichi.jp",
+    "inbrowser.dev",
+    "inbrowser.link",
     "inc",
     "inc.hk",
     "incheon.kr",
@@ -9742,5 +9744,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250315
+  "version": 20250316
 }
