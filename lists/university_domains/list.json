@@ -3331,6 +3331,7 @@
     "iitm.ac.in",
     "iitp.ac.in",
     "iitr.ac.in",
+    "iitrpr.ac.in",
     "iiu.edu.my",
     "iiu.edu.pk",
     "iiuc.ac.bd",
@@ -10466,5 +10467,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250317
+  "version": 20250318
 }
