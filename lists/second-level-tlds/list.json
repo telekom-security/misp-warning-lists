@@ -1799,6 +1799,7 @@
     "developer.app",
     "development.run",
     "devices.resinstaging.io",
+    "devinapps.com",
     "df.gov.br",
     "df.leg.br",
     "dfirma.pl",
@@ -1885,6 +1886,7 @@
     "dovre.no",
     "download",
     "dp.ua",
+    "dpdns.org",
     "dr.in",
     "dr.tr",
     "drammen.no",
@@ -7881,6 +7883,7 @@
     "stackit.zone",
     "stada",
     "stage.nodeart.io",
+    "staging.devinapps.com",
     "staging.expo.app",
     "staging.replit.dev",
     "stalowa-wola.pl",
@@ -9744,5 +9747,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250318
+  "version": 20250319
 }
