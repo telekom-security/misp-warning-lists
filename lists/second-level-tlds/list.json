@@ -6944,7 +6944,6 @@
     "roros.no",
     "rost.no",
     "rotorcraft.aero",
-    "router.management",
     "routingthecloud.com",
     "routingthecloud.net",
     "routingthecloud.org",
@@ -9747,5 +9746,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250319
+  "version": 20250320
 }

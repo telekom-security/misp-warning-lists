@@ -600,7 +600,6 @@
     "byebyemail.com",
     "byespm.com",
     "byom.de",
-    "c01.kr",
     "c1ph3r.xyz",
     "c4.fr",
     "c51vsgq.com",
@@ -1712,6 +1711,7 @@
     "incq.com",
     "ind.st",
     "indieclad.com",
+    "indigobook.com",
     "indirect.ws",
     "indomaed.pw",
     "indomina.cf",
@@ -4064,5 +4064,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250319
+  "version": 20250320
 }
