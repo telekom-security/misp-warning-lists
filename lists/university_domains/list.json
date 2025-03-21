@@ -3624,6 +3624,7 @@
     "iub.edu.bd",
     "iub.edu.pk",
     "iubat.edu",
+    "iubh-fernstudium.de",
     "iubnt.yar.ru",
     "iubs.co.uk",
     "iucn.edu.my",
@@ -10467,5 +10468,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250320
+  "version": 20250321
 }
