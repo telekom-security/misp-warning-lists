@@ -38,5 +38,5 @@
   ],
   "name": "List of known Gmail sending IP ranges",
   "type": "cidr",
-  "version": 20250326
+  "version": 20250327
 }
