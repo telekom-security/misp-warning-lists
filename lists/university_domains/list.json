@@ -1147,7 +1147,6 @@
     "cecos.edu.pk",
     "cedarvalleycollege.edu",
     "cedarville.edu",
-    "cema.edu.ar",
     "centenary.edu",
     "centennialcollege.ca",
     "central.edu",
@@ -5761,7 +5760,7 @@
     "pakaims.edu",
     "pakaims.edu.pk",
     "pakistanhomoeopathy.com",
-    "palermo.edu.ar",
+    "palermo.edu",
     "palmbeachstate.edu",
     "palomar.edu",
     "paloverde.edu",
@@ -7904,6 +7903,7 @@
     "ucel.edu.ar",
     "ucem.edu.mx",
     "ucem.edu.ni",
+    "ucema.edu.ar",
     "ucentral.cl",
     "ucentral.edu.co",
     "ucentral.edu.ec",
@@ -10476,5 +10476,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250328
+  "version": 20250329
 }

@@ -3755,6 +3755,8 @@
     "ip.linodeusercontent.com",
     "ip6.arpa",
     "ipfs.nftstorage.link",
+    "ipfs.storacha.link",
+    "ipfs.w3s.link",
     "ipifony.net",
     "ipiranga",
     "iq",
@@ -9746,5 +9748,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250328
+  "version": 20250329
 }
