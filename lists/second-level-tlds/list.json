@@ -428,6 +428,8 @@
     "appspaceusercontent.com",
     "appspot.com",
     "appudo.net",
+    "appwrite.global",
+    "appwrite.run",
     "aq",
     "aq.it",
     "aquarelle",
@@ -9748,5 +9750,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250329
+  "version": 20250330
 }
