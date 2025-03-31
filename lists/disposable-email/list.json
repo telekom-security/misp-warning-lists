@@ -552,6 +552,7 @@
     "boxmail.lol",
     "boxomail.live",
     "boxtemp.com.br",
+    "boyaga.com",
     "bptfp.net",
     "brand-app.biz",
     "brandallday.net",
@@ -1595,6 +1596,7 @@
     "hidemail.us",
     "hidzz.com",
     "highbros.org",
+    "hihi.lol",
     "hiltonvr.com",
     "himail.online",
     "hmail.us",
@@ -1604,6 +1606,7 @@
     "hoanglong.tech",
     "hochsitze.com",
     "hola.org",
+    "holio.day",
     "holl.ga",
     "honeys.be",
     "honor-8.com",
@@ -1869,6 +1872,7 @@
     "kcrw.de",
     "kd2.org",
     "keepmymail.com",
+    "kein.date",
     "keinhirn.de",
     "keipino.de",
     "kekita.com",
@@ -3253,6 +3257,7 @@
     "sroff.com",
     "sry.li",
     "ssoia.com",
+    "stacys.mom",
     "stanfordujjain.com",
     "starlight-breaker.net",
     "starmail.net",
@@ -4066,5 +4071,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250330
+  "version": 20250331
 }
