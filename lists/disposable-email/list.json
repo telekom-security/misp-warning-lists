@@ -822,6 +822,7 @@
     "dealrek.com",
     "decep.com",
     "deekayen.us",
+    "deenur.com",
     "defomail.com",
     "degradedfun.net",
     "deinbox.com",
@@ -902,6 +903,7 @@
     "divermail.com",
     "divismail.ru",
     "diwaq.com",
+    "dizigg.com",
     "dldweb.info",
     "dlemail.ru",
     "dmarc.ro",
@@ -2541,6 +2543,7 @@
     "nodezine.com",
     "nogmailspam.info",
     "noicd.com",
+    "nokdot.com",
     "nokiamail.com",
     "nolemail.ga",
     "nomail.cf",
@@ -2657,6 +2660,7 @@
     "oreidresume.com",
     "orgmbx.cc",
     "oroki.de",
+    "oronny.com",
     "orsbap.com",
     "oshietechan.link",
     "osxofulk.com",
@@ -4071,5 +4075,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250331
+  "version": 20250401
 }
