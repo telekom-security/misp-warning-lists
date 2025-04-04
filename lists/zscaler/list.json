@@ -115,5 +115,5 @@
   ],
   "name": "List of known Zscaler IP address ranges",
   "type": "cidr",
-  "version": 20250403
+  "version": 20250404
 }
