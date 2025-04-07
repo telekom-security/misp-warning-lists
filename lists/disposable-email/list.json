@@ -270,7 +270,6 @@
     "ahmedkhlef.com",
     "air2token.com",
     "airmailbox.website",
-    "airsi.de",
     "aiworldx.com",
     "ajaxapp.net",
     "akapost.com",
@@ -4075,5 +4074,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250406
+  "version": 20250407
 }
