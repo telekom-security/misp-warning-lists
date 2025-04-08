@@ -1163,6 +1163,7 @@
     "evusd.com",
     "evvgo.com",
     "evyush.com",
+    "exclussi.com",
     "exdonuts.com",
     "exelica.com",
     "existiert.net",
@@ -4074,5 +4075,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250407
+  "version": 20250408
 }
