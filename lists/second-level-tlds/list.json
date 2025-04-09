@@ -9048,6 +9048,8 @@
     "win",
     "winb.gov.pl",
     "windows",
+    "windsurf.app",
+    "windsurf.build",
     "wine",
     "winners",
     "wios.gov.pl",
@@ -9750,5 +9752,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250408
+  "version": 20250409
 }
