@@ -563,6 +563,7 @@
     "austrheim.no",
     "auth-fips.us-east-1.amazoncognito.com",
     "auth-fips.us-east-2.amazoncognito.com",
+    "auth-fips.us-gov-east-1.amazoncognito.com",
     "auth-fips.us-gov-west-1.amazoncognito.com",
     "auth-fips.us-west-1.amazoncognito.com",
     "auth-fips.us-west-2.amazoncognito.com",
@@ -577,6 +578,7 @@
     "auth.ap-southeast-2.amazoncognito.com",
     "auth.ap-southeast-3.amazoncognito.com",
     "auth.ap-southeast-4.amazoncognito.com",
+    "auth.ap-southeast-5.amazoncognito.com",
     "auth.ca-central-1.amazoncognito.com",
     "auth.ca-west-1.amazoncognito.com",
     "auth.eu-central-1.amazoncognito.com",
@@ -2487,6 +2489,7 @@
     "fidelity",
     "fido",
     "fie.ee",
+    "figma.site",
     "filegear-sg.me",
     "filegear.me",
     "film",
@@ -9752,5 +9755,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250410
+  "version": 20250411
 }
