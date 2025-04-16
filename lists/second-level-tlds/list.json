@@ -3572,7 +3572,6 @@
     "idv.tw",
     "ie",
     "ie.eu.org",
-    "ie.ua",
     "ieee",
     "if.ua",
     "ifm",
@@ -9758,5 +9757,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250415
+  "version": 20250416
 }
