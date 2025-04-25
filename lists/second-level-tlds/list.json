@@ -1802,6 +1802,7 @@
     "dev-myqnapcloud.com",
     "dev.adobeaemcloud.com",
     "dev.br",
+    "dev.project-study.com",
     "developer.app",
     "development.run",
     "devices.resinstaging.io",
@@ -4770,6 +4771,7 @@
     "lovepop.jp",
     "lovesick.jp",
     "lowicz.pl",
+    "lp.dev",
     "lpages.co",
     "lpg.objectstorage.ch",
     "lpl",
@@ -5199,6 +5201,7 @@
     "mm",
     "mma",
     "mmafan.biz",
+    "mmv.kr",
     "mn",
     "mn.it",
     "mn.us",
@@ -6666,6 +6669,7 @@
     "presse.km",
     "presse.ml",
     "preview.csb.app",
+    "preview.site",
     "pri.ee",
     "prime",
     "primetel.cloud",
@@ -8860,6 +8864,7 @@
     "vivian.jp",
     "vivo",
     "vix.br",
+    "vki.kr",
     "vlaanderen",
     "vladikavkaz.ru",
     "vladikavkaz.su",
@@ -9761,5 +9766,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250424
+  "version": 20250425
 }

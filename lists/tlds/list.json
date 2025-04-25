@@ -120,7 +120,6 @@
     "BEATS",
     "BEAUTY",
     "BEER",
-    "BENTLEY",
     "BERLIN",
     "BEST",
     "BESTBUY",
@@ -1452,5 +1451,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20250424
+  "version": 20250425
 }
