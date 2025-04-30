@@ -6143,6 +6143,7 @@
     "ong",
     "ong.br",
     "onga.fukuoka.jp",
+    "onid.ca",
     "oninferno.net",
     "onion",
     "onjuku.chiba.jp",
@@ -9765,5 +9766,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250429
+  "version": 20250430
 }
