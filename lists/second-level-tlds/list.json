@@ -4545,7 +4545,6 @@
     "lamdong.vn",
     "lamer",
     "lanbib.se",
-    "lancaster",
     "land",
     "land-4-sale.us",
     "landing.myjino.ru",
@@ -9766,5 +9765,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250501
+  "version": 20250502
 }
