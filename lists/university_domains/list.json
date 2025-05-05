@@ -414,6 +414,7 @@
     "asa.edu",
     "asahi-u.ac.jp",
     "asahikawa-med.ac.jp",
+    "asahikawa-nct.ac.jp",
     "asahikawa-u.ac.jp",
     "asau.am",
     "asaub.edu.bd",
@@ -1930,6 +1931,7 @@
     "edinboro.edu",
     "edisonohio.edu",
     "edogawa-u.ac.jp",
+    "edu.asahikawa-nct.ac.jp",
     "edu.edhec.com",
     "edu.escp.eu",
     "edu.htl-villach.at",
@@ -10476,5 +10478,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250504
+  "version": 20250505
 }
