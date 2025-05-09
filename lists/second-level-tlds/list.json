@@ -4720,7 +4720,6 @@
     "loan",
     "loans",
     "localcert.net",
-    "localhostcert.net",
     "localplayer.dev",
     "localto.net",
     "localtonet.com",
@@ -7998,8 +7997,6 @@
     "style",
     "su",
     "sub.jp",
-    "sub.psl.hrsn.dev",
-    "sub.wc.psl.hrsn.dev",
     "subsc-pay.com",
     "subsc-pay.net",
     "sucks",
@@ -8945,7 +8942,6 @@
     "wazuka.kyoto.jp",
     "wb.crm.dev",
     "wc.crm.dev",
-    "wc.psl.hrsn.dev",
     "wd.crm.dev",
     "wdh.app",
     "we.bs",
@@ -9765,5 +9761,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250508
+  "version": 20250509
 }
