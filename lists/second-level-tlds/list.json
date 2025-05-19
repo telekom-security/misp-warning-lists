@@ -6651,7 +6651,6 @@
     "pr.leg.br",
     "pr.ml",
     "pr.us",
-    "pramerica",
     "prato.it",
     "praxi",
     "prd.fr",
@@ -9763,5 +9762,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250518
+  "version": 20250519
 }
