@@ -4421,6 +4421,7 @@
     "konyvelo.hu",
     "koobin.events",
     "koori.fukushima.jp",
+    "kop.id",
     "kopervik.no",
     "koriyama.fukushima.jp",
     "koryo.nara.jp",
@@ -7528,6 +7529,7 @@
     "school.za",
     "schoolbus.jp",
     "schools.nsw.edu.au",
+    "schuldock.de",
     "schule",
     "schulplattform.de",
     "schulserver.de",
@@ -9816,5 +9818,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250527
+  "version": 20250528
 }
