@@ -3689,7 +3689,6 @@
     "ind.gt",
     "ind.in",
     "ind.kw",
-    "ind.mom",
     "ind.tn",
     "independent-commission.uk",
     "independent-inquest.uk",
@@ -9818,5 +9817,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250528
+  "version": 20250529
 }
