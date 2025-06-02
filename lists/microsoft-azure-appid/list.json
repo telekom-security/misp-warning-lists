@@ -132,5 +132,5 @@
   ],
   "name": "List of Azure Applicaiton IDs",
   "type": "string",
-  "version": 20250601
+  "version": 20250602
 }

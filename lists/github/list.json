@@ -3698,5 +3698,5 @@
   ],
   "name": "List of known GitHub IP ranges (https://api.github.com/meta)",
   "type": "cidr",
-  "version": 20250601
+  "version": 20250602
 }
