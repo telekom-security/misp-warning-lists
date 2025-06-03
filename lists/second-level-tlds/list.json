@@ -8239,6 +8239,7 @@
     "tayninh.vn",
     "tc",
     "tc.br",
+    "tche.br",
     "tci",
     "tcp4.me",
     "td",
@@ -9817,5 +9818,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250602
+  "version": 20250603
 }
