@@ -732,6 +732,7 @@
     "cmail.com",
     "cmail.net",
     "cmail.org",
+    "cmdkl.com",
     "cmhvzylmfc.com",
     "cnamed.com",
     "cndps.com",
@@ -754,6 +755,7 @@
     "compareshippingrates.org",
     "completegolfswing.com",
     "comwest.de",
+    "comyze.org",
     "conf.work",
     "confmin.com",
     "consumerriot.com",
@@ -2892,6 +2894,7 @@
     "ploki.fr",
     "ploncy.com",
     "plw.me",
+    "pngrise.com",
     "poehali-otdihat.ru",
     "pofmagic.com",
     "pojok.ml",
@@ -3718,6 +3721,7 @@
     "trackden.com",
     "tradermail.info",
     "tranceversal.com",
+    "translateid.com",
     "trap-mail.de",
     "trash-amil.com",
     "trash-mail.at",
@@ -4272,5 +4276,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250603
+  "version": 20250604
 }

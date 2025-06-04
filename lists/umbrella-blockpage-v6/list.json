@@ -15,5 +15,5 @@
   ],
   "name": "cisco-umbrella-blockpage-ipv6",
   "type": "cidr",
-  "version": 20250603
+  "version": 20250604
 }
