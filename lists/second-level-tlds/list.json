@@ -4841,6 +4841,7 @@
     "lunner.no",
     "luroy.no",
     "luster.no",
+    "lutrausercontent.com",
     "lutsk.ua",
     "luxe",
     "luxury",
@@ -8834,6 +8835,7 @@
     "verbania.it",
     "vercel.app",
     "vercel.dev",
+    "vercel.run",
     "vercelli.it",
     "verdal.no",
     "verisign",
@@ -9818,5 +9820,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250604
+  "version": 20250605
 }
