@@ -5337,6 +5337,7 @@
     "mt.it",
     "mt.leg.br",
     "mt.us",
+    "mtls.run.app",
     "mtn",
     "mtr",
     "mu",
@@ -9820,5 +9821,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250605
+  "version": 20250606
 }
