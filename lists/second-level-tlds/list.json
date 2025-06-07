@@ -9040,6 +9040,7 @@
     "website.yandexcloud.net",
     "websitebuilder.online",
     "websozai.jp",
+    "webspace-host.com",
     "webspace.rocks",
     "webspaceconfig.de",
     "webthings.io",
@@ -9821,5 +9822,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250606
+  "version": 20250607
 }
