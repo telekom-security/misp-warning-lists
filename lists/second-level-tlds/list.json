@@ -3510,6 +3510,7 @@
     "hosting.ovh.net",
     "hostyhosting.io",
     "hot",
+    "hotel",
     "hotel.hu",
     "hotel.lk",
     "hotel.tz",
@@ -9822,5 +9823,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250607
+  "version": 20250608
 }
