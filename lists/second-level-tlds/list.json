@@ -8920,6 +8920,7 @@
     "virtualuser.de",
     "visa",
     "vision",
+    "vistablog.ir",
     "viterbo.it",
     "viva",
     "vivian.jp",
@@ -9829,5 +9830,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250616
+  "version": 20250617
 }
