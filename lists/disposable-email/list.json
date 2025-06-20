@@ -1047,6 +1047,7 @@
     "dudmail.com",
     "duk33.com",
     "dukedish.com",
+    "dumalu.com",
     "dump-email.info",
     "dumpandjunk.com",
     "dumpmail.de",
@@ -1578,6 +1579,9 @@
     "goemailgo.com",
     "golemico.com",
     "gomail.in",
+    "gonida.co.uk",
+    "gonida.com",
+    "gonida.uk",
     "goonby.com",
     "goplaygame.ru",
     "gorillaswithdirtyarmpits.com",
@@ -2251,6 +2255,7 @@
     "mail.wtf",
     "mail0.ga",
     "mail1.top",
+    "mail10m.com",
     "mail114.net",
     "mail1a.de",
     "mail1web.org",
@@ -3178,6 +3183,8 @@
     "rootfest.net",
     "rosebearmylove.ru",
     "rotaniliam.com",
+    "rotomails.co.uk",
+    "rotomails.com",
     "rover.info",
     "rowe-solutions.com",
     "roweryo.com",
@@ -4370,5 +4377,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250619
+  "version": 20250620
 }
