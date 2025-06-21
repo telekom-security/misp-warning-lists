@@ -569,6 +569,7 @@
     "bookthemmore.com",
     "bootssl.com",
     "bootybay.de",
+    "bored.lol",
     "borged.com",
     "borged.net",
     "borged.org",
@@ -1380,6 +1381,7 @@
     "flyzy.net",
     "fncp.ru",
     "fncp.store",
+    "fog.one",
     "foobarbot.net",
     "footard.com",
     "foreastate.com",
@@ -1572,6 +1574,7 @@
     "gmxmail.top",
     "gmxmail.win",
     "gnctr-calgary.com",
+    "gni8.com",
     "go2usa.info",
     "go2vpn.net",
     "goatmail.uk",
@@ -2036,6 +2039,7 @@
     "kidaroa.com",
     "killmail.com",
     "killmail.net",
+    "killyourtime.com",
     "kimsdisk.com",
     "kinda.email",
     "kindamail.com",
@@ -3896,6 +3900,7 @@
     "ucupdong.ml",
     "uemail99.com",
     "ufacturing.com",
+    "ug.wtf",
     "uggsrock.com",
     "uguuchantele.com",
     "uhe2.com",
@@ -4377,5 +4382,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250620
+  "version": 20250621
 }
