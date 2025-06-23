@@ -1695,6 +1695,7 @@
     "hccmail.win",
     "headstrong.de",
     "healthforwomen.info",
+    "healxo.org",
     "heathenhammer.com",
     "heathenhero.com",
     "hecat.es",
@@ -4181,6 +4182,7 @@
     "wolfsmail.tk",
     "wollan.info",
     "womp-wo.mp",
+    "worldlylife.store",
     "worldspace.link",
     "wpdork.com",
     "wpg.im",
@@ -4382,5 +4384,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250622
+  "version": 20250623
 }
