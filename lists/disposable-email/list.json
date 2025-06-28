@@ -2450,6 +2450,7 @@
     "mailzi.ru",
     "mailzilla.com",
     "mailzilla.org",
+    "mailzy.org",
     "mainerfolg.info",
     "mainkask.site",
     "makemenaughty.club",
@@ -4387,6 +4388,7 @@
     "ziragold.com",
     "zivox.sbs",
     "zizo7.com",
+    "zmail.cam",
     "zoaxe.com",
     "zoemail.com",
     "zoemail.net",
@@ -4417,5 +4419,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250627
+  "version": 20250628
 }
