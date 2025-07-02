@@ -607,6 +607,7 @@
     "bptfp.net",
     "brand-app.biz",
     "brandallday.net",
+    "brashbeat.online",
     "brasx.org",
     "breakthru.com",
     "brefmail.com",
@@ -2085,6 +2086,7 @@
     "killmail.com",
     "killmail.net",
     "killyourtime.com",
+    "kimdyn.com",
     "kimsdisk.com",
     "kinda.email",
     "kindamail.com",
@@ -4151,6 +4153,7 @@
     "vremonte24-store.ru",
     "vrmtr.com",
     "vsimcard.com",
+    "vsmailpro.com",
     "vssms.com",
     "vtxmail.us",
     "vubby.com",
@@ -4321,6 +4324,7 @@
     "xmaily.com",
     "xn--9kq967o.com",
     "xn--d-bga.net",
+    "xn--yaho-sqa.com",
     "xojxe.com",
     "xost.us",
     "xoxox.cc",
@@ -4477,5 +4481,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250701
+  "version": 20250702
 }
