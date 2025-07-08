@@ -2638,6 +2638,7 @@
     "mp-j.ga",
     "mp3oxi.com",
     "mr24.co",
+    "mrotzis.com",
     "mrvpm.net",
     "mrvpt.com",
     "msarra.com",
@@ -4283,6 +4284,7 @@
     "wlsom.com",
     "wmail.cf",
     "wmail.club",
+    "wnbaldwy.com",
     "wokcy.com",
     "wolfmail.ml",
     "wolfsmail.tk",
@@ -4331,6 +4333,7 @@
     "xidealx.com",
     "xjoi.com",
     "xkx.me",
+    "xkxkud.com",
     "xl.cx",
     "xmail.com",
     "xmailer.be",
@@ -4495,5 +4498,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250707
+  "version": 20250708
 }
