@@ -2543,6 +2543,7 @@
     "meantinc.com",
     "mebelnu.info",
     "mechanicalresumes.com",
+    "mechanicspedia.com",
     "medkabinet-uzi.ru",
     "meepsheep.eu",
     "megasend.org",
@@ -4509,5 +4510,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250710
+  "version": 20250711
 }
