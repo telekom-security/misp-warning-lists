@@ -367,6 +367,7 @@
     "amex409.monster",
     "amicuswe.us",
     "amilegit.com",
+    "aminating.com",
     "amiri.net",
     "amiriindustries.com",
     "amplewe.us",
@@ -4510,5 +4511,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250711
+  "version": 20250712
 }
