@@ -1631,6 +1631,7 @@
     "dakotacollege.edu",
     "dal.ca",
     "dalanjuniversity.edu.sd",
+    "dallascollege.edu",
     "daltonstate.edu",
     "damanhour.edu.eg",
     "damascusuniversity.edu.sy",
@@ -9302,6 +9303,7 @@
     "untagsmg.ac.id",
     "untan.ac.id",
     "untar.ac.id",
+    "untdallas.edu",
     "unthsc.edu",
     "untidar.ac.id",
     "untirta.ac.id",
@@ -10487,5 +10489,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250716
+  "version": 20250717
 }
