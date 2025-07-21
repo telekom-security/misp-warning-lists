@@ -4385,7 +4385,6 @@
     "xoxox.cc",
     "xperiae5.com",
     "xrap.de",
-    "xrho.com",
     "xstyled.net",
     "xvx.us",
     "xww.ro",
@@ -4537,5 +4536,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250720
+  "version": 20250721
 }
