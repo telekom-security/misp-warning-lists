@@ -4847,6 +4847,8 @@
     "lotte",
     "lotto",
     "lovable.app",
+    "lovable.run",
+    "lovable.sh",
     "lovableproject.com",
     "love",
     "lovepop.jp",
@@ -9914,5 +9916,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250722
+  "version": 20250723
 }
