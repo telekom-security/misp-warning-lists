@@ -1447,6 +1447,7 @@
     "foreskin.gq",
     "foreskin.ml",
     "foreskin.tk",
+    "forexru.com",
     "forexzig.com",
     "forgetmail.com",
     "formodapk.com",
@@ -2630,6 +2631,7 @@
     "mobilevpn.top",
     "moburl.com",
     "mockmyid.com",
+    "modirosa.com",
     "moeri.org",
     "mofu.be",
     "mohmal.com",
@@ -4536,5 +4538,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250723
+  "version": 20250724
 }
