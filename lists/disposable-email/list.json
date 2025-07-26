@@ -1125,6 +1125,7 @@
     "ecstor.com",
     "edgex.ru",
     "edinburgh-airporthotels.com",
+    "edny.net",
     "edumail.edu.pl",
     "edumail.edu.rs",
     "edupolska.edu.pl",
@@ -1496,6 +1497,7 @@
     "friendlymail.co.uk",
     "front14.org",
     "frwdmail.com",
+    "fsitip.com",
     "ftp.sh",
     "ftpinc.ca",
     "fuckedupload.com",
@@ -2695,6 +2697,7 @@
     "munoubengoshi.gq",
     "musiccode.me",
     "mutant.me",
+    "mvpmedix.com",
     "mvrht.com",
     "mvrht.net",
     "mwarner.org",
@@ -4370,6 +4373,7 @@
     "xenta.cfd",
     "xents.com",
     "xepa.ru",
+    "xfavaj.com",
     "xidealx.com",
     "ximenor.site",
     "xjoi.com",
@@ -4538,5 +4542,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250725
+  "version": 20250726
 }
