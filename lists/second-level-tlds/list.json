@@ -1407,6 +1407,7 @@
     "co.com",
     "co.cr",
     "co.cz",
+    "co.de",
     "co.dk",
     "co.dm",
     "co.education",
@@ -9916,5 +9917,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250801
+  "version": 20250802
 }
