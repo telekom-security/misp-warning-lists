@@ -10042,6 +10042,7 @@
     "vvu.edu.gh",
     "vwc.edu",
     "vxu.se",
+    "w-hs.de",
     "wab.edu.pl",
     "wabash.edu",
     "waco.tstc.edu",
@@ -10492,5 +10493,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250805
+  "version": 20250806
 }
