@@ -2383,6 +2383,7 @@
     "erni",
     "erotica.hu",
     "erotika.hu",
+    "erp.dev",
     "es",
     "es-1.axarnet.cloud",
     "es.eu.org",
@@ -6871,6 +6872,8 @@
     "qpon",
     "qsl.br",
     "qualifioapp.com",
+    "qualyhqpartner.com",
+    "qualyhqportal.com",
     "quangbinh.vn",
     "quangnam.vn",
     "quangngai.vn",
@@ -9105,6 +9108,7 @@
     "web.app",
     "web.bo",
     "web.do",
+    "web.erp.dev",
     "web.gu",
     "web.id",
     "web.in",
@@ -9918,5 +9922,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250812
+  "version": 20250813
 }

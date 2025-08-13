@@ -288,6 +288,7 @@
     "ahem.email",
     "ahk.jp",
     "ahmedkhlef.com",
+    "ahvin.com",
     "ailicke.com",
     "air2token.com",
     "airmailbox.website",
@@ -821,6 +822,7 @@
     "coreclip.com",
     "corhash.net",
     "cosmorph.com",
+    "cotasen.com",
     "cotigz.com",
     "courrieltemporaire.com",
     "coza.ro",
@@ -1154,6 +1156,7 @@
     "eligou.store",
     "elitevipatlantamodels.com",
     "elki-mkzn.ru",
+    "elobits.com",
     "email-fake.cf",
     "email-fake.com",
     "email-fake.ga",
@@ -4567,5 +4570,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250812
+  "version": 20250813
 }
