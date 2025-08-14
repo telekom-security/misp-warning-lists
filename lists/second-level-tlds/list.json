@@ -3621,6 +3621,7 @@
     "ichinomiya.aichi.jp",
     "ichinomiya.chiba.jp",
     "ichinoseki.iwate.jp",
+    "icp.net",
     "icp0.io",
     "icp1.io",
     "icu",
@@ -9877,6 +9878,7 @@
     "za.com",
     "za.net",
     "za.org",
+    "zabc.net",
     "zachpomor.pl",
     "zagan.pl",
     "zakarpattia.ua",
@@ -9922,5 +9924,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250813
+  "version": 20250814
 }
