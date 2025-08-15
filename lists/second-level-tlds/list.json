@@ -3069,6 +3069,7 @@
     "gov.co",
     "gov.cx",
     "gov.cy",
+    "gov.cz",
     "gov.dm",
     "gov.do",
     "gov.dz",
@@ -9924,5 +9925,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250814
+  "version": 20250815
 }
