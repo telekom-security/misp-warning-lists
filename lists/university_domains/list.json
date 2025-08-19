@@ -7068,6 +7068,7 @@
     "stuba.sk",
     "stud.hs-hannover.de",
     "stud.vilniustech.lt",
+    "studbocconi.it",
     "student.42.fr",
     "student.42.us.org",
     "student.aau.dk",
@@ -10493,5 +10494,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250818
+  "version": 20250819
 }

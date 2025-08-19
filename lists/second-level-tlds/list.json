@@ -2945,7 +2945,6 @@
     "gle",
     "gleeze.com",
     "gliding.aero",
-    "glitch.me",
     "gliwice.pl",
     "global",
     "global.prod.fastly.net",
@@ -7502,6 +7501,8 @@
     "saltdal.no",
     "salud.bo",
     "salvador.br",
+    "same-app.com",
+    "same-preview.com",
     "samegawa.fukushima.jp",
     "samnanger.no",
     "sampa.br",
@@ -9925,5 +9926,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250818
+  "version": 20250819
 }

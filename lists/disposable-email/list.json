@@ -2660,6 +2660,8 @@
     "moimoi.re",
     "molms.com",
     "momentics.ru",
+    "mona.edu.kg",
+    "mona.edu.pl",
     "monachat.tk",
     "monadi.ml",
     "monchu.fr",
@@ -3821,6 +3823,7 @@
     "tempomail.fr",
     "tempomail.org",
     "tempomailo.site",
+    "temporam.com",
     "temporarily.de",
     "temporarioemail.com.br",
     "temporary-mail.net",
@@ -4571,5 +4574,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250818
+  "version": 20250819
 }
