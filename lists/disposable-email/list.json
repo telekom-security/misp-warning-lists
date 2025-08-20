@@ -2067,6 +2067,7 @@
     "jobbrett.com",
     "jobposts.net",
     "jobs-to-be-done.net",
+    "jobzyy.com",
     "joelpet.com",
     "joetestalot.com",
     "jofuso.com",
@@ -4574,5 +4575,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250819
+  "version": 20250820
 }

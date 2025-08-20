@@ -3570,6 +3570,7 @@
     "hr",
     "hr.eu.org",
     "hra.health",
+    "hrsn.au",
     "hrsn.dev",
     "hs.kr",
     "hsbc",
@@ -7975,6 +7976,7 @@
     "sosa.chiba.jp",
     "sosnowiec.pl",
     "soundcast.me",
+    "sourcecraft.site",
     "sowa.ibaraki.jp",
     "soy",
     "sp.gov.br",
@@ -9047,6 +9049,7 @@
     "vpndns.net",
     "vpnplus.to",
     "vps-host.net",
+    "vps.hrsn.au",
     "vps.mcdir.ru",
     "vps.myjino.ru",
     "vr.it",
@@ -9926,5 +9929,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250819
+  "version": 20250820
 }
