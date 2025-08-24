@@ -7604,7 +7604,6 @@
     "school.nz",
     "school.za",
     "schoolbus.jp",
-    "schools.nsw.edu.au",
     "schuldock.de",
     "schule",
     "schulplattform.de",
@@ -9929,5 +9928,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250823
+  "version": 20250824
 }
