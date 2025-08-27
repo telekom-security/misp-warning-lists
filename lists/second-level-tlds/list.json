@@ -446,6 +446,7 @@
     "ap.ngrok.io",
     "aparecida.br",
     "apartments",
+    "api.br",
     "api.gov.uk",
     "api.lp.dev",
     "api.stdlib.com",
@@ -3598,6 +3599,7 @@
     "i.ph",
     "i.se",
     "i234.me",
+    "ia.br",
     "ia.us",
     "iamallama.com",
     "ibara.okayama.jp",
@@ -4712,7 +4714,6 @@
     "lib.co.us",
     "lib.ct.us",
     "lib.dc.us",
-    "lib.de.us",
     "lib.ee",
     "lib.fl.us",
     "lib.ga.us",
@@ -7935,6 +7936,7 @@
     "soccer",
     "sochi.su",
     "social",
+    "social.br",
     "soctrang.vn",
     "sodegaura.chiba.jp",
     "soeda.fukuoka.jp",
@@ -9755,6 +9757,7 @@
     "xxx",
     "xxx.ec",
     "xyz",
+    "xyz.br",
     "xz.cn",
     "y.bg",
     "y.se",
@@ -9928,5 +9931,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250826
+  "version": 20250827
 }
