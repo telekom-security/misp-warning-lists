@@ -1232,6 +1232,7 @@
     "emailure.net",
     "emailvb.pro",
     "emailwarden.com",
+    "emailwww.pro",
     "emailxfer.com",
     "emaily.pro",
     "emailz.cf",
@@ -4575,5 +4576,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250827
+  "version": 20250828
 }
