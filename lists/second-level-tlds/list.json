@@ -4086,6 +4086,7 @@
     "jorpeland.no",
     "joso.ibaraki.jp",
     "jot",
+    "jote.cloud",
     "jotelulu.cloud",
     "journal.aero",
     "journalist.aero",
@@ -9933,5 +9934,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250828
+  "version": 20250829
 }
