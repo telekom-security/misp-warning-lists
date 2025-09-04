@@ -570,6 +570,7 @@
     "blackgoldagency.ru",
     "blackmarket.to",
     "bladesmail.net",
+    "blenro.com",
     "blip.ch",
     "blip.ovh",
     "blnkt.net",
@@ -4576,5 +4577,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250903
+  "version": 20250904
 }
