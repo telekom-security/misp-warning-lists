@@ -2,7 +2,6 @@
   "description": "List of known Gmail sending IP ranges (https://support.google.com/a/answer/27642?hl=en)",
   "list": [
     "108.177.96.0/20",
-    "172.217.0.0/20",
     "172.217.128.0/19",
     "172.217.160.0/20",
     "172.217.192.0/19",
@@ -30,5 +29,5 @@
   ],
   "name": "List of known Gmail sending IP ranges",
   "type": "cidr",
-  "version": 20250904
+  "version": 20250905
 }

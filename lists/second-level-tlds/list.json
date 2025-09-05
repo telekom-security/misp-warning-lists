@@ -3281,6 +3281,7 @@
     "hachinohe.aomori.jp",
     "hachioji.tokyo.jp",
     "hachirogata.akita.jp",
+    "hackclub.app",
     "hacker.replit.dev",
     "hadano.kanagawa.jp",
     "hadsel.no",
@@ -4733,7 +4734,6 @@
     "lib.mi.us",
     "lib.mn.us",
     "lib.mo.us",
-    "lib.ms.us",
     "lib.mt.us",
     "lib.nc.us",
     "lib.nd.us",
@@ -7823,6 +7823,7 @@
     "shonai.yamagata.jp",
     "shoo.okayama.jp",
     "shop",
+    "shop.brendly.ba",
     "shop.brendly.hr",
     "shop.brendly.rs",
     "shop.ht",
@@ -9934,5 +9935,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250904
+  "version": 20250905
 }

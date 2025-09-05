@@ -1140,6 +1140,7 @@
     "cdu.ac.kr",
     "cdu.edu.au",
     "cdu.edu.cn",
+    "cduestc.cn",
     "cdut.edu.cn",
     "cdutcm.edu.cn",
     "ceaprc.org",
@@ -1360,6 +1361,8 @@
     "coeikere.edu.ng",
     "coeoju.com",
     "coeptech.ac.in",
+    "coer.ac.in",
+    "coeruniversity.ac.in",
     "cofc.edu",
     "coffeyville.edu",
     "coker.edu",
@@ -2148,6 +2151,7 @@
     "esmad.ipp.pt",
     "esme.fr",
     "esn.ac.lk",
+    "esoft.academy",
     "espam-formationuc.org",
     "espci.fr",
     "espe.edu.ec",
@@ -3586,7 +3590,6 @@
     "itdurango.edu.mx",
     "ite.edu.sg",
     "itech.fr",
-    "itesm.mx",
     "iteso.mx",
     "ithaca.edu",
     "iti.is",
@@ -7337,6 +7340,7 @@
     "tdiu.uz",
     "tdtu.uz",
     "teak.fi",
+    "tec.mx",
     "tecbc.mx",
     "technet.com.br",
     "technikum-wien.at",
@@ -10494,5 +10498,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250904
+  "version": 20250905
 }
