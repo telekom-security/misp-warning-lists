@@ -5818,6 +5818,7 @@
     "pcu.edu.ph",
     "pcz.czest.pl",
     "pdc.edu",
+    "pdeu.ac.in",
     "pdkv.ac.in",
     "pdn.ac.lk",
     "pdpu.ac.in",
@@ -10498,5 +10499,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250906
+  "version": 20250907
 }
