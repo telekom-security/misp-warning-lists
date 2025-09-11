@@ -4822,6 +4822,7 @@
     "millsaps.edu",
     "mimasaka.ac.jp",
     "mineralarea.edu",
+    "minerva.edu",
     "mines-ales.fr",
     "mines-ales.org",
     "mines.edu",
@@ -7637,6 +7638,7 @@
     "turathun.com",
     "turiba.lv",
     "turkistan.kz",
+    "tus.ie",
     "tusculum.edu",
     "tuskegee.edu",
     "tusol.org",
@@ -10499,5 +10501,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250910
+  "version": 20250911
 }

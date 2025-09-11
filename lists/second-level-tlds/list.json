@@ -5464,7 +5464,6 @@
     "mydns.tw",
     "mydns.vc",
     "mydobiss.com",
-    "mydrobo.com",
     "myds.me",
     "myeffect.net",
     "myfast.host",
@@ -7699,7 +7698,6 @@
     "servequake.com",
     "server-on.net",
     "servername.us",
-    "servers.run",
     "servesarcasm.com",
     "service.gov.scot",
     "service.gov.uk",
@@ -9935,5 +9933,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250910
+  "version": 20250911
 }
