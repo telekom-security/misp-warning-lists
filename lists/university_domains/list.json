@@ -6830,6 +6830,7 @@
     "smmu.edu.cn",
     "smolny-un.spb.ru",
     "smsu.edu",
+    "smtafe.wa.edu.au",
     "smtu.ru",
     "smu.ac.kr",
     "smu.ac.uk",
@@ -6900,6 +6901,7 @@
     "southernwv.edu",
     "southflorida.edu",
     "southgatech.edu",
+    "southmetrotafe.wa.edu.au",
     "southmountaincc.edu",
     "southplainscollege.edu",
     "southside.edu",
@@ -10501,5 +10503,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20250911
+  "version": 20250912
 }
