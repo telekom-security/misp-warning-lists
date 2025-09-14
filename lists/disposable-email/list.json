@@ -2282,6 +2282,7 @@
     "kvhrr.com",
     "kvhrs.com",
     "kvhrw.com",
+    "kwifa.com",
     "kwift.net",
     "kwilco.net",
     "kwtest.io",
@@ -4736,5 +4737,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250913
+  "version": 20250914
 }
