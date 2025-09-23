@@ -275,9 +275,6 @@
     "airflow.us-west-1.on.aws",
     "airflow.us-west-2.on.aws",
     "airforce",
-    "airkitapps-au.com",
-    "airkitapps.com",
-    "airkitapps.eu",
     "airline.aero",
     "airport.aero",
     "airtel",
@@ -2030,6 +2027,7 @@
     "dyroy.no",
     "dz",
     "e.bg",
+    "e.id",
     "e.se",
     "e12.ve",
     "e164.arpa",
@@ -9936,5 +9934,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250922
+  "version": 20250923
 }
