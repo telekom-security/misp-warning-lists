@@ -8343,6 +8343,7 @@
     "telebit.app",
     "telebit.io",
     "telebit.xyz",
+    "teleport.sh",
     "temasek",
     "temp-dns.com",
     "tempio-olbia.it",
@@ -9934,5 +9935,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250923
+  "version": 20250924
 }
