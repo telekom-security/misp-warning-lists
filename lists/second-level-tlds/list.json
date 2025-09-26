@@ -9292,6 +9292,7 @@
     "x443.pw",
     "xbox",
     "xen.prgmr.com",
+    "xenonconnect.de",
     "xerox",
     "xihuan",
     "xii.jp",
@@ -9935,5 +9936,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250925
+  "version": 20250926
 }
