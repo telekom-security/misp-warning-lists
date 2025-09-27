@@ -1094,6 +1094,7 @@
     "cantho.vn",
     "canva-apps.cn",
     "canva-apps.com",
+    "canva.run",
     "caobang.vn",
     "capetown",
     "capital",
@@ -7021,6 +7022,7 @@
     "ri.us",
     "ribeirao.br",
     "ric.jelastic.vps-host.net",
+    "rice-labs.com",
     "rich",
     "richardli",
     "ricoh",
@@ -9936,5 +9938,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250926
+  "version": 20250927
 }
