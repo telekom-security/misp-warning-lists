@@ -575,6 +575,7 @@
     "bio-muesli.net",
     "biojuris.com",
     "bione.co",
+    "bitmens.com",
     "bitwhites.top",
     "bitymails.us",
     "biz.st",
@@ -2614,6 +2615,7 @@
     "mailsiphon.com",
     "mailslapping.com",
     "mailslite.com",
+    "mailslurp.com",
     "mailsucker.net",
     "mailt.net",
     "mailt.top",
@@ -4736,5 +4738,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20250929
+  "version": 20250930
 }

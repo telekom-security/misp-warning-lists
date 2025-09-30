@@ -93,6 +93,7 @@
     "abo.pa",
     "abogado",
     "abr.it",
+    "abrdns.com",
     "abruzzo.it",
     "abu.yamaguchi.jp",
     "abudhabi",
@@ -941,6 +942,7 @@
     "boleslawiec.pl",
     "bolivia.bo",
     "bologna.it",
+    "bolt.host",
     "bolt.hu",
     "bolzano-altoadige.it",
     "bolzano.it",
@@ -1327,6 +1329,7 @@
     "clothing",
     "cloud",
     "cloud-ip.biz",
+    "cloud-ip.cc",
     "cloud.fedoraproject.org",
     "cloud.goog",
     "cloud.interhostsolutions.be",
@@ -4672,6 +4675,9 @@
     "le.it",
     "leadpages.co",
     "leangaviika.no",
+    "leapcell.app",
+    "leapcell.dev",
+    "leapcell.online",
     "lease",
     "leasing.aero",
     "lebesby.no",
@@ -9938,5 +9944,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20250929
+  "version": 20250930
 }
