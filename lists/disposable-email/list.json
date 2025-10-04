@@ -1510,6 +1510,7 @@
     "foreskin.gq",
     "foreskin.ml",
     "foreskin.tk",
+    "forexnews.bg",
     "forexru.com",
     "forexzig.com",
     "forgetmail.com",
@@ -2917,6 +2918,7 @@
     "netviewer-france.com",
     "netzidiot.de",
     "nevermail.de",
+    "newaddr.com",
     "newbpotato.tk",
     "newfilm24.ru",
     "newideasfornewpeople.info",
@@ -3302,6 +3304,7 @@
     "proprietativalcea.ro",
     "propscore.com",
     "protempmail.com",
+    "protonza.com",
     "prout.be",
     "proxy-gateway.net",
     "proxymail.eu",
@@ -3664,6 +3667,7 @@
     "smykwb.com",
     "snakebutt.com",
     "snakemail.com",
+    "snapbx.com",
     "snapmail.cc",
     "snapmail.site",
     "snapwet.com",
@@ -3920,6 +3924,7 @@
     "telimail.online",
     "tellos.xyz",
     "telvetto.com",
+    "temailz.com",
     "teml.net",
     "temp-link.net",
     "temp-mail.best",
@@ -4738,5 +4743,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20251003
+  "version": 20251004
 }
