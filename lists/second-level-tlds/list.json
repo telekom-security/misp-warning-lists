@@ -9160,6 +9160,7 @@
     "webpaas.ovh.net",
     "webredirect.org",
     "website",
+    "website.one",
     "website.yandexcloud.net",
     "websitebuilder.online",
     "websozai.jp",
@@ -9948,5 +9949,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251016
+  "version": 20251017
 }
