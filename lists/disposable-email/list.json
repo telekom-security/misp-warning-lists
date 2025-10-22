@@ -1810,16 +1810,6 @@
     "gxemail.men",
     "gynzi.co.uk",
     "gynzi.es",
-    "gynzy.at",
-    "gynzy.es",
-    "gynzy.eu",
-    "gynzy.gr",
-    "gynzy.info",
-    "gynzy.lt",
-    "gynzy.mobi",
-    "gynzy.pl",
-    "gynzy.ro",
-    "gynzy.sk",
     "gzb.ro",
     "h0tmaii.com",
     "h2beta.com",
@@ -4773,5 +4763,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20251021
+  "version": 20251022
 }
