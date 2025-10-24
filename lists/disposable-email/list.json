@@ -1207,6 +1207,7 @@
     "elitevipatlantamodels.com",
     "elki-mkzn.ru",
     "elobits.com",
+    "elygifts.com",
     "email-fake.cf",
     "email-fake.com",
     "email-fake.ga",
@@ -2693,6 +2694,7 @@
     "meltedbrownies.com",
     "meltmail.com",
     "meltp.com",
+    "memeazon.com",
     "memsg.site",
     "mentonit.net",
     "mepost.pw",
@@ -3015,6 +3017,7 @@
     "nproxi.com",
     "nqmo.com",
     "nrehi.com",
+    "nrlord.com",
     "ns01.biz",
     "nsvpn.com",
     "nthrl.com",
@@ -4763,5 +4766,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20251023
+  "version": 20251024
 }
