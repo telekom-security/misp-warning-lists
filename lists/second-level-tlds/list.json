@@ -1981,7 +1981,6 @@
     "dtwh.pl-waw.scw.cloud",
     "dubai",
     "duckdns.org",
-    "dunlop",
     "dupont",
     "durban",
     "durumis.com",
@@ -9951,5 +9950,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251025
+  "version": 20251026
 }
