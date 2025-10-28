@@ -1890,6 +1890,7 @@
     "direct.quickconnect.cn",
     "direct.quickconnect.to",
     "directory",
+    "directwp.eu",
     "disco.ec",
     "discordsays.com",
     "discordsez.com",
@@ -2937,6 +2938,7 @@
     "git-pages.rit.edu",
     "git-repos.de",
     "gitapp.si",
+    "gitbook.io",
     "github.app",
     "github.io",
     "githubpreview.dev",
@@ -3614,6 +3616,7 @@
     "i234.me",
     "ia.br",
     "ia.us",
+    "ia.ve",
     "iamallama.com",
     "ibara.okayama.jp",
     "ibaraki.ibaraki.jp",
@@ -8066,6 +8069,7 @@
     "static-access.net",
     "static.hf.space",
     "static.observableusercontent.com",
+    "statichost.page",
     "statics.cloud",
     "stavanger.no",
     "stavern.no",
@@ -9964,5 +9968,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251027
+  "version": 20251028
 }
