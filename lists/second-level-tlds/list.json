@@ -1349,6 +1349,7 @@
     "cloudbeesusercontent.io",
     "cloudera.site",
     "cloudflare-ipfs.com",
+    "cloudflare.app",
     "cloudflare.net",
     "cloudfront.net",
     "cloudfunctions.net",
@@ -9968,5 +9969,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251028
+  "version": 20251029
 }
