@@ -9132,6 +9132,7 @@
     "warmia.pl",
     "warszawa.pl",
     "washtenaw.mi.us",
+    "wasmer.app",
     "wassamu.hokkaido.jp",
     "watarai.mie.jp",
     "watari.miyagi.jp",
@@ -9969,5 +9970,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251029
+  "version": 20251030
 }
