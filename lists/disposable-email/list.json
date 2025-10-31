@@ -2067,6 +2067,7 @@
     "intopwa.org",
     "introex.com",
     "investore.co",
+    "inwagit.com",
     "ionq.pl",
     "iotf.net",
     "iozak.com",
@@ -2827,6 +2828,7 @@
     "mugadget.com",
     "munik.edu.pl",
     "munoubengoshi.gq",
+    "muonwhila.com",
     "musiccode.me",
     "mutant.me",
     "mvpmedix.com",
@@ -2842,6 +2844,7 @@
     "mybitti.de",
     "mycleaninbox.net",
     "mycorneroftheinter.net",
+    "mycreativeinbox.com",
     "myde.ml",
     "mydefipet.live",
     "mydemo.equipment",
@@ -3865,6 +3868,7 @@
     "sudern.de",
     "sueshaw.com",
     "suexamplesb.com",
+    "suftwari.com",
     "suioe.com",
     "super-auswahl.de",
     "superblohey.com",
@@ -4766,5 +4770,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20251030
+  "version": 20251031
 }
