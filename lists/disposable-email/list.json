@@ -1172,6 +1172,7 @@
     "easy-trash-mail.com",
     "easyhomefit.com",
     "easymailer.live",
+    "easymails.cc",
     "easynetwork.info",
     "easytrashmail.com",
     "eatmea2z.club",
@@ -4775,5 +4776,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20251101
+  "version": 20251102
 }
