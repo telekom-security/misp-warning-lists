@@ -724,6 +724,7 @@
     "bandai.fukushima.jp",
     "bando.ibaraki.jp",
     "bank",
+    "bank.in",
     "bar",
     "bar.ec",
     "bar.pro",
@@ -2576,6 +2577,7 @@
     "film",
     "film.hu",
     "fin.ec",
+    "fin.in",
     "fin.tn",
     "final",
     "finance",
@@ -9970,5 +9972,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251106
+  "version": 20251107
 }
