@@ -1842,6 +1842,7 @@
     "de.eu.org",
     "de.trendhosting.cloud",
     "de.us",
+    "de5.net",
     "deal",
     "dealer",
     "deals",
@@ -8785,6 +8786,7 @@
     "tuleap-partners.com",
     "tunes",
     "tunk.org",
+    "tunnelmole.net",
     "tur.ar",
     "tur.br",
     "tur.ec",
@@ -10044,5 +10046,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251111
+  "version": 20251112
 }
