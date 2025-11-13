@@ -1480,6 +1480,7 @@
     "co.ro",
     "co.rs",
     "co.rw",
+    "co.site",
     "co.ss",
     "co.st",
     "co.sz",
@@ -10046,5 +10047,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251112
+  "version": 20251113
 }
