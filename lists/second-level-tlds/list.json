@@ -3623,7 +3623,6 @@
     "hr",
     "hr.eu.org",
     "hra.health",
-    "hrsn.au",
     "hrsn.dev",
     "hs.kr",
     "hsbc",
@@ -6915,6 +6914,7 @@
     "prudential",
     "pruszkow.pl",
     "prvcy.page",
+    "prvw.eu",
     "przeworsk.pl",
     "ps",
     "psc.br",
@@ -9224,7 +9224,6 @@
     "wb.crm.dev",
     "wc.crm.dev",
     "wd.crm.dev",
-    "wdh.app",
     "we.bs",
     "we.crm.dev",
     "weather",
@@ -10050,5 +10049,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251117
+  "version": 20251118
 }
