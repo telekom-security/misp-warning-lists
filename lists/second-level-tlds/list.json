@@ -3247,6 +3247,7 @@
     "gratis",
     "grayjayleagues.com",
     "greater.jp",
+    "grebedoc.dev",
     "green",
     "greta.fr",
     "grimstad.no",
@@ -9481,6 +9482,7 @@
     "xn--9dbq2a",
     "xn--9et52u",
     "xn--9krt00a",
+    "xn--9tfky.id",
     "xn--andy-ira.no",
     "xn--aroport-bya.ci",
     "xn--asky-ira.no",
@@ -9871,6 +9873,7 @@
     "xn--zfr164b",
     "xnbay.com",
     "xs4all.space",
+    "xtooldevice.com",
     "xx.kg",
     "xxx",
     "xxx.ec",
@@ -10049,5 +10052,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251124
+  "version": 20251125
 }
