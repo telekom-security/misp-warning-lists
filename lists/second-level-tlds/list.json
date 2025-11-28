@@ -616,6 +616,7 @@
     "audio",
     "audnedaln.no",
     "augustow.pl",
+    "auiusercontent.com",
     "aukra.no",
     "aure.no",
     "aurland.no",
@@ -10059,5 +10060,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251127
+  "version": 20251128
 }
