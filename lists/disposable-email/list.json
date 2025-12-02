@@ -4225,6 +4225,7 @@
     "tiapz.com",
     "tic.ec",
     "tidissajiiu.com",
+    "tiffincrane.com",
     "tikanony.com",
     "tiksofi.uk",
     "tiktakgrab.shop",
@@ -4942,5 +4943,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20251201
+  "version": 20251202
 }
