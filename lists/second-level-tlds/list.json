@@ -1403,6 +1403,7 @@
     "club.aero",
     "club.tw",
     "clubmed",
+    "clusters.rdpa.co",
     "cm",
     "cn",
     "cn-north-1.airflow.amazonaws.com.cn",
@@ -4889,7 +4890,6 @@
     "living",
     "livorno.it",
     "lk",
-    "lk3.ru",
     "llc",
     "llp",
     "ln.cn",
@@ -6873,6 +6873,7 @@
     "presse.km",
     "presse.ml",
     "preview.csb.app",
+    "preview.emergentagent.com",
     "preview.site",
     "pri.ee",
     "prime",
@@ -8120,6 +8121,7 @@
     "srl",
     "srv.br",
     "srv.us",
+    "srvrless.rdpa.co",
     "ss",
     "ss.it",
     "ssl.origin.cdn77-secure.org",
@@ -10060,5 +10062,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251204
+  "version": 20251205
 }
