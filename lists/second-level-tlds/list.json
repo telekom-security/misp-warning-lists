@@ -1485,6 +1485,7 @@
     "co.ro",
     "co.rs",
     "co.rw",
+    "co.scot",
     "co.site",
     "co.ss",
     "co.st",
@@ -5123,6 +5124,7 @@
     "me.it",
     "me.ke",
     "me.kr",
+    "me.scot",
     "me.so",
     "me.ss",
     "me.tz",
@@ -6521,6 +6523,7 @@
     "org.sa",
     "org.sb",
     "org.sc",
+    "org.scot",
     "org.sd",
     "org.se",
     "org.sg",
@@ -10062,5 +10065,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251208
+  "version": 20251209
 }
