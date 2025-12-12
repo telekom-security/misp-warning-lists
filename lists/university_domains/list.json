@@ -4195,6 +4195,7 @@
     "kth.se",
     "ktkt-haiduong.edu.vn",
     "ktokai-u.ac.jp",
+    "ktu.edu",
     "ktu.edu.gh",
     "ktu.edu.tr",
     "ktu.lt",
@@ -10505,5 +10506,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20251211
+  "version": 20251212
 }
