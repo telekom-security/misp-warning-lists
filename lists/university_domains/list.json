@@ -5672,6 +5672,7 @@
     "onu.edu",
     "onu.edu.ua",
     "oouagoiwoye.edu.ng",
+    "op.iitg.ac.in",
     "op.org",
     "open.ac.uk",
     "openpolytechnic.ac.nz",
@@ -6285,6 +6286,7 @@
     "rmu.edu",
     "rmutp.ac.th",
     "rmwc.edu",
+    "rnd.iitg.ac.in",
     "rnu.edu.ng",
     "roac.nl",
     "roanestate.edu",
@@ -10506,5 +10508,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20251214
+  "version": 20251215
 }
