@@ -7665,6 +7665,7 @@
     "satte.saitama.jp",
     "sauda.no",
     "sauherad.no",
+    "sav.case",
     "save",
     "saves-the-whales.com",
     "savona.it",
@@ -10065,5 +10066,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251216
+  "version": 20251217
 }
