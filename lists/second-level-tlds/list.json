@@ -408,6 +408,7 @@
     "annaka.gunma.jp",
     "anpachi.gifu.jp",
     "anquan",
+    "antagonist.cloud",
     "anz",
     "ao",
     "ao.it",
@@ -10087,5 +10088,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251219
+  "version": 20251220
 }
