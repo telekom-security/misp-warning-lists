@@ -1422,6 +1422,7 @@
     "cn.eu.org",
     "cn.in",
     "cn.it",
+    "cn.st",
     "cn.ua",
     "cng.br",
     "cnpy.gdn",
@@ -3764,6 +3765,7 @@
     "im",
     "im.it",
     "imabari.ehime.jp",
+    "imagine-proxy.work",
     "imakane.hokkaido.jp",
     "imamat",
     "imari.saga.jp",
@@ -10088,5 +10090,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251221
+  "version": 20251222
 }
