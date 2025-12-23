@@ -183,6 +183,7 @@
     "adygeya.ru",
     "adygeya.su",
     "ae",
+    "ae.kg",
     "ae.org",
     "aeg",
     "aejrie.no",
@@ -5938,6 +5939,7 @@
     "netgamers.jp",
     "netlib.re",
     "netlify.app",
+    "nett.to",
     "network",
     "neustar",
     "new",
@@ -6545,6 +6547,7 @@
     "org.se",
     "org.sg",
     "org.sh",
+    "org.sk",
     "org.sl",
     "org.sn",
     "org.so",
@@ -10090,5 +10093,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20251222
+  "version": 20251223
 }
