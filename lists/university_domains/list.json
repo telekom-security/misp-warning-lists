@@ -7406,6 +7406,7 @@
     "thomas.edu",
     "thomasmore.be",
     "thomasmore.edu",
+    "thu.de",
     "thu.edu.tw",
     "thums.ac.ir",
     "thunderbird.edu",
@@ -10508,5 +10509,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20251227
+  "version": 20251228
 }
