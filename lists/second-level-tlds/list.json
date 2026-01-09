@@ -1070,6 +1070,7 @@
     "buzz",
     "bv",
     "bw",
+    "bwcloud-os-instance.de",
     "by",
     "bydgoszcz.pl",
     "byen.site",
@@ -10084,5 +10085,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260108
+  "version": 20260109
 }
