@@ -2281,6 +2281,7 @@
     "elblag.pl",
     "elementor.cloud",
     "elementor.cool",
+    "eliv-api.kr",
     "eliv-cdn.kr",
     "eliv-dns.kr",
     "elk.pl",
@@ -10085,5 +10086,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260109
+  "version": 20260110
 }
