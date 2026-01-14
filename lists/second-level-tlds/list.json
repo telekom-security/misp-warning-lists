@@ -805,6 +805,8 @@
     "bas.it",
     "base.ec",
     "base.shop",
+    "base44-sandbox.com",
+    "base44.app",
     "baseball",
     "bashkiria.ru",
     "bashkiria.su",
@@ -10086,5 +10088,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260113
+  "version": 20260114
 }
