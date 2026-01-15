@@ -324,6 +324,7 @@
     "akirapowered.com",
     "akmail.in",
     "akugu.com",
+    "akunlama.com",
     "al-qaeda.us",
     "albill.com",
     "albionwe.us",
@@ -5098,5 +5099,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260114
+  "version": 20260115
 }
