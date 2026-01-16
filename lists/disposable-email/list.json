@@ -510,6 +510,7 @@
     "awatum.de",
     "awdrt.org",
     "awesome47.com",
+    "awesomesaucemail.org",
     "awgarstone.com",
     "awiki.org",
     "awsoo.com",
@@ -2140,6 +2141,7 @@
     "imails.info",
     "imailt.com",
     "imap.fr.nf",
+    "imfaya.com",
     "img-free.com",
     "imgof.com",
     "imgv.de",
@@ -4650,6 +4652,7 @@
     "vercelli.ml",
     "verdejo.com",
     "vermutlich.net",
+    "vertexinbox.com",
     "vertexium.net",
     "veruvercomail.com",
     "veryday.ch",
@@ -5099,5 +5102,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260115
+  "version": 20260116
 }
