@@ -4457,6 +4457,8 @@
     "kikugawa.shizuoka.jp",
     "kill.jp",
     "kilo.jp",
+    "kiloapps.ai",
+    "kiloapps.io",
     "kim",
     "kim.replit.dev",
     "kimino.wakayama.jp",
@@ -10088,5 +10090,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260116
+  "version": 20260117
 }
