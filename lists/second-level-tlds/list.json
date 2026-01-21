@@ -8117,6 +8117,7 @@
     "spa",
     "space",
     "space-to-rent.com",
+    "spawnbase.app",
     "spb.ru",
     "spb.su",
     "spdns.de",
@@ -10090,5 +10091,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260120
+  "version": 20260121
 }
