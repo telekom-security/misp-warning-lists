@@ -652,6 +652,7 @@
     "auth.ap-southeast-7.amazoncognito.com",
     "auth.ca-central-1.amazoncognito.com",
     "auth.ca-west-1.amazoncognito.com",
+    "auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu",
     "auth.eu-central-1.amazoncognito.com",
     "auth.eu-central-2.amazoncognito.com",
     "auth.eu-north-1.amazoncognito.com",
@@ -7474,6 +7475,8 @@
     "s3-website.dualstack.sa-east-1.amazonaws.com",
     "s3-website.dualstack.us-east-1.amazonaws.com",
     "s3-website.dualstack.us-east-2.amazonaws.com",
+    "s3-website.dualstack.us-gov-east-1.amazonaws.com",
+    "s3-website.dualstack.us-gov-west-1.amazonaws.com",
     "s3-website.dualstack.us-west-1.amazonaws.com",
     "s3-website.dualstack.us-west-2.amazonaws.com",
     "s3-website.eu-central-1.amazonaws.com",
@@ -8703,6 +8706,7 @@
     "transfer-webapp.ap-southeast-3.on.aws",
     "transfer-webapp.ap-southeast-4.on.aws",
     "transfer-webapp.ap-southeast-5.on.aws",
+    "transfer-webapp.ap-southeast-7.on.aws",
     "transfer-webapp.ca-central-1.on.aws",
     "transfer-webapp.ca-west-1.on.aws",
     "transfer-webapp.cn-north-1.on.amazonwebservices.com.cn",
@@ -8718,6 +8722,7 @@
     "transfer-webapp.il-central-1.on.aws",
     "transfer-webapp.me-central-1.on.aws",
     "transfer-webapp.me-south-1.on.aws",
+    "transfer-webapp.mx-central-1.on.aws",
     "transfer-webapp.sa-east-1.on.aws",
     "transfer-webapp.us-east-1.on.aws",
     "transfer-webapp.us-east-2.on.aws",
@@ -10097,5 +10102,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260125
+  "version": 20260126
 }
