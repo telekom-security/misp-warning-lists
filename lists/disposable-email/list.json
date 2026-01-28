@@ -3490,6 +3490,7 @@
     "pixdd.com",
     "pixelgagnant.net",
     "pixiil.com",
+    "pixoledge.net",
     "pizu.ru",
     "pizu.store",
     "pizzajunk.com",
@@ -4225,6 +4226,7 @@
     "taugr.com",
     "taukah.com",
     "taxibmt.com",
+    "taxibmt.net",
     "tb-on-line.net",
     "tbgroupconsultants.com",
     "tcwlm.com",
@@ -5143,5 +5145,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260127
+  "version": 20260128
 }
