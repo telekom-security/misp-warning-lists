@@ -2063,6 +2063,7 @@
     "2606:f40:ffef::/48",
     "2606:f40:fff0::/48",
     "2606:f40:fff2::/48",
+    "2606:f40:fff5::/48",
     "2606:f40:fff6::/47",
     "2606:f40:fff8::/45",
     "2620:107:3000::/47",
@@ -3455,5 +3456,5 @@
   ],
   "name": "List of known Amazon AWS IP address ranges",
   "type": "cidr",
-  "version": 20260128
+  "version": 20260129
 }
