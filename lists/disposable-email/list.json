@@ -4281,6 +4281,7 @@
     "temp-mail.pp.ua",
     "temp-mail.ru",
     "temp-mails.com",
+    "temp.skymeshdynamics.com",
     "tempail.com",
     "tempalias.com",
     "tempblockchain.com",
@@ -5167,5 +5168,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260204
+  "version": 20260205
 }

@@ -1213,7 +1213,6 @@
     "chesapeake.edu",
     "chester.ac.uk",
     "cheyney.edu",
-    "chiangmai.ac.th",
     "chiangraicampus.rmutl.ac.th",
     "chiba-u.ac.jp",
     "chiba-u.jp",
@@ -1322,6 +1321,7 @@
     "cmjuniversity.edu.in",
     "cmmccollege.edu",
     "cmru.ac.th",
+    "cmu.ac.th",
     "cmu.ca",
     "cmu.edu",
     "cmu.edu.cn",
@@ -10516,5 +10516,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260204
+  "version": 20260205
 }
