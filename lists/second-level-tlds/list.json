@@ -3095,7 +3095,6 @@
     "golffan.us",
     "gonna.jp",
     "gonohe.aomori.jp",
-    "goo",
     "goodyear",
     "goog",
     "google",
@@ -10134,5 +10133,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260207
+  "version": 20260208
 }
