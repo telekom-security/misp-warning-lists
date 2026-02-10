@@ -1166,6 +1166,7 @@
     "dmts.fr.nf",
     "dmxs8.com",
     "dndent.com",
+    "dnsclick.com",
     "dnses.ro",
     "doanart.com",
     "dob.jp",
@@ -5180,5 +5181,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260209
+  "version": 20260210
 }
