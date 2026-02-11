@@ -3669,6 +3669,7 @@
     "hu",
     "hu.eu.org",
     "hu.net",
+    "hue.vn",
     "hughes",
     "huissier-justice.fr",
     "hungry.jp",
@@ -7675,6 +7676,7 @@
     "samukawa.kanagawa.jp",
     "sanagochi.tokushima.jp",
     "sanda.hyogo.jp",
+    "sandbox.deno.net",
     "sandcats.io",
     "sande.more-og-romsdal.no",
     "sande.vestfold.no",
@@ -10133,5 +10135,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260210
+  "version": 20260211
 }
