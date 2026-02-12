@@ -3721,6 +3721,7 @@
     "razemail.com",
     "razuz.com",
     "rbb.org",
+    "rbs1.xyz",
     "rcasd.com",
     "rcpt.at",
     "rdklcrv.xyz",
@@ -5181,5 +5182,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260211
+  "version": 20260212
 }
