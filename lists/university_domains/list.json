@@ -366,6 +366,7 @@
     "apsurewa.nic.in",
     "apu.ac.jp",
     "apu.edu",
+    "apu.edu.my",
     "apus.edu",
     "aqua.sci-nnov.ru",
     "aquinas-university.edu",
@@ -10516,5 +10517,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260212
+  "version": 20260213
 }
