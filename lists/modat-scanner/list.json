@@ -35,5 +35,5 @@
   ],
   "name": "List of published IP address ranges for Modat Scanner",
   "type": "cidr",
-  "version": 20260213
+  "version": 20260214
 }
