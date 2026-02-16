@@ -9453,7 +9453,6 @@
     "wnext.app",
     "wodzislaw.pl",
     "wolomin.pl",
-    "wolterskluwer",
     "woltlab-demo.com",
     "woodside",
     "worf.replit.dev",
@@ -10140,5 +10139,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260215
+  "version": 20260216
 }
