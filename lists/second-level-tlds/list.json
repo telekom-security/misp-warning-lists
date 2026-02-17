@@ -4434,6 +4434,7 @@
     "kazo.saitama.jp",
     "kazuno.akita.jp",
     "kddi",
+    "kdns.fr",
     "ke",
     "keenetic.io",
     "keenetic.link",
@@ -10139,5 +10140,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260216
+  "version": 20260217
 }
