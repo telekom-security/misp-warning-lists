@@ -844,6 +844,7 @@
     "beep.pl",
     "beer",
     "beget.app",
+    "begetcdn.cloud",
     "beiarn.no",
     "bel.tr",
     "belem.br",
@@ -2023,6 +2024,8 @@
     "drayddns.com",
     "dreamhosters.com",
     "drive",
+    "drive-platform.com",
+    "drive-platform.io",
     "drobak.no",
     "drr.ac",
     "dscloud.biz",
@@ -10140,5 +10143,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260222
+  "version": 20260223
 }
