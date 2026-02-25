@@ -3930,6 +3930,7 @@
     "internet-dns.de",
     "internet.in",
     "intl.tn",
+    "intouch.email",
     "intuit",
     "inuyama.aichi.jp",
     "investments",
@@ -5600,6 +5601,9 @@
     "myaddr.tools",
     "myamaze.net",
     "myasustor.com",
+    "mybox.company",
+    "mybox.me",
+    "mybox.page",
     "mycloudnas.com",
     "mydatto.com",
     "mydatto.net",
@@ -10143,5 +10147,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260224
+  "version": 20260225
 }
