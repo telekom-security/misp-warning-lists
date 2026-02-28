@@ -1181,6 +1181,7 @@
     "dogclothing.org",
     "doiea.com",
     "doj.one",
+    "dolofan.com",
     "dolphinnet.net",
     "domforfb1.tk",
     "domforfb18.tk",
@@ -2404,6 +2405,7 @@
     "kamete.org",
     "kamsg.com",
     "kanonmail.com",
+    "kaoing.com",
     "kaovo.com",
     "kappala.info",
     "kara-turk.net",
@@ -3382,6 +3384,7 @@
     "oneoffmail.com",
     "onetm-ml.com",
     "onetm.jp",
+    "onetopclick.online",
     "onewaymail.com",
     "onheb.com",
     "onionred.com",
@@ -4318,6 +4321,7 @@
     "tempinbox.co.uk",
     "tempinbox.com",
     "tempmail.best",
+    "tempmail.cc",
     "tempmail.cn",
     "tempmail.co",
     "tempmail.de",
@@ -5191,5 +5195,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260227
+  "version": 20260228
 }

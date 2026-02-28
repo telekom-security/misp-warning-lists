@@ -1607,6 +1607,7 @@
     "com.iq",
     "com.jo",
     "com.kg",
+    "com.kh",
     "com.ki",
     "com.km",
     "com.kp",
@@ -2196,6 +2197,7 @@
     "edu.it",
     "edu.jo",
     "edu.kg",
+    "edu.kh",
     "edu.ki",
     "edu.km",
     "edu.kn",
@@ -3185,6 +3187,7 @@
     "gov.it",
     "gov.jo",
     "gov.kg",
+    "gov.kh",
     "gov.ki",
     "gov.km",
     "gov.kn",
@@ -5891,6 +5894,7 @@
     "net.je",
     "net.jo",
     "net.kg",
+    "net.kh",
     "net.ki",
     "net.kn",
     "net.kw",
@@ -6522,6 +6526,7 @@
     "org.je",
     "org.jo",
     "org.kg",
+    "org.kh",
     "org.ki",
     "org.km",
     "org.kn",
@@ -10147,5 +10152,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260227
+  "version": 20260228
 }
