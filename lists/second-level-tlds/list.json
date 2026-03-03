@@ -5535,10 +5535,12 @@
     "mragowo.pl",
     "mrap.accesspoint.s3-global.amazonaws.com",
     "ms",
+    "ms.fun",
     "ms.gov.br",
     "ms.it",
     "ms.kr",
     "ms.leg.br",
+    "ms.show",
     "ms.us",
     "msd",
     "msk.ru",
@@ -5593,6 +5595,7 @@
     "my-gateway.de",
     "my-router.de",
     "my.at",
+    "my.be",
     "my.canva.site",
     "my.canvasite.cn",
     "my.de",
@@ -10152,5 +10155,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260302
+  "version": 20260303
 }

@@ -2991,6 +2991,7 @@
     "ministry-of-silly-walks.de",
     "minsmail.com",
     "mintemail.com",
+    "minuteafter.com",
     "minuteinbox.com",
     "mirai.re",
     "misterpinball.de",
@@ -5195,5 +5196,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260302
+  "version": 20260303
 }
