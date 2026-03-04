@@ -3428,6 +3428,7 @@
     "ortogenmail.com",
     "oshietechan.link",
     "oskarstalbergcitygenerator.com",
+    "ostahie.com",
     "ostinmail.com",
     "osxofulk.com",
     "otherinbox.com",
@@ -3476,6 +3477,7 @@
     "paxlys.com",
     "payperex2.com",
     "payspun.com",
+    "pazuric.com",
     "pdf-cutter.com",
     "pe.hu",
     "peakinbox.net",
@@ -5196,5 +5198,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260303
+  "version": 20260304
 }
