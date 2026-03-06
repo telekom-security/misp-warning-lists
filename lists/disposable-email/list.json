@@ -674,6 +674,7 @@
     "bot.nu",
     "botgetlink.com",
     "botgetlink.net",
+    "botnet.my.id",
     "boun.cr",
     "bouncr.com",
     "box-mail.ru",
@@ -5207,5 +5208,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260305
+  "version": 20260306
 }
