@@ -5149,7 +5149,6 @@
     "mattel",
     "mayfirst.info",
     "mayfirst.org",
-    "mazeplay.com",
     "mazowsze.pl",
     "mazury.pl",
     "mb.ca",
@@ -10155,5 +10154,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260306
+  "version": 20260307
 }
