@@ -6398,6 +6398,8 @@
     "on.biz.ng",
     "on.ca",
     "on.crisp.email",
+    "on.expo.app",
+    "on.staging.expo.app",
     "onagawa.miyagi.jp",
     "oncilla.mythic-beasts.com",
     "ondigitalocean.app",
@@ -10154,5 +10156,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260309
+  "version": 20260310
 }
