@@ -131,6 +131,7 @@
     "36ru.com",
     "3a88.dev",
     "3d-painting.com",
+    "3dkai.com",
     "3fdn.com",
     "3l6.com",
     "3littlemiracles.com",
@@ -1661,6 +1662,7 @@
     "fliegender.fish",
     "flobo.fr.nf",
     "flock84.uk",
+    "flosek.com",
     "flowu.com",
     "flu.cc",
     "fluidsoft.us",
@@ -2069,6 +2071,7 @@
     "himail.infos.st",
     "himail.online",
     "hldrive.com",
+    "hlkes.com",
     "hmail.us",
     "hmamail.com",
     "hmh.ro",
@@ -2223,6 +2226,7 @@
     "incq.com",
     "inctart.com",
     "ind.st",
+    "indevgo.com",
     "index-mail.com",
     "indianahorsecouncil.org",
     "indieclad.com",
@@ -3249,6 +3253,7 @@
     "nikora.fr.nf",
     "nincsmail.com",
     "nincsmail.hu",
+    "niprack.com",
     "niseko.be",
     "niwl.net",
     "nm123.com",
@@ -5208,5 +5213,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260312
+  "version": 20260313
 }
