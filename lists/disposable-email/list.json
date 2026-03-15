@@ -3082,6 +3082,7 @@
     "mr-email.fr.nf",
     "mr24.co",
     "mriscan.live",
+    "mriscanner.live",
     "mrotzis.com",
     "mrphoto.org",
     "mrvpm.net",
@@ -3211,6 +3212,7 @@
     "nervtmich.net",
     "nesopf.com",
     "nespf.com",
+    "nespj.com",
     "nespressopixie.com",
     "net1mail.com",
     "netcom.ws",
@@ -5213,5 +5215,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260314
+  "version": 20260315
 }
