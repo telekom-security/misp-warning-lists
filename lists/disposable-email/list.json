@@ -2,6 +2,8 @@
   "description": "List of disposable email domains",
   "list": [
     "0-mail.com",
+    "01022.hk",
+    "01130.hk",
     "027168.com",
     "062e.com",
     "0815.ru",
@@ -5345,5 +5347,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260317
+  "version": 20260318
 }
