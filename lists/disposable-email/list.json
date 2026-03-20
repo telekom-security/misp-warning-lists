@@ -2411,6 +2411,7 @@
     "jaqis.com",
     "jasonbella.online",
     "javadmin.com",
+    "javaemail.com",
     "jcnorris.com",
     "jdmadventures.com",
     "jdz.ro",
@@ -3688,6 +3689,7 @@
     "popol.fr.nf",
     "porjoton.com",
     "porsh.net",
+    "porsilapongo.cl",
     "portaltrendsarena.com",
     "posdz.com",
     "posta.store",
@@ -4324,6 +4326,7 @@
     "streetwisemail.com",
     "stromox.com",
     "stuckmail.com",
+    "studyhub.edu.pl",
     "stuffmail.de",
     "stufmail.com",
     "stumpfwerk.com",
@@ -5347,5 +5350,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260319
+  "version": 20260320
 }
