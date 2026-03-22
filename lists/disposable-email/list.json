@@ -2350,6 +2350,7 @@
     "ip4.pp.ua",
     "ip6.li",
     "ip6.pp.ua",
+    "ipaddressforme.com",
     "ipoo.org",
     "ippandansei.tk",
     "ipsur.org",
@@ -5356,5 +5357,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260321
+  "version": 20260322
 }
