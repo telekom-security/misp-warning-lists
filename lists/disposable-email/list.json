@@ -1409,6 +1409,7 @@
     "emailawb.pro",
     "emailbbox.pro",
     "emailbin.net",
+    "emailboxer.one",
     "emailcbox.pro",
     "emailcoffeehouse.com",
     "emailcu.icu",
@@ -3380,6 +3381,7 @@
     "nocp.store",
     "nodejs.uk",
     "nodezine.com",
+    "noexpire.top",
     "nogmailspam.info",
     "noicd.com",
     "nokdot.com",
@@ -3627,6 +3629,7 @@
     "phanmembanhang24h.com",
     "philipdowney.com",
     "phimib.com",
+    "phmail.site",
     "phone-elkey.ru",
     "photo-impact.eu",
     "photobrex.com",
@@ -5365,5 +5368,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260327
+  "version": 20260328
 }
