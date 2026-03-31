@@ -1303,6 +1303,7 @@
     "dukedish.com",
     "dulich84.com",
     "dumalu.com",
+    "dumbass.nl",
     "dump-email.info",
     "dumpandjunk.com",
     "dumpmail.de",
@@ -2635,6 +2636,7 @@
     "lambsauce.de",
     "landmail.co",
     "laoeq.com",
+    "laoia.com",
     "lapakqu.com",
     "laptoplonghai.com",
     "larisia.com",
@@ -5368,5 +5370,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260330
+  "version": 20260331
 }
