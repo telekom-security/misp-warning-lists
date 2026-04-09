@@ -6737,7 +6737,6 @@
     "pages.torproject.net",
     "pages.wiardweb.com",
     "pagespeedmobilizer.com",
-    "pagexl.com",
     "palermo.it",
     "palmas.br",
     "panasonic",
@@ -10162,5 +10161,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260408
+  "version": 20260409
 }
