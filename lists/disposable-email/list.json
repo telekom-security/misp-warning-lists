@@ -3154,6 +3154,7 @@
     "moneypipe.net",
     "mongrec.top",
     "monmail.fr.nf",
+    "monomoho.site",
     "monumentmail.com",
     "moolee.net",
     "moonapps.org",
@@ -5371,5 +5372,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260409
+  "version": 20260410
 }
