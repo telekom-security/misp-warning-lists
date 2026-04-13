@@ -713,6 +713,7 @@
     "boxomail.live",
     "boxtemp.com.br",
     "boyaga.com",
+    "bpotogo.com",
     "bptfp.net",
     "brand-app.biz",
     "brandallday.net",
@@ -3302,6 +3303,7 @@
     "naxx.dev",
     "naylonksosmed.com",
     "naymedia.com",
+    "nazisat.com",
     "nbmbb.com",
     "nbzmr.com",
     "ncien.com",
@@ -3598,6 +3600,7 @@
     "paplease.com",
     "para2019.ru",
     "parlimentpetitioner.tk",
+    "parsitv.com",
     "pastebitch.com",
     "pastryofistanbul.com",
     "patity.com",
@@ -5372,5 +5375,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260412
+  "version": 20260413
 }
