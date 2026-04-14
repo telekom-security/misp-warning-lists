@@ -1409,6 +1409,7 @@
     "emailaoa.pro",
     "emailate.com",
     "emailawb.pro",
+    "emailax.pro",
     "emailbbox.pro",
     "emailbin.net",
     "emailboxer.one",
@@ -5375,5 +5376,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260413
+  "version": 20260414
 }
