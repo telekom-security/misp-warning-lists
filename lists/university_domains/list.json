@@ -7173,6 +7173,7 @@
     "suno.edu",
     "sunway.edu.my",
     "suny.oneonta.edu",
+    "sunybroome.edu",
     "sunycentral.edu",
     "sunycgcc.edu",
     "sunydutchess.edu",
@@ -10380,7 +10381,6 @@
     "www.fdtc.edu",
     "www.ojc.edu",
     "www.sunyacc.edu",
-    "www.sunybroome.edu",
     "www.sunyulster.edu",
     "www.tjc.edu",
     "www.yewon.ac.kr",
@@ -10554,5 +10554,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260414
+  "version": 20260415
 }
