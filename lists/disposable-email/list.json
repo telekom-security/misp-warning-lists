@@ -985,6 +985,7 @@
     "copyhome.win",
     "coreclip.com",
     "corhash.net",
+    "cosdas.com",
     "cosmorph.com",
     "cosoinan.com",
     "cotasen.com",
@@ -5393,5 +5394,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260419
+  "version": 20260420
 }
