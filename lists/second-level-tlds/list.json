@@ -1373,6 +1373,7 @@
     "cl.it",
     "claims",
     "clan.rip",
+    "claude.app",
     "cleaning",
     "clerk.app",
     "clerkstage.app",
@@ -1398,7 +1399,6 @@
     "cloudaccess.host",
     "cloudaccess.net",
     "cloudapp.net",
-    "cloudapps.digital",
     "cloudbeesusercontent.io",
     "cloudera.site",
     "cloudflare-ipfs.com",
@@ -4999,7 +4999,6 @@
     "lon-1.paas.massivegrid.net",
     "lon-2.paas.massivegrid.net",
     "london",
-    "london.cloudapps.digital",
     "londrina.br",
     "longan.vn",
     "loppa.no",
@@ -10198,5 +10197,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260420
+  "version": 20260421
 }
