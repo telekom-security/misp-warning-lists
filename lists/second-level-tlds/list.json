@@ -2866,6 +2866,7 @@
     "frosta.no",
     "froya.no",
     "frusky.de",
+    "fspages.org",
     "fst.br",
     "ftpaccess.cc",
     "ftr",
@@ -5246,6 +5247,7 @@
     "messerli.app",
     "messina.it",
     "messwithdns.com",
+    "metaaiusercontent.com",
     "meteorapp.com",
     "mex.com",
     "mg",
@@ -10197,5 +10199,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260423
+  "version": 20260424
 }
