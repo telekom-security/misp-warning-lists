@@ -793,6 +793,7 @@
     "california.edu.pl",
     "californiafitnessdeals.com",
     "calima.asso.st",
+    "calmriver.info",
     "cam4you.cc",
     "cameltok.com",
     "camera47.net",
@@ -909,6 +910,7 @@
     "clandest.in",
     "classesmail.com",
     "claudd.com",
+    "clearbeam.pro",
     "clearwatermail.info",
     "click-email.com",
     "clickdeal.co",
@@ -1296,6 +1298,7 @@
     "dropjar.com",
     "droplar.com",
     "dropmail.me",
+    "dropons.com",
     "dropsin.net",
     "drowblock.com",
     "drugsellers.com",
@@ -1815,6 +1818,7 @@
     "frm.ovh",
     "front14.org",
     "frostmail.fr.nf",
+    "frostypeak.info",
     "frwdmail.com",
     "fsitip.com",
     "fthcapital.com",
@@ -5420,5 +5424,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260428
+  "version": 20260429
 }
