@@ -2644,6 +2644,7 @@
     "kwilco.net",
     "kwtest.io",
     "kyal.pl",
+    "kynninc.com",
     "kyois.com",
     "kyriog.fr",
     "kyuusei.fr.nf",
@@ -5424,5 +5425,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260430
+  "version": 20260501
 }
