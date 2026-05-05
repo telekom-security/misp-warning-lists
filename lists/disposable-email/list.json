@@ -2358,6 +2358,7 @@
     "inoutmail.info",
     "inoutmail.net",
     "inpwa.com",
+    "inreur.com",
     "insanony.art",
     "insanony.one",
     "insanony.store",
@@ -3148,6 +3149,7 @@
     "minhquang2000.com",
     "minimail.gq",
     "ministry-of-silly-walks.de",
+    "minitts.net",
     "minsmail.com",
     "mintemail.com",
     "minuteafter.com",
@@ -5446,5 +5448,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260504
+  "version": 20260505
 }
