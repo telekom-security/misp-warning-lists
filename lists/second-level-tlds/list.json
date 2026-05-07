@@ -6419,7 +6419,6 @@
     "on-web.fr",
     "on.biz.ng",
     "on.ca",
-    "on.crisp.email",
     "on.expo.app",
     "on.staging.expo.app",
     "onagawa.miyagi.jp",
@@ -10207,5 +10206,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260506
+  "version": 20260507
 }
