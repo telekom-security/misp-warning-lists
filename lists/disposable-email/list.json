@@ -1111,6 +1111,7 @@
     "dealja.com",
     "deallabs.org",
     "dealrek.com",
+    "deapad.com",
     "decep.com",
     "decodewp.com",
     "dede.infos.st",
@@ -5448,5 +5449,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260507
+  "version": 20260508
 }

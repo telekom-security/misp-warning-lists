@@ -6976,6 +6976,7 @@
     "preview.csb.app",
     "preview.emergentagent.com",
     "preview.site",
+    "prg1-zerops.zone",
     "pri.ee",
     "prime",
     "primetel.cloud",
@@ -10178,6 +10179,7 @@
     "zentsuji.kagawa.jp",
     "zero",
     "zerops.app",
+    "zerops.zone",
     "zgierz.pl",
     "zgora.pl",
     "zgorzelec.pl",
@@ -10206,5 +10208,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260507
+  "version": 20260508
 }
