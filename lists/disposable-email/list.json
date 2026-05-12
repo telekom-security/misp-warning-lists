@@ -1379,6 +1379,9 @@
     "edudingy.cfd",
     "edumail.edu.pl",
     "edumail.edu.rs",
+    "edumaili.com",
+    "edumaili.edu.pl",
+    "edumaill.edu.pl",
     "edupolska.edu.pl",
     "edv.to",
     "ee1.pl",
@@ -2911,6 +2914,7 @@
     "maileater.com",
     "mailed.in",
     "mailed.ro",
+    "mailedu.edu.pl",
     "maileimer.de",
     "maileme101.com",
     "mailer.edu.pl",
@@ -3174,6 +3178,7 @@
     "mliok.com",
     "mm.my",
     "mm5.se",
+    "mmaily.com",
     "mnode.me",
     "moakt.cc",
     "moakt.co",
@@ -5449,5 +5454,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260511
+  "version": 20260512
 }
