@@ -2466,6 +2466,7 @@
     "javadmin.com",
     "javaemail.com",
     "jbsze.com",
+    "jbsze.ne",
     "jcnorris.com",
     "jdmadventures.com",
     "jdz.ro",
@@ -5454,5 +5455,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260512
+  "version": 20260513
 }
