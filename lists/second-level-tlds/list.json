@@ -1225,7 +1225,6 @@
     "cc.ms.us",
     "cc.mt.us",
     "cc.nc.us",
-    "cc.nd.us",
     "cc.ne.us",
     "cc.nh.us",
     "cc.nj.us",
@@ -3689,6 +3688,7 @@
     "hrsn.dev",
     "hs.kr",
     "hsbc",
+    "hstgr.cloud",
     "ht",
     "httpbin.org",
     "hu",
@@ -4900,7 +4900,6 @@
     "lib.mo.us",
     "lib.mt.us",
     "lib.nc.us",
-    "lib.nd.us",
     "lib.ne.us",
     "lib.nh.us",
     "lib.nj.us",
@@ -8436,6 +8435,8 @@
     "szkola.pl",
     "t.bg",
     "t.se",
+    "t3.storage.dev",
+    "t3.storageapi.dev",
     "ta.it",
     "taa.it",
     "tab",
@@ -10208,5 +10209,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260513
+  "version": 20260514
 }

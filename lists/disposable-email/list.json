@@ -1999,6 +1999,7 @@
     "gmail2.gq",
     "gmailot.com",
     "gmatch.org",
+    "gmeenramy.com",
     "gmial.com",
     "gmx1mail.top",
     "gmxmail.top",
@@ -4043,6 +4044,7 @@
     "rustydoor.com",
     "rustyload.com",
     "ruu.kr",
+    "ruutukf.com",
     "rvb.ro",
     "rwstatus.com",
     "rygel.infos.st",
@@ -5455,5 +5457,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260513
+  "version": 20260514
 }
