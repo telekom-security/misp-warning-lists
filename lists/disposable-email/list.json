@@ -5270,6 +5270,7 @@
     "xepa.ru",
     "xfavaj.com",
     "xidealx.com",
+    "xikemail.com",
     "ximenor.site",
     "xjoi.com",
     "xkx.me",
@@ -5457,5 +5458,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260514
+  "version": 20260515
 }
