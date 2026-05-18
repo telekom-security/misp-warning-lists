@@ -3674,5 +3674,5 @@
   ],
   "name": "List of known Amazon AWS IP address ranges",
   "type": "cidr",
-  "version": 20260517
+  "version": 20260518
 }

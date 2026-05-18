@@ -2301,6 +2301,7 @@
     "imails.info",
     "imailt.com",
     "imap.fr.nf",
+    "imashr.com",
     "imfaya.com",
     "img-free.com",
     "imgof.com",
@@ -5228,6 +5229,7 @@
     "writeme.us",
     "wronghead.com",
     "ws.gy",
+    "wshu.net",
     "wsym.de",
     "wsypc.com",
     "wudet.men",
@@ -5458,5 +5460,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260517
+  "version": 20260518
 }
