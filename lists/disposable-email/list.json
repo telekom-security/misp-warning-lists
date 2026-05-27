@@ -3083,6 +3083,7 @@
     "mannawo.com",
     "mansiondev.com",
     "maohe.cloud",
+    "marineso.com",
     "mark-compressoren.ru",
     "marketlink.info",
     "markmurfin.com",
@@ -5484,5 +5485,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260526
+  "version": 20260527
 }
