@@ -1279,6 +1279,7 @@
     "doobb.com",
     "doojazz.com",
     "doquier.tk",
+    "doreact.com",
     "dotapodemail.com",
     "dotman.de",
     "dotmsg.com",
@@ -5498,5 +5499,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260529
+  "version": 20260530
 }
