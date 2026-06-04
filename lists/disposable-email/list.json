@@ -95,6 +95,7 @@
     "1secmail.website",
     "1st-forms.com",
     "1sworld.com",
+    "1t-mail.com",
     "1to1mail.org",
     "1trick.net",
     "1usemail.com",
@@ -5748,5 +5749,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260603
+  "version": 20260604
 }
