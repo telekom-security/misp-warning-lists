@@ -1296,6 +1296,7 @@
     "charter.aero",
     "chase",
     "chat",
+    "chatgpt.site",
     "cheap",
     "cheap.jp",
     "chef.ec",
@@ -10211,5 +10212,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260609
+  "version": 20260610
 }
