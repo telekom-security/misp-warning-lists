@@ -2613,6 +2613,7 @@
     "gpt-mail-free-551.dynv6.net",
     "gpt-mail-free-5539.dynv6.net",
     "gpt-mail-free-561.dynv6.net",
+    "gpt-mail-free-5659.dynv6.net",
     "gpt-mail-free-574.dynv6.net",
     "gpt-mail-free-5902.dynv6.net",
     "gpt-mail-free-6067.dynv6.net",
@@ -4110,6 +4111,7 @@
     "mowline.com",
     "mox.pp.ua",
     "moy-elektrik.ru",
+    "moyang303.de5.net",
     "moza.pl",
     "mozej.com",
     "mp-j.ga",
@@ -6222,6 +6224,7 @@
     "ukev.org",
     "uki.io.vn",
     "ukm.ovh",
+    "ulm-dsl.de",
     "ulteriq.cfd",
     "ultra.fyi",
     "ultrada.ru",
@@ -6944,5 +6947,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260610
+  "version": 20260611
 }

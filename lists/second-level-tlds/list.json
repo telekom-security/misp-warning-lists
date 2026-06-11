@@ -9253,6 +9253,7 @@
     "vi.it",
     "vi.us",
     "viajes",
+    "vibehost.space",
     "vibo-valentia.it",
     "vibovalentia.it",
     "vic.au",
@@ -10212,5 +10213,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260610
+  "version": 20260611
 }
