@@ -4080,6 +4080,7 @@
     "molms.com",
     "momentics.ru",
     "momoi.uk",
+    "momopifa.cc.cd",
     "mona.edu.kg",
     "mona.edu.pl",
     "mona.edu.rs",
@@ -5676,6 +5677,7 @@
     "stufmail.com",
     "stumpfwerk.com",
     "stylist-volos.ru",
+    "su.cloudns.biz",
     "submic.com",
     "suburbanthug.com",
     "suckmyd.com",
@@ -6889,6 +6891,7 @@
     "zhaoqian.ninja",
     "zhaoyuanedu.cn",
     "zhcne.com",
+    "zhengwz.dpdns.org",
     "zhewei88.com",
     "zhizhiwei.fun",
     "zhorachu.com",
@@ -6953,5 +6956,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260612
+  "version": 20260613
 }
