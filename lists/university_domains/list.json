@@ -3580,6 +3580,7 @@
     "iste.edu.tr",
     "istec.pt",
     "istinye.edu.tr",
+    "istp.fr",
     "istp.pt",
     "istu.irk.ru",
     "istu.ru",
@@ -6259,6 +6260,7 @@
     "regis.edu",
     "reitaku-u.ac.jp",
     "rennes-sb.com",
+    "reva.edu.in",
     "reynolds.edu",
     "rfh-koeln.de",
     "rfhsm.ac.uk",
@@ -10580,5 +10582,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260620
+  "version": 20260621
 }
