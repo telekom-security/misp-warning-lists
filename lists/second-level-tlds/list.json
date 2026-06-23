@@ -5458,6 +5458,7 @@
     "mk",
     "mk.eu.org",
     "mk.ua",
+    "mkm.fan",
     "mktg.ec",
     "ml",
     "mlb",
@@ -10213,5 +10214,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260622
+  "version": 20260623
 }
