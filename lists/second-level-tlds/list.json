@@ -7057,6 +7057,9 @@
     "pup.gov.pl",
     "pupu.jp",
     "pussycat.jp",
+    "puter.app",
+    "puter.site",
+    "puter.work",
     "pv.it",
     "pvh.br",
     "pvt.ge",
@@ -10214,5 +10217,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260623
+  "version": 20260624
 }
