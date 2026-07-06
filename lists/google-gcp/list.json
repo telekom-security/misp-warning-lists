@@ -466,5 +466,5 @@
   ],
   "name": "List of known GCP (Google Cloud Platform) IP address ranges",
   "type": "cidr",
-  "version": 20260705
+  "version": 20260706
 }
