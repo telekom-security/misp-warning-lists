@@ -1,5 +1,5 @@
 {
-  "description": "List containing IP's associated with the Ipinfo scanners. This scanner CIDR range is extracted from CIRCL Network Telescope analysis on 2026/06/01",
+  "description": "List containing IP's associated with the Ipinfo scanners. This scanner CIDR range is extracted from CIRCL Network Telescope analysis on 2026/07/08",
   "list": [
     "146.185.196.46/32",
     "146.185.199.31/32",
@@ -10,6 +10,7 @@
     "37.9.35.222/32",
     "5.188.133.153/32",
     "5.188.168.53/32",
+    "5.188.214.56/32",
     "5.188.35.96/32",
     "5.188.4.64/32",
     "5.189.201.217/32",
@@ -19,11 +20,13 @@
     "91.243.84.44/32",
     "92.223.73.43/32",
     "92.223.79.236/32",
+    "92.223.90.41/32",
     "92.38.131.214/32",
     "92.38.132.72/32",
     "92.38.135.237/32",
     "92.38.149.10/32",
-    "92.38.171.57/32"
+    "92.38.171.57/32",
+    "95.85.72.187/32"
   ],
   "matching_attributes": [
     "ip-src",
@@ -34,5 +37,5 @@
   ],
   "name": "Ipinfo IP Ranges Used for Scanning",
   "type": "cidr",
-  "version": 26060109
+  "version": 26070809
 }
