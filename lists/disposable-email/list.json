@@ -2075,6 +2075,7 @@
     "edinburgh-airporthotels.com",
     "edmondventures.com",
     "edny.net",
+    "edshol.net",
     "edu-qin.ccwu.cc",
     "education.nyc.mn",
     "edudingy.cfd",
@@ -3143,6 +3144,7 @@
     "ha92.store",
     "haben-wir.com",
     "habenwir.com",
+    "habitnestguide.com",
     "habitue.net",
     "hacccc.com",
     "hackersquad.tk",
@@ -3743,6 +3745,7 @@
     "juyouxi.com",
     "jwork.ru",
     "jxpomup.com",
+    "jzlvoei.cn",
     "jzzm.top",
     "k-global.dev",
     "k4money.com",
@@ -4831,6 +4834,7 @@
     "mtdalmshouse.fitness",
     "mtdalmshouse.uk",
     "mtmdev.com",
+    "mtnewtoy.us",
     "mtshop18.io.vn",
     "muadaingan.com",
     "muareview.com",
@@ -7860,6 +7864,7 @@
     "zarabotokdoma11.ru",
     "zarkbin.store",
     "zasod.com",
+    "zauxpbp.cn",
     "zaym-zaym.ru",
     "zcjzy.cc.cd",
     "zcovz.ru",
@@ -7984,5 +7989,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260712
+  "version": 20260713
 }
