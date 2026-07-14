@@ -3249,6 +3249,7 @@
     "higher-tech.linkpc.net",
     "highstar.shop",
     "hightech.jo3.org",
+    "higogoya.com",
     "higuruma.site",
     "hihi.lol",
     "hikuhu.com",
@@ -5975,6 +5976,7 @@
     "saleis.live",
     "salmeow.tk",
     "sam1.eu.org",
+    "samaltour.site",
     "samaritanfamilyfoundation.com",
     "samblogs.nett.to",
     "samblogs.zone.id",
@@ -7026,6 +7028,7 @@
     "trgovinanaveliko.info",
     "trialmail.de",
     "trickmail.net",
+    "trieuhao.site",
     "trillianpro.com",
     "trinovia.cfd",
     "triots.com",
@@ -7989,5 +7992,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260713
+  "version": 20260714
 }

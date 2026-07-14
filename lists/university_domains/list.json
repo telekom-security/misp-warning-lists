@@ -1201,6 +1201,7 @@
     "chapingo.mx",
     "chapman.edu",
     "charismauniversity.org",
+    "charite.de",
     "charusat.ac.in",
     "chat.edu.pl",
     "chatfield.edu",
@@ -3345,6 +3346,7 @@
     "iit.edu",
     "iitb.ac.in",
     "iitbbs.ac.in",
+    "iitbhu.ac.in",
     "iitd.ac.in",
     "iitd.ernet.in",
     "iitg.ac.in",
@@ -7371,6 +7373,7 @@
     "tccd.edu",
     "tcd.ie",
     "tce.edu",
+    "tcetmumbai.in",
     "tcicollege.edu",
     "tcioe.edu.np",
     "tcl.edu",
@@ -10582,5 +10585,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260713
+  "version": 20260714
 }
