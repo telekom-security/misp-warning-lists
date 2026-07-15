@@ -141,7 +141,6 @@
     "ac.se",
     "ac.sz",
     "ac.th",
-    "ac.tj",
     "ac.tz",
     "ac.ug",
     "ac.uk",
@@ -10250,5 +10249,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260714
+  "version": 20260715
 }
