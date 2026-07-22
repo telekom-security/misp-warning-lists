@@ -6441,7 +6441,6 @@
     "oncilla.mythic-beasts.com",
     "ondigitalocean.app",
     "one",
-    "onfabrica.com",
     "ong",
     "ong.br",
     "onga.fukuoka.jp",
@@ -10242,5 +10241,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260721
+  "version": 20260722
 }
