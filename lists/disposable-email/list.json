@@ -7817,6 +7817,7 @@
     "xiajspof.eu.cc",
     "xiangshan.eu.cc",
     "xiaoche.ggff.net",
+    "xiaoguaishou.icu",
     "xiaohuangyu.ccwu.cc",
     "xiaoting.cc",
     "xib.icu",
@@ -8153,5 +8154,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260723
+  "version": 20260724
 }

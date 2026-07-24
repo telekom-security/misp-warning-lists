@@ -1927,8 +1927,6 @@
     "design",
     "design.aero",
     "det.br",
-    "deta.app",
-    "deta.dev",
     "deus-canvas.com",
     "deuxfleurs.eu",
     "deuxfleurs.page",
@@ -6898,6 +6896,7 @@
     "platformsh.site",
     "platter-app.dev",
     "play",
+    "playcode.site",
     "playit.plus",
     "playstation",
     "playstation-cloud.com",
@@ -10241,5 +10240,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260723
+  "version": 20260724
 }
