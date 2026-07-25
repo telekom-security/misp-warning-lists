@@ -9406,6 +9406,7 @@
     "we.crm.dev",
     "weather",
     "weatherchannel",
+    "web",
     "web.app",
     "web.bo",
     "web.core.usgovcloudapi.net",
@@ -10240,5 +10241,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260724
+  "version": 20260725
 }
