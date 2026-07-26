@@ -6421,7 +6421,6 @@
     "omotego.fukushima.jp",
     "omura.nagasaki.jp",
     "omuta.fukuoka.jp",
-    "on-acorn.io",
     "on-aptible.com",
     "on-fleek.app",
     "on-forge.com",
@@ -10241,5 +10240,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260725
+  "version": 20260726
 }

@@ -7084,6 +7084,7 @@
     "stmarys.ca",
     "stmarytx.edu",
     "stmatthews.edu",
+    "stmikadhiguna.ac.id",
     "stmu.org",
     "stockholm-fu.com",
     "stockton.edu",
@@ -8314,6 +8315,7 @@
     "uileon.edu.mx",
     "uiliria.org",
     "uimp.es",
+    "uindatokarama.ac.id",
     "uindy.edu",
     "uinjkt.ac.id",
     "uinternacional.pt",
@@ -10585,5 +10587,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260725
+  "version": 20260726
 }
