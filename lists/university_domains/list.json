@@ -3150,6 +3150,7 @@
     "hueuni.edu.vn",
     "huflit.vnn.vn",
     "hufs.ac.kr",
+    "huit.edu.vn",
     "huji.ac.il",
     "hull.ac.uk",
     "hult.edu",
@@ -10587,5 +10588,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260805
+  "version": 20260806
 }
