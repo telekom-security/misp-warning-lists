@@ -482,5 +482,5 @@
   ],
   "name": "List of known GCP (Google Cloud Platform) IP address ranges",
   "type": "cidr",
-  "version": 20260812
+  "version": 20260813
 }
