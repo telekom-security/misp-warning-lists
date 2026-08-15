@@ -9342,7 +9342,7 @@
     "vpndns.net",
     "vpnplus.to",
     "vps-host.net",
-    "vps.hrsn.au",
+    "vps.hrsn.net",
     "vps.mcdir.ru",
     "vps.myjino.ru",
     "vr.it",
@@ -10240,5 +10240,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260814
+  "version": 20260815
 }
