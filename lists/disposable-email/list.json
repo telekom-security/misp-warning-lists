@@ -360,6 +360,7 @@
     "aabkmail.com",
     "aachendate.de",
     "aaconservation.org",
+    "aakingcompany.shop",
     "aakk.link",
     "aakkmail.com",
     "aaoo.me",
@@ -811,6 +812,8 @@
     "at.hm",
     "at0mik.org",
     "atelierdelune.shop",
+    "atkshop.shop",
+    "atkshopp.space",
     "atlas4381.me",
     "atlasimple.com",
     "atmemail.top",
@@ -3773,6 +3776,7 @@
     "italy-mail.com",
     "itaolo.com",
     "itcompu.com",
+    "itduniya.online",
     "itfast.net",
     "itmo.edu.pl",
     "itos.cloudns.org",
@@ -7994,6 +7998,8 @@
     "xiaoting.cc",
     "xib.icu",
     "xidealx.com",
+    "xiiqtg.com",
+    "xiiqtg.vip",
     "xikemail.com",
     "ximenor.site",
     "xingmeisofa.com",
@@ -8019,6 +8025,7 @@
     "xn--ihq4pool8g32cwxiiqcovaa9159jhvah03g.top",
     "xn--jxsa73o.eu.org",
     "xn--o38h.abrdns.com",
+    "xn--rhqv96g.tv",
     "xn--yaho-sqa.com",
     "xn-xp8h.bond",
     "xojxe.com",
@@ -8333,5 +8340,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260820
+  "version": 20260821
 }
