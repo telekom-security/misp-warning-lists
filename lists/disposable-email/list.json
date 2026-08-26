@@ -3209,6 +3209,7 @@
     "gptmail.webredirect.org",
     "gptworkone.dev",
     "gpxmail.win",
+    "gqov.top",
     "grabafilafoundation.org",
     "gracetvglobal.com",
     "grandmamail.com",
@@ -6023,6 +6024,7 @@
     "racovor.com",
     "rael.us",
     "raetp9.com",
+    "rainbib.co.uk",
     "rainbowly.ml",
     "rajaiblis.com",
     "raketenmann.de",
@@ -6507,6 +6509,7 @@
     "skyhopenba.shop",
     "skyhopetw.xyz",
     "skyhopewd.xyz",
+    "skyhopewdf.xyz",
     "skynet.infos.st",
     "skyrt.de",
     "skytopway.com",
@@ -6802,6 +6805,7 @@
     "suarj.com",
     "submic.com",
     "submitreports.com",
+    "substoretools.com",
     "suburbanthug.com",
     "suckmyd.com",
     "sudern.de",
@@ -7425,6 +7429,7 @@
     "tyhe.ro",
     "tyldd.com",
     "tympe.net",
+    "tyoless.org.uk",
     "tzrj.pro",
     "uacro.com",
     "uber-mail.com",
@@ -8360,5 +8365,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260825
+  "version": 20260826
 }
