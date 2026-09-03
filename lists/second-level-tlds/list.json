@@ -1067,6 +1067,7 @@
     "builder.code.com",
     "builders",
     "builtwithdark.com",
+    "builtwithrocket.new",
     "bukhara.su",
     "bulsan-sudtirol.it",
     "bulsan-suedtirol.it",
@@ -7297,6 +7298,7 @@
     "ro.it",
     "ro.leg.br",
     "roan.no",
+    "rocketpreview.app",
     "rocks",
     "rocky.page",
     "rodeo",
@@ -10248,5 +10250,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260902
+  "version": 20260903
 }
