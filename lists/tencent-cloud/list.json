@@ -268,5 +268,5 @@
   ],
   "name": "List of known Tencent Cloud IP address ranges",
   "type": "cidr",
-  "version": 20260903
+  "version": 20260904
 }
