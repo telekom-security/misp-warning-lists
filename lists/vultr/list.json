@@ -156,5 +156,5 @@
   ],
   "name": "List of known Vultr IP address ranges",
   "type": "cidr",
-  "version": 20260904
+  "version": 20260905
 }
