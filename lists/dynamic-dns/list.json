@@ -2940,6 +2940,7 @@
     ".arcticsimulation.ca",
     ".arcwellinc.com",
     ".ardan.com.ar",
+    ".ardentgroveinvestments.com",
     ".ardi.li",
     ".ardilafiza.web.id",
     ".ardiwinata.net",
@@ -45547,5 +45548,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260905
+  "version": 20260906
 }

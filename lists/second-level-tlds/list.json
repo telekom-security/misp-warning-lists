@@ -3759,6 +3759,7 @@
     "i.ph",
     "i.se",
     "i234.me",
+    "ia.bo",
     "ia.br",
     "ia.us",
     "ia.ve",
@@ -6523,6 +6524,7 @@
     "oow.gov.pl",
     "opal.ne.jp",
     "open",
+    "opencloud.me",
     "opencraft.hosting",
     "opensocial.site",
     "opentunnel.xyz",
@@ -10322,5 +10324,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260905
+  "version": 20260906
 }
