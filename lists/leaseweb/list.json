@@ -1408,5 +1408,5 @@
   ],
   "name": "List of known Leaseweb IP address ranges",
   "type": "cidr",
-  "version": 20260906
+  "version": 20260907
 }

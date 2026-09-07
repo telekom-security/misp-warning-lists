@@ -38201,6 +38201,7 @@
     ".strelchenok.com",
     ".strelchenok.ru",
     ".stremar.cl",
+    ".stremiptv.com",
     ".stremler.pl",
     ".stressmap.ru",
     ".stricker-praxis.ch",
@@ -41482,6 +41483,7 @@
     ".tuumin.net",
     ".tuv-nord.hk",
     ".tuvnord.hk",
+    ".tux.to",
     ".tuxbay.org",
     ".tuxedochamber.com",
     ".tuxedochamber.org",
@@ -45548,5 +45550,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260906
+  "version": 20260907
 }
