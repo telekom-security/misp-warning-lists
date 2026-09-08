@@ -25930,6 +25930,7 @@
     ".mhanna.org",
     ".mhbook.org",
     ".mhibroker.co.id",
+    ".mhibroker.com",
     ".mhiconsult.com",
     ".mhmactech.com",
     ".mhouse.com.br",
@@ -32265,6 +32266,7 @@
     ".ptmhire.com.au",
     ".ptmobile.ro",
     ".ptmts.co.id",
+    ".ptngi.co.id",
     ".ptnylex.com",
     ".ptow.ru",
     ".ptrillides.com",
@@ -45550,5 +45552,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260907
+  "version": 20260908
 }

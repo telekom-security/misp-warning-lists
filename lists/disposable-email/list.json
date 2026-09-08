@@ -4030,6 +4030,7 @@
     "jazzvip.site",
     "jbsze.com",
     "jbsze.ne",
+    "jbsze.net",
     "jc58t04.kozow.com",
     "jcnorris.com",
     "jdmadventures.com",
@@ -4264,6 +4265,7 @@
     "kitap.az",
     "kitnastar.com",
     "kiwkiw.shop",
+    "kjkpc.net",
     "kjkszpjcompany.com",
     "kk.io.vn",
     "kkdty.dynv6.net",
@@ -6374,6 +6376,7 @@
     "rejectmail.com",
     "rejo.technology",
     "rekaer.com",
+    "relayne.top",
     "reliable-mail.com",
     "relieve.us.ci",
     "remahankerupuk.com",
@@ -8748,5 +8751,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260907
+  "version": 20260908
 }
