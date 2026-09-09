@@ -239,6 +239,7 @@
     "ai.in",
     "ai.jo",
     "ai.kr",
+    "ai.studio",
     "ai.vn",
     "aibetsu.hokkaido.jp",
     "aichi.jp",
@@ -1415,6 +1416,7 @@
     "cloud.interhostsolutions.be",
     "cloud.metacentrum.cz",
     "cloud.nospamproxy.com",
+    "cloud.run",
     "cloud66.ws",
     "cloudaccess.host",
     "cloudaccess.net",
@@ -10324,5 +10326,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260908
+  "version": 20260909
 }

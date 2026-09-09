@@ -23974,6 +23974,7 @@
     ".loonen-muchin.com",
     ".looneylizard.com",
     ".loongarch.ru",
+    ".loongfans.ru",
     ".loopas.cl",
     ".loopercabinet.com",
     ".looping.ca",
@@ -25698,6 +25699,7 @@
     ".melissaanddougcoop.com",
     ".melissahaileyphoto.com",
     ".melissajacobsfam.com",
+    ".melissaleger.cl",
     ".melissasimmonds.com",
     ".melliferahunt.co.za",
     ".melodee.co.uk",
@@ -37946,6 +37948,7 @@
     ".stdelta.com",
     ".stdlib.eu",
     ".steak-factory.ch",
+    ".stealer.life",
     ".stealthnet.it",
     ".stealthygeek.com",
     ".stechender-geruch.com",
@@ -45552,5 +45555,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260908
+  "version": 20260909
 }
