@@ -5519,6 +5519,7 @@
     "nextstopvalhalla.com",
     "nextsuns.com",
     "nexus-streams.online",
+    "nexushost.site",
     "nexverseal.shop",
     "nezdiro.org",
     "nezid.com",
@@ -6194,6 +6195,7 @@
     "puglieisi.com",
     "puji.pro",
     "pulse25k.io.vn",
+    "pulsix.pw",
     "punchbagartgallery.org.uk",
     "punkass.com",
     "punkproof.com",
@@ -7773,6 +7775,7 @@
     "u2v7nnn.mywire.org",
     "uacro.com",
     "uber-mail.com",
+    "uberip.com",
     "ubinert.com",
     "ubismail.net",
     "ubm.md",
@@ -8753,5 +8756,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260908
+  "version": 20260910
 }
