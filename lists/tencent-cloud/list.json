@@ -171,6 +171,7 @@
     "240d:c000:f0c0::/42",
     "240d:c000:f1c0::/43",
     "240d:c000:f1e0::/47",
+    "240d:c000:f1e3::/48",
     "240d:c000:f1ef::/48",
     "240d:c000:f1f0::/44",
     "240d:c010:16::/48",
@@ -269,5 +270,5 @@
   ],
   "name": "List of known Tencent Cloud IP address ranges",
   "type": "cidr",
-  "version": 20260910
+  "version": 20260911
 }

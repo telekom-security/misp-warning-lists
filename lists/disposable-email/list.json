@@ -3506,6 +3506,7 @@
     "heisei.be",
     "hellodream.mobi",
     "helloricky.com",
+    "hellosravan.in",
     "helpinghandtaxcenter.org",
     "helpjobs.ru",
     "helpthechildren.uk",
@@ -8756,5 +8757,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260910
+  "version": 20260911
 }
