@@ -164,5 +164,5 @@
   ],
   "name": "List of known Rackspace IP address ranges",
   "type": "cidr",
-  "version": 20260911
+  "version": 20260912
 }

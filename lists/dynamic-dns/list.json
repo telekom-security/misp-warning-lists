@@ -17018,6 +17018,7 @@
     ".gyongsu.com",
     ".gyorffyaron.hu",
     ".gypsydawg.com",
+    ".gyulak.hu",
     ".gz-associates.com",
     ".gzesh.org",
     ".gzoiw.pl",
@@ -31526,6 +31527,7 @@
     ".poolpo.cl",
     ".poolprofessor.com",
     ".poolspotbg.com",
+    ".poolstrade.com",
     ".poopsikin.com",
     ".poormanscow.com",
     ".poormatt.com",
@@ -34548,6 +34550,7 @@
     ".russischbureau.nl",
     ".russkoe-steklo.ru",
     ".russthomas.net",
+    ".russuniverse.com",
     ".rusticrivergear.com",
     ".rustyfoundation.com",
     ".rustyoptical.com",
@@ -37951,6 +37954,7 @@
     ".stdlib.eu",
     ".steak-factory.ch",
     ".stealer.life",
+    ".stealingisok.org",
     ".stealthnet.it",
     ".stealthygeek.com",
     ".stechender-geruch.com",
@@ -42566,6 +42570,7 @@
     ".via-gra.org.ru",
     ".viaedge.org",
     ".viah1.com",
+    ".viahelper.com",
     ".viajesak.cl",
     ".viajesenlinea.net",
     ".viajesflores.com",
@@ -45558,5 +45563,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260911
+  "version": 20260912
 }
