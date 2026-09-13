@@ -200,6 +200,7 @@
     ".21zero3.com.br",
     ".22081977.xyz",
     ".226vitech.com",
+    ".228628.xyz",
     ".2288.org",
     ".22fat.xyz",
     ".2345dh.com",
@@ -6200,6 +6201,7 @@
     ".bunker0xb.com",
     ".bunkermap.co.uk",
     ".bunkerscorp.com",
+    ".bunkershub.com",
     ".bunnybrat.moe",
     ".buomdam.us",
     ".buraco-denso.info",
@@ -11533,6 +11535,7 @@
     ".drandrenozari.com",
     ".dranni.net",
     ".drasner.com",
+    ".dratify.com",
     ".draugai.one.pl",
     ".draughtsman.co.uk",
     ".draughtsman.info",
@@ -38753,6 +38756,7 @@
     ".swinnen.xyz",
     ".swirl.com.my",
     ".swisha.ch",
+    ".swiss-alpine.ro",
     ".swiss-carrelage.ch",
     ".swiss-it.net",
     ".swiss-mdphd.ch",
@@ -45563,5 +45567,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260912
+  "version": 20260913
 }
