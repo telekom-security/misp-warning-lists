@@ -10517,6 +10517,7 @@
     ".derpianist.info",
     ".derpianist.li",
     ".derpianist.org",
+    ".derpinox.ch",
     ".derpteamgames.com",
     ".derpwithme.org",
     ".dersizes.ru",
@@ -23692,6 +23693,7 @@
     ".linuts.org",
     ".linux-classes.com",
     ".linux-krieger.de",
+    ".linux-mirror.de",
     ".linux-one.org",
     ".linux-programmer.co.uk",
     ".linux-programmer.pro",
@@ -31153,6 +31155,7 @@
     ".pipeguard.ar",
     ".pipelinedesign.com.au",
     ".pipestreamtech.com",
+    ".pipestrip.com",
     ".pipetites.co.uk",
     ".pipetites.com",
     ".pipimc.ml",
@@ -45567,5 +45570,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260913
+  "version": 20260914
 }
