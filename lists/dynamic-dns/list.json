@@ -18444,6 +18444,7 @@
     ".hydraulik-handpumpen.com",
     ".hydrone.no",
     ".hydros.cl",
+    ".hyfabi.xyz",
     ".hygarage.com",
     ".hygeanps.com",
     ".hyiphokei.tk",
@@ -45570,5 +45571,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260914
+  "version": 20260915
 }
