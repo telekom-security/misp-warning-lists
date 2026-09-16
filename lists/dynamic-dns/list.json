@@ -37593,6 +37593,7 @@
     ".spiderman121.com",
     ".spidermaus.de",
     ".spielgruppeweidli.ch",
+    ".spikalab.com",
     ".spikey.si",
     ".spin.tk",
     ".spincosso.com",
@@ -45571,5 +45572,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260915
+  "version": 20260916
 }
