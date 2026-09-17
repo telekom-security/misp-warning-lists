@@ -16650,6 +16650,7 @@
     ".gremojadrat.si",
     ".grems-family.com",
     ".grenadeinmouth.org",
+    ".greneteg.com",
     ".grep-in.com",
     ".grep-in.net",
     ".gresjan.is",
@@ -24785,6 +24786,7 @@
     ".manshtein.me",
     ".mansikkatila.fi",
     ".mansmith.net",
+    ".mantaaway.com",
     ".mantavyagajjar.com",
     ".mantavyagajjar.in",
     ".mantistrader.cl",
@@ -45572,5 +45574,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260916
+  "version": 20260917
 }
