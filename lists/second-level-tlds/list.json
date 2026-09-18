@@ -348,7 +348,6 @@
     "allstate",
     "ally",
     "alp1.ae.flow.ch",
-    "alpha-myqnapcloud.com",
     "alsace",
     "alstahaug.no",
     "alstom",
@@ -1727,6 +1726,7 @@
     "compute.amazonaws.com",
     "compute.amazonaws.com.cn",
     "compute.estate",
+    "compute.herokuapp.com",
     "computer",
     "comsec",
     "condos",
@@ -1954,7 +1954,6 @@
     "deuxfleurs.page",
     "dev",
     "dev-builder.code.com",
-    "dev-myqnapcloud.com",
     "dev.adobeaemcloud.com",
     "dev.br",
     "dev.cv",
@@ -10326,5 +10325,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260917
+  "version": 20260918
 }

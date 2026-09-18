@@ -5358,6 +5358,7 @@
     ".blogsyte.com",
     ".blogulugogu.ro",
     ".blogyomi.com",
+    ".blohm.com",
     ".bloing.com.ar",
     ".blokey.cl",
     ".bloodforthebloodgod.com",
@@ -35718,6 +35719,7 @@
     ".sendcourier.com",
     ".sendeski.com.br",
     ".sendfreesms.in",
+    ".sendreward.com",
     ".sendsmtp.com",
     ".senegocia.cl",
     ".seneka.org",
@@ -45574,5 +45576,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260917
+  "version": 20260918
 }

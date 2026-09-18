@@ -5809,6 +5809,7 @@
     "redis.googleapis.com",
     "redwood.corp.google.com",
     "redwood2.corp.google.com",
+    "refergoogleworkspace.withgoogle.com",
     "regioinfo-pa.googleapis.com",
     "region1.analytics.google.com",
     "region1.app-measurement.com",
@@ -7559,5 +7560,5 @@
   ],
   "name": "List of known google domains",
   "type": "hostname",
-  "version": 20260829
+  "version": 20260918
 }
