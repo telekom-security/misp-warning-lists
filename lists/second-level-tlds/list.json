@@ -3710,6 +3710,7 @@
     "hosp.uk",
     "hospital",
     "host",
+    "hosted-by-files.com",
     "hosted.app",
     "hostedpi.com",
     "hosting",
@@ -10325,5 +10326,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260918
+  "version": 20260919
 }

@@ -823,7 +823,6 @@
     "2a0f:2dc0::/29",
     "2a0f:2e40::/29",
     "2a0f:2e80::/29",
-    "2a0f:3043::/32",
     "2a0f:30c0::/29",
     "2a0f:3140::/29",
     "2a0f:3540::/29",
@@ -1403,5 +1402,5 @@
   ],
   "name": "List of known Leaseweb IP address ranges",
   "type": "cidr",
-  "version": 20260918
+  "version": 20260919
 }
