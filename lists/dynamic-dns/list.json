@@ -12422,6 +12422,7 @@
     ".einsure.com.my",
     ".eintegra.com.mx",
     ".eiresol.com",
+    ".eiseie-planen.com",
     ".eisenfamily.net",
     ".eitanme.com",
     ".eitaro.jp",
@@ -45581,5 +45582,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260919
+  "version": 20260920
 }

@@ -5810,6 +5810,7 @@
     "redwood.corp.google.com",
     "redwood2.corp.google.com",
     "refergoogleworkspace.withgoogle.com",
+    "referworkspace.app.goo.gl",
     "regioinfo-pa.googleapis.com",
     "region1.analytics.google.com",
     "region1.app-measurement.com",
@@ -7560,5 +7561,5 @@
   ],
   "name": "List of known google domains",
   "type": "hostname",
-  "version": 20260919
+  "version": 20260920
 }
