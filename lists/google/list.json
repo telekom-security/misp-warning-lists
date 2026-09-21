@@ -2528,6 +2528,7 @@
     "flights.google.com",
     "flip0101.page.link",
     "flow.google",
+    "flow.google.com",
     "fls.au.doubleclick.net",
     "fls.doubleclick.net",
     "fls.uk.doubleclick.net",
@@ -4541,6 +4542,7 @@
     "notafiscal01.page.link",
     "notafiscal01920.page.link",
     "notafiscal01992.page.link",
+    "notebook.google",
     "notebook.google.com",
     "notebooklm-pa.googleapis.com",
     "notebooklm.google",
@@ -7561,5 +7563,5 @@
   ],
   "name": "List of known google domains",
   "type": "hostname",
-  "version": 20260920
+  "version": 20260921
 }

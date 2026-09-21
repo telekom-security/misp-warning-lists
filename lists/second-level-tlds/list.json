@@ -8489,6 +8489,7 @@
     "support",
     "support.site",
     "surf",
+    "surge.sh",
     "surgery",
     "surnadal.no",
     "surveys.so",
@@ -10326,5 +10327,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260920
+  "version": 20260921
 }
