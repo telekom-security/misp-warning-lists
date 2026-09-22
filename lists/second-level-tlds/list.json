@@ -702,6 +702,8 @@
     "awaji.hyogo.jp",
     "awdev.ca",
     "aws",
+    "aws-gov.databricksapps.us",
+    "aws.databricksapps.com",
     "awsapprunner.com",
     "awsapps.com",
     "awsglobalaccelerator.com",
@@ -720,6 +722,7 @@
     "azure-api.net",
     "azure-api.us",
     "azure-mobile.net",
+    "azure.databricksapps.com",
     "azurecontainer.io",
     "azureedge.net",
     "azurefd.net",
@@ -3014,6 +3017,7 @@
     "gb.net",
     "gbiz",
     "gc.ca",
+    "gcp.databricksapps.com",
     "gd",
     "gd.cn",
     "gda.pl",
@@ -10327,5 +10331,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260921
+  "version": 20260922
 }
