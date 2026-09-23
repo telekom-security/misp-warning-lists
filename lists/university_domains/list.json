@@ -495,6 +495,7 @@
     "atmajaya.ac.id",
     "atomi.ac.jp",
     "ats.dk",
+    "atsu.edu",
     "atsu.edu.ge",
     "atu.ac.ir",
     "atu.edu",
@@ -5705,12 +5706,12 @@
     "onu.edu",
     "onu.edu.ua",
     "oouagoiwoye.edu.ng",
+    "op.edu.ua",
     "op.iitg.ac.in",
     "op.org",
     "open.ac.uk",
     "openpolytechnic.ac.nz",
     "openu.ac.il",
-    "opu.odessa.ua",
     "oradeauniversity.co",
     "oradeauniversity.com",
     "orangecoastcollege.edu",
@@ -7695,6 +7696,7 @@
     "tuskegee.edu",
     "tusol.org",
     "tusom.org",
+    "tust.edu.cn",
     "tusur.ru",
     "tut.ac.jp",
     "tut.ac.za",
@@ -10596,5 +10598,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20260922
+  "version": 20260923
 }

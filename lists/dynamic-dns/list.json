@@ -13876,6 +13876,7 @@
     ".fandf.hr",
     ".fandi.gq",
     ".fandiingah.com",
+    ".fandomhousepress.com",
     ".fandoom.net",
     ".fandraka.eu",
     ".fanerno.com",
@@ -28281,6 +28282,7 @@
     ".nexco.ru",
     ".nexes-universal.com",
     ".nexesuniversal.com",
+    ".nexiapy.com",
     ".nexnet.hu",
     ".nexolanguages.com",
     ".nexom.com.au",
@@ -45582,5 +45584,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260922
+  "version": 20260923
 }
