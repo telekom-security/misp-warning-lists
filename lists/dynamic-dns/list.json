@@ -10220,6 +10220,7 @@
     ".debattista.info",
     ".debenedetti.com.ar",
     ".debentureauction.com",
+    ".debitarecos.ro",
     ".deborahnairn.com",
     ".debstudio.com.ar",
     ".debug.su",
@@ -31229,6 +31230,7 @@
     ".pjabogados.com.ar",
     ".pjfox.xyz",
     ".pjhike.com",
+    ".pjmdpbatan.ar",
     ".pjsfeed.com",
     ".pjsrv.ru",
     ".pkandel.com.np",
@@ -37272,6 +37274,7 @@
     ".soltex.com.ar",
     ".soluciones-integrales.com.ar",
     ".soluciones-postales.com.ar",
+    ".solucionescg.cl",
     ".solucionesjry.ar",
     ".solucionesjry.com.ar",
     ".solucioneslyg.cl",
@@ -38707,6 +38710,7 @@
     ".svqnehoj.com",
     ".svrsirius.xyz",
     ".svsdoo.nl",
+    ".sw-metallwerkstatt.ch",
     ".sw404.wtf",
     ".sw420.com",
     ".swagocloud.hu",
@@ -38797,6 +38801,7 @@
     ".swphoa.com",
     ".swrt.us",
     ".swtping.org",
+    ".swuethrich-metallwerkstatt.ch",
     ".swyp.ru",
     ".sxf.im",
     ".sxoc.ee",
@@ -45584,5 +45589,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260923
+  "version": 20260924
 }

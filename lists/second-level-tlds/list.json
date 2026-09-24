@@ -4027,6 +4027,7 @@
     "ipv64.de",
     "ipv64.net",
     "iq",
+    "iqhs.pl",
     "ir",
     "ir.md",
     "iran.liara.run",
@@ -8183,9 +8184,11 @@
     "sirdal.no",
     "sisko.replit.dev",
     "site",
+    "site.hosting-cluster.nl",
     "site.rb-hosting.io",
     "site.tb-hosting.com",
     "site.transip.me",
+    "site.webhosting.be",
     "siteleaf.net",
     "sj",
     "sjc.br",
@@ -10331,5 +10334,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260923
+  "version": 20260924
 }
