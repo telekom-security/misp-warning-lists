@@ -3097,6 +3097,7 @@
     "glass",
     "gle",
     "gleeze.com",
+    "glideos.app",
     "gliding.aero",
     "gliwice.pl",
     "global",
@@ -10334,5 +10335,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20260924
+  "version": 20260925
 }

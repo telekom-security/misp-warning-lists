@@ -76,7 +76,6 @@
     "cbsnews.com",
     "cdc.gov",
     "change.org",
-    "cisco.com",
     "clarin.com",
     "clickbank.net",
     "cloudflare.com",
@@ -102,6 +101,7 @@
     "dell.com",
     "detik.com",
     "developers.google.com",
+    "digg.com",
     "discord.com",
     "discord.gg",
     "disney.com",
@@ -156,10 +156,9 @@
     "fr.wikipedia.org",
     "francetvinfo.fr",
     "ft.com",
-    "geo.io",
+    "geocities.com",
     "get.google.com",
     "getbootstrap.com",
-    "getpocket.com",
     "ggpht.com",
     "giphy.com",
     "github.com",
@@ -401,6 +400,7 @@
     "t.co",
     "t.ly",
     "t.me",
+    "tandfonline.com",
     "taringa.net",
     "techcrunch.com",
     "ted.com",
@@ -510,5 +510,5 @@
   ],
   "name": "Top 500 domains and pages from https://moz.com/top500",
   "type": "string",
-  "version": 20260924
+  "version": 20260925
 }

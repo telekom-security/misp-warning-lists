@@ -918,5 +918,5 @@
   ],
   "name": "List of known Bunny.net CDN ranges",
   "type": "cidr",
-  "version": 20260924
+  "version": 20260925
 }
