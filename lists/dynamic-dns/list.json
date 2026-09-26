@@ -26878,6 +26878,7 @@
     ".motherfantasies.com",
     ".mothermouse.net",
     ".motionzone.sk",
+    ".motivarq.cl",
     ".motobaterie.sk",
     ".motobid.my",
     ".motocentral.ru",
@@ -45589,5 +45590,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260925
+  "version": 20260926
 }
