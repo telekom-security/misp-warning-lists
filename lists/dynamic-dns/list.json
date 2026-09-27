@@ -18551,6 +18551,7 @@
     ".iamdom.co.uk",
     ".iameric.com",
     ".iamfrolov.com",
+    ".iamjeff.org",
     ".iamjustatech.com",
     ".iamlateef.com",
     ".iamlocal1487.net",
@@ -33734,6 +33735,7 @@
     ".rhings.com",
     ".rhings.net",
     ".rhiz0.me",
+    ".rho-lang.org",
     ".rhodec.rocks",
     ".rholbenroad.uk",
     ".rhpyrmont.com.au",
@@ -45590,5 +45592,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260926
+  "version": 20260927
 }

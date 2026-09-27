@@ -4205,6 +4205,7 @@
     "joetestalot.com",
     "jofuso.com",
     "joihonm.shop",
+    "jojolt.shop",
     "jojomedia.store",
     "jonira.sbs",
     "jonsjav.cc",
@@ -5618,6 +5619,7 @@
     "netcom.ws",
     "netfusionhub.surf",
     "netfxd.com",
+    "netgcp.online",
     "netherfieldvillagehall.co.uk",
     "nethubmail.net",
     "netmails.com",
@@ -6275,6 +6277,7 @@
     "premigu.co",
     "premirum.shop",
     "premium-mail.fr",
+    "premiuminternet.site",
     "premiuminternetvpn.xyz",
     "premiumonebd.store",
     "premiumsigma.shop",
@@ -6287,6 +6290,7 @@
     "pride-worldwi.de",
     "primabananen.net",
     "primalhigh.click",
+    "primebulidv1.uk",
     "primejetnet.com",
     "primered.shop",
     "primtech.cn",
@@ -8992,5 +8996,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260926
+  "version": 20260927
 }
