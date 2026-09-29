@@ -5187,6 +5187,7 @@
     ".bitsultans.it",
     ".bitsurf.ru",
     ".bittermail.com",
+    ".bitwaive.com",
     ".bitziness.com",
     ".biuroaudytorskie.one.pl",
     ".bivman.com",
@@ -42456,6 +42457,7 @@
     ".velmaxxxenterprises.com",
     ".velocee.com",
     ".velocitytrans.cl",
+    ".velofolio.fr",
     ".velola.la",
     ".velolife.co.za",
     ".veloxinter.net",
@@ -45593,5 +45595,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20260928
+  "version": 20260929
 }
