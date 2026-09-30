@@ -1914,6 +1914,7 @@
     "darkserver.ru",
     "daryxfox.net",
     "dasdasdascyka.tk",
+    "dasf.bid",
     "dash-pads.com",
     "dataarca.com",
     "datadudi.com",
@@ -2717,6 +2718,7 @@
     "facebookmail.ml",
     "facemac.website",
     "fackme.gq",
+    "factoryuk.org.uk",
     "fadingemail.com",
     "fadsfdsfaa.indevs.in",
     "faecesmail.me",
@@ -3645,6 +3647,7 @@
     "heheee.com",
     "heirfoundation.com",
     "heisei.be",
+    "hellodns.site",
     "hellodream.mobi",
     "helloricky.com",
     "hellosravan.in",
@@ -6406,6 +6409,7 @@
     "premirum.shop",
     "premium-mail.fr",
     "premiumapk.store",
+    "premiumcrome.site",
     "premiuminternet.site",
     "premiuminternetvpn.xyz",
     "premiumonebd.store",
@@ -9196,5 +9200,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20260929
+  "version": 20260930
 }
