@@ -24782,6 +24782,7 @@
     ".mannmithut.ch",
     ".mannoapp.com",
     ".mannyaslam.co",
+    ".mannzur.xyz",
     ".manoahinvest.com",
     ".manodemonja.cl",
     ".manofaction.xyz",
@@ -35403,6 +35404,7 @@
     ".scientrillogy.net",
     ".sciku.org",
     ".scimb.com",
+    ".scissorshome.com",
     ".scissortailtypewrite.com",
     ".scitzoe.com",
     ".scl-cjv.cl",
@@ -42965,6 +42967,7 @@
     ".vmvault.org",
     ".vmvcffex.space",
     ".vmwareitacademy.org",
+    ".vndiy.net",
     ".vndl.com",
     ".vneworld.com",
     ".vngeek.com",
@@ -43114,6 +43117,7 @@
     ".vrgon.com",
     ".vrgprofin.ro",
     ".vrhpolje.si",
+    ".vrhtrenerke.com",
     ".vrijzinnighumanisme.be",
     ".vrik.ru",
     ".vritant.com",
@@ -45601,5 +45605,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261002
+  "version": 20261003
 }

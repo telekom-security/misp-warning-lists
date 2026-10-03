@@ -4299,7 +4299,6 @@
     "js.wpenginepowered.com",
     "ju.mp",
     "juegos",
-    "juniper",
     "jur.pro",
     "jus.br",
     "jx.cn",
@@ -10335,5 +10334,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261002
+  "version": 20261003
 }
