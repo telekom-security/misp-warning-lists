@@ -172,5 +172,5 @@
   ],
   "name": "List of known GoDaddy IP address ranges",
   "type": "cidr",
-  "version": 20261002
+  "version": 20261004
 }

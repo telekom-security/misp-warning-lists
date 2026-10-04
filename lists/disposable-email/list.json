@@ -416,6 +416,7 @@
     "aboodbab.com",
     "abouse.space",
     "abovewe.us",
+    "abowned.com",
     "absolutewe.us",
     "abundantwe.us",
     "abusemail.de",
@@ -1547,6 +1548,7 @@
     "cdnripple.com",
     "cdpa.cc",
     "cdxugmy.top",
+    "cecizie.web.id",
     "ceed.se",
     "cek.pm",
     "cellurl.com",
@@ -3156,6 +3158,7 @@
     "gcfv.skin",
     "gcmail.top",
     "gcpfas.shop",
+    "gcphanter.skin",
     "gcpmakerds.cyou",
     "gcpowner.online",
     "gcpripon.space",
@@ -5170,6 +5173,7 @@
     "maxseeding.com",
     "maxtanie.com",
     "maxturns.com",
+    "maxxspace.com",
     "mayre.shop",
     "mbox.re",
     "mbx.cc",
@@ -9210,5 +9214,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20261003
+  "version": 20261004
 }
