@@ -6596,6 +6596,7 @@
     ".campeonatosmunicipalesarroyomolinos.org",
     ".campeonatosmunicipalesmostoles.cf",
     ".campeonatosmunicipalesmostoles.org",
+    ".camper-hub.si",
     ".campfluxus.org",
     ".campinggearsurplus.com",
     ".campminnetonka.com",
@@ -17245,6 +17246,7 @@
     ".hang-kei.com",
     ".hangar123.aero",
     ".hanguk.in",
+    ".hanholtkamp.nl",
     ".hanielfaustino.com",
     ".hanikbloom.com",
     ".hanikblum.com",
@@ -26874,6 +26876,7 @@
     ".moshatobetetek.hu",
     ".moshbot.com",
     ".moshimoshi.com",
+    ".mosingleng.com",
     ".mosley301.com",
     ".mosorchids.org",
     ".mosquitosnyc.com",
@@ -41272,6 +41275,7 @@
     ".trillini.com.ar",
     ".trilogistica.cl",
     ".trimec.ru",
+    ".trimixt.ro",
     ".trineox.com",
     ".trineox.us",
     ".trinitidinamik.com",
@@ -45624,5 +45628,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261007
+  "version": 20261008
 }
