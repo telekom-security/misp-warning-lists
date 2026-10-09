@@ -16176,6 +16176,7 @@
     ".glsolutions.com.ar",
     ".glucyte.com",
     ".glupok.ru",
+    ".glxnk.com",
     ".glycel.tw",
     ".glyndwruniversity.cn",
     ".glynfarm.co.uk",
@@ -16891,6 +16892,7 @@
     ".guapisima.ec",
     ".guard-ins.com",
     ".guard.net.ru",
+    ".guardandempower.com",
     ".guardians-fate.tk",
     ".guardianvp.com",
     ".guardiola.com.ar",
@@ -45628,5 +45630,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261008
+  "version": 20261009
 }
