@@ -384,6 +384,7 @@
     "aabkmail.com",
     "aachendate.de",
     "aaconservation.org",
+    "aahzz.com",
     "aakingcompany.shop",
     "aakk.link",
     "aakkmail.com",
@@ -886,6 +887,7 @@
     "atnet.top",
     "atnetcloud.space",
     "atnextmail.com",
+    "atomauto.vn",
     "atombomb.online",
     "attnetwork.com",
     "atxc.space",
@@ -8100,6 +8102,7 @@
     "trustdomainvn.us",
     "trustedadmin2.shop",
     "trustedadmindns.site",
+    "trusteddns.online",
     "trustguru.vip",
     "trusticloud.us",
     "trustmailold.us",
@@ -8551,9 +8554,7 @@
     "wanva.shop",
     "wargravepreschool.uk",
     "warlus.asso.st",
-    "waroengin.com",
     "waroengku.cc",
-    "waroengkuy.com",
     "waroengmail.com",
     "waroengpremium.com",
     "warrity25k.io.vn",
@@ -9232,5 +9233,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20261009
+  "version": 20261010
 }
