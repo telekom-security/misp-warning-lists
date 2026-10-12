@@ -28564,6 +28564,7 @@
     ".nirjalshrestha.com.np",
     ".nirmalaprakash.com",
     ".nirosts.ro",
+    ".nis3.ro",
     ".nisble.de",
     ".nischalchhetri.com.np",
     ".nischalkhanal.com.np",
@@ -45630,5 +45631,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261011
+  "version": 20261012
 }
