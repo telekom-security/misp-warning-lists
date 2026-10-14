@@ -35,5 +35,5 @@
   ],
   "name": "List of known Fastly IP address ranges",
   "type": "cidr",
-  "version": 20261013
+  "version": 20261014
 }
