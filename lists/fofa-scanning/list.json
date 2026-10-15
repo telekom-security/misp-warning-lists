@@ -1,4 +1,5 @@
 {
+  "category": "known",
   "description": "Published source ranges of the internet-wide scanning organisation FOFA Search Engine (fofa.info), as tracked by https://github.com/OpenFilters/internet-scanners",
   "list": [
     "101.36.106.109/32",
@@ -80,6 +81,7 @@
     "106.75.24.87/32",
     "106.75.28.137/32",
     "106.75.28.215/32",
+    "106.75.3.148/32",
     "106.75.3.6/32",
     "106.75.30.116/32",
     "106.75.31.42/32",
@@ -329,5 +331,5 @@
   ],
   "name": "FOFA Search Engine (fofa.info) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20260908
+  "version": 20261015
 }

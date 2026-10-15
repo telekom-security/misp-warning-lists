@@ -1,4 +1,5 @@
 {
+  "category": "known",
   "description": "VPN by Google (formerly Google One VPN) egress IP address ranges, from the self-published RFC 8805 geofeed (https://www.gstatic.com/vpn/geofeed)",
   "list": [
     "136.23.48.0/24",
@@ -4984,5 +4985,5 @@
   ],
   "name": "List of known VPN by Google egress IP address ranges",
   "type": "cidr",
-  "version": 20261010
+  "version": 20261015
 }

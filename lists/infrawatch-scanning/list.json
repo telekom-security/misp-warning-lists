@@ -1,4 +1,5 @@
 {
+  "category": "known",
   "description": "Published source ranges of the internet-wide scanning organisation Infrawatch (infrawat.ch / infrawatch.com / infrawatch.app), as tracked by https://github.com/OpenFilters/internet-scanners",
   "list": [
     "154.16.44.0/24",
@@ -17,6 +18,7 @@
     "195.206.182.192/27",
     "195.206.182.224/32",
     "2.57.17.0/24",
+    "200.138.46.0/24",
     "213.166.84.32/27",
     "217.146.80.96/27",
     "2a01:4020:1:1::/64",
@@ -27,9 +29,12 @@
     "45.133.173.0/24",
     "5.226.140.0/25",
     "5.252.83.0/24",
+    "64.205.72.0/24",
     "69.5.169.0/24",
+    "77.67.26.0/24",
     "81.19.216.64/26",
     "81.19.219.192/26",
+    "86.38.187.0/24",
     "89.21.67.128/26",
     "89.37.172.128/27"
   ],
@@ -42,5 +47,5 @@
   ],
   "name": "Infrawatch (infrawat.ch / infrawatch.com / infrawatch.app) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20260829
+  "version": 20261015
 }

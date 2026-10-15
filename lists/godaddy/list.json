@@ -1,4 +1,5 @@
 {
+  "category": "known",
   "description": "GoDaddy IP address ranges, collected from the prefixes announced by the autonomous systems of GoDaddy.com, LLC and GoDaddy Host Europe GmbH, via the RIPEstat Data API (https://stat.ripe.net/data/announced-prefixes/data.json). Note this is general-purpose rented compute: the tenant behind any given address changes constantly and an attacker can simply rent one. The list recognises that an address belongs to the provider; it is NOT grounds for treating traffic as benign.",
   "list": [
     "103.44.220.0/24",
@@ -147,6 +148,7 @@
     "92.204.138.0/24",
     "92.204.16.0/20",
     "92.204.208.0/20",
+    "92.204.58.0/24",
     "92.204.64.0/21",
     "92.204.80.0/20",
     "92.205.0.0/19",
@@ -175,5 +177,5 @@
   ],
   "name": "List of known GoDaddy IP address ranges",
   "type": "cidr",
-  "version": 20261013
+  "version": 20261015
 }

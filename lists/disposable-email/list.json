@@ -1,4 +1,5 @@
 {
+  "category": "known",
   "description": "List of disposable email domains",
   "list": [
     "0-mail.com",
@@ -9892,5 +9893,5 @@
   ],
   "name": "List of disposable email domains",
   "type": "substring",
-  "version": 20261014
+  "version": 20261015
 }

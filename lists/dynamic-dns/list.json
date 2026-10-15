@@ -1,4 +1,5 @@
 {
+  "category": "known",
   "description": "Event contains one or more entries of known dynamic DNS domains.",
   "list": [
     ".0000000000000000000000.com",
@@ -6823,6 +6824,7 @@
     ".casageppetti.com",
     ".casajaguar.com.ar",
     ".casajk.ar",
+    ".casajosi.nl",
     ".casalbuono.com.br",
     ".casalotz.com",
     ".casamaik.com.ar",
@@ -6842,6 +6844,7 @@
     ".casascacique.cl",
     ".casasenpachuca.net",
     ".casasintorrox.com",
+    ".casaskrater.cl",
     ".casasprefabricadasriobueno.cl",
     ".casasriobueno.cl",
     ".casatierra.cl",
@@ -16752,6 +16755,7 @@
     ".grotestapelnonsens.nl",
     ".grotto.ro",
     ".grotz.com.ar",
+    ".grouleffmedlcal.com",
     ".groundfloorsolutions.co.uk",
     ".groupelectricautomatizari.ro",
     ".grouper.cl",
@@ -21349,6 +21353,7 @@
     ".k0a1a.net",
     ".k22.su",
     ".k2iwr.net",
+    ".k35h4.ru",
     ".k4dm.net",
     ".k4ds.org",
     ".k4gsl.org",
@@ -34201,6 +34206,7 @@
     ".rolfnilsson.nu",
     ".rolfschuercharchitekturbuero.ch",
     ".rolitas.com.mx",
+    ".rollerhockey.ar",
     ".rollermatic.tw",
     ".rollingstock.hu",
     ".rollslitters.net",
@@ -45632,5 +45638,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261014
+  "version": 20261015
 }
