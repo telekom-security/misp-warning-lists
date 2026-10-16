@@ -31562,6 +31562,7 @@
     ".ponk.ca",
     ".ponozkovevianoce.sk",
     ".ponr.fi",
+    ".ponsfamilylaunch.com",
     ".pontoeste.com.br",
     ".pontoexport.com",
     ".ponyhost.xyz",
@@ -45638,5 +45639,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261015
+  "version": 20261016
 }
