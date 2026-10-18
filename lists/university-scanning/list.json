@@ -217,5 +217,5 @@
   ],
   "name": "Scanners from various universities IP ranges used for scanning",
   "type": "cidr",
-  "version": 20261017
+  "version": 20261018
 }

@@ -36519,6 +36519,7 @@
     ".silvinaygustavo.com",
     ".silvioquadri.com.ar",
     ".sim-kins.co.uk",
+    ".simaaldrich.com",
     ".simanor.cl",
     ".simanovicki.net",
     ".simarhomes.com",
@@ -41589,6 +41590,7 @@
     ".tverstage.com",
     ".tvfoco.tv",
     ".tvjumbleanswers.com",
+    ".tvlibre.st",
     ".tvlinux.com",
     ".tvmaipo.cl",
     ".tvmount.ru",
@@ -44170,6 +44172,7 @@
     ".woodselllab.org",
     ".woodselllab.uk",
     ".woodsmad.com",
+    ".woodvilleweather.com",
     ".woodwardinc.net",
     ".woodwardlaw-mt.com",
     ".woodworker.cl",
@@ -45642,5 +45645,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261017
+  "version": 20261018
 }
