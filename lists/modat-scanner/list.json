@@ -3,7 +3,6 @@
   "description": "Modat Scanner (https://www.modat.io/)",
   "list": [
     "142.91.102.186/31",
-    "185.2.80.252/31",
     "212.73.148.0/27",
     "212.73.148.32/29",
     "212.73.148.40/31",
@@ -49,5 +48,5 @@
   ],
   "name": "List of published IP address ranges for Modat Scanner",
   "type": "cidr",
-  "version": 20261018
+  "version": 20261019
 }

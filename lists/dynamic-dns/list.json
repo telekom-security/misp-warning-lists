@@ -10953,6 +10953,7 @@
     ".dingshun.hk",
     ".dingshun.org",
     ".dingshunseenkoon.com",
+    ".dingushead.com",
     ".diniello.com.ar",
     ".dinneen.com",
     ".dinocol.co.uk",
@@ -23498,6 +23499,7 @@
     ".li-shen.tw",
     ".liamaraeohara.com.br",
     ".liaml.tk",
+    ".liamsworld.net",
     ".liamtopia.nl",
     ".lian.info",
     ".lianjiang.de",
@@ -24724,6 +24726,7 @@
     ".malwareresearch.info",
     ".mamadigital.com.mx",
     ".mamadigital.org.mx",
+    ".mamaentrena.com",
     ".mamakan.ru",
     ".mambamail.com",
     ".mambodev.com",
@@ -45645,5 +45648,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261018
+  "version": 20261019
 }

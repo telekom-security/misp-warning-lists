@@ -3120,7 +3120,6 @@
     "giske.no",
     "git-pages.rit.edu",
     "git-repos.de",
-    "gitapp.si",
     "gitbook.io",
     "github.app",
     "github.io",
@@ -10400,5 +10399,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261018
+  "version": 20261019
 }
