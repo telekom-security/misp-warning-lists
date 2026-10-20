@@ -3125,5 +3125,5 @@
   ],
   "name": "IPinfo Internet Census Data Collection (ipinfo.io) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20261019
+  "version": 20261020
 }

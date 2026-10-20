@@ -1790,6 +1790,7 @@
     ".aletoledo.com",
     ".aletrades.com",
     ".alewoh.com",
+    ".alex-boi.com",
     ".alex-coman.ro",
     ".alex-it.com.ar",
     ".alex-musicman.com",
@@ -12379,6 +12380,7 @@
     ".eftaxiadis.xyz",
     ".eftracker.ru",
     ".efxs.ca",
+    ".egaluri.ro",
     ".egate.com.my",
     ".egatemessaging.com",
     ".egbaquela.com.ar",
@@ -16168,6 +16170,7 @@
     ".glockb.eu",
     ".glorious-triumph.info",
     ".gloriousgeeks.com",
+    ".glorpsh.it",
     ".gloumeau.com",
     ".glovo.no",
     ".glowacka.eu",
@@ -22425,6 +22428,7 @@
     ".kpetrov.eu",
     ".kpl.com.np",
     ".kplusconcepts.com",
+    ".kpores.ru",
     ".kpoudel.com.np",
     ".kpparajuli.com.np",
     ".kpts.com.ar",
@@ -45648,5 +45652,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261019
+  "version": 20261020
 }
