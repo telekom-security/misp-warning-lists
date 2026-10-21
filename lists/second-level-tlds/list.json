@@ -341,7 +341,6 @@
     "alessandria.it",
     "alesund.no",
     "algard.no",
-    "aliases121.com",
     "alibaba",
     "alibabacloudcs.com",
     "alipay",
@@ -6856,7 +6855,6 @@
     "ox.rs",
     "oxa.cloud",
     "oy.lc",
-    "oya.to",
     "oyabe.toyama.jp",
     "oyama.tochigi.jp",
     "oyamazaki.kyoto.jp",
@@ -10399,5 +10397,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261020
+  "version": 20261021
 }

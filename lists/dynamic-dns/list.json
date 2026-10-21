@@ -1169,6 +1169,7 @@
     ".admion.sk",
     ".admiral-x.ru",
     ".admiralx.ru",
+    ".admium.co",
     ".admonisher.org",
     ".admtk.ru",
     ".adn2.net",
@@ -17463,6 +17464,7 @@
     ".hde.co.il",
     ".hdf-solutions.de",
     ".hdiaz.cl",
+    ".hdm1.net",
     ".hdmusicvideo.ro",
     ".hdpal.tk",
     ".hdppcsvc.com",
@@ -32010,6 +32012,7 @@
     ".proadmin.cl",
     ".proamerica.cl",
     ".proarosa.ch",
+    ".proasist.cl",
     ".proaud.com",
     ".probac.cl",
     ".probiotiki-sibiri.ru",
@@ -44807,6 +44810,7 @@
     ".xyfyx.com",
     ".xyhrzg.com",
     ".xyla.ru",
+    ".xyloraeducation.org",
     ".xyltech.com",
     ".xynal.com",
     ".xyno.ru",
@@ -45652,5 +45656,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261020
+  "version": 20261021
 }
