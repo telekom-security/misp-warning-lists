@@ -6599,6 +6599,7 @@
     ".campeonatosmunicipalesarroyomolinos.org",
     ".campeonatosmunicipalesmostoles.cf",
     ".campeonatosmunicipalesmostoles.org",
+    ".camper-hub.eu",
     ".camper-hub.si",
     ".campfluxus.org",
     ".campinggearsurplus.com",
@@ -45656,5 +45657,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261021
+  "version": 20261022
 }
