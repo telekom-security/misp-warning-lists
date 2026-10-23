@@ -10386,6 +10386,7 @@
     "zp.ua",
     "zpisdn.gov.pl",
     "zt.ua",
+    "ztna-dingtalk.com",
     "zuerich",
     "zushi.kanagawa.jp",
     "zw"
@@ -10397,5 +10398,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261022
+  "version": 20261023
 }
