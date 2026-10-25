@@ -2460,6 +2460,7 @@
     "47.84.141.66/32",
     "47.84.142.1/32",
     "47.84.142.124/32",
+    "47.84.142.16/32",
     "47.84.142.164/32",
     "47.84.142.177/32",
     "47.84.142.19/32",
@@ -3536,5 +3537,5 @@
   ],
   "name": "Hunter Search Engine (hunter.how / hunter.qianxin.com) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20261024
+  "version": 20261025
 }

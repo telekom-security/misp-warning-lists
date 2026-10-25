@@ -11358,6 +11358,7 @@
     ".dominiodasaude.com.br",
     ".dominiodopoder.com.br",
     ".dominus-instalatii.ro",
+    ".dominussy.com",
     ".doml.us",
     ".dommechty.tk",
     ".dommel.ru",
@@ -45660,5 +45661,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261024
+  "version": 20261025
 }

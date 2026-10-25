@@ -4,6 +4,7 @@
   "list": [
     "13.219.121.241/32",
     "18.235.110.182/32",
+    "216.25.124.0/24",
     "3.233.59.216/32",
     "54.86.115.253/32",
     "98.84.1.175/32",
@@ -18,5 +19,5 @@
   ],
   "name": "Recorded Future / SecurityTrails (securitytrails.com) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20261014
+  "version": 20261025
 }
