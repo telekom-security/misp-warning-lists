@@ -1277,6 +1277,9 @@
     "appsactivity.googleapis.com",
     "appsaver-8a181.firebaseio.com",
     "appsenterprisecustomers.com",
+    "appsgenaiserver-pa.clients.google.com",
+    "appsgenaiserver-pa.clients6.google.com",
+    "appsgenaiserver-pa.googleapis.com",
     "appsgrowthpromo-pa.clients6.google.com",
     "appsgrowthpromo-pa.googleapis.com",
     "appsitemsuggest-pa.clients6.google.com",
@@ -7566,5 +7569,5 @@
   ],
   "name": "List of known google domains",
   "type": "hostname",
-  "version": 20261005
+  "version": 20261027
 }
