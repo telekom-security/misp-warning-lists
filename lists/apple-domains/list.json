@@ -1721,7 +1721,9 @@
     "servicetalk.io",
     "setup.icloud.com",
     "sf-api-token-service.itunes.apple.com",
+    "sh-pod1-smp-device.apple.com",
     "sh-pod2-smp-device.apple.com",
+    "sh-pod3-smp-device.apple.com",
     "shazam-insights.cdn-apple.com",
     "shazam.com",
     "shoers.com",
@@ -1901,5 +1903,5 @@
   ],
   "name": "List of known Apple hosts for enterprise networks",
   "type": "hostname",
-  "version": 20260829
+  "version": 20261028
 }

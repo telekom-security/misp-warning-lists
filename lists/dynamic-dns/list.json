@@ -21258,6 +21258,7 @@
     ".jungbluthcloud.de",
     ".jungbrewing.org",
     ".jungle.to",
+    ".jungleexit.com",
     ".jungleheart.com",
     ".junglesoft.com",
     ".jungsbeer.net",
@@ -45669,5 +45670,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261027
+  "version": 20261028
 }
