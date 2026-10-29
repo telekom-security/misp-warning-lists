@@ -15884,6 +15884,7 @@
     ".getconnectedcambridge.net",
     ".getdata.ar",
     ".getfonus.com",
+    ".getfounddsos.net",
     ".getfsbo.com",
     ".getglobalnow.com",
     ".gethow.com",
@@ -16058,6 +16059,7 @@
     ".giswebservice.com",
     ".git-rus.com",
     ".git-rus.ru",
+    ".git-software.cc",
     ".gitaarclub.nl",
     ".gitadhakal.com.np",
     ".gitbot.cf",
@@ -26873,6 +26875,7 @@
     ".morlockaerospace.com",
     ".morned.nom.za",
     ".morningside-aa.us",
+    ".mornlurian.space",
     ".moro9215.com.ar",
     ".moros.com.ve",
     ".morov.ch",
@@ -32217,6 +32220,7 @@
     ".prostitutkimoskvy.ru",
     ".prostitutkimsk.eu",
     ".prostitutkimsk.xyz",
+    ".prosysaudit.ro",
     ".prosysgrup.ro",
     ".protechsi.com.ar",
     ".protectthefire.org",
@@ -45670,5 +45674,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261028
+  "version": 20261029
 }
