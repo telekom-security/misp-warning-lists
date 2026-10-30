@@ -331,5 +331,5 @@
   ],
   "name": "List of known Gcore CDN IP address ranges",
   "type": "cidr",
-  "version": 20261029
+  "version": 20261030
 }

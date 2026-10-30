@@ -57,5 +57,5 @@
   ],
   "name": "List of known Salesforce IP address ranges",
   "type": "cidr",
-  "version": 20261029
+  "version": 20261030
 }

@@ -15949,6 +15949,7 @@
     ".ghome.it",
     ".ghori.co.uk",
     ".ghoshyoga.ru",
+    ".ghost-softs.cc",
     ".ghostbusker.info",
     ".ghostden.tk",
     ".ghostnation.org",
@@ -27841,6 +27842,7 @@
     ".nanopellets.ru",
     ".nanosilva.cl",
     ".nanosoft.net.nz",
+    ".nanriss-love.cc",
     ".nansenplaats.com",
     ".nansenplaats.nl",
     ".nansun.uk",
@@ -35261,6 +35263,7 @@
     ".savenowclub.com",
     ".savequeechylake.org",
     ".saves-the-whales.com",
+    ".savethehall.org",
     ".savii.ro",
     ".savitaipaleenmusiikkikoulu.fi",
     ".savo.club",
@@ -38088,6 +38091,7 @@
     ".stelimp.cl",
     ".stellamarina.hu",
     ".stellamaris.org.br",
+    ".stellarcloudstudios.com",
     ".stellarstunner.info",
     ".stellashipping.com.tr",
     ".stellosartois.com",
@@ -45674,5 +45678,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261029
+  "version": 20261030
 }
