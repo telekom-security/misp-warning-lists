@@ -7292,6 +7292,7 @@
     ".champy.ch",
     ".chan1.com",
     ".chance-meeting.com",
+    ".chanchoalhombro.cl",
     ".chandandeo.com.np",
     ".chandmani.com",
     ".chandnani.hk",
@@ -35205,6 +35206,7 @@
     ".sashapaknahad.com",
     ".sasharailey.com",
     ".sashinadsgn.ru",
+    ".sashindo.web.id",
     ".sasi.com.np",
     ".sasikanth.xyz",
     ".sasmitha.web.id",
@@ -41072,6 +41074,7 @@
     ".tourtech.ru",
     ".toutelectrique46.tk",
     ".tovamiasto.com",
+    ".tovel.cl",
     ".towak.com.mx",
     ".towak.mx",
     ".toward.fi",
@@ -45678,5 +45681,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261030
+  "version": 20261031
 }

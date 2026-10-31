@@ -141,7 +141,6 @@
     "microsofttranslator.com",
     "microsoftusercontent.com",
     "microsoftvirtualacademy.com",
-    "mlccdnprod.azureedge.net",
     "modern.ie",
     "msads.net",
     "msappproxy.net",
@@ -306,5 +305,5 @@
   ],
   "name": "List of known microsoft domains",
   "type": "hostname",
-  "version": 20261030
+  "version": 20261031
 }

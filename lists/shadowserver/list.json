@@ -53,5 +53,5 @@
   ],
   "name": "Shadowserver IP-Ranges, pot. used for Scanning",
   "type": "cidr",
-  "version": 20261030
+  "version": 20261031
 }
