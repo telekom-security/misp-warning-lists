@@ -3579,7 +3579,6 @@
     "helioho.st",
     "heliohost.us",
     "help",
-    "helsinki",
     "hemne.no",
     "hemnes.no",
     "hemsedal.no",
@@ -10398,5 +10397,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261031
+  "version": 20261101
 }
