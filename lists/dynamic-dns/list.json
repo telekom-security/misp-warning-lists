@@ -20030,6 +20030,7 @@
     ".itblog.co.il",
     ".itbozeman.com",
     ".itbutte.com",
+    ".itbvpn.com",
     ".itchile.com",
     ".itcircular.com",
     ".itcommonsense.com",
@@ -34540,6 +34541,7 @@
     ".rubilling.com",
     ".rubixcontainers.cl",
     ".rubizone.de",
+    ".rublconxray.com",
     ".rubuspi.com",
     ".rubuspi.org",
     ".rubythomas.net",
@@ -41418,6 +41420,7 @@
     ".trustlaw.hk",
     ".trustmi.cl",
     ".trustnet.com.au",
+    ".trustpty.com",
     ".trustworthy.cl",
     ".truthbydegrees.com",
     ".truthortrust.com",
@@ -45683,5 +45686,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261101
+  "version": 20261102
 }

@@ -91,7 +91,6 @@
     "cointernet.com.co",
     "cornell.edu",
     "correios.com.br",
-    "cpanel.com",
     "cpanel.net",
     "creativecommons.org",
     "cutt.ly",
@@ -388,6 +387,7 @@
     "skype.com",
     "slideshare.net",
     "smh.com.au",
+    "sony.com",
     "soundcloud.com",
     "spiegel.de",
     "spotify.com",
@@ -510,5 +510,5 @@
   ],
   "name": "Top 500 domains and pages from https://moz.com/top500",
   "type": "string",
-  "version": 20261101
+  "version": 20261102
 }
