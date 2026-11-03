@@ -4468,6 +4468,7 @@
     "licet.ac.in",
     "lidapoly.com",
     "life.hkbu.edu.hk",
+    "lifewest.edu",
     "limkokwing.edu.my",
     "limt.co.uk",
     "limu.edu.ly",
@@ -5810,6 +5811,7 @@
     "palamuruuniversity.ac.in",
     "palermo.edu",
     "palmbeachstate.edu",
+    "palmer.edu",
     "palomar.edu",
     "paloverde.edu",
     "pam.szczecin.pl",
@@ -5828,6 +5830,7 @@
     "parisjc.edu",
     "parisnanterre.fr",
     "park.edu",
+    "parker.edu",
     "parkland.edu",
     "paruluniversity.ac.in",
     "parwan.edu.af",
@@ -6708,6 +6711,7 @@
     "shenkar.ac.il",
     "sheridan.edu",
     "sheridancollege.ca",
+    "sherman.edu",
     "shfu.edu.cn",
     "shh.fi",
     "shibaura-it.ac.jp",
@@ -10598,5 +10602,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20261005
+  "version": 20261103
 }

@@ -3,7 +3,7 @@
   "description": "check-host IP addresses (https://check-host.net/nodes/ips)",
   "list": [
     "103.214.169.52/32",
-    "104.28.192.94/32",
+    "107.149.201.15/32",
     "107.181.134.162/32",
     "141.255.165.104/32",
     "141.98.234.68/32",
@@ -60,5 +60,5 @@
   ],
   "name": "List of known check-host.net IP address ranges",
   "type": "cidr",
-  "version": 20261102
+  "version": 20261103
 }
