@@ -660,5 +660,5 @@
   ],
   "name": "List of known IPv6 networks belonging to common VPN providers",
   "type": "cidr",
-  "version": 20261103
+  "version": 20261104
 }
