@@ -2,7 +2,8 @@
   "category": "known",
   "description": "Published source ranges of the internet-wide scanning organisation Criminal IP / AiSpera (criminalip.com / aispera.com), as tracked by https://github.com/OpenFilters/internet-scanners",
   "list": [
-    "185.242.226.0/24"
+    "185.242.226.0/24",
+    "45.140.222.0/24"
   ],
   "matching_attributes": [
     "ip-src",
@@ -13,5 +14,5 @@
   ],
   "name": "Criminal IP / AiSpera (criminalip.com / aispera.com) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20261014
+  "version": 20261105
 }

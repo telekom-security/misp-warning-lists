@@ -11070,6 +11070,7 @@
     ".distrogaz.com.ar",
     ".distsilur.com",
     ".disturbedsanity.au",
+    ".disvid.ru",
     ".ditchyourip.com",
     ".dithbanjong.com",
     ".ditlantas-poldajatim.org",
@@ -27469,6 +27470,7 @@
     ".mycomputerstore.org",
     ".mycomputerstore.org.uk",
     ".mycomputerstore.us",
+    ".mycptc.com",
     ".mycpu.es",
     ".mycrossfire.net",
     ".mydad.info",
@@ -45687,5 +45689,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261104
+  "version": 20261105
 }

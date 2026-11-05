@@ -8,6 +8,7 @@
     "66.240.236.116/32",
     "71.6.142.213/32",
     "71.6.154.144/32",
+    "71.6.199.65/32",
     "71.6.199.87/32"
   ],
   "matching_attributes": [
@@ -19,5 +20,5 @@
   ],
   "name": "CyberCube (cybcube.com) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20261104
+  "version": 20261105
 }
