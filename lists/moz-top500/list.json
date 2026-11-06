@@ -45,7 +45,6 @@
     "arxiv.org",
     "as.com",
     "bandcamp.com",
-    "barnesandnoble.com",
     "bbc.co.uk",
     "bbc.com",
     "behance.net",
@@ -302,6 +301,7 @@
     "nintendo.com",
     "note.com",
     "npr.org",
+    "nsw.gov.au",
     "nydailynews.com",
     "nypost.com",
     "nytimes.com",
@@ -510,5 +510,5 @@
   ],
   "name": "Top 500 domains and pages from https://moz.com/top500",
   "type": "string",
-  "version": 20261105
+  "version": 20261106
 }

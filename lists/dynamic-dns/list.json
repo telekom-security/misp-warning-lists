@@ -4636,6 +4636,7 @@
     ".benguldan.com",
     ".benguldan.net",
     ".benguldan.org",
+    ".benicass.im",
     ".benisach.cl",
     ".benisnow.com",
     ".benjamin.it",
@@ -19029,6 +19030,7 @@
     ".impact-media.me.uk",
     ".impactbs.my",
     ".impactelements.co.za",
+    ".impactephemere.com",
     ".impactgaming.com",
     ".impactizer.com",
     ".impala-indonesia.com",
@@ -24726,6 +24728,7 @@
     ".maledetta.com",
     ".maleficarum.mx",
     ".malematorras.com.ar",
+    ".malenkiy-karavan.ru",
     ".malepix.net",
     ".malewolf.com",
     ".malfaland.cl",
@@ -36249,6 +36252,7 @@
     ".shidex.or.id",
     ".shields-up.org",
     ".shieldsgroup.com",
+    ".shiftmath.org",
     ".shifttech.xyz",
     ".shihadeh.com",
     ".shihlien.com",
@@ -39319,6 +39323,7 @@
     ".tatamatra.id",
     ".tataria.fi",
     ".tatarstana.ru",
+    ".tataskue.ru",
     ".tatikalamar.com",
     ".tatkanc.ru",
     ".tatou100.ca",
@@ -45689,5 +45694,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261105
+  "version": 20261106
 }
