@@ -103,7 +103,6 @@
     "ocsp-rca.navercorp.com",
     "ocsp.accv.es",
     "ocsp.anf.es",
-    "ocsp.bjca.cn",
     "ocsp.buypass.com",
     "ocsp.certsign.ro",
     "ocsp.cfca.com.cn",
@@ -165,7 +164,6 @@
     "public.ocsp.identrust.com",
     "public.wisekey.com",
     "rca.navercorp.com",
-    "repo.bjca.cn",
     "repo1.secomtrust.net",
     "repository.secomtrust.net",
     "root-c3-ca2-2009.ocsp.d-trust.net",
@@ -229,5 +227,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20261005
+  "version": 20261107
 }

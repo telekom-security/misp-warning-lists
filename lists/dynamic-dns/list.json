@@ -22193,6 +22193,7 @@
     ".kmcero.cl",
     ".kmdweb.com.ar",
     ".kmetija-cigut.si",
+    ".kmftresa.com",
     ".kmgroupspb.ru",
     ".kmicallef.com",
     ".kmodem.org",
@@ -24699,6 +24700,7 @@
     ".makila.cl",
     ".makisupa.org",
     ".makkers.co.uk",
+    ".maklerhub.ru",
     ".makmos.com",
     ".makom.cl",
     ".makovecz.com",
@@ -34320,6 +34322,7 @@
     ".rootforce.net",
     ".roothome.de",
     ".rootile.com",
+    ".rootnroll.ar",
     ".rootpunk.com",
     ".rootsbobcat.com",
     ".ropace.co.za",
@@ -34679,6 +34682,7 @@
     ".rwlloyd.com",
     ".rwtcomputing.com",
     ".rwww.tk",
+    ".rwxrwxrwx.com",
     ".rxtech.cl",
     ".ryabikin.ch",
     ".ryabikin.com",
@@ -41044,6 +41048,7 @@
     ".totalfreight.ro",
     ".totalitysolutions.net",
     ".totally-wild.com",
+    ".totallynotx.com",
     ".totallytutor.co.za",
     ".totalmedicalgrup.ro",
     ".totalpye.com",
@@ -45694,5 +45699,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261106
+  "version": 20261107
 }
