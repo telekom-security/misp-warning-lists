@@ -18,7 +18,6 @@
     "crl-cpki.telekom.de",
     "crl-pro.litessl.com",
     "crl.anf.es",
-    "crl.buypass.no",
     "crl.certigna.com",
     "crl.certigna.fr",
     "crl.certsign.ro",
@@ -103,7 +102,6 @@
     "ocsp-rca.navercorp.com",
     "ocsp.accv.es",
     "ocsp.anf.es",
-    "ocsp.buypass.com",
     "ocsp.certsign.ro",
     "ocsp.cfca.com.cn",
     "ocsp.comodoca.com",
@@ -227,5 +225,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20261108
+  "version": 20261109
 }
