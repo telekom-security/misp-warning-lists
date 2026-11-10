@@ -167,6 +167,7 @@
     "ad",
     "ad.crm.dev",
     "ad.jp",
+    "ad.vn",
     "adachi.tokyo.jp",
     "adimo.co.uk",
     "adm.br",
@@ -486,6 +487,7 @@
     "ap.it",
     "ap.leg.br",
     "ap.ngrok.io",
+    "ap.vn",
     "aparecida.br",
     "apartments",
     "api.br",
@@ -6559,6 +6561,7 @@
     "on.ca",
     "on.expo.app",
     "on.staging.expo.app",
+    "on.vn",
     "onagawa.miyagi.jp",
     "oncilla.mythic-beasts.com",
     "ondigitalocean.app",
@@ -7144,6 +7147,7 @@
     "pro.vn",
     "prochowice.pl",
     "prod",
+    "prod.page",
     "production.aero",
     "productions",
     "prof",
@@ -10407,5 +10411,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261109
+  "version": 20261110
 }
