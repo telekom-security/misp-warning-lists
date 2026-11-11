@@ -185,6 +185,7 @@
     "2a07:4a84::/30",
     "2a07:7780::/29",
     "2a07:a343:120::/44",
+    "2a07:a343:94d0::/44",
     "2a07:a343:aee0::/44",
     "2a07:a343:bc70::/44",
     "2a07:a343:cd10::/44",
@@ -705,5 +706,5 @@
   ],
   "name": "List of known IPv6 networks belonging to common VPN providers",
   "type": "cidr",
-  "version": 20261110
+  "version": 20261111
 }

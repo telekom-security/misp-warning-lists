@@ -98,6 +98,7 @@
     "abruzzo.it",
     "abu.yamaguchi.jp",
     "abudhabi",
+    "abyme.dev",
     "ac",
     "ac.ae",
     "ac.at",
@@ -1467,6 +1468,7 @@
     "cloudns.us",
     "cloudsite.builders",
     "cloudycluster.net",
+    "cloudzyro.app",
     "club",
     "club.aero",
     "club.tw",
@@ -3269,6 +3271,7 @@
     "gov.cx",
     "gov.cy",
     "gov.cz",
+    "gov.de",
     "gov.dm",
     "gov.do",
     "gov.dz",
@@ -8184,6 +8187,7 @@
     "shiogama.miyagi.jp",
     "shiojiri.nagano.jp",
     "shioya.tochigi.jp",
+    "ship.place",
     "shiptoday.app",
     "shiptoday.build",
     "shirahama.wakayama.jp",
@@ -10411,5 +10415,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261110
+  "version": 20261111
 }

@@ -45,6 +45,7 @@
     "arxiv.org",
     "as.com",
     "bandcamp.com",
+    "barnesandnoble.com",
     "bbc.co.uk",
     "bbc.com",
     "behance.net",
@@ -212,7 +213,6 @@
     "ig.com.br",
     "ign.com",
     "ikea.com",
-    "imageshack.com",
     "imageshack.us",
     "imdb.com",
     "independent.co.uk",
@@ -301,7 +301,6 @@
     "nintendo.com",
     "note.com",
     "npr.org",
-    "nsw.gov.au",
     "nydailynews.com",
     "nypost.com",
     "nytimes.com",
@@ -336,6 +335,7 @@
     "pl.wikipedia.org",
     "planalto.gov.br",
     "play.google.com",
+    "player.pl",
     "playstation.com",
     "plesk.com",
     "plos.org",
@@ -510,5 +510,5 @@
   ],
   "name": "Top 500 domains and pages from https://moz.com/top500",
   "type": "string",
-  "version": 20261110
+  "version": 20261111
 }

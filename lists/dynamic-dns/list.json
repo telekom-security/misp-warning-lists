@@ -20325,6 +20325,7 @@
     ".jahadi.net",
     ".jahammondstrucking.com",
     ".jahanradyab.ir",
+    ".jaherin.com",
     ".jahovaos.com",
     ".jaiden.tk",
     ".jaijaijai.me",
@@ -23850,6 +23851,7 @@
     ".littletoncocourtpmts.com",
     ".littleverse.pl",
     ".littleville.com",
+    ".liucco.fi",
     ".liujiaje.com",
     ".liujun.com",
     ".liulang.gq",
@@ -32382,6 +32384,7 @@
     ".pualo.com",
     ".pubb.ch",
     ".publex.ru",
+    ".public-wifi.net",
     ".public.hk",
     ".public.li",
     ".publicanalytics.us",
@@ -35634,6 +35637,7 @@
     ".seatech.ir",
     ".seatecno.com.br",
     ".seba.cl",
+    ".sebalabs.cl",
     ".sebaschirmer.cl",
     ".sebastiaanjacobs.be",
     ".sebastian-haas.net",
@@ -44489,6 +44493,7 @@
     ".xcxd.org",
     ".xcxvc.com",
     ".xd.one.pl",
+    ".xdapierdolnik.pl",
     ".xday.ca",
     ".xdbc.ru",
     ".xeath.tk",
@@ -45706,5 +45711,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261110
+  "version": 20261111
 }
