@@ -697,5 +697,5 @@
   ],
   "name": "List of known Tor exit nodes",
   "type": "cidr",
-  "version": 20261111
+  "version": 20261112
 }
