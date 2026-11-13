@@ -1435,6 +1435,7 @@
     "cloud.int.apple",
     "cloud.interhostsolutions.be",
     "cloud.metacentrum.cz",
+    "cloud.modelence.app",
     "cloud.nospamproxy.com",
     "cloud.run",
     "cloud66.ws",
@@ -5626,6 +5627,7 @@
     "mod.gi",
     "moda",
     "modalen.no",
+    "modelence.app",
     "modelling.aero",
     "modelscape.com",
     "modena.it",
@@ -7474,6 +7476,7 @@
     "rv.ua",
     "rw",
     "rwe",
+    "rwx.run",
     "rybnik.pl",
     "ryd.wafaicloud.com",
     "rygge.no",
@@ -7890,6 +7893,7 @@
     "sanagochi.tokushima.jp",
     "sanda.hyogo.jp",
     "sandbox.deno.net",
+    "sandbox.modelence.app",
     "sandcats.io",
     "sande.more-og-romsdal.no",
     "sande.vestfold.no",
@@ -10416,5 +10420,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261112
+  "version": 20261113
 }
