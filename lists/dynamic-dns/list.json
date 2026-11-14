@@ -16894,6 +16894,7 @@
     ".gsys.me",
     ".gt-a.ru",
     ".gt80.com",
+    ".gta.cx",
     ".gtalarm.com.ve",
     ".gtarp.hu",
     ".gtaspa.cl",
@@ -45725,5 +45726,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261113
+  "version": 20261114
 }

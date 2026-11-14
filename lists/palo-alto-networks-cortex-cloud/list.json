@@ -290,5 +290,5 @@
   ],
   "name": "List of known Palo Alto Cortex Cloud IP ranges",
   "type": "cidr",
-  "version": 20261113
+  "version": 20261114
 }

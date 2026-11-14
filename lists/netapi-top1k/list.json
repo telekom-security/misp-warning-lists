@@ -724,6 +724,7 @@
     "sattamatkano1.me",
     "savefrom.net",
     "sciencedirect.com",
+    "scorecardresearch.com",
     "screener.in",
     "scribd.com",
     "search-start.org",
@@ -903,7 +904,6 @@
     "weibo.com",
     "welt.de",
     "whatsapp.com",
-    "whatsapp.net",
     "who.int",
     "wikimedia.org",
     "wikipedia.org",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261113
+  "version": 20261114
 }
