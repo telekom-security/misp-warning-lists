@@ -907,6 +907,7 @@
     "configuration-lb.ls-apple.com.akadns.net",
     "configuration.apple.com",
     "configuration.apple.com.akadns.net",
+    "configuration.ls.apple.com",
     "cooliphonecasesstore.com",
     "coolmonster.net",
     "coreml.net",
@@ -1584,6 +1585,7 @@
     "ms4dre.com",
     "music.apple.com",
     "musickit.net",
+    "musicstatus.itunes.apple.com",
     "musicstatus.music.apple.com",
     "mvod.itunes.apple.com",
     "myapp.itunes.apple.com",
@@ -1596,6 +1598,7 @@
     "myipod.net",
     "mylcloud.net",
     "mzstatic.com",
+    "mzstorekit.itunes.apple.com",
     "namemybeats.com",
     "neborder.com",
     "negozimonsterbeats.com",
@@ -1904,5 +1907,5 @@
   ],
   "name": "List of known Apple hosts for enterprise networks",
   "type": "hostname",
-  "version": 20261115
+  "version": 20261116
 }

@@ -296,6 +296,7 @@
     "fabguys.com",
     "fabswingers.com",
     "facebook.com",
+    "facebook.net",
     "fanfiction.net",
     "fapello.com",
     "faphouse.com",
@@ -924,7 +925,6 @@
     "wordwall.net",
     "wp.com",
     "wp.pl",
-    "wpguardian.com",
     "wsj.com",
     "www.gov.br",
     "www.gov.uk",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261115
+  "version": 20261116
 }
