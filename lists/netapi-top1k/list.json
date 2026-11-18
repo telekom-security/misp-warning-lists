@@ -202,7 +202,6 @@
     "coupang.com",
     "cpanel.net",
     "craigslist.org",
-    "crashlytics.com",
     "crazygames.com",
     "creativecommons.org",
     "cricbuzz.com",
@@ -308,7 +307,6 @@
     "fatalmodel.com",
     "fawanews.sc",
     "fbcdn.net",
-    "fda.gov",
     "fdown.net",
     "fetlife.com",
     "ficbook.net",
@@ -571,6 +569,7 @@
     "moe.gov.om",
     "momon-ga.com",
     "moneycontrol.com",
+    "moviesda.ski",
     "moviezda.me",
     "moviezda.net",
     "moviezwap.codes",
@@ -950,6 +949,7 @@
     "xn--42cf7cgd7gxbd4m7c.cc",
     "xn--l3ca4b6dsc1b.com",
     "xnhau.foo",
+    "xnhau.pub",
     "xnxx-arabic.com",
     "xnxx.com",
     "xnxx.es",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261117
+  "version": 20261118
 }

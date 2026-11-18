@@ -14338,6 +14338,7 @@
     ".finderchikas.com",
     ".findhousing.ru",
     ".findic.cl",
+    ".finditfixit.au",
     ".findpacket.ml",
     ".findtransport.co.uk",
     ".findyourspace.ca",
@@ -37972,6 +37973,7 @@
     ".sstint.net",
     ".sstyliaras.com",
     ".ssu.mx",
+    ".ssurpropiedades.cl",
     ".ssvp.org",
     ".st0ned.com",
     ".st1200arg.club",
@@ -45732,5 +45734,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261117
+  "version": 20261118
 }
