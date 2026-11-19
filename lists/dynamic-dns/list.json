@@ -17747,6 +17747,7 @@
     ".hexora.com.ar",
     ".heybarkeep.com",
     ".heybryan.org",
+    ".heycozyhomey.com",
     ".heygonetwork.com.tr",
     ".heyhey.es",
     ".heyryu.com",
@@ -45734,5 +45735,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261118
+  "version": 20261119
 }

@@ -253,5 +253,5 @@
   ],
   "name": "List of known DigitalOcean IP address ranges",
   "type": "cidr",
-  "version": 20261118
+  "version": 20261119
 }
