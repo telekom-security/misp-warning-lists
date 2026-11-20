@@ -106,6 +106,7 @@
     "beeg.porn",
     "behance.net",
     "beian.gov.cn",
+    "berkeley.edu",
     "bestbuy.com",
     "besthindiporn.com",
     "bet365.com",
@@ -239,6 +240,7 @@
     "doubleclick.net",
     "downloadpage.xyz",
     "dpboss.tax",
+    "dpbossb.net",
     "dpbossnet.me",
     "dpbosssattamatka.com",
     "dpbossss.com",
@@ -456,7 +458,6 @@
     "janitorai.com",
     "javsub.blog",
     "javwow.com",
-    "jotform.com",
     "joyclub.de",
     "jra.go.jp",
     "jra.jp",
@@ -613,7 +614,6 @@
     "note.com",
     "novinky.cz",
     "npr.org",
-    "ntp.org",
     "nu.nl",
     "nustargame.com",
     "nvidia.com",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261119
+  "version": 20261120
 }
