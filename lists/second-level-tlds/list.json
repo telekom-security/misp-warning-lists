@@ -4892,6 +4892,7 @@
     "kyowa.hokkaido.jp",
     "kyuragi.saga.jp",
     "kz",
+    "kz.ci",
     "l-o-g-i-n.de",
     "l.bg",
     "l.se",
@@ -7131,6 +7132,7 @@
     "pr.leg.br",
     "pr.ml",
     "pr.us",
+    "prairielearn-user-content.com",
     "prato.it",
     "praxi",
     "prd.fr",
@@ -7229,6 +7231,7 @@
     "puter.site",
     "puter.work",
     "pv.it",
+    "pvf.cc",
     "pvh.br",
     "pvt.ge",
     "pvt.k12.ma.us",
@@ -10286,6 +10289,7 @@
     "xxx.ec",
     "xyz",
     "xyz.br",
+    "xyz.ci",
     "xz.cn",
     "y.bg",
     "y.se",
@@ -10464,5 +10468,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261120
+  "version": 20261121
 }

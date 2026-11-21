@@ -582,5 +582,5 @@
   ],
   "name": "Cyble ODIN (odin.io) IP ranges used for scanning",
   "type": "cidr",
-  "version": 20261120
+  "version": 20261121
 }

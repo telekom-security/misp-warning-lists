@@ -106,7 +106,6 @@
     "beeg.porn",
     "behance.net",
     "beian.gov.cn",
-    "berkeley.edu",
     "bestbuy.com",
     "besthindiporn.com",
     "bet365.com",
@@ -614,6 +613,7 @@
     "note.com",
     "novinky.cz",
     "npr.org",
+    "ntp.org",
     "nu.nl",
     "nustargame.com",
     "nvidia.com",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261120
+  "version": 20261121
 }

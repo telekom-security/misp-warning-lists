@@ -157,7 +157,6 @@
     "ocspsslkoks1.kamusm.gov.tr",
     "oneocsp.microsoft.com",
     "pki-crl.atos.net",
-    "pki-ldap.atos.net",
     "pki-ocsp.atos.net",
     "pki.intranet.eon.com",
     "pki0336.telesec.de",
@@ -229,5 +228,5 @@
   ],
   "name": "CRL and OCSP domains",
   "type": "string",
-  "version": 20261120
+  "version": 20261121
 }
