@@ -2797,6 +2797,7 @@
     "fitness",
     "fj",
     "fj.cn",
+    "fj.kg",
     "fjaler.no",
     "fjell.no",
     "fk",
@@ -8477,6 +8478,7 @@
     "stada",
     "stage.nodeart.io",
     "staging.expo.app",
+    "staging.wordsmithmcpcontent.com",
     "stalowa-wola.pl",
     "stange.no",
     "staples",
@@ -9775,6 +9777,7 @@
     "wolomin.pl",
     "woltlab-demo.com",
     "woodside",
+    "wordsmithmcpcontent.com",
     "work",
     "workers.dev",
     "workinggroup.aero",
@@ -9817,7 +9820,6 @@
     "xen.prgmr.com",
     "xenonconnect.de",
     "xerox",
-    "xihuan",
     "xii.jp",
     "xin",
     "xj.cn",
@@ -10468,5 +10470,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261121
+  "version": 20261122
 }

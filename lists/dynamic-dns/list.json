@@ -32677,6 +32677,7 @@
     ".qthome.org",
     ".qts-ar.com.ar",
     ".qts.ar",
+    ".qtx.ro",
     ".quackly.xyz",
     ".quackquackpond.com",
     ".quadalkatreszek.sk",
@@ -45743,5 +45744,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261121
+  "version": 20261122
 }

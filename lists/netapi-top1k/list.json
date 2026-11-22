@@ -73,7 +73,6 @@
     "apkvision.org",
     "apple-dns.net",
     "apple.com",
-    "aquila.it",
     "arabtnt.com",
     "arabx.cam",
     "arabxn.sex",
@@ -169,6 +168,7 @@
     "cbsnews.com",
     "cdc.gov",
     "cdiscount.com",
+    "cdn-apple.com",
     "centinel-analytica.com",
     "character.ai",
     "chatgpt.com",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261121
+  "version": 20261122
 }

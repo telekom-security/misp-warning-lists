@@ -1261,7 +1261,6 @@
     "WTF",
     "XBOX",
     "XEROX",
-    "XIHUAN",
     "XIN",
     "XN--11B4C3D",
     "XN--1CK2E1B",
@@ -1445,5 +1444,5 @@
   ],
   "name": "TLDs as known by IANA",
   "type": "string",
-  "version": 20261121
+  "version": 20261122
 }
