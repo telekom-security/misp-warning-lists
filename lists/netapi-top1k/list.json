@@ -201,6 +201,7 @@
     "coupang.com",
     "cpanel.net",
     "craigslist.org",
+    "crashlytics.com",
     "crazygames.com",
     "creativecommons.org",
     "cricbuzz.com",
@@ -338,7 +339,6 @@
     "fpo.xxx",
     "freepornvideo.sex",
     "freesexkahani.com",
-    "ft.com",
     "funinexch.com",
     "funpay.com",
     "fuq.com",
@@ -371,6 +371,7 @@
     "googlesyndication.com",
     "googletagmanager.com",
     "googleusercontent.com",
+    "googlevideo.com",
     "googll.store",
     "goojara.to",
     "granbluefantasy.jp",
@@ -763,7 +764,6 @@
     "skroutz.gr",
     "skype.com",
     "slideshare.net",
-    "snapchat.com",
     "snaptik.app",
     "sofascore.com",
     "sondakika.com",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261123
+  "version": 20261124
 }

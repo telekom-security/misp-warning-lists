@@ -2686,6 +2686,7 @@
     "gemini.gstatic.com",
     "geminiweb-pa.clients.google.com",
     "geminiweb-pa.clients6.google.com",
+    "gemma.ai",
     "generativeai.google",
     "generativelanguage.googleapis.com",
     "geo0.ggpht.com",
@@ -7569,5 +7570,5 @@
   ],
   "name": "List of known google domains",
   "type": "hostname",
-  "version": 20261123
+  "version": 20261124
 }

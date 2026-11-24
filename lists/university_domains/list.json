@@ -3142,6 +3142,7 @@
     "hu.edu.jo",
     "hu.edu.lb",
     "hu.edu.pk",
+    "hu.edu.so",
     "hu.nl",
     "hua.edu.vn",
     "hua.gr",
@@ -10602,5 +10603,5 @@
   ],
   "name": "University domains",
   "type": "string",
-  "version": 20261123
+  "version": 20261124
 }
