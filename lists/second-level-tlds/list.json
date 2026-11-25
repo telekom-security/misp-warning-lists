@@ -292,6 +292,7 @@
     "airflow.us-west-2.on.aws",
     "airforce",
     "airline.aero",
+    "airoapp.ai",
     "airport.aero",
     "airtel",
     "airtraffic.aero",
@@ -981,6 +982,8 @@
     "black",
     "blackbaudcdn.net",
     "blackfriday",
+    "blacktops.app",
+    "blacktops.page",
     "blob.core.usgovcloudapi.net",
     "blob.core.windows.net",
     "blockbuster",
@@ -3782,6 +3785,7 @@
     "hosp.uk",
     "hospital",
     "host",
+    "host.cloud",
     "hosted-by-files.com",
     "hosted.app",
     "hostedpi.com",
@@ -8306,6 +8310,7 @@
     "site.transip.me",
     "site.webhosting.be",
     "siteleaf.net",
+    "sites.aspirethemes.com",
     "sites.reliantlabs.dev",
     "sj",
     "sjc.br",
@@ -10470,5 +10475,5 @@
   ],
   "name": "Second level TLDs as known by Mozilla Foundation",
   "type": "string",
-  "version": 20261124
+  "version": 20261125
 }
