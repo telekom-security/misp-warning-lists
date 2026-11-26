@@ -23490,6 +23490,7 @@
     ".letsrollrideshare.com",
     ".letsysadmin.com",
     ".lettenmair.com",
+    ".lettragemarceau.com",
     ".letueurcache.ca",
     ".letueurcache.com",
     ".letwork.cl",
@@ -45746,5 +45747,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261125
+  "version": 20261126
 }
