@@ -7593,6 +7593,7 @@
     ".chochlik.eu",
     ".chocolate-meeting.info",
     ".chocolatespicacho.com",
+    ".chocolatesrucamalal.cl",
     ".chocopicacho.com",
     ".chodos.com.ar",
     ".chodyniecki.com",
@@ -31479,6 +31480,7 @@
     ".plugit.us",
     ".plugs.it",
     ".plumaroja.com.ar",
+    ".plumber-dex.co.il",
     ".plumleyfamily.uk",
     ".pluritehnic.ro",
     ".plus-chaud.info",
@@ -45747,5 +45749,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261126
+  "version": 20261127
 }

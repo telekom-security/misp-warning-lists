@@ -84,7 +84,6 @@
     "arionplay.com",
     "arxiv.org",
     "as.com",
-    "astrumu.io",
     "asurascans.com",
     "aternos.org",
     "autoplius.lt",
@@ -532,7 +531,6 @@
     "mangabuff.ru",
     "mangago.me",
     "manhwaweb.com",
-    "manulife-sinochem.com",
     "marca.com",
     "markt.de",
     "marktplaats.nl",
@@ -634,6 +632,7 @@
     "onet.pl",
     "onlyfans.com",
     "openai.com",
+    "opendns.com",
     "openstreetmap.org",
     "opera.com",
     "oracle.com",
@@ -658,6 +657,7 @@
     "pinterest.com",
     "pixabay.com",
     "pixiv.net",
+    "pki.goog",
     "pla3.com",
     "platorelay.com",
     "playinboss.com",
@@ -1010,5 +1010,5 @@
   ],
   "name": "Top 1K most popular websites from NetAPI",
   "type": "hostname",
-  "version": 20261126
+  "version": 20261127
 }
