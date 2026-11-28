@@ -2,6 +2,7 @@
   "category": "known",
   "description": "Oracle Cloud Infrastructure (OCI) IP address ranges (https://docs.oracle.com/en-us/iaas/Content/General/Concepts/addressranges.htm)",
   "list": [
+    "107.186.224.0/19",
     "129.144.0.0/16",
     "129.145.16.0/21",
     "129.145.74.0/23",
@@ -87,6 +88,7 @@
     "129.158.64.0/18",
     "129.159.0.0/16",
     "129.191.0.0/17",
+    "129.203.128.0/17",
     "129.213.0.128/25",
     "129.213.128.0/18",
     "129.213.16.0/20",
@@ -810,7 +812,8 @@
     "92.5.224.0/20",
     "92.5.240.0/21",
     "92.5.248.0/22",
-    "92.5.254.0/23"
+    "92.5.254.0/23",
+    "92.6.0.0/16"
   ],
   "matching_attributes": [
     "ip-src",
@@ -821,5 +824,5 @@
   ],
   "name": "List of known Oracle Cloud Infrastructure (OCI) IP address ranges",
   "type": "cidr",
-  "version": 20261127
+  "version": 20261128
 }

@@ -294,5 +294,5 @@
   ],
   "name": "List of known Linode (Akamai Connected Cloud) IP address ranges",
   "type": "cidr",
-  "version": 20261127
+  "version": 20261128
 }

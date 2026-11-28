@@ -598,6 +598,7 @@
     "2a10:d9c0::/29",
     "2a11:1180::/29",
     "2a11:140::/29",
+    "2a11:1b40::/29",
     "2a11:2d40::/29",
     "2a11:2f40::/29",
     "2a11:3b41::/32",
@@ -730,5 +731,5 @@
   ],
   "name": "List of known IPv6 networks belonging to common VPN providers",
   "type": "cidr",
-  "version": 20261127
+  "version": 20261128
 }

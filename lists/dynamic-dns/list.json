@@ -13488,6 +13488,7 @@
     ".ev4g.org",
     ".ev4wheeler.com",
     ".ev73.ru",
+    ".eva-wyss.ch",
     ".evaandering.com",
     ".evacox.com.au",
     ".evacuated-envelope.com",
@@ -40647,6 +40648,7 @@
     ".tilaktharu.com.np",
     ".tilusharma.com.np",
     ".tilvey.com",
+    ".timber-homes.ro",
     ".timbernode.eu",
     ".timberridgefarm.net",
     ".timboar.com",
@@ -45749,5 +45751,5 @@
   ],
   "name": "List of known dynamic DNS domains",
   "type": "hostname",
-  "version": 20261127
+  "version": 20261128
 }
